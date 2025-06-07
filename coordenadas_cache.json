@@ -282,5 +282,21 @@
   "Av. Santa Fe 1234, Vicente López, Buenos Aires": {
     "lat": -34.5959117,
     "lng": -58.3846907
+  },
+  "Av. Maipu 3201": {
+    "lat": -34.5060599,
+    "lng": -58.4929988
+  },
+  "Vélez Sársfield 4164": {
+    "lat": -34.5278281,
+    "lng": -58.518521
+  },
+  "Paraná 6502": {
+    "lat": -34.5264503,
+    "lng": -58.5491819
+  },
+  "Vélez Sársfield 4164, B1605BQB Vicente López, Provincia de Buenos Aires": {
+    "lat": -34.5278281,
+    "lng": -58.518521
   }
 }

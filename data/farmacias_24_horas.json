@@ -1,48 +1,76 @@
 {
-    "San Isidro": [
-        {
-        "nombre": "SELMA",
-        "direccion": "Av. Centenario 300",
-        "telefono": "45130510",
-        "mapa": "https://www.google.com.ar/maps/place/Av.+Centenario+300,+B1642CAP+San+Isidro,+Buenos+Aires/data=!4m2!3m1!1s0x95bcb036bb4aac97:0x79d93287dd64ebe1?sa=X&ved=0ahUKEwiotvfu16jYAhWHgZAKHXARDSQQ8gEIJTAA"
+  "San Isidro": [
+    {
+      "nombre": "SELMA",
+      "direccion": "Av. Centenario 300",
+      "telefono": "45130510",
+      "mapa": "https://www.google.com.ar/maps/place/Av.+Centenario+300,+B1642CAP+San+Isidro,+Buenos+Aires/data=!4m2!3m1!1s0x95bcb036bb4aac97:0x79d93287dd64ebe1?sa=X&ved=0ahUKEwiotvfu16jYAhWHgZAKHXARDSQQ8gEIJTAA",
+      "coordenadas": {
+        "lat": -34.4720114,
+        "lng": -58.5150233
+      }
     },
     {
-        "nombre": "OPEN FARMA",
-        "direccion": "Av. Santa Fe 2013",
-        "telefono": "47936280",
-        "mapa": "https://www.google.com.ar/maps/place/Av.+Sta+Fe+2013,+B1640IFH+San+Isidro,+Buenos+Aires/@-34.4898979,-58.5028496,17z/data=!3m1!4b1!4m8!1m2!2m1!1sAv.+Santa+Fe+2013!3m4!1s0x95bcb1a9af1d20d5:0xfe0707b6d27dbd5f!8m2!3d-34.4898979!4d-58.5006609"
+      "nombre": "OPEN FARMA",
+      "direccion": "Av. Santa Fe 2013",
+      "telefono": "47936280",
+      "mapa": "https://www.google.com.ar/maps/place/Av.+Sta+Fe+2013,+B1640IFH+San+Isidro,+Buenos+Aires/@-34.4898979,-58.5028496,17z/data=!3m1!4b1!4m8!1m2!2m1!1sAv.+Santa+Fe+2013!3m4!1s0x95bcb1a9af1d20d5:0xfe0707b6d27dbd5f!8m2!3d-34.4898979!4d-58.5006609",
+      "coordenadas": {
+        "lat": -34.4898979,
+        "lng": -58.5032358
+      }
     },
     {
-        "nombre": "PHARMAKION",
-        "direccion": "Diego Carman 539",
-        "telefono": "47664300",
-        "mapa": "https://www.google.com/maps/place/Av.+Diego+Carman+539,+B1642AKG+San+Isidro,+Provincia+de+Buenos+Aires/@-34.4957036,-58.549623,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb07a8d84954b:0xcbd9d2ad5d600a!8m2!3d-34.4957037!4d-58.5451437"
+      "nombre": "PHARMAKION",
+      "direccion": "Diego Carman 539",
+      "telefono": "47664300",
+      "mapa": "https://www.google.com/maps/place/Av.+Diego+Carman+539,+B1642AKG+San+Isidro,+Provincia+de+Buenos+Aires/@-34.4957036,-58.549623,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb07a8d84954b:0xcbd9d2ad5d600a!8m2!3d-34.4957037!4d-58.5451437",
+      "coordenadas": {
+        "lat": -34.4957036,
+        "lng": -58.5451128
+      }
     }
-],
-    "Vicente Lopez": [
-        {
-            "nombre": "SELMA",
-            "direccion": "Av. Maipu 3201",
-            "telefono": "1140731597",
-            "mapa": "https://maps.app.goo.gl/ap9rVY3yohDZnjuv6"
-        },
-        {
-            "nombre": "Central Munro",
-            "direccion": "Vélez Sársfield 4164",
-            "telefono": "1147562837",
-            "mapa": "https://maps.app.goo.gl/N6cu1kXmmtDLBMQK7"
-        },
-        {
-            "nombre": "SELMA",
-            "direccion": "Paraná 6502",
-            "telefono": "1160517711",
-            "mapa": "https://maps.app.goo.gl/oNU544fEYF6bbHSZ9"
-        },
-        {
-            "nombre": "Central Adelina",
-            "direccion": "Gdor. Emilio Castro 4095",
-            "telefono": "47000216",
-            "mapa": "https://maps.app.goo.gl/1yvbg6svEA6NxEzJ7"
-        }
-    ]
+  ],
+  "Vicente Lopez": [
+    {
+      "nombre": "SELMA",
+      "direccion": "Av. Maipu 3201",
+      "telefono": "1140731597",
+      "mapa": "https://maps.app.goo.gl/ap9rVY3yohDZnjuv6",
+      "coordenadas": {
+        "lat": -34.5060599,
+        "lng": -58.4929988
+      }
+    },
+    {
+      "nombre": "Central Munro",
+      "direccion": "Vélez Sársfield 4164",
+      "telefono": "1147562837",
+      "mapa": "https://maps.app.goo.gl/N6cu1kXmmtDLBMQK7",
+      "coordenadas": {
+        "lat": -34.5278281,
+        "lng": -58.518521
+      }
+    },
+    {
+      "nombre": "SELMA",
+      "direccion": "Paraná 6502",
+      "telefono": "1160517711",
+      "mapa": "https://maps.app.goo.gl/oNU544fEYF6bbHSZ9",
+      "coordenadas": {
+        "lat": -34.5264503,
+        "lng": -58.5491819
+      }
+    },
+    {
+      "nombre": "Central Adelina",
+      "direccion": "Gdor. Emilio Castro 4095",
+      "telefono": "47000216",
+      "mapa": "https://maps.app.goo.gl/1yvbg6svEA6NxEzJ7",
+      "coordenadas": {
+        "lat": -34.5264086,
+        "lng": -58.5682866
+      }
+    }
+  ]
 }

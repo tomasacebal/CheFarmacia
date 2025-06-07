@@ -9,7 +9,7 @@ from selenium.webdriver.chrome.service import Service
 from chromedriver_py import binary_path  # pip install chromedriver-py
 
 CACHE_FILE = "coordenadas_cache.json"
-
+FARMACIAS_24H_JSON = "data/farmacias_24_horas.json"
 
 def cargar_cache():
     if os.path.exists(CACHE_FILE):
@@ -17,11 +17,9 @@ def cargar_cache():
             return json.load(f)
     return {}
 
-
 def guardar_cache(cache):
     with open(CACHE_FILE, "w", encoding="utf-8") as f:
         json.dump(cache, f, indent=2, ensure_ascii=False)
-
 
 def crear_driver():
     chrome_options = Options()
@@ -36,7 +34,6 @@ def crear_driver():
     service = Service(executable_path=binary_path)
     return webdriver.Chrome(service=service, options=chrome_options)
 
-
 def extraer_coordenadas_desde_url(url):
     try:
         at_index = url.find("/@")
@@ -50,8 +47,7 @@ def extraer_coordenadas_desde_url(url):
         print(f"[ERROR] No se pudo extraer coordenadas: {e}")
         return None
 
-
-def obtener_coordenadas(direccion, delay=2):
+def obtener_coordenadas(direccion, delay=3):
     """Usa un WebDriver para buscar la dirección en Google Maps y devuelve coordenadas."""
     print(f"[BUSCANDO] {direccion}")
     query = urllib.parse.quote(direccion)
@@ -72,7 +68,6 @@ def obtener_coordenadas(direccion, delay=2):
     finally:
         driver.quit()
 
-
 def consultar_coordenadas(direccion):
     """Consulta una dirección en caché. Si no existe, la busca y actualiza el caché."""
     cache = cargar_cache()
@@ -86,7 +81,38 @@ def consultar_coordenadas(direccion):
     guardar_cache(cache)
     return coords
 
+def añadir_coordenadas_a_farmacias_24h():
+    """Agrega coordenadas a cada farmacia del archivo 24h si no las tiene."""
+    if not os.path.exists(FARMACIAS_24H_JSON):
+        print(f"[ERROR] Archivo no encontrado: {FARMACIAS_24H_JSON}")
+        return
+
+    with open(FARMACIAS_24H_JSON, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    cambios = False
+
+    for localidad, farmacias in data.items():
+        for farmacia in farmacias:
+            if "coordenadas" not in farmacia or not farmacia["coordenadas"]:
+                direccion = farmacia["direccion"]
+                coords = consultar_coordenadas(direccion)
+                if coords:
+                    farmacia["coordenadas"] = coords
+                    cambios = True
+
+    if cambios:
+        with open(FARMACIAS_24H_JSON, "w", encoding="utf-8") as f:
+            json.dump(data, f, indent=2, ensure_ascii=False)
+        print("[✓] Archivo actualizado con nuevas coordenadas.")
+    else:
+        print("[INFO] No había coordenadas por agregar.")
+
 if __name__ == "__main__":
-    direccion = "Av. Santa Fe 1234, Vicente López, Buenos Aires"
+    # Solo para pruebas rápidas
+    direccion = "Vélez Sársfield 4164, B1605BQB Vicente López, Provincia de Buenos Aires"
     coords = consultar_coordenadas(direccion)
     print(coords)
+
+    # También podés ejecutar directamente la función de actualización del archivo 24h
+    añadir_coordenadas_a_farmacias_24h()
