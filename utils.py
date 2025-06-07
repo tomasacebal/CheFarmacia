@@ -9,7 +9,25 @@ import urllib.parse
 from get_coords_from_maps import consultar_coordenadas  # función que busca coordenadas con cache
 
 
-def save_to_json(data):
+def merge_data(existing, new):
+    for mes, contenido in new.items():
+        if mes not in existing:
+            existing[mes] = contenido
+        else:
+            # Solo actualizamos días
+            for dia, farmacias in contenido["dias"].items():
+                if dia not in existing[mes]["dias"]:
+                    existing[mes]["dias"][dia] = farmacias
+                else:
+                    # Agrega farmacias evitando duplicados por dirección
+                    direcciones_existentes = {f["direccion"] for f in existing[mes]["dias"][dia]}
+                    for f in farmacias:
+                        if f["direccion"] not in direcciones_existentes:
+                            existing[mes]["dias"][dia].append(f)
+    return existing
+
+
+def save_to_json(new_data):
     json_path = os.getenv("JSON_PATH")
     print(f"Guardando archivo en: {json_path}")
 
@@ -18,8 +36,22 @@ def save_to_json(data):
 
     os.makedirs(os.path.dirname(json_path), exist_ok=True)
 
+    # Cargar data existente si existe
+    if os.path.exists(json_path):
+        with open(json_path, 'r', encoding='utf-8') as f:
+            try:
+                existing_data = json.load(f)
+            except json.JSONDecodeError:
+                print("⚠️ JSON corrupto o vacío. Se reemplazará completamente.")
+                existing_data = {}
+    else:
+        existing_data = {}
+
+    merged_data = merge_data(existing_data, new_data)
+
     with open(json_path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
+        json.dump(merged_data, f, indent=2, ensure_ascii=False)
+
 
 
 def limpiar_telefono(raw):

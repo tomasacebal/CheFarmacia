@@ -298,5 +298,33 @@
   "Vélez Sársfield 4164, B1605BQB Vicente López, Provincia de Buenos Aires": {
     "lat": -34.5278281,
     "lng": -58.518521
+  },
+  "Av. Dardo Rocha 937, Tigre": {
+    "lat": -34.4306163,
+    "lng": -58.5757348
+  },
+  "Av. Sta. María de las Conchas 4793, Rincón de Milberg": {
+    "lat": -34.4060738,
+    "lng": -58.6207753
+  },
+  "Gral. Pacheco 2728, Don Torcuato": {
+    "lat": -34.4856159,
+    "lng": -58.6550349
+  },
+  "Ruta 197 y General Belgrano, Troncos del Talar": {
+    "lat": null,
+    "lng": null
+  },
+  "Santiago de Estero 388, Gral. Pacheco": {
+    "lat": null,
+    "lng": null
+  },
+  "Av. Juan Domingo Perón 4946, Benavidez": {
+    "lat": -34.4297725,
+    "lng": -58.6892521
+  },
+  "Av. Juan Domingo Perón 4255, Benavidez": {
+    "lat": -34.4374961,
+    "lng": -58.6822761
   }
 }

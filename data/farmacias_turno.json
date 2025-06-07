@@ -293,7 +293,10 @@
           "direccion": "Int. Tomkinson 2995, San Isidro, Provincia de Buenos Aires, Argentina",
           "telefono": "47230319",
           "mapa": "https://www.google.com/maps/search/?api=1&query=Int.%20Tomkinson%202995%2C%20San%20Isidro%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina",
-          "coordenadas": null
+          "coordenadas":  {
+            "lat": -34.4805708,
+            "lng": -58.5545495
+          }
         },
         {
           "nombre": "Farmacia Chudyk",
@@ -331,8 +334,8 @@
           "telefono": "47153913",
           "mapa": "https://www.google.com/maps/search/?api=1&query=Ruta%20197%20y%20General%20Belgrano%2C%20Troncos%20del%20Talar",
           "coordenadas": {
-            "lat": null,
-            "lng": null
+            "lat": -34.436014,
+            "lng": -58.567778
           }
         },
         {
@@ -341,8 +344,8 @@
           "telefono": "47368029",
           "mapa": "https://www.google.com/maps/search/?api=1&query=Santiago%20de%20Estero%20388%2C%20Gral.%20Pacheco",
           "coordenadas": {
-            "lat": null,
-            "lng": null
+            "lat": -34.4548218,
+            "lng": -58.6401877
           }
         },
         {
