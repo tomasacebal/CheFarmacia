@@ -82,7 +82,7 @@ def consultar_coordenadas(direccion):
     return coords
 
 def añadir_coordenadas_a_farmacias_24h():
-    """Agrega coordenadas a cada farmacia del archivo 24h si no las tiene."""
+    """Agrega coordenadas a cada farmacia del archivo 24h usando el campo 'mapa' con Selenium."""
     if not os.path.exists(FARMACIAS_24H_JSON):
         print(f"[ERROR] Archivo no encontrado: {FARMACIAS_24H_JSON}")
         return
@@ -91,22 +91,55 @@ def añadir_coordenadas_a_farmacias_24h():
         data = json.load(f)
 
     cambios = False
+    cache = cargar_cache()
 
     for localidad, farmacias in data.items():
         for farmacia in farmacias:
-            if "coordenadas" not in farmacia or not farmacia["coordenadas"]:
-                direccion = farmacia["direccion"]
-                coords = consultar_coordenadas(direccion)
-                if coords:
-                    farmacia["coordenadas"] = coords
-                    cambios = True
+            direccion = farmacia.get("direccion")
+            mapa_url = farmacia.get("mapa")
+
+            if not mapa_url:
+                print(f"[ADVERTENCIA] No hay URL de mapa para: {direccion}")
+                continue
+
+            if direccion in cache:
+                print(f"[CACHE] Coordenadas ya guardadas para: {direccion}")
+                farmacia["coordenadas"] = cache[direccion]
+                continue
+
+            coords = obtener_coordenadas_desde_url_directa(mapa_url)
+            if coords:
+                farmacia["coordenadas"] = coords
+                cache[direccion] = coords
+                cambios = True
 
     if cambios:
         with open(FARMACIAS_24H_JSON, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
+        guardar_cache(cache)
         print("[✓] Archivo actualizado con nuevas coordenadas.")
     else:
         print("[INFO] No había coordenadas por agregar.")
+
+
+def obtener_coordenadas_desde_url_directa(mapa_url, delay=3):
+    """Abre el link de Google Maps directamente y extrae coordenadas usando Selenium."""
+    print(f"[MAPA] Ingresando a: {mapa_url}")
+    driver = crear_driver()
+    try:
+        driver.get(mapa_url)
+        time.sleep(delay)
+        final_url = driver.current_url
+        coords = extraer_coordenadas_desde_url(final_url)
+        if coords:
+            print(f"[✓] Coordenadas: {coords}")
+            return coords
+        else:
+            print("[✗] No se encontraron coordenadas")
+            return {"lat": None, "lng": None}
+    finally:
+        driver.quit()
+
 
 if __name__ == "__main__":
     # Solo para pruebas rápidas

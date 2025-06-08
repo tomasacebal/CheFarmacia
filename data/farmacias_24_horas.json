@@ -17,7 +17,7 @@
       "mapa": "https://www.google.com.ar/maps/place/Av.+Sta+Fe+2013,+B1640IFH+San+Isidro,+Buenos+Aires/@-34.4898979,-58.5028496,17z/data=!3m1!4b1!4m8!1m2!2m1!1sAv.+Santa+Fe+2013!3m4!1s0x95bcb1a9af1d20d5:0xfe0707b6d27dbd5f!8m2!3d-34.4898979!4d-58.5006609",
       "coordenadas": {
         "lat": -34.4898979,
-        "lng": -58.5032358
+        "lng": -58.5028496
       }
     },
     {
@@ -27,7 +27,7 @@
       "mapa": "https://www.google.com/maps/place/Av.+Diego+Carman+539,+B1642AKG+San+Isidro,+Provincia+de+Buenos+Aires/@-34.4957036,-58.549623,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb07a8d84954b:0xcbd9d2ad5d600a!8m2!3d-34.4957037!4d-58.5451437",
       "coordenadas": {
         "lat": -34.4957036,
-        "lng": -58.5451128
+        "lng": -58.549623
       }
     }
   ],
@@ -68,8 +68,540 @@
       "telefono": "47000216",
       "mapa": "https://maps.app.goo.gl/1yvbg6svEA6NxEzJ7",
       "coordenadas": {
-        "lat": -34.5248883,
-        "lng": -58.5617206
+        "lat": -34.5264086,
+        "lng": -58.5682866
+      }
+    }
+  ],
+  "CABA": [
+    {
+      "nombre": "Constituyentes",
+      "direccion": "Av. General Paz 4998",
+      "telefono": "1145734919",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+General+Paz+4998%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5698845,
+        "lng": -58.5089454
+      }
+    },
+    {
+      "nombre": "Farmacity - 63",
+      "direccion": "Av. Elcano 3110",
+      "telefono": "1145516545",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Elcano+3110%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5721796,
+        "lng": -58.4587132
+      }
+    },
+    {
+      "nombre": "Farmacity - 44",
+      "direccion": "Av. Rivadavia 2215",
+      "telefono": "1149534888",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+2215%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6094783,
+        "lng": -58.3979299
+      }
+    },
+    {
+      "nombre": "Farmacity - 51",
+      "direccion": "Av. Triunvirato 3752",
+      "telefono": "1145236912",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Triunvirato+3752%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5812419,
+        "lng": -58.4745528
+      }
+    },
+    {
+      "nombre": "Farmacity - 107",
+      "direccion": "Av. Pedro Goyena 701",
+      "telefono": "1149211672",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pedro+Goyena+701%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6259142,
+        "lng": -58.4378717
+      }
+    },
+    {
+      "nombre": "Farmacity - 130",
+      "direccion": "Av. Montes de Oca 894",
+      "telefono": "1143029868",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Montes+de+Oca+894%2C+CABA",
+      "coordenadas": {
+        "lat": -34.63849,
+        "lng": -58.374376
+      }
+    },
+    {
+      "nombre": "Farmacity - 71",
+      "direccion": "Juana Manso 1189, C1107 Cdad. Autónoma de Buenos Aires",
+      "telefono": "1157750081",
+      "mapa": "https://maps.app.goo.gl/6qQRchcsaBxaqF2P9",
+      "coordenadas": {
+        "lat": -34.6112666,
+        "lng": -58.3627788
+      }
+    },
+    {
+      "nombre": "Farmacity - 158",
+      "direccion": "Av. Directorio 2896",
+      "telefono": "1146139388",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Directorio+2896%2C+CABA",
+      "coordenadas": {
+        "lat": -34.635611,
+        "lng": -58.467291
+      }
+    },
+    {
+      "nombre": "Farmacity - 20",
+      "direccion": "Florida 474, C1005 San Nicolas, Cdad. Autónoma de Buenos Aires",
+      "telefono": "1143227777",
+      "mapa": "https://maps.app.goo.gl/JwQkbWd8X9pZMx196",
+      "coordenadas": {
+        "lat": -34.6025225,
+        "lng": -58.3752385
+      }
+    },
+    {
+      "nombre": "Farmacity - 54",
+      "direccion": "Mcal. Antonio José de Sucre 1520, C1428DUT C1428DUT, Cdad. Autónoma de Buenos Aires",
+      "telefono": "1147801060",
+      "mapa": "https://maps.app.goo.gl/hFgDTZbfTrfVV2446",
+      "coordenadas": {
+        "lat": -34.5588821,
+        "lng": -58.4462927
+      }
+    },
+    {
+      "nombre": "Farmacity - 114",
+      "direccion": "Saladillo 2016, C1440FFP Cdad. Autónoma de Buenos Aires",
+      "telefono": "1146863461",
+      "mapa": "https://maps.app.goo.gl/u31aG2ErhKWCn8AF6",
+      "coordenadas": {
+        "lat": -34.6612968,
+        "lng": -58.5167807
+      }
+    },
+    {
+      "nombre": "Farmacity - 119",
+      "direccion": "Av. Francisco Beiró 5272",
+      "telefono": "1145676986",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Francisco+Beir%C3%B3+5272%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6137799,
+        "lng": -58.5245311
+      }
+    },
+    {
+      "nombre": "Farmacity - 13",
+      "direccion": "Av. Triunvirato 4634",
+      "telefono": "1145239697",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Triunvirato+4634%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5749147,
+        "lng": -58.4861372
+      }
+    },
+    {
+      "nombre": "Farmacity - 137",
+      "direccion": "Gral. José Gervasio Artigas 4684, C1419ECX Cdad. Autónoma de Buenos Aires",
+      "telefono": "1145142350",
+      "mapa": "https://maps.app.goo.gl/8M1DismBbuGzzCHb7",
+      "coordenadas": {
+        "lat": -34.5837096,
+        "lng": -58.4976539
+      }
+    },
+    {
+      "nombre": "Farmacity - 145",
+      "direccion": "Av. San Juan 387",
+      "telefono": "1143006338",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+San+Juan+387%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6215877,
+        "lng": -58.3711878
+      }
+    },
+    {
+      "nombre": "Farmacity - 23",
+      "direccion": "Av. Corrientes 3930",
+      "telefono": "1148676665",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Corrientes+3930%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6034798,
+        "lng": -58.4199663
+      }
+    },
+    {
+      "nombre": "Farmacity - 26",
+      "direccion": "Av. Rivadavia 3827",
+      "telefono": "1149588085",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+3827%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6110532,
+        "lng": -58.4201927
+      }
+    },
+    {
+      "nombre": "Farmacity - 29",
+      "direccion": "Cuenca 3149, C1417ABA Cdad. Autónoma de Buenos Aires",
+      "telefono": "1145014422",
+      "mapa": "https://maps.app.goo.gl/amVx9Qqfp5d1Veow6",
+      "coordenadas": {
+        "lat": -34.6008212,
+        "lng": -58.4954904
+      }
+    },
+    {
+      "nombre": "Farmacity - 35",
+      "direccion": "Av. Corrientes 1236",
+      "telefono": "1143811214",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Corrientes+1236%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6040084,
+        "lng": -58.3842042
+      }
+    },
+    {
+      "nombre": "Farmacity - 4",
+      "direccion": "Av. Corrientes 5256",
+      "telefono": "1148573699",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Corrientes+5258%2C+CABA",
+      "coordenadas": {
+        "lat": -34.599577,
+        "lng": -58.4395956
+      }
+    },
+    {
+      "nombre": "Farmacity - 5",
+      "direccion": "Av. Corrientes 1820",
+      "telefono": "1143722206",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Corrientes+1820%2C+CABA",
+      "coordenadas": {
+        "lat": -34.604602,
+        "lng": -58.3927125
+      }
+    },
+    {
+      "nombre": "Farmacity - 55",
+      "direccion": "Av. Pueyrredón 991",
+      "telefono": "1149619024",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pueyrred%C3%B3n+991%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5987639,
+        "lng": -58.4036268
+      }
+    },
+    {
+      "nombre": "Farmacity - 72",
+      "direccion": "Av. F. Beiró 4366",
+      "telefono": "1145802270",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+F.+Beir%C3%B3+4366%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6063039,
+        "lng": -58.5122828
+      }
+    },
+    {
+      "nombre": "Farmacity - 89",
+      "direccion": "Av. Independencia 2676",
+      "telefono": "1149436933",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Independencia+2676%2C+CABA",
+      "coordenadas": {
+        "lat": -34.618947,
+        "lng": -58.403268
+      }
+    },
+    {
+      "nombre": "Farmacity - 87",
+      "direccion": "Av. Cabildo 2967",
+      "telefono": "1147046565",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Cabildo+2967%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5545337,
+        "lng": -58.4627098
+      }
+    },
+    {
+      "nombre": "Farmacity - 122",
+      "direccion": "Av. Córdoba 3844",
+      "telefono": "1148616617",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+C%C3%B3rdoba+3844%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5979648,
+        "lng": -58.4210544
+      }
+    },
+    {
+      "nombre": "Farmacity - 123",
+      "direccion": "Av. Gaona 1101",
+      "telefono": "1151951180",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Gaona+1101%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6073317,
+        "lng": -58.4460712
+      }
+    },
+    {
+      "nombre": "Farmacity - 237",
+      "direccion": "Av. Acoyte 18",
+      "telefono": "1149025066",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Acoyte+18%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6182388,
+        "lng": -58.4367204
+      }
+    },
+    {
+      "nombre": "Farmacity - 84",
+      "direccion": "Av. Rivadavia 8784",
+      "telefono": "1146746440",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+8784%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6352998,
+        "lng": -58.4873508
+      }
+    },
+    {
+      "nombre": "Farmacity - 93",
+      "direccion": "Av. Caseros 3590",
+      "telefono": "1149129149",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Caseros+3590%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6391788,
+        "lng": -58.4158756
+      }
+    },
+    {
+      "nombre": "Farmacity - 330, DOT",
+      "direccion": "Vedia 3788, C1430DAL Cdad. Autónoma de Buenos Aires",
+      "telefono": "",
+      "mapa": "https://maps.app.goo.gl/9tMCDGiDj52sSEz76",
+      "coordenadas": {
+        "lat": -34.5462479,
+        "lng": -58.4895128
+      }
+    },
+    {
+      "nombre": "Farmacity - 19",
+      "direccion": "Av. Entre Ríos 198",
+      "telefono": "1143733276",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Entre+R%C3%ADos+198%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6112821,
+        "lng": -58.391605
+      }
+    },
+    {
+      "nombre": "Farmacity - 33, Aeroparque",
+      "direccion": "Av. Costanera Rafael Obligado S/N",
+      "telefono": "1154803800",
+      "mapa": "https://maps.app.goo.gl/yAFF5Gvy7aKhuqDf8",
+      "coordenadas": {
+        "lat": -34.5578885,
+        "lng": -58.4175331
+      }
+    },
+    {
+      "nombre": "Farmacity - 6",
+      "direccion": "Av. Santa Fe 2822",
+      "telefono": "1148213000",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Santa+Fe+2822%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5924754,
+        "lng": -58.4064853
+      }
+    },
+    {
+      "nombre": "Farmacity - 73",
+      "direccion": "Av. Córdoba 4601, C1414BAE Cdad. Autónoma de Buenos Aires",
+      "telefono": "",
+      "mapa": "https://maps.app.goo.gl/sUqbQ31kGDrQ3KjNA",
+      "coordenadas": {
+        "lat": -34.5940234,
+        "lng": -58.4301014
+      }
+    },
+    {
+      "nombre": "Farmacity - 76",
+      "direccion": "Av. Cabildo 4633",
+      "telefono": "1145113052",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Cabildo+4633%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5417424,
+        "lng": -58.4731703
+      }
+    },
+    {
+      "nombre": "Farmacity - 10",
+      "direccion": "Av. Rivadavia 6398",
+      "telefono": "1146330074",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+6398%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6267699,
+        "lng": -58.456458
+      }
+    },
+    {
+      "nombre": "Farmacity 136",
+      "direccion": "Av. Asamblea 826",
+      "telefono": "1149218296",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Asamblea+826%2C+CABA",
+      "coordenadas": {
+        "lat": -34.6348767,
+        "lng": -58.4360852
+      }
+    },
+    {
+      "nombre": "Farmacity - 201, Arcos",
+      "direccion": "Paraguay 4979, C1425BTC Cdad. Autónoma de Buenos Aires",
+      "telefono": "1175093384",
+      "mapa": "https://maps.app.goo.gl/5cwt9At3WTUercAw6",
+      "coordenadas": {
+        "lat": -34.5809089,
+        "lng": -58.4298141
+      }
+    },
+    {
+      "nombre": "Farmacity - 21",
+      "direccion": "Av. Santa Fe",
+      "telefono": "338047783276",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Santa+Fe%2C+CABA",
+      "coordenadas": {
+        "lat": -34.588986,
+        "lng": -58.4101025
+      }
+    },
+    {
+      "nombre": "Farmacity - 24",
+      "direccion": "Av. Santa Fe 2453",
+      "telefono": "1157788888",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Santa+Fe+2453%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5943576,
+        "lng": -58.4016746
+      }
+    },
+    {
+      "nombre": "Farmacity - 28",
+      "direccion": "Av. Santa Fe 1740",
+      "telefono": "1148156026",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Santa+Fe+1740%2C+CABA",
+      "coordenadas": {
+        "lat": -34.595986,
+        "lng": -58.3924267
+      }
+    },
+    {
+      "nombre": "Farmacity - 3",
+      "direccion": "Av. Rivadavia 6728",
+      "telefono": "1146122086",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+6728%2C+CABA",
+      "coordenadas": {
+        "lat": -34.628328,
+        "lng": -58.4601679
+      }
+    },
+    {
+      "nombre": "Farmacity - 30",
+      "direccion": "Av. Cabildo 1842",
+      "telefono": "1147800001",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Cabildo+1842%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5646566,
+        "lng": -58.4547101
+      }
+    },
+    {
+      "nombre": "Farmacity - 323",
+      "direccion": "Av. del Libertador 8404",
+      "telefono": "1175083292",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+del+Libertador+8404%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5382878,
+        "lng": -58.4655562
+      }
+    },
+    {
+      "nombre": "Farmacity - 39",
+      "direccion": "Olleros 1802, C1426CRH Cdad. Autónoma de Buenos Aires",
+      "telefono": "1147719710",
+      "mapa": "https://maps.app.goo.gl/iGtPJUMyAv8TTViR6",
+      "coordenadas": {
+        "lat": -34.5652908,
+        "lng": -58.4382455
+      }
+    },
+    {
+      "nombre": "Farmacity - 42",
+      "direccion": "Av. Callao 1600",
+      "telefono": "1148045221",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Callao+1600%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5908861,
+        "lng": -58.3911233
+      }
+    },
+    {
+      "nombre": "Farmacity - 45",
+      "direccion": "Av. Raúl Scalabrini Ortíz 3149",
+      "telefono": "1148090666",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Ra%C3%BAl+Scalabrini+Ort%C3%ADz+3149%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5804814,
+        "lng": -58.4100187
+      }
+    },
+    {
+      "nombre": "Farmacity - 46",
+      "direccion": "Av. Santa Fe 802",
+      "telefono": "1143120227",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Santa+Fe+802%2C+CABA",
+      "coordenadas": {
+        "lat": -34.595273,
+        "lng": -58.3785964
+      }
+    },
+    {
+      "nombre": "Farmacity - 65",
+      "direccion": "Av. Cramer 2301",
+      "telefono": "1145112180",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Cramer+2301%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5627302,
+        "lng": -58.4628912
+      }
+    },
+    {
+      "nombre": "Farmacity - 7",
+      "direccion": "Av. Rivadavia 5375",
+      "telefono": "1149041313",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+5375%2C+CABA",
+      "coordenadas": {
+        "lat": -58.4411688,
+        "lng": -34.6200246
+      }
+    },
+    {
+      "nombre": "Farmacity - 8",
+      "direccion": "Av. Pueyrredón 1845",
+      "telefono": "1148017401",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pueyrred%C3%B3n+1845%2C+CABA",
+      "coordenadas": {
+        "lat": -34.5898884,
+        "lng": -58.3998345
+      }
+    },
+    {
+      "nombre": "FarmaPlus 18 (Caballito 1)",
+      "direccion": "Av. Rivadavia 5014, C1424 Cdad. Autónoma de Buenos Aires",
+      "telefono": "1133847304",
+      "mapa": "https://maps.app.goo.gl/GWMZTRrqviZ5Ap487",
+      "coordenadas": {
+        "lat": -34.6184334,
+        "lng": -58.4368708
       }
     }
   ]
