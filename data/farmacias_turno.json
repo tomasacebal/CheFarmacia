@@ -154,6 +154,16 @@
             "lat": -34.4983569,
             "lng": -58.5560011
           }
+        },
+        {
+          "nombre": "Fcia. Buesas Av. Hipólito Yrigoyen 10228 Temperley",
+          "direccion": "Av. Hipólito Yrigoyen 8101 L.de Zamora, Lomas de Zamora",
+          "telefono": "",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Hip%C3%B3lito%20Yrigoyen%208101%20L.de%20Zamora%2C%20Lomas%20de%20Zamora",
+          "coordenadas": {
+            "lat": -34.7498775,
+            "lng": -58.4005123
+          }
         }
       ],
       "5": [
@@ -406,6 +416,76 @@
           "telefono": "48360884",
           "mapa": "https://www.google.com/maps/search/?api=1&query=Hip%C3%B3lito%20Yrigoyen%202598%2C%20B1640%20DNZ%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina",
           "coordenadas": null
+        },
+        {
+          "nombre": "Farmacia Del Pueblo Express",
+          "direccion": "Avenida Cazón 635",
+          "telefono": "47490112",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Avenida%20Caz%C3%B3n%20635",
+          "coordenadas": {
+            "lat": -34.4299486,
+            "lng": -58.5713426
+          }
+        },
+        {
+          "nombre": "Farmacia Wilhelm",
+          "direccion": "Av. Sta. María de las Conchas 2160, Rincón de Milberg",
+          "telefono": "47310928",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Sta.%20Mar%C3%ADa%20de%20las%20Conchas%202160%2C%20Rinc%C3%B3n%20de%20Milberg",
+          "coordenadas": {
+            "lat": -34.4220126,
+            "lng": -58.5921632
+          }
+        },
+        {
+          "nombre": "Farmacia Jankowicz",
+          "direccion": "Av. Hipólito Yrigoyen 485, Gral. Pacheco",
+          "telefono": "47405684",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Hip%C3%B3lito%20Yrigoyen%20485%2C%20Gral.%20Pacheco",
+          "coordenadas": {
+            "lat": -34.4573421,
+            "lng": -58.6293313
+          }
+        },
+        {
+          "nombre": "Farmacia Treitel",
+          "direccion": "Marcos Sastre 2511, Ricardo Rojas",
+          "telefono": "47400250",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Marcos%20Sastre%202511%2C%20Ricardo%20Rojas",
+          "coordenadas": {
+            "lat": -34.4608085,
+            "lng": -58.6790228
+          }
+        },
+        {
+          "nombre": "Farmacia Rial",
+          "direccion": "Av. Alvear 2571, Benavídez",
+          "telefono": "03327481210",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Alvear%202571%2C%20Benav%C3%ADdez",
+          "coordenadas": {
+            "lat": null,
+            "lng": null
+          }
+        },
+        {
+          "nombre": "Farmacia Del Aguila",
+          "direccion": "km 54, Au Panamericana, Don Torcuato",
+          "telefono": "53307947",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=km%2054%2C%20Au%20Panamericana%2C%20Don%20Torcuato",
+          "coordenadas": {
+            "lat": null,
+            "lng": null
+          }
+        },
+        {
+          "nombre": "Farmacia Talar Salud Uno SCS",
+          "direccion": "Colombia 1152, El Talar",
+          "telefono": "55520734",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Colombia%201152%2C%20El%20Talar",
+          "coordenadas": {
+            "lat": -34.4742209,
+            "lng": -58.6625199
+          }
         }
       ],
       "9": [
@@ -1080,6 +1160,26 @@
           "telefono": "47230319",
           "mapa": "https://www.google.com/maps/search/?api=1&query=Int.%20Tomkinson%202995%2C%20San%20Isidro%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina",
           "coordenadas": null
+        },
+        {
+          "nombre": "Fcia. Buesas",
+          "direccion": "_ |Av. Hipólito Yrigoyen 10228 Temperle, Lomas de Zamora",
+          "telefono": "",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=_%20%7CAv.%20Hip%C3%B3lito%20Yrigoyen%2010228%20Temperle%2C%20Lomas%20de%20Zamora",
+          "coordenadas": {
+            "lat": -34.775724,
+            "lng": -58.4053788
+          }
+        },
+        {
+          "nombre": "Fcia. Riveira Caa",
+          "direccion": "guazu 71 Banfield, Lomas de Zamora",
+          "telefono": "",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=guazu%2071%20Banfield%2C%20Lomas%20de%20Zamora",
+          "coordenadas": {
+            "lat": null,
+            "lng": null
+          }
         }
       ],
       "25": [
