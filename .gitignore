@@ -1,1 +1,6 @@
 .env
+/sources
+/scrapers
+/scrapers
+tests.py
+/__pycache__

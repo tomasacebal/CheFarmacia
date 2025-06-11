@@ -604,5 +604,79 @@
         "lng": -58.4368708
       }
     }
+  ],
+  "Provincia de Buenos Aires": [
+    {
+      "nombre": "Pazos",
+      "direccion": "Av. Pte. J. D. Perón 4708, B1665KQZ José C. Paz, Provincia de Buenos Aires",
+      "telefono": "2320422198",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pte.+J.+D.+Perón+4708,+B1665KQZ+José+C.+Paz,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.5198798",
+      "lng": "-58.7436073"}
+    },
+    {
+      "nombre": "Antigua Farmacia Del Águila",
+      "direccion": "Alvear 2640, B1653 Villa Ballester, Provincia de Buenos Aires",
+      "telefono": "1152220400",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Alvear+2640,+B1653+Villa+Ballester,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.549448",
+      "lng": "-58.5539092"}
+    },
+    {
+      "nombre": "Farmacity - Suc. 16 - Ezeiza",
+      "direccion": "AU Tte. Gral. Pablo Riccheri Km 33,5, B1802 Ezeiza, Provincia de Buenos Aires",
+      "telefono": "1154802772",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=AU+Tte.+Gral.+Pablo+Riccheri+Km+33,5,+B1802+Ezeiza,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.8173157",
+      "lng": "-58.5413623"}
+    },
+    {
+      "nombre": "Maly - Red Maga Shop",
+      "direccion": "C. 893 4294, B1881 San Francisco Solano, Provincia de Buenos Aires",
+      "telefono": "1142120714",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=C.+893+4294,+B1881+San+Francisco+Solano,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.7771972",
+      "lng": "-58.3090615"}
+    },
+    {
+      "nombre": "Mega Shop Varela - Del Pueblo",
+      "direccion": "Dr, Bernardo de Monteagudo 3101, B1888ENU Florencio Varela, Provincia de Buenos Aires",
+      "telefono": "1142552007",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Dr,+Bernardo+de+Monteagudo+3101,+B1888ENU+Florencio+Varela,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.8079391",
+      "lng": "-58.277383"}
+    },
+    {
+      "nombre": "Said",
+      "direccion": "Av. Pte. J. D. Perón 1874, B1663GHU San Miguel, Provincia de Buenos Aires",
+      "telefono": "1146670600",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pte.+J.+D.+Perón+1874,+B1663GHU+San+Miguel,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.5395152",
+      "lng": "-58.718011"}
+    },
+    {
+      "nombre": "Six Pharm S.C.S.",
+      "direccion": "Leandro N. Alem 801, B1842ASQ Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "1142818118",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Leandro+N.+Alem+801,+B1842ASQ+Gran+Buenos+Aires,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.6542823",
+      "lng": "-58.8768843"}
+    },
+    {
+      "nombre": "Soy Argentina - Soy Tu Farmacia",
+      "direccion": "Fabián Onsari 199, B1875 Wilde, Provincia de Buenos Aires",
+      "telefono": "1142279122",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Fabián+Onsari+199,+B1875+Wilde,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.705915",
+      "lng": "-58.320093"}
+    },
+    {
+      "nombre": "Soy Maga Shop SCS - Soy Tu Farmacia",
+      "direccion": "Andrés Baranda 200, B1878 Quilmes, Provincia de Buenos Aires",
+      "telefono": "1142514019",
+      "mapa": "https://www.google.com/maps/search/?api=1&query=Andrés+Baranda+200,+B1878+Quilmes,+Provincia+de+Buenos+Aires",
+      "coordenadas": {"lat": "-34.7181797",
+      "lng": "-58.2767921"}
+    }
   ]
 }

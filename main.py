@@ -3,7 +3,8 @@ from dotenv import load_dotenv
 from tqdm import tqdm
 
 from scrapers.san_isidro import SanIsidroScraper
-from scrapers.tigre import TigreScraper  # Agregá más scrapers acá
+from scrapers.tigre import TigreScraper
+from scrapers.lomas_de_zamora import LomasDeZamoraScraper
 
 from utils import save_to_json, commit_and_push, format_data_for_json
 
@@ -14,7 +15,7 @@ def main():
     scrapers = [
         SanIsidroScraper(),
         TigreScraper(),
-        # Agregá nuevos scrapers acá
+        # LomasDeZamoraScraper()
     ]
 
     from utils import merge_data  # Asegurate de tener esto arriba

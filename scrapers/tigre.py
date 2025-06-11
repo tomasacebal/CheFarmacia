@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, date
+from datetime import datetime, date, timedelta
 from .base import BaseScraper
 from urllib.parse import quote_plus
 import re
@@ -31,8 +31,13 @@ class TigreScraper(BaseScraper):
             telefono = re.sub(r"[^\d+]", "", telefono_tag.get_text(strip=True))
             mapa = mapa_tag["href"]
 
-            # La fecha corresponde al día actual, ya que es una lista que se actualiza diariamente
-            fecha = str(date.today().day)
+            # Dentro del método fetch()
+            now = datetime.now()
+            corte = now.replace(hour=8, minute=30, second=0, microsecond=0)
+            if now < corte:
+                fecha = str((now - timedelta(days=1)).day)
+            else:
+                fecha = str(now.day)
 
             farmacias.append({
                 "fecha": fecha,

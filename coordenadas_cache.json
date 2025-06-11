@@ -554,5 +554,69 @@
   "Av. Rivadavia 5014, C1424 Cdad. Autónoma de Buenos Aires": {
     "lat": -34.6184334,
     "lng": -58.4368708
+  },
+  "Avenida Cazón 635": {
+    "lat": -34.4299486,
+    "lng": -58.5713426
+  },
+  "Av. Sta. María de las Conchas 2160, Rincón de Milberg": {
+    "lat": -34.4220126,
+    "lng": -58.5921632
+  },
+  "Av. Hipólito Yrigoyen 485, Gral. Pacheco": {
+    "lat": -34.4573421,
+    "lng": -58.6293313
+  },
+  "Marcos Sastre 2511, Ricardo Rojas": {
+    "lat": -34.4608085,
+    "lng": -58.6790228
+  },
+  "Av. Alvear 2571, Benavídez": {
+    "lat": null,
+    "lng": null
+  },
+  "km 54, Au Panamericana, Don Torcuato": {
+    "lat": null,
+    "lng": null
+  },
+  "Colombia 1152, El Talar": {
+    "lat": -34.4742209,
+    "lng": -58.6625199
+  },
+  "Av. Hipólito Yrigoyen 8101 L.de Zamora, Lomas de Zamora": {
+    "lat": -34.7498775,
+    "lng": -58.4005123
+  },
+  "_ |Av. Hipólito Yrigoyen 10228 Temperle, Lomas de Zamora": {
+    "lat": -34.775724,
+    "lng": -58.4053788
+  },
+  "guazu 71 Banfield, Lomas de Zamora": {
+    "lat": null,
+    "lng": null
+  },
+  "Av. Sta. María de las Conchas 2785, Rincón de Milberg": {
+    "lat": -34.4165777,
+    "lng": -58.5988872
+  },
+  "Av. Hipólito Yrigoyen 999, Gral. Pacheco": {
+    "lat": -34.4610296,
+    "lng": -58.6362549
+  },
+  "Av. Constiuyentes 3107, Gral. Pacheco": {
+    "lat": -34.4476948,
+    "lng": -58.6704321
+  },
+  "Almte Brown 1665, Don Torcuato": {
+    "lat": -34.5017097,
+    "lng": -58.6423965
+  },
+  "Corredor Vial Bancalari 3901, Los Troncos del Talar": {
+    "lat": null,
+    "lng": null
+  },
+  "Fernando Fader 2535, Benavídez": {
+    "lat": -34.4077487,
+    "lng": -58.6845601
   }
 }
