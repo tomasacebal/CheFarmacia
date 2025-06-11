@@ -154,16 +154,6 @@
             "lat": -34.4983569,
             "lng": -58.5560011
           }
-        },
-        {
-          "nombre": "Fcia. Buesas Av. Hipólito Yrigoyen 10228 Temperley",
-          "direccion": "Av. Hipólito Yrigoyen 8101 L.de Zamora, Lomas de Zamora",
-          "telefono": "",
-          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Hip%C3%B3lito%20Yrigoyen%208101%20L.de%20Zamora%2C%20Lomas%20de%20Zamora",
-          "coordenadas": {
-            "lat": -34.7498775,
-            "lng": -58.4005123
-          }
         }
       ],
       "5": [
@@ -606,6 +596,66 @@
             "lat": -34.4995609,
             "lng": -58.5190646
           }
+        },
+        {
+          "nombre": "Farmacia Marti",
+          "direccion": "Av. Sta. María de las Conchas 2785, Rincón de Milberg",
+          "telefono": "47492295",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Sta.%20Mar%C3%ADa%20de%20las%20Conchas%202785%2C%20Rinc%C3%B3n%20de%20Milberg",
+          "coordenadas": {
+            "lat": -34.4165777,
+            "lng": -58.5988872
+          }
+        },
+        {
+          "nombre": "Farmacia Pacheco Express S.C.S",
+          "direccion": "Av. Hipólito Yrigoyen 999, Gral. Pacheco",
+          "telefono": "47406752",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Hip%C3%B3lito%20Yrigoyen%20999%2C%20Gral.%20Pacheco",
+          "coordenadas": {
+            "lat": -34.4610296,
+            "lng": -58.6362549
+          }
+        },
+        {
+          "nombre": "Farmacia Farma-Best",
+          "direccion": "Av. Constiuyentes 3107, Gral. Pacheco",
+          "telefono": "03327453371",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Constiuyentes%203107%2C%20Gral.%20Pacheco",
+          "coordenadas": {
+            "lat": -34.4476948,
+            "lng": -58.6704321
+          }
+        },
+        {
+          "nombre": "Farmacia Calderón",
+          "direccion": "Almte Brown 1665, Don Torcuato",
+          "telefono": "47481131474891334846059",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Almte%20Brown%201665%2C%20Don%20Torcuato",
+          "coordenadas": {
+            "lat": -34.5017097,
+            "lng": -58.6423965
+          }
+        },
+        {
+          "nombre": "Farmacia Northpharm",
+          "direccion": "Corredor Vial Bancalari 3901, Los Troncos del Talar",
+          "telefono": "48594131",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Corredor%20Vial%20Bancalari%203901%2C%20Los%20Troncos%20del%20Talar",
+          "coordenadas": {
+            "lat": null,
+            "lng": null
+          }
+        },
+        {
+          "nombre": "Farmacia Estación Benavídez",
+          "direccion": "Fernando Fader 2535, Benavídez",
+          "telefono": "03327485432",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Fernando%20Fader%202535%2C%20Benav%C3%ADdez",
+          "coordenadas": {
+            "lat": -34.4077487,
+            "lng": -58.6845601
+          }
         }
       ],
       "12": [
@@ -699,6 +749,16 @@
           "coordenadas": {
             "lat": -34.4959361,
             "lng": -58.5767872
+          }
+        },
+        {
+          "nombre": "Sznirer",
+          "direccion": "Av. Avelino Rolón 1169, B1609 Boulogne, Provincia de Buenos Aires, Argentina",
+          "telefono": "47354914",
+          "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Avelino%20Rol%C3%B3n%201169%2C%20B1609%20Boulogne%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina",
+          "coordenadas": {
+            "lat": -34.5009179,
+            "lng": -58.5592938
           }
         }
       ],
@@ -1160,26 +1220,6 @@
           "telefono": "47230319",
           "mapa": "https://www.google.com/maps/search/?api=1&query=Int.%20Tomkinson%202995%2C%20San%20Isidro%2C%20Provincia%20de%20Buenos%20Aires%2C%20Argentina",
           "coordenadas": null
-        },
-        {
-          "nombre": "Fcia. Buesas",
-          "direccion": "_ |Av. Hipólito Yrigoyen 10228 Temperle, Lomas de Zamora",
-          "telefono": "",
-          "mapa": "https://www.google.com/maps/search/?api=1&query=_%20%7CAv.%20Hip%C3%B3lito%20Yrigoyen%2010228%20Temperle%2C%20Lomas%20de%20Zamora",
-          "coordenadas": {
-            "lat": -34.775724,
-            "lng": -58.4053788
-          }
-        },
-        {
-          "nombre": "Fcia. Riveira Caa",
-          "direccion": "guazu 71 Banfield, Lomas de Zamora",
-          "telefono": "",
-          "mapa": "https://www.google.com/maps/search/?api=1&query=guazu%2071%20Banfield%2C%20Lomas%20de%20Zamora",
-          "coordenadas": {
-            "lat": null,
-            "lng": null
-          }
         }
       ],
       "25": [
