@@ -270,8 +270,8 @@
       "telefono": "1148573699",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Corrientes+5258%2C+CABA",
       "coordenadas": {
-        "lat": -34.599577,
-        "lng": -58.4395956
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -290,8 +290,8 @@
       "telefono": "1149619024",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pueyrred%C3%B3n+991%2C+CABA",
       "coordenadas": {
-        "lat": -34.5987639,
-        "lng": -58.4036268
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -300,8 +300,8 @@
       "telefono": "1145802270",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+F.+Beir%C3%B3+4366%2C+CABA",
       "coordenadas": {
-        "lat": -34.6063039,
-        "lng": -58.5122828
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -350,8 +350,8 @@
       "telefono": "1149025066",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Acoyte+18%2C+CABA",
       "coordenadas": {
-        "lat": -34.6182388,
-        "lng": -58.4367204
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -390,8 +390,8 @@
       "telefono": "1143733276",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Entre+R%C3%ADos+198%2C+CABA",
       "coordenadas": {
-        "lat": -34.6112821,
-        "lng": -58.391605
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -430,8 +430,8 @@
       "telefono": "1145113052",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Cabildo+4633%2C+CABA",
       "coordenadas": {
-        "lat": -34.5417424,
-        "lng": -58.4731703
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -540,8 +540,8 @@
       "telefono": "1148045221",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Callao+1600%2C+CABA",
       "coordenadas": {
-        "lat": -34.5908861,
-        "lng": -58.3911233
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -580,8 +580,8 @@
       "telefono": "1149041313",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Rivadavia+5375%2C+CABA",
       "coordenadas": {
-        "lat": -58.4411688,
-        "lng": -34.6200246
+        "lat": null,
+        "lng": null
       }
     },
     {
@@ -611,72 +611,549 @@
       "direccion": "Av. Pte. J. D. Perón 4708, B1665KQZ José C. Paz, Provincia de Buenos Aires",
       "telefono": "2320422198",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pte.+J.+D.+Perón+4708,+B1665KQZ+José+C.+Paz,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.5198798",
-      "lng": "-58.7436073"}
+      "coordenadas": {
+        "lat": "-34.5198798",
+        "lng": "-58.7436073"
+      }
     },
     {
       "nombre": "Antigua Farmacia Del Águila",
       "direccion": "Alvear 2640, B1653 Villa Ballester, Provincia de Buenos Aires",
       "telefono": "1152220400",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Alvear+2640,+B1653+Villa+Ballester,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.549448",
-      "lng": "-58.5539092"}
+      "coordenadas": {
+        "lat": "-34.549448",
+        "lng": "-58.5539092"
+      }
     },
     {
       "nombre": "Farmacity - Suc. 16 - Ezeiza",
       "direccion": "AU Tte. Gral. Pablo Riccheri Km 33,5, B1802 Ezeiza, Provincia de Buenos Aires",
       "telefono": "1154802772",
       "mapa": "https://www.google.com/maps/search/?api=1&query=AU+Tte.+Gral.+Pablo+Riccheri+Km+33,5,+B1802+Ezeiza,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.8173157",
-      "lng": "-58.5413623"}
+      "coordenadas": {
+        "lat": "-34.8173157",
+        "lng": "-58.5413623"
+      }
     },
     {
       "nombre": "Maly - Red Maga Shop",
       "direccion": "C. 893 4294, B1881 San Francisco Solano, Provincia de Buenos Aires",
       "telefono": "1142120714",
       "mapa": "https://www.google.com/maps/search/?api=1&query=C.+893+4294,+B1881+San+Francisco+Solano,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.7771972",
-      "lng": "-58.3090615"}
+      "coordenadas": {
+        "lat": "-34.7771972",
+        "lng": "-58.3090615"
+      }
     },
     {
       "nombre": "Mega Shop Varela - Del Pueblo",
       "direccion": "Dr, Bernardo de Monteagudo 3101, B1888ENU Florencio Varela, Provincia de Buenos Aires",
       "telefono": "1142552007",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Dr,+Bernardo+de+Monteagudo+3101,+B1888ENU+Florencio+Varela,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.8079391",
-      "lng": "-58.277383"}
+      "coordenadas": {
+        "lat": "-34.8079391",
+        "lng": "-58.277383"
+      }
     },
     {
       "nombre": "Said",
       "direccion": "Av. Pte. J. D. Perón 1874, B1663GHU San Miguel, Provincia de Buenos Aires",
       "telefono": "1146670600",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Pte.+J.+D.+Perón+1874,+B1663GHU+San+Miguel,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.5395152",
-      "lng": "-58.718011"}
+      "coordenadas": {
+        "lat": "-34.5395152",
+        "lng": "-58.718011"
+      }
     },
     {
       "nombre": "Six Pharm S.C.S.",
       "direccion": "Leandro N. Alem 801, B1842ASQ Gran Buenos Aires, Provincia de Buenos Aires",
       "telefono": "1142818118",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Leandro+N.+Alem+801,+B1842ASQ+Gran+Buenos+Aires,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.6542823",
-      "lng": "-58.8768843"}
+      "coordenadas": {
+        "lat": "-34.6542823",
+        "lng": "-58.8768843"
+      }
     },
     {
       "nombre": "Soy Argentina - Soy Tu Farmacia",
       "direccion": "Fabián Onsari 199, B1875 Wilde, Provincia de Buenos Aires",
       "telefono": "1142279122",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Fabián+Onsari+199,+B1875+Wilde,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.705915",
-      "lng": "-58.320093"}
+      "coordenadas": {
+        "lat": "-34.705915",
+        "lng": "-58.320093"
+      }
     },
     {
       "nombre": "Soy Maga Shop SCS - Soy Tu Farmacia",
       "direccion": "Andrés Baranda 200, B1878 Quilmes, Provincia de Buenos Aires",
       "telefono": "1142514019",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Andrés+Baranda+200,+B1878+Quilmes,+Provincia+de+Buenos+Aires",
-      "coordenadas": {"lat": "-34.7181797",
-      "lng": "-58.2767921"}
+      "coordenadas": {
+        "lat": "-34.7181797",
+        "lng": "-58.2767921"
+      }
+    },
+    {
+      "nombre": "ADROGUÉ",
+      "direccion": "Av. Hipólito Yrigoyen 13301, Malvinas Argentinas",
+      "telefono": "11-2385-7780",
+      "mapa": "https://www.google.com/maps/place/Av.+Hip%C3%B3lito+Yrigoyen+13301,+B1846+Malvinas+Argentinas,+Provincia+de+Buenos+Aires/@-34.8096288,-58.4041592,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcd36edf5f56bd:0x7222804430d6e03b!8m2!3d-34.8096288!4d-58.4015789?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8096288,
+        "lng": -58.4041592
+      }
+    },
+    {
+      "nombre": "CANNING",
+      "direccion": "Mariano Castex 845, Canning",
+      "telefono": "11-2472-8424",
+      "mapa": "https://www.google.com/maps/place/FARMA24%2B+Canning/@-34.8525696,-58.5021712,29z/data=!4m15!1m8!3m7!1s0x95bcd6d48573893b:0x71de55810bd73970!2sMariano+Castex+845,+B1801+Canning,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.8535659!4d-58.5036293!16s%2Fg%2F11kqbrz1tp!3m5!1s0x95bcd6d485a0039d:0x2267d952db0934fd!8m2!3d-34.8535659!4d-58.5036293!16s%2Fg%2F11b7q8sk6b?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8525696,
+        "lng": -58.5021712
+      }
+    },
+    {
+      "nombre": "DALIA",
+      "direccion": "Hipólito Yrigoyen 8101, Lomas de Zamora",
+      "telefono": "11-4989-1198",
+      "mapa": "https://www.google.com/maps/place/BQM,+Av.+Hip%C3%B3lito+Yrigoyen+8101,+B1832BQA+Lomas+de+Zamora,+Provincia+de+Buenos+Aires/@-34.7498638,-58.403077,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd29a2c9cb85f:0x272a2ec72f767a5f!8m2!3d-34.7498638!4d-58.4004967!16s%2Fg%2F11gr6ccq3y?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7498638,
+        "lng": -58.403077
+      }
+    },
+    {
+      "nombre": "HIPER TEMPERLEY",
+      "direccion": "Dorrego 324, Lomas de Zamora",
+      "telefono": "11-2461-7574",
+      "mapa": "https://www.google.com/maps/place/Dorrego+324,+B1834GJH+Lomas+de+Zamora,+Provincia+de+Buenos+Aires/@-34.7757041,-58.4076765,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd2e5266e3a9f:0xbbec7f2d9d326316!8m2!3d-34.7757041!4d-58.4050962!16s%2Fg%2F11fmlg8m4f?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7757041,
+        "lng": -58.4076765
+      }
+    },
+    {
+      "nombre": "MONTE GRANDE",
+      "direccion": "Blvd. Buenos Aires 179, Monte Grande",
+      "telefono": "11-6966-8837",
+      "mapa": "https://www.google.com/maps/place/FARMA24%2B+Monte+Grande/@-34.8182806,-58.4662102,17z/data=!4m15!1m8!3m7!1s0x95bcd1602fec9577:0x51aedda448db4091!2sBlvd.+Buenos+Aires+179,+B1842CDB+Monte+Grande,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.8182806!4d-58.4636299!16s%2Fg%2F11vlctnx1g!3m5!1s0x95bcd1602fed6929:0x1ef687ce9ead609b!8m2!3d-34.8182806!4d-58.4636299!16s%2Fg%2F11b7hknqrw?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8182806,
+        "lng": -58.4662102
+      }
+    },
+    {
+      "nombre": "ROCA",
+      "direccion": "Roca 849, Burzaco",
+      "telefono": "11-6473-6718",
+      "mapa": "https://www.google.com/maps/place/FARMA24%2B+Roca/@-34.8257081,-58.3945647,17z/data=!4m15!1m8!3m7!1s0x95bcd4a24a016949:0x2a9b2d9a53915a8b!2sRoca+849,+B1852FCQ+Gran+Buenos+Aires,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.8257081!4d-58.3919844!16s%2Fg%2F11rg5z9snj!3m5!1s0x35405a4e0d0237:0xeca6454ba77dc167!8m2!3d-34.8257081!4d-58.3919844!16s%2Fg%2F11b7hcbsmw?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8257081,
+        "lng": -58.3945647
+      }
+    },
+    {
+      "nombre": "SAIBENE",
+      "direccion": "Maipú 202, Banfield",
+      "telefono": "11-2239-9383",
+      "mapa": "https://www.google.com/maps/place/FARMA24+Saibene/@-34.7431948,-58.3979272,17z/data=!4m15!1m8!3m7!1s0x95bcd2a1b7db2735:0x207ee65d2928212b!2sMaip%C3%BA+202,+B1828IJF+Banfield,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.7431949!4d-58.3930617!16s%2Fg%2F11q2nm35l6!3m5!1s0x95bcd2a1c407552f:0x33d6133f17d978fa!8m2!3d-34.7431808!4d-58.39307!16s%2Fg%2F11fnwgyhhm?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7431948,
+        "lng": -58.3979272
+      }
+    },
+    {
+      "nombre": "Econofarma",
+      "direccion": "Av. Hipólito Yrigoyen 7702, Lomas de Zamora",
+      "telefono": "011 4288-0335",
+      "mapa": "https://www.google.com/maps/place/Econofarma/@-34.7450204,-58.4017572,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd29ea4e7e7bf:0x326f52948a59b25b!8m2!3d-34.7450204!4d-58.3991769!16s%2Fg%2F11b779jk5r?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7450204,
+        "lng": -58.4017572
+      }
+    },
+    {
+      "nombre": "Farma Banfield",
+      "direccion": "Av. Adolfo Alsina 390, Banfield",
+      "telefono": "4242-1244",
+      "mapa": "https://www.google.com/maps/place/Farma+Banfield/@-34.7408256,-58.3951724,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd2a046de341f:0x37bc1b4b0f049eb3!8m2!3d-34.7408256!4d-58.3925921!16s%2Fg%2F1hc279bqk?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7408256,
+        "lng": -58.3951724
+      }
+    },
+    {
+      "nombre": "Punto de Salud",
+      "direccion": "Av. Almte. Brown 2820, B1834 Temperley",
+      "telefono": "011 4244-3003",
+      "mapa": "https://www.google.com/maps/place/Farmacias+Punto+de+Salud/@-34.7703303,-58.3986091,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd3afc40b7629:0x8f737ff41a469d29!8m2!3d-34.7703303!4d-58.3960288!16s%2Fg%2F11gmym2mxt?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7703303,
+        "lng": -58.3986091
+      }
+    },
+    {
+      "nombre": "Farmalanús",
+      "direccion": "Av. 9 de Julio 2501, Lanus",
+      "telefono": "011 4241-9285",
+      "mapa": "https://www.google.com/maps/place/Farmalan%C3%BAs/@-34.717657,-58.3794688,17z/data=!3m1!4b1!4m6!3m5!1s0x95bccd4a2f12bf6f:0x1c8373424c6787f7!8m2!3d-34.717657!4d-58.3768885!16s%2Fg%2F11byp6g1s3?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.717657,
+        "lng": -58.3794688
+      }
+    },
+    {
+      "nombre": "FARMA LANUS",
+      "direccion": "Dip. M Pedrera 1026, B1822QFN Valentín Alsina",
+      "telefono": "011 4218-2649",
+      "mapa": "https://www.google.com/maps/place/FARMA+LANUS/@-34.6799295,-58.4068312,17z/data=!4m15!1m8!3m7!1s0x95bccc923f43537f:0x83aac4fa5b6d919b!2sDip.+M+Pedrera+1026,+B1822+Valent%C3%ADn+Alsina,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.6799295!4d-58.4042509!16s%2Fg%2F11d_d4bcdl!3m5!1s0x95bccc9241b1809d:0xa45d046d01ddf495!8m2!3d-34.6802068!4d-58.4045159!16s%2Fg%2F11byflh_2k?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6799295,
+        "lng": -58.4068312
+      }
+    },
+    {
+      "nombre": "Farmacia Tripharma S.C.S",
+      "direccion": "Diag. 61, B1832 Ingeniero Budge",
+      "telefono": "4693-4653",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Tripharma+S.C.S/@-34.7460588,-58.4826752,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcce6ca44ee57b:0x92d5c9f510798a2!8m2!3d-34.7460588!4d-58.4800949!16s%2Fg%2F11gd1vy4pv?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7460588,
+        "lng": -58.4826752
+      }
+    },
+    {
+      "nombre": "Michanie Eduardo",
+      "direccion": "Av. Almte. Brown 1220, C1159 ABR, Cdad. Autónoma de Buenos Aires",
+      "telefono": "011 4301-4986",
+      "mapa": "https://www.google.com/maps/place/Michanie+Eduardo/@-34.6353994,-58.3611975,17z/data=!3m1!4b1!4m6!3m5!1s0x95a334b98b3f264d:0x3c4c2b0322c3409c!8m2!3d-34.6353994!4d-58.3586172!16s%2Fg%2F1tnhzhv_?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6353994,
+        "lng": -58.3611975
+      }
+    },
+    {
+      "nombre": "Farmacia Mundial",
+      "direccion": "Av. Dr. Ricardo Balbín 4955, C1430 Cdad. Autónoma de Buenos Aires",
+      "telefono": "011 3462-2793",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Mundial/@-34.5515504,-58.5013939,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb6dd7d4ee929:0x903f7f0e3f2a2e47!8m2!3d-34.5515504!4d-58.4988136!16s%2Fg%2F1tf82ssy?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.5515504,
+        "lng": -58.5013939
+      }
+    },
+    {
+      "nombre": "PuntoFarma 16",
+      "direccion": "Adolfo Alsina 998, B1852 Burzaco",
+      "telefono": "011 4299-0104",
+      "mapa": "https://www.google.com/maps/place/Farmacia+PuntoFarma+16/@-34.8281358,-58.3919799,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd4a4ae561a67:0x51c1c668ea7ffc17!8m2!3d-34.8281358!4d-58.3893996!16s%2Fg%2F1tfp3ncl?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8281358,
+        "lng": -58.3919799
+      }
+    },
+    {
+      "nombre": "Longchamps",
+      "direccion": "Av. la Aviación 991, B1854 Longchamps",
+      "telefono": "4233-8247",
+      "mapa": "https://www.google.com/maps/place/Farmacias+Punto+de+Salud/@-34.8622553,-58.3902414,17z/data=!4m15!1m8!3m7!1s0x95bcd526bcbc3715:0xd37cd4ee0c3f4a74!2sAv.+la+Aviaci%C3%B3n+991,+B1854+Longchamps,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.8622553!4d-58.3876611!16s%2Fg%2F11gr6bnb3c!3m5!1s0x95bcd526a33c7f97:0x611ded70f66ea178!8m2!3d-34.8622551!4d-58.3876609!16s%2Fg%2F1thxm7_t?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8622553,
+        "lng": -58.3902414
+      }
+    },
+    {
+      "nombre": "FarmaPlus ex La Danesa",
+      "direccion": "Av. Cabildo 2171, C1428 Cdad. Autónoma de Buenos Aires",
+      "telefono": "011 4787-3100",
+      "mapa": "https://www.google.com/maps/place/FarmaPlus+ex+La+Danesa/@-34.5613025,-58.459649,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb5d37d69c8f7:0x30b75aa1b93f8042!8m2!3d-34.5613025!4d-58.4570687!16s%2Fg%2F1hc1lf9qj?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.5613025,
+        "lng": -58.459649
+      }
+    },
+    {
+      "nombre": "Nueva Alem",
+      "direccion": "Leandro N. Alem 801, B1842ASQ Gran Buenos Aires",
+      "telefono": "011 4296-4899",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Nueva+Alem/@-34.822675,-58.466132,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd15f78b59381:0xaac84ca3fcac16aa!8m2!3d-34.822675!4d-58.4635517!16s%2Fg%2F1th5drzg?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.822675,
+        "lng": -58.466132
+      }
+    },
+    {
+      "nombre": "Farmacia Pehuajó",
+      "direccion": "Leandro N. Alem y Pehuajó, B1842 Monte Grande, Provincia de Buenos Aires",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Pehuaj%C3%B3/@-34.844561,-58.4485655,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd56ff62020db:0xdc91c382d2017063!8m2!3d-34.844561!4d-58.4459852!16s%2Fg%2F11v9qk70d9?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.844561,
+        "lng": -58.4485655
+      }
+    },
+    {
+      "nombre": "Punto De Salud",
+      "direccion": "Nicolás Avellaneda 74, B1804EOB Ezeiza",
+      "telefono": "4232-9576",
+      "mapa": "https://www.google.com/maps/place/Farmacias+Punto+De+Salud/@-34.854992,-58.5287597,17z/data=!4m15!1m8!3m7!1s0x95bcd0cb8606b57d:0x58bee0596fc31470!2sNicol%C3%A1s+Avellaneda+74,+B1804EOB+Ezeiza,+Provincia+de+Buenos+Aires!3b1!8m2!3d-34.854992!4d-58.5261794!16s%2Fg%2F11kqbrpbt3!3m5!1s0x95bcd10d4f41aea3:0xbc68c72cf1999746!8m2!3d-34.854992!4d-58.5261794!16s%2Fg%2F11grprfvm_?entry=ttu&g_ep=EgoyMDI1MDYwNC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.854992,
+        "lng": -58.5287597
+      }
+    },
+    {
+      "nombre": "Farmacia Moreno 90",
+      "direccion": "Mariano Moreno 88, B1704 Ramos Mejía, Provincia de Buenos Aires",
+      "telefono": "01146562183",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Moreno+90/@-34.6413261,-58.5651581,17z/data=!4m6!3m5!1s0x95bcc7e4e2c333b9:0xc94b2622017f0b68!8m2!3d-34.6413305!4d-58.5625832!16s%2Fg%2F11c5xxr_9k?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6413261,
+        "lng": -58.5651581
+      }
+    },
+    {
+      "nombre": "Farmacia 24hs s.c.s",
+      "direccion": "Cnel. Lorenzo Barcala 230, B1714DNF Ituzaingó, Provincia de Buenos Aires",
+      "telefono": "01165862299",
+      "mapa": "https://www.google.com/maps/place/Farmacia+24hs+s.c.s+(NO+REALIZAMOS+ENVIOS)/@-34.634974,-58.6700603,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcbf3e0d831c43:0x925a69176df14b66!8m2!3d-34.6349784!4d-58.6674854!16s%2Fg%2F11bc7chpmk?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.634974,
+        "lng": -58.6700603
+      }
+    },
+    {
+      "nombre": "Farmacia 24hs",
+      "direccion": "Av. Gdor. Vergara 2081, B1688 Santos Tesei, Provincia de Buenos Aires",
+      "telefono": "01160890684",
+      "mapa": "https://www.google.com/maps/place/Farmacia+24hs+Dia+y+Noche/@-34.6186035,-58.6363562,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb9700c05f3b7:0x948c12df4864b5cc!8m2!3d-34.6186079!4d-58.6337813!16s%2Fg%2F11fnspl45c?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6186035,
+        "lng": -58.6363562
+      }
+    },
+    {
+      "nombre": "Casares",
+      "direccion": "Carlos Casares 1279, B1712 Morón, Provincia de Buenos Aires",
+      "telefono": "01148268757",
+      "mapa": "https://www.google.com/maps/place/JLJ,+Carlos+Casares+1279,+B1712+Castelar,+Provincia+de+Buenos+Aires/@-34.6470601,-58.6441047,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb8abf547dab1:0xb36158d8d0e177a0!8m2!3d-34.6470645!4d-58.6415298!16s%2Fg%2F11pc1rh3yz?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6470601,
+        "lng": -58.6441047
+      }
+    },
+    {
+      "nombre": "Grupo 24",
+      "direccion": "Av. Bartolomé Mitre 2360, B1744OHU Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "02374621243",
+      "mapa": "https://www.google.com/maps/place/FARMACIA+Grupo+24/@-34.6507395,-58.7866089,17z/data=!3m1!4b1!4m6!3m5!1s0x95bc94553ade4f7f:0xd60249af283591cc!8m2!3d-34.6507439!4d-58.784034!16s%2Fg%2F11b78pwdd7?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6507395,
+        "lng": -58.7866089
+      }
+    },
+    {
+      "nombre": "Nuevo Puente",
+      "direccion": "Av. Pres. Perón 6501, B1688 Ituzaingó, Provincia de Buenos Aires",
+      "telefono": "01144597871",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Nuevo+Puente/@-34.6300725,-58.6590869,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcbf31288b8e33:0x1650a4a2cfff98f9!8m2!3d-34.630077!4d-58.654216!16s%2Fg%2F11bc73bvy1?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6300725,
+        "lng": -58.6590869
+      }
+    },
+    {
+      "nombre": "Antigua Gigliotti",
+      "direccion": "Av. San Martín 2643, Caseros Buenos Aires AR, B1678",
+      "telefono": "01145127200",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Antigua+Gigliotti/@-34.606386,-58.5648813,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb823b10540ff:0x3aa96a204b753e46!8m2!3d-34.6063904!4d-58.5623064!16s%2Fg%2F1tcwmrbf?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.606386,
+        "lng": -58.5648813
+      }
+    },
+    {
+      "nombre": "Gaspar Campos",
+      "direccion": "San Miguel Buenos Aires AR, Av. Dr. Ricardo Balbín 2506, B1663",
+      "telefono": "01144514049",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Gaspar+Campos/@-34.5520999,-58.7253486,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcbd76fcb32755:0x11f401b3fd720648!8m2!3d-34.5521043!4d-58.7227737!16s%2Fg%2F1tffw3hr?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.5520999,
+        "lng": -58.7253486
+      }
+    },
+    {
+      "nombre": "Pazos",
+      "direccion": "Av. Pte. J. D. Perón 4708, B1665KQZ José C. Paz, Provincia de Buenos Aires",
+      "telefono": "02320422198",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Pazos/@-34.5190467,-58.7460749,17z/data=!3m1!4b1!4m6!3m5!1s0x95bc98022602fa45:0xa3211d1851281816!8m2!3d-34.5190511!4d-58.7435!16s%2Fg%2F1tmpx4pt?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.5190467,
+        "lng": -58.7460749
+      }
+    },
+    {
+      "nombre": "Farmacia del Águila",
+      "direccion": "Pres. Rivadavia 1, B1665 José C. Paz, Provincia de Buenos Aires",
+      "telefono": "",
+      "mapa": "https://www.google.com/maps/place/Farmacia+del+%C3%81guila/@-34.5183854,-58.7535688,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcbd5a0f1ea30d:0x56068e993a3540eb!8m2!3d-34.5183898!4d-58.7509939!16s%2Fg%2F11c5bqysz3?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.5183854,
+        "lng": -58.7535688
+      }
+    },
+    {
+      "nombre": "Farmacia 24 Hs.",
+      "direccion": "Av. Victorica 177, B1744BWB Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "02374666313",
+      "mapa": "https://www.google.com/maps/place/Farmacia+24+Hs./@-34.6468254,-58.7992665,17z/data=!3m1!4b1!4m6!3m5!1s0x95bc945ac9159877:0xe9d909dab6e8a32c!8m2!3d-34.6468298!4d-58.7966916!16s%2Fg%2F1vxvk0qx?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6468254,
+        "lng": -58.7992665
+      }
+    },
+    {
+      "nombre": "Farma Jet",
+      "direccion": "Av. Monseñor Bufano 3340, B1754BZN San Justo, Provincia de Buenos Aires",
+      "telefono": "01136309708",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Farma+Jet/@-34.6847792,-58.5639608,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8a0bb4961af:0x398578218b2db90f!8m2!3d-34.6847836!4d-58.5613859!16s%2Fg%2F1tdk6c6_?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6847792,
+        "lng": -58.5639608
+      }
+    },
+    {
+      "nombre": "Farmacia RAFAEL CASTILLO",
+      "direccion": "Gregorio Jaramillo 1137, B1755ACW Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "01146903124",
+      "mapa": "https://www.google.com/maps/place/Farmacia+RAFAEL+CASTILLO/@-34.7002974,-58.6286952,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcc6c3ac47a2ed:0xf1b13075d7b33c45!8m2!3d-34.7003018!4d-58.6261203!16s%2Fg%2F11b7clz70s?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7002974,
+        "lng": -58.6286952
+      }
+    },
+    {
+      "nombre": "Crovetto 24hs",
+      "direccion": "Av. Boulogne Sur Mer 1634, B1768 Villa Madero, Provincia de Buenos Aires",
+      "telefono": "0111523208441",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Crovetto+24hs/@-34.6998498,-58.5063511,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcced72714fbf9:0x4d3d3a33aafb5025!8m2!3d-34.6998542!4d-58.5037762!16s%2Fg%2F1tcx2qnc?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6998498,
+        "lng": -58.5063511
+      }
+    },
+    {
+      "nombre": "Central Oeste- ParaTi",
+      "direccion": "Av. Rivadavia 14002, B1704 Ramos Mejía, Provincia de Buenos Aires",
+      "telefono": "52630891",
+      "mapa": "https://www.google.com/maps/place/Farmacias+Central+Oeste-+ParaTi/@-34.6408919,-58.5669631,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcc7e5389dfd9b:0x5f8985ab1901e9bf!8m2!3d-34.6408963!4d-58.5643882!16s%2Fg%2F11hyl53y92?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6408919,
+        "lng": -58.5669631
+      }
+    },
+    {
+      "nombre": "FarmaBelén",
+      "direccion": "Ciudad Autónoma de Buenos Aires AR, Av. Riestra 5701, C1439 BYI, Cdad. Autónoma de Buenos Aires",
+      "telefono": "01158328686",
+      "mapa": "https://www.google.com/maps/place/FarmaBel%C3%A9n+Sucursal+Riestra+24hs/@-34.6772021,-58.4781755,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcc94e30fc4435:0x899e901220af219d!8m2!3d-34.6772065!4d-58.4756006!16s%2Fg%2F1tg698ty?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6772021,
+        "lng": -58.4781755
+      }
+    },
+    {
+      "nombre": "Central Oeste Cravenna",
+      "direccion": "Av. Rivadavia 18199, B1708 Morón, Provincia de Buenos Aires",
+      "telefono": "52637058",
+      "mapa": "https://www.google.com/maps/place/Farmacias+Central+Oeste+Cravenna/@-34.6491546,-58.6222349,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcc7df47b205c5:0x14ed82c6b481c1fa!8m2!3d-34.649159!4d-58.61966!16s%2Fg%2F11swmn1r5x?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6491546,
+        "lng": -58.6222349
+      }
+    },
+    {
+      "nombre": "Grupo 24",
+      "direccion": "Av. Bartolomé Mitre 2360, B1744OHU Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "02374621243",
+      "mapa": "https://www.google.com/maps/place/FARMACIA+Grupo+24/@-34.6507395,-58.7866089,17z/data=!3m1!4b1!4m6!3m5!1s0x95bc94553ade4f7f:0xd60249af283591cc!8m2!3d-34.6507439!4d-58.784034!16s%2Fg%2F11b78pwdd7?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6507395,
+        "lng": -58.7866089
+      }
+    },
+    {
+      "nombre": "Romo",
+      "direccion": "Av. del Libertador 507, B1744 Moreno, Provincia de Buenos Aires",
+      "telefono": "02374637929",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Romo/@-34.6440175,-58.7916931,17z/data=!3m1!4b1!4m6!3m5!1s0x95bc9451fc55c4ff:0x4603426f647c270b!8m2!3d-34.6440219!4d-58.7891182!16s%2Fg%2F1td43p6g?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.6440175,
+        "lng": -58.7916931
+      }
+    },
+    {
+      "nombre": "PuntoFarma 04",
+      "direccion": "Av. San Martín 3300, B1824EKV Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "01142477074",
+      "mapa": "https://www.google.com/maps/place/Farmacia+PuntoFarma+04/@-34.7050556,-58.4185949,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcccff9831a053:0x510958b7e5feef4e!8m2!3d-34.70506!4d-58.41602!16s%2Fg%2F11bzyy2h46?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7050556,
+        "lng": -58.4185949
+      }
+    },
+    {
+      "nombre": "PuntoFarma",
+      "direccion": "Av. Hipólito Yrigoyen 4583, B1824ABB Gran Buenos Aires, Provincia de Buenos Aires",
+      "telefono": "01142474745",
+      "mapa": "https://www.google.com/maps/place/Farmacia+PuntoFarma+03/@-34.7078016,-58.3944759,17z/data=!3m1!4b1!4m6!3m5!1s0x95bccd22ffa840d1:0x61b86b11a8708c8a!8m2!3d-34.707806!4d-58.391901!16s%2Fg%2F11b6_r_5vf?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7078016,
+        "lng": -58.3944759
+      }
+    },
+    {
+      "nombre": "Econofarma",
+      "direccion": "Av. Hipolito Yrigoyen 9301, esquina, Av. Colombres, B1832 Lomas de Zamora, Provincia de Buenos Aires",
+      "telefono": "01121787719",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Econofarma+Abierta+24+Horas/@-34.764079,-58.4061017,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcd2ed1bf9ab13:0xe137158e784f45f2!8m2!3d-34.7640834!4d-58.4035268!16s%2Fg%2F1w4f9964?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.764079,
+        "lng": -58.4061017
+      }
+    },
+    {
+      "nombre": "Entre Rios",
+      "direccion": "Av. 7 2915, B1914 Villa Elvira, Provincia de Buenos Aires",
+      "telefono": "02214862500",
+      "mapa": "https://www.google.com/maps/place/Farmacia+Entre+Rios/@-34.9456757,-57.9121065,17z/data=!3m1!4b1!4m6!3m5!1s0x95a2ef31eb811039:0xba8e2bd28f187524!8m2!3d-34.9456801!4d-57.9095316!16s%2Fg%2F11fz2s50n5?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.9456757,
+        "lng": -57.9121065
+      }
+    },
+    {
+      "nombre": "FARMANOBEL INGENIERO ALLAN",
+      "direccion": "C. 1282 931, B1891 Ingeniero Juan Allan, Provincia de Buenos Aires",
+      "telefono": "01144144111",
+      "mapa": "https://www.google.com/maps/place/Farmacia+FARMANOBEL+INGENIERO+ALLAN/@-34.8633426,-58.1857947,17z/data=!3m1!4b1!4m6!3m5!1s0x95a2d823fe3b92eb:0x220ec12f782d5e7b!8m2!3d-34.863347!4d-58.1832198!16s%2Fg%2F11cmm6crhl?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.8633426,
+        "lng": -58.1857947
+      }
+    },
+    {
+      "nombre": "MAGA SHOP MALY",
+      "direccion": "C. 893 4291, B1881 San Francisco Solano, Provincia de Buenos Aires",
+      "telefono": "42120884",
+      "mapa": "https://www.google.com/maps/place/MAGA+SHOP+MALY+24+Hs./@-34.7772919,-58.3115713,17z/data=!3m1!4b1!4m6!3m5!1s0x95a32c6a26b1bbef:0x4cf1a3ffe7d4027e!8m2!3d-34.7772963!4d-58.3089964!16s%2Fg%2F11btvg8rfh?entry=ttu&g_ep=EgoyMDI1MDYxMC4wIKXMDSoASAFQAw%3D%3D",
+      "coordenadas": {
+        "lat": -34.7772919,
+        "lng": -58.3115713
+      }
     }
   ]
 }

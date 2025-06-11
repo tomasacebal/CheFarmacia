@@ -107,7 +107,7 @@ def añadir_coordenadas_a_farmacias_24h():
                 farmacia["coordenadas"] = cache[direccion]
                 continue
 
-            coords = obtener_coordenadas_desde_url_directa(mapa_url)
+            coords = extraer_coordenadas_desde_url(mapa_url)
             if coords:
                 farmacia["coordenadas"] = coords
                 cache[direccion] = coords
