@@ -8,8 +8,22 @@ from scrapers.lomas_de_zamora import LomasDeZamoraScraper
 from scrapers.la_plata import LaPlataScraper
 from scrapers.merlo import MerloScraper
 from scrapers.zarate import ZarateScraper
+from scrapers.florencio_varela import VarelaScraper
+from scrapers.quilmes import QuilmesScraper
+from scrapers.berazategui import BerazateguiScraper
+from scrapers.lincoln import LincolnScraper
+from scrapers.azul import AzulScraper
+from scrapers.bolivar import BolivarScraper
+from scrapers.coronel_suarez import CoronelSuarezScraper
+from scrapers.las_toninas import LasToninasScraper
+from scrapers.mar_de_ajo import MarDeAjoScraper
+from scrapers.mar_del_tuyu import MarDelTuyuScraper
+from scrapers.miramar import MiramarScraper
+from scrapers.san_bernardo import SanBernardoScraper
+from scrapers.san_clemente_del_tuyu import SanClementeScraper
+from scrapers.santa_teresita import SantaTeresitaScraper
 
-from utils import save_to_json, commit_and_push, format_data_for_json
+from utils import save_to_json, commit_and_push, format_data_for_json, merge_data
 
 def main():
     load_dotenv()
@@ -19,12 +33,26 @@ def main():
         SanIsidroScraper(),
         TigreScraper(),
         LaPlataScraper(),
-        # LomasDeZamoraScraper(),
         MerloScraper(),
         ZarateScraper(),
-    ]
+        QuilmesScraper(),
+        BerazateguiScraper(),
+        LincolnScraper(),
+        AzulScraper(),
+        BolivarScraper(),
+        CoronelSuarezScraper(),
+        LasToninasScraper(),
+        MarDeAjoScraper(),
+        MarDelTuyuScraper(),
+        MiramarScraper(),
+        SanBernardoScraper(),
+        SanClementeScraper(),
+        SantaTeresitaScraper(),
 
-    from utils import merge_data  # Asegurate de tener esto arriba
+
+
+        # VarelaScraper(),
+    ]
 
     datos_combinados = {}
 

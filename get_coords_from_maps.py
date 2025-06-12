@@ -35,6 +35,8 @@ def crear_driver():
     service = Service(executable_path=binary_path)
     return webdriver.Chrome(service=service, options=chrome_options)
 
+import re
+
 def extraer_coordenadas_desde_url(url):
     try:
         # Patrón 1: /@LAT,LNG
@@ -52,17 +54,31 @@ def extraer_coordenadas_desde_url(url):
             lng = float(match_dest.group(2))
             return {"lat": lat, "lng": lng}
 
-        # Patrón 3: cualquier LAT,LNG suelto (último recurso, puede dar falsos positivos)
-        match = re.search(r"(-3?\d+\.\d+),(-5?\d+\.\d+)", url)
-        if match:
-            lat = float(match.group(1))
-            lng = float(match.group(2))
+        # Patrón 3: embed con !2dLNG!3dLAT
+        match_embed = re.search(r"!2d(-?\d+\.\d+)!3d(-?\d+\.\d+)", url)
+        if match_embed:
+            lng = float(match_embed.group(1))
+            lat = float(match_embed.group(2))
+            return {"lat": lat, "lng": lng}
+
+        # Patrón 4: cualquier LAT,LNG suelto (último recurso)
+        match_fallback = re.search(r"(-3\d+\.\d+),(-5\d+\.\d+)", url)
+        if match_fallback:
+            lat = float(match_fallback.group(1))
+            lng = float(match_fallback.group(2))
+            return {"lat": lat, "lng": lng}
+        
+        match_fallback = re.search(r"(-3\d+\.\d+),(-6\d+\.\d+)", url)
+        if match_fallback:
+            lat = float(match_fallback.group(1))
+            lng = float(match_fallback.group(2))
             return {"lat": lat, "lng": lng}
 
         return None
     except Exception as e:
         print(f"[ERROR] No se pudo extraer coordenadas: {e}")
         return None
+
 
 
 
