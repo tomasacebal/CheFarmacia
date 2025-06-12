@@ -631,8 +631,8 @@
           "telefono": "47406752",
           "mapa": "https://www.google.com/maps/place/-34.461241,-58.636255",
           "coordenadas": {
-            "lat": null,
-            "lng": null
+            "lat": -34.4610296,
+            "lng": -58.6362549
           }
         },
         {
@@ -651,8 +651,8 @@
           "telefono": "47481131474891334846059",
           "mapa": "https://www.google.com/maps/place/-34.501831,-58.64232",
           "coordenadas": {
-            "lat": null,
-            "lng": null
+            "lat": -34.501831,
+            "lng": -58.64232
           }
         },
         {
@@ -661,8 +661,8 @@
           "telefono": "48594131",
           "mapa": "https://www.google.com/maps/place/-34.4474953,-58.6344085",
           "coordenadas": {
-            "lat": -34.4425874,
-            "lng": -58.6387945
+            "lat": -34.4474953,
+            "lng": -58.6344085
           }
         },
         {
@@ -671,8 +671,8 @@
           "telefono": "03327485432",
           "mapa": "https://www.google.com/maps/place/-34.4100058,-58.6810999",
           "coordenadas": {
-            "lat": -34.4077487,
-            "lng": -58.6845601
+            "lat": -34.4100058,
+            "lng": -58.6810999
           }
         }
       ],
