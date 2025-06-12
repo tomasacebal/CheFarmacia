@@ -4029,6 +4029,74 @@
           }
         ]
       }
+    },
+    "Quilmes": {
+      "fuente": "https://www.farmaciadeturnoahora.com.ar/de-turno/buenos-aires/quilmes",
+      "confianza": 2,
+      "dias": {
+        "12/06/2025": [
+          {
+            "nombre": "ROSANO",
+            "direccion": "Av. Tte. Gral. Donato Alvarez N° 2168, entre 821 y 822",
+            "telefono": "1157554792",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76711798,-58.32691759",
+            "coordenadas": {
+              "lat": -34.76711798,
+              "lng": -58.32691759
+            }
+          },
+          {
+            "nombre": "TOCONAS",
+            "direccion": "Mar del Plata N° 4521, esq. Av. Republica de Francia",
+            "telefono": "75043072",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.75479168,-58.24964851",
+            "coordenadas": {
+              "lat": -34.75479168,
+              "lng": -58.24964851
+            }
+          },
+          {
+            "nombre": "MATTERA",
+            "direccion": "Av. San Martin N° 600, esq. Ameghino",
+            "telefono": "1156650551",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.70850100,-58.28381985",
+            "coordenadas": {
+              "lat": -34.708501,
+              "lng": -58.28381985
+            }
+          },
+          {
+            "nombre": "NVA. VENTURA",
+            "direccion": "Av. Los Quilmes N° 736, esq. Gral. Alvarez",
+            "telefono": "1163811794",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.71974099,-58.30400884",
+            "coordenadas": {
+              "lat": -34.71974099,
+              "lng": -58.30400884
+            }
+          },
+          {
+            "nombre": "SANAR 4",
+            "direccion": "Av. Calchaqui N° 836, esq. Av. Rodolfo Lopez",
+            "telefono": "1563992998",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.73574951,-58.29462916",
+            "coordenadas": {
+              "lat": -34.73574951,
+              "lng": -58.29462916
+            }
+          },
+          {
+            "nombre": "QUILMES OESTE",
+            "direccion": "Av. 12 de Octubre N° 440, e/ R. Saenz Peña y B. de Irigoyen",
+            "telefono": "1135540636",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.72932179,-58.26279938",
+            "coordenadas": {
+              "lat": -34.72932179,
+              "lng": -58.26279938
+            }
+          }
+        ]
+      }
     }
   }
 }
