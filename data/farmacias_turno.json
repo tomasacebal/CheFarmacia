@@ -34,6 +34,116 @@
             "lat": -34.4648225,
             "lng": -58.5147656
           }
+        },
+        {
+          "nombre": "Farmacia Etchenique",
+          "direccion": "Filiberto 670, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6667551,
+            "lng": -58.757327
+          }
+        },
+        {
+          "nombre": "Nueva Merlo",
+          "direccion": "Av. del Libertador 501, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6687026,
+            "lng": -58.7256795
+          }
+        },
+        {
+          "nombre": "Central Merlo",
+          "direccion": "Suipacha 547, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6662927,
+            "lng": -58.7264133
+          }
+        },
+        {
+          "nombre": "Benítez",
+          "direccion": "Ricardo Balbín 9040 esq. Uriarte, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7196609,
+            "lng": -58.7889544
+          }
+        },
+        {
+          "nombre": "Curotti",
+          "direccion": "Av. San Martín 3225, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6880997,
+            "lng": -58.7334948
+          }
+        },
+        {
+          "nombre": "Rois",
+          "direccion": "Echeverry 545, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7002444,
+            "lng": -58.7481793
+          }
+        },
+        {
+          "nombre": "Plazza",
+          "direccion": "Av. Eva Perón 681 esq. La Porteña, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6844275,
+            "lng": -58.6833014
+          }
+        },
+        {
+          "nombre": "Nueva Colombia",
+          "direccion": "Colombia 1046 esq. Escobar (B. Nuevo), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6861357,
+            "lng": -58.7280938
+          }
+        },
+        {
+          "nombre": "Güemes Peña",
+          "direccion": "Rodríguez Peña 290, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6608078,
+            "lng": -58.7332376
+          }
+        },
+        {
+          "nombre": "Zurro",
+          "direccion": "De los Franceses 3861, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7496717,
+            "lng": -58.7029933
+          }
+        },
+        {
+          "nombre": "Ceballos",
+          "direccion": "Int. Mendiluce 115, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6697409,
+            "lng": -58.6989491
+          }
         }
       ],
       "2": [
@@ -75,6 +185,126 @@
           "coordenadas": {
             "lat": -34.504784,
             "lng": -58.550088
+          }
+        },
+        {
+          "nombre": "Farmacia Díaz",
+          "direccion": "Filiberto 1504, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6727368,
+            "lng": -58.7635022
+          }
+        },
+        {
+          "nombre": "Ares",
+          "direccion": "Av. Calle Real (Ex Vergara) 598, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6776843,
+            "lng": -58.7126372
+          }
+        },
+        {
+          "nombre": "Funes",
+          "direccion": "Av. del Libertador 386, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6703214,
+            "lng": -58.7253371
+          }
+        },
+        {
+          "nombre": "Farma Soluciones",
+          "direccion": "Dr. Ricardo Balbín 9802 esq. Santander, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7274298,
+            "lng": -58.7944867
+          }
+        },
+        {
+          "nombre": "Porvenir",
+          "direccion": "Av. San Martín 2800, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6440042,
+            "lng": -58.5985122
+          }
+        },
+        {
+          "nombre": "De la Fuente",
+          "direccion": "Fleming 4500, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6987123,
+            "lng": -58.7329811
+          }
+        },
+        {
+          "nombre": "Libertad",
+          "direccion": "Av. Eva Perón 4321 esq. J. B. Justo (Lib. Ctro), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6912283,
+            "lng": -58.6902915
+          }
+        },
+        {
+          "nombre": "Nobel Repetto",
+          "direccion": "Gamboa 516 esq. Soler (Barrio Petracchi), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6904211,
+            "lng": -58.6676056
+          }
+        },
+        {
+          "nombre": "Traverso",
+          "direccion": "Bella Vista 4648 (Barrio Nuevo), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6448707,
+            "lng": -58.6664046
+          }
+        },
+        {
+          "nombre": "Fusco",
+          "direccion": "H. Yrigoyen 315, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.661569,
+            "lng": -58.726422
+          }
+        },
+        {
+          "nombre": "Salgueiro",
+          "direccion": "De los Italianos 4018, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7516776,
+            "lng": -58.702977
+          }
+        },
+        {
+          "nombre": "Nuova Varrone",
+          "direccion": "Noguera 600, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6705483,
+            "lng": -58.6942535
           }
         }
       ],
@@ -118,6 +348,126 @@
             "lat": -34.4900443,
             "lng": -58.5247402
           }
+        },
+        {
+          "nombre": "Farmacia Montalvo",
+          "direccion": "Montalvo 1174, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.672,
+            "lng": -58.77
+          }
+        },
+        {
+          "nombre": "Nuova Cesaretti",
+          "direccion": "Julián M. Castro 806, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6865436,
+            "lng": -58.7171794
+          }
+        },
+        {
+          "nombre": "Farmamass",
+          "direccion": "Riobamba 781, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6681296,
+            "lng": -58.7282267
+          }
+        },
+        {
+          "nombre": "Aguer",
+          "direccion": "Dr. Balbín 8685, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6883125,
+            "lng": -58.7659174
+          }
+        },
+        {
+          "nombre": "Arnold",
+          "direccion": "Av. San Martín 2458, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6836577,
+            "lng": -58.7290692
+          }
+        },
+        {
+          "nombre": "Ienni",
+          "direccion": "25 de Mayo 5200, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7017018,
+            "lng": -58.7430262
+          }
+        },
+        {
+          "nombre": "Farmanele",
+          "direccion": "Av. Eva Perón 2399 esq. Sucre (V. Amelia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6891777,
+            "lng": -58.7053826
+          }
+        },
+        {
+          "nombre": "Alvarez",
+          "direccion": "French 1920 (La Blanquita), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7007926,
+            "lng": -58.7216938
+          }
+        },
+        {
+          "nombre": "Palmar",
+          "direccion": "H. Yrigoyen 1353, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.652822,
+            "lng": -58.7219782
+          }
+        },
+        {
+          "nombre": "Padua",
+          "direccion": "Av. De la Unión 1291, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7439325,
+            "lng": -58.6959136
+          }
+        },
+        {
+          "nombre": "Dingianti",
+          "direccion": "Noguera 244, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6680236,
+            "lng": -58.6971553
+          }
+        },
+        {
+          "nombre": "Sullivan",
+          "direccion": "Av. Sullivan 1484, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6548267,
+            "lng": -58.7136112
+          }
         }
       ],
       "4": [
@@ -159,6 +509,126 @@
           "coordenadas": {
             "lat": -34.4984041,
             "lng": -58.5560884
+          }
+        },
+        {
+          "nombre": "Farmacia Hernández",
+          "direccion": "Peyret 2417, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6767592,
+            "lng": -58.7756217
+          }
+        },
+        {
+          "nombre": "Sasso",
+          "direccion": "Constitución 538, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6732276,
+            "lng": -58.7326779
+          }
+        },
+        {
+          "nombre": "Mario Bravo S.C.S",
+          "direccion": "Mario Bravo 1081, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6823441,
+            "lng": -58.7105436
+          }
+        },
+        {
+          "nombre": "Científica Constituyentes",
+          "direccion": "Av. Constituyentes 918, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7170432,
+            "lng": -58.7960816
+          }
+        },
+        {
+          "nombre": "Romano",
+          "direccion": "Arist. del Valle 2898, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6895538,
+            "lng": -58.7259857
+          }
+        },
+        {
+          "nombre": "Esteve",
+          "direccion": "Echeverry 133, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6965206,
+            "lng": -58.7533557
+          }
+        },
+        {
+          "nombre": "Blanco",
+          "direccion": "Av. Eva Perón 2992 y Rivarola (La Cortada), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6821121,
+            "lng": -58.6797913
+          }
+        },
+        {
+          "nombre": "Pasic",
+          "direccion": "Carabajal 1021 (Los Aromos), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6977306,
+            "lng": -58.671086
+          }
+        },
+        {
+          "nombre": "Melo",
+          "direccion": "Independencia 1777, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6618443,
+            "lng": -58.7192216
+          }
+        },
+        {
+          "nombre": "Roge",
+          "direccion": "Balladares 4186, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7499258,
+            "lng": -58.7004272
+          }
+        },
+        {
+          "nombre": "Rusitti",
+          "direccion": "Independencia 861, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6638215,
+            "lng": -58.7060942
+          }
+        },
+        {
+          "nombre": "Botica Noguera",
+          "direccion": "Noguera 2045, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6788329,
+            "lng": -58.6847304
           }
         }
       ],
@@ -212,6 +682,126 @@
             "lat": -34.4751419,
             "lng": -58.5306589
           }
+        },
+        {
+          "nombre": "Farmacia Mendibil",
+          "direccion": "Ruta 200 Km. 34,5, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6813486,
+            "lng": -58.7501659
+          }
+        },
+        {
+          "nombre": "Massaro",
+          "direccion": "Perú 503, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6719128,
+            "lng": -58.7234147
+          }
+        },
+        {
+          "nombre": "Alonso",
+          "direccion": "Moreno 482, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6650883,
+            "lng": -58.7260745
+          }
+        },
+        {
+          "nombre": "Contreras",
+          "direccion": "B. Bossini y C. Salvadores, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7205388,
+            "lng": -58.7929747
+          }
+        },
+        {
+          "nombre": "Zamudio",
+          "direccion": "Ricardo Balbín y Superí, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7245917,
+            "lng": -58.7925764
+          }
+        },
+        {
+          "nombre": "Mughini",
+          "direccion": "Av. San Martín 4474, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6956936,
+            "lng": -58.7407397
+          }
+        },
+        {
+          "nombre": "Caminos",
+          "direccion": "Balbastro 1755, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6954627,
+            "lng": -58.7191554
+          }
+        },
+        {
+          "nombre": "Biondo",
+          "direccion": "Av. Eva Perón 6747 (El Palomo), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7087848,
+            "lng": -58.7097664
+          }
+        },
+        {
+          "nombre": "Chavez",
+          "direccion": "Colombia 531 esq. Panamá, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.5061803,
+            "lng": -58.5203712
+          }
+        },
+        {
+          "nombre": "Cano",
+          "direccion": "H. Yrigoyen 797, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.657663,
+            "lng": -58.7244132
+          }
+        },
+        {
+          "nombre": "Amistad",
+          "direccion": "Av. De la Unión 1684, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7468427,
+            "lng": -58.6981769
+          }
+        },
+        {
+          "nombre": "MGM Padua",
+          "direccion": "Esteban Echeverría 702-706, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6696474,
+            "lng": -58.6909767
+          }
         }
       ],
       "6": [
@@ -263,6 +853,126 @@
           "coordenadas": {
             "lat": -34.5009179,
             "lng": -58.5592938
+          }
+        },
+        {
+          "nombre": "Farmacia Castro",
+          "direccion": "Ruta 200.Km 5886, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6725693,
+            "lng": -58.7367027
+          }
+        },
+        {
+          "nombre": "Corona",
+          "direccion": "D. F. Sarmiento 33, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6689153,
+            "lng": -58.7208573
+          }
+        },
+        {
+          "nombre": "Jauregui",
+          "direccion": "Av. Calle Real (Ex Vergara) 1401, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6810694,
+            "lng": -58.7045916
+          }
+        },
+        {
+          "nombre": "Nueva Miguel",
+          "direccion": "Ruta 200 Km 40, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.683699,
+            "lng": -58.7593848
+          }
+        },
+        {
+          "nombre": "Echeverry",
+          "direccion": "Echeverry 1061, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7048608,
+            "lng": -58.7419908
+          }
+        },
+        {
+          "nombre": "Verona",
+          "direccion": "Gómez Fretes 4206, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6933119,
+            "lng": -58.7405375
+          }
+        },
+        {
+          "nombre": "Cancha de los Patos",
+          "direccion": "Av. Calle Real 2205 esq. Iturri (Ex Vergara), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6758995,
+            "lng": -58.7346245
+          }
+        },
+        {
+          "nombre": "Nuevo Arco (Ex Jeram)",
+          "direccion": "Av. Eva Perón 7485 (Arco Barrio Rivadavia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7136595,
+            "lng": -58.7189463
+          }
+        },
+        {
+          "nombre": "Vantage Merlo",
+          "direccion": "Cámpora 2289, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6634249,
+            "lng": -58.7273243
+          }
+        },
+        {
+          "nombre": "Zurro",
+          "direccion": "De los Franceses 3861, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7496717,
+            "lng": -58.7029933
+          }
+        },
+        {
+          "nombre": "Comastri",
+          "direccion": "Zárate 260, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6631469,
+            "lng": -58.6983603
+          }
+        },
+        {
+          "nombre": "La Esmeralda De Padua",
+          "direccion": "Pueyrredón 1611, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.675644,
+            "lng": -58.6998129
           }
         }
       ],
@@ -376,6 +1086,136 @@
             "lat": -34.4374961,
             "lng": -58.6822761
           }
+        },
+        {
+          "nombre": "Farmacia Mendibil",
+          "direccion": "Av. Ferrari 7648, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7128284,
+            "lng": -58.7697918
+          }
+        },
+        {
+          "nombre": "De la Estación",
+          "direccion": "Av. del Libertador 788, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6654872,
+            "lng": -58.7277292
+          }
+        },
+        {
+          "nombre": "Pricolo",
+          "direccion": "Ricardo Balbín 1905 esq. Gral. Paz, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6690969,
+            "lng": -58.7427434
+          }
+        },
+        {
+          "nombre": "Lois",
+          "direccion": "Tucumán 1051, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6656923,
+            "lng": -58.73271
+          }
+        },
+        {
+          "nombre": "Benítez",
+          "direccion": "Ricardo Balbín 9040 Esq. Uriarte, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7196609,
+            "lng": -58.7889544
+          }
+        },
+        {
+          "nombre": "Iaco",
+          "direccion": "Av. San Martín 3600, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6457495,
+            "lng": -58.6045428
+          }
+        },
+        {
+          "nombre": "Bravo",
+          "direccion": "Echeverry 1478, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7080384,
+            "lng": -58.7366179
+          }
+        },
+        {
+          "nombre": "Testa",
+          "direccion": "Malvinas 2359 esq. Honduras (Villa Amelia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6981706,
+            "lng": -58.691925
+          }
+        },
+        {
+          "nombre": "Bella Vista",
+          "direccion": "Bella Vista 2898, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6995301,
+            "lng": -58.655076
+          }
+        },
+        {
+          "nombre": "Cardin",
+          "direccion": "Rocamora 670, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7500082,
+            "lng": -58.6066867
+          }
+        },
+        {
+          "nombre": "Suev Farma",
+          "direccion": "Sgo. del Estero 1799, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6591605,
+            "lng": -58.7189033
+          }
+        },
+        {
+          "nombre": "Cientifica Kst",
+          "direccion": "Av. De la Unión 1002, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7426267,
+            "lng": -58.6938034
+          }
+        },
+        {
+          "nombre": "Guercio",
+          "direccion": "Int. Mendiluce 1608, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6709121,
+            "lng": -58.6988556
+          }
         }
       ],
       "8": [
@@ -488,6 +1328,126 @@
             "lat": -34.4742209,
             "lng": -58.6625199
           }
+        },
+        {
+          "nombre": "Farmacia Rossi",
+          "direccion": "Mozart 419, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6911001,
+            "lng": -58.7632746
+          }
+        },
+        {
+          "nombre": "Guida",
+          "direccion": "Av. Calle Real (Ex Vergara) 101, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6722471,
+            "lng": -58.7109295
+          }
+        },
+        {
+          "nombre": "Constitución 698",
+          "direccion": "Constitución 698, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6701927,
+            "lng": -58.7359858
+          }
+        },
+        {
+          "nombre": "Farma Soluciones",
+          "direccion": "Dr. Ricardo Balbín 9802 esq. Santander, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7274298,
+            "lng": -58.7944867
+          }
+        },
+        {
+          "nombre": "Porvenir",
+          "direccion": "Av. San Martín 2800, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6440042,
+            "lng": -58.5985122
+          }
+        },
+        {
+          "nombre": "De la Fuente",
+          "direccion": "Fleming 4500, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6987123,
+            "lng": -58.7329811
+          }
+        },
+        {
+          "nombre": "Anele",
+          "direccion": "Av. Eva Perón 3050 esq. Noguera, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6821752,
+            "lng": -58.6797711
+          }
+        },
+        {
+          "nombre": "Vía Scuderlando",
+          "direccion": "Carolina Lara de Maldonado 2706, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7122192,
+            "lng": -58.7240455
+          }
+        },
+        {
+          "nombre": "Obarrio",
+          "direccion": "Obarrio 2106, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.707128,
+            "lng": -58.667857
+          }
+        },
+        {
+          "nombre": "Coppola Orlando",
+          "direccion": "H. Yrigoyen 2125, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6464777,
+            "lng": -58.7188329
+          }
+        },
+        {
+          "nombre": "Cientifica Kst",
+          "direccion": "Av. De la Unión 1002, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7426267,
+            "lng": -58.6938034
+          }
+        },
+        {
+          "nombre": "Nueva Aparicio",
+          "direccion": "A. Rivadavia 23870, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6659831,
+            "lng": -58.6992098
+          }
         }
       ],
       "9": [
@@ -529,6 +1489,126 @@
           "coordenadas": {
             "lat": -34.5062179,
             "lng": -58.5160067
+          }
+        },
+        {
+          "nombre": "Farmacia Samoré",
+          "direccion": "Freire 662, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6985893,
+            "lng": -58.7672239
+          }
+        },
+        {
+          "nombre": "Glikin",
+          "direccion": "Colón 502, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6677541,
+            "lng": -58.7229441
+          }
+        },
+        {
+          "nombre": "Generia",
+          "direccion": "Av. Argentina 1557, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6766201,
+            "lng": -58.7260946
+          }
+        },
+        {
+          "nombre": "Aguer",
+          "direccion": "Dr. Balbín 8685, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6883125,
+            "lng": -58.7659174
+          }
+        },
+        {
+          "nombre": "Arnold",
+          "direccion": "Av. San Martín 2458, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6836577,
+            "lng": -58.7290692
+          }
+        },
+        {
+          "nombre": "Ienni",
+          "direccion": "25 de Mayo 5200, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7017018,
+            "lng": -58.7430262
+          }
+        },
+        {
+          "nombre": "Benitez",
+          "direccion": "Av. Eva Perón 1373 (Libertad Centro), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.690487,
+            "lng": -58.689579
+          }
+        },
+        {
+          "nombre": "Sica",
+          "direccion": "Sica 3004 (Barrio Rivadavia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7125163,
+            "lng": -58.7211153
+          }
+        },
+        {
+          "nombre": "Saavedra",
+          "direccion": "Av. Del Cortijo 1559 (Merlo Gómez), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7194101,
+            "lng": -58.52262
+          }
+        },
+        {
+          "nombre": "Güemes Peña",
+          "direccion": "Rodríguez Peña 290, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6608078,
+            "lng": -58.7332376
+          }
+        },
+        {
+          "nombre": "Padua",
+          "direccion": "Av. De la Unión 1291, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7439325,
+            "lng": -58.6959136
+          }
+        },
+        {
+          "nombre": "Farm. Noguera",
+          "direccion": "Noguera 23, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6663315,
+            "lng": -58.6997968
           }
         }
       ],
@@ -574,13 +1654,113 @@
           }
         },
         {
-          "nombre": "Rojas",
+          "nombre": "Farmacia Rojas",
           "direccion": "Rojas 909, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.6841677,
             "lng": -58.7798326
+          }
+        },
+        {
+          "nombre": "Nueva Merlo",
+          "direccion": "Av. del Libertador 501, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6687026,
+            "lng": -58.7256795
+          }
+        },
+        {
+          "nombre": "Central Merlo",
+          "direccion": "Suipacha 547, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6662927,
+            "lng": -58.7264133
+          }
+        },
+        {
+          "nombre": "Cientifica Constituyentes",
+          "direccion": "Av. Constituyentes 918, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7170432,
+            "lng": -58.7960816
+          }
+        },
+        {
+          "nombre": "Romano",
+          "direccion": "Arist. del Valle 2898, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6895538,
+            "lng": -58.7259857
+          }
+        },
+        {
+          "nombre": "Esteve",
+          "direccion": "Echeverry 133, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6965206,
+            "lng": -58.7533557
+          }
+        },
+        {
+          "nombre": "Plazza",
+          "direccion": "Av. Eva Perón 681 Esq. La Porteña, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6844275,
+            "lng": -58.6833014
+          }
+        },
+        {
+          "nombre": "Nueva Colombia",
+          "direccion": "Colombia 1046 Esq. Escobar (B. Nuevo), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6861357,
+            "lng": -58.7280938
+          }
+        },
+        {
+          "nombre": "Fusco",
+          "direccion": "H. Yrigoyen 315, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.661569,
+            "lng": -58.726422
+          }
+        },
+        {
+          "nombre": "Roge",
+          "direccion": "Balladares 4186, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7499258,
+            "lng": -58.7004272
+          }
+        },
+        {
+          "nombre": "Ceballos",
+          "direccion": "Int. Mendiluce 115, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6697409,
+            "lng": -58.6989491
           }
         }
       ],
@@ -916,13 +2096,123 @@
           }
         },
         {
-          "nombre": "Etchenique",
+          "nombre": "Farmacia Etchenique",
           "direccion": "Filiberto 670, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.6667551,
             "lng": -58.757327
+          }
+        },
+        {
+          "nombre": "Ares",
+          "direccion": "Av. Calle Real (Ex Vergara) 598, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6776843,
+            "lng": -58.7126372
+          }
+        },
+        {
+          "nombre": "Funes",
+          "direccion": "Av. del Libertador 386, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6703214,
+            "lng": -58.7253371
+          }
+        },
+        {
+          "nombre": "Contreras",
+          "direccion": "B. Bossini y C. Salvadores, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7205388,
+            "lng": -58.7929747
+          }
+        },
+        {
+          "nombre": "Mughini",
+          "direccion": "Av. San Martín 4474, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6956936,
+            "lng": -58.7407397
+          }
+        },
+        {
+          "nombre": "Caminos",
+          "direccion": "Balbastro 1755, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6954627,
+            "lng": -58.7191554
+          }
+        },
+        {
+          "nombre": "Libertad",
+          "direccion": "Av. Eva Perón 4321 esq. J. B. Justo (Lib. Ctro), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6912283,
+            "lng": -58.6902915
+          }
+        },
+        {
+          "nombre": "Nobel Repetto",
+          "direccion": "Gamboa 516 esq. Soler (Barrio Petracchi), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6904211,
+            "lng": -58.6676056
+          }
+        },
+        {
+          "nombre": "Traverso",
+          "direccion": "Bella Vista 4648 (Barrio Nuevo), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6448707,
+            "lng": -58.6664046
+          }
+        },
+        {
+          "nombre": "Palmar",
+          "direccion": "H. Yrigoyen 1353, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.652822,
+            "lng": -58.7219782
+          }
+        },
+        {
+          "nombre": "Amistad",
+          "direccion": "Av. De la Unión 1684, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7468427,
+            "lng": -58.6981769
+          }
+        },
+        {
+          "nombre": "Nuova Varrone",
+          "direccion": "Noguera 600, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6705483,
+            "lng": -58.6942535
           }
         }
       ],
@@ -978,13 +2268,123 @@
           }
         },
         {
-          "nombre": "Díaz",
+          "nombre": "Farmacia Díaz",
           "direccion": "Filiberto 1504, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.6727368,
             "lng": -58.7635022
+          }
+        },
+        {
+          "nombre": "Nuova Cesaretti",
+          "direccion": "Julián M. Castro 806, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6865436,
+            "lng": -58.7171794
+          }
+        },
+        {
+          "nombre": "Farmamass",
+          "direccion": "Riobamba 781, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6681296,
+            "lng": -58.7282267
+          }
+        },
+        {
+          "nombre": "Nueva Miguel",
+          "direccion": "Ruta 200 Km 40, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.683699,
+            "lng": -58.7593848
+          }
+        },
+        {
+          "nombre": "Echeverry",
+          "direccion": "Echeverry 1061, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7048608,
+            "lng": -58.7419908
+          }
+        },
+        {
+          "nombre": "Verona",
+          "direccion": "Gómez Fretes 4206, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6933119,
+            "lng": -58.7405375
+          }
+        },
+        {
+          "nombre": "Farmanele",
+          "direccion": "Av. Eva Perón 2399 esq. Sucre (V. Amelia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6891777,
+            "lng": -58.7053826
+          }
+        },
+        {
+          "nombre": "Alvarez",
+          "direccion": "French 1920 (La Blanquita), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7007926,
+            "lng": -58.7216938
+          }
+        },
+        {
+          "nombre": "Melo",
+          "direccion": "Independencia 1777, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6618443,
+            "lng": -58.7192216
+          }
+        },
+        {
+          "nombre": "Zurro",
+          "direccion": "De los Franceses 3861, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7496717,
+            "lng": -58.7029933
+          }
+        },
+        {
+          "nombre": "Dingianti",
+          "direccion": "Noguera 244, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6680236,
+            "lng": -58.6971553
+          }
+        },
+        {
+          "nombre": "Sullivan",
+          "direccion": "Av. Sullivan 1484, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6548267,
+            "lng": -58.7136112
           }
         }
       ],
@@ -1040,13 +2440,133 @@
           }
         },
         {
-          "nombre": "Montalvo",
+          "nombre": "Farmacia Montalvo",
           "direccion": "Montalvo 1174, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.672,
             "lng": -58.77
+          }
+        },
+        {
+          "nombre": "Sasso",
+          "direccion": "Constitución 538, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6732276,
+            "lng": -58.7326779
+          }
+        },
+        {
+          "nombre": "Mario Bravo S.C.S",
+          "direccion": "Mario Bravo 1081, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6823441,
+            "lng": -58.7105436
+          }
+        },
+        {
+          "nombre": "Benítez",
+          "direccion": "Ricardo Balbín 9040 esq. Uriarte, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7196609,
+            "lng": -58.7889544
+          }
+        },
+        {
+          "nombre": "Zamudio",
+          "direccion": "Ricardo Balbín y Superí, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7245917,
+            "lng": -58.7925764
+          }
+        },
+        {
+          "nombre": "Iaco",
+          "direccion": "Av. San Martín 3600, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6457495,
+            "lng": -58.6045428
+          }
+        },
+        {
+          "nombre": "Bravo",
+          "direccion": "Echeverry 1478, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7080384,
+            "lng": -58.7366179
+          }
+        },
+        {
+          "nombre": "Blanco",
+          "direccion": "Av. Eva Perón 2992 y Rivarola (La Cortada), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6821121,
+            "lng": -58.6797913
+          }
+        },
+        {
+          "nombre": "Pasic",
+          "direccion": "Carabajal 1021 (Los Aromos), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6977306,
+            "lng": -58.671086
+          }
+        },
+        {
+          "nombre": "Cano",
+          "direccion": "H. Yrigoyen 797, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.657663,
+            "lng": -58.7244132
+          }
+        },
+        {
+          "nombre": "Cientifica KST",
+          "direccion": "Av. De la Unión 1002, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7426267,
+            "lng": -58.6938034
+          }
+        },
+        {
+          "nombre": "Rusitti",
+          "direccion": "Independencia 861, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6638215,
+            "lng": -58.7060942
+          }
+        },
+        {
+          "nombre": "Botica Noguera",
+          "direccion": "Noguera 2045, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6788329,
+            "lng": -58.6847304
           }
         }
       ],
@@ -1102,13 +2622,113 @@
           }
         },
         {
-          "nombre": "Hernández",
+          "nombre": "Farmacia Hernández",
           "direccion": "Peyret 2417, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.6767592,
             "lng": -58.7756217
+          }
+        },
+        {
+          "nombre": "Massaro",
+          "direccion": "Perú 503, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6719128,
+            "lng": -58.7234147
+          }
+        },
+        {
+          "nombre": "Alonso",
+          "direccion": "Moreno 482, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6650883,
+            "lng": -58.7260745
+          }
+        },
+        {
+          "nombre": "Farma Soluciones",
+          "direccion": "Dr. Ricardo Balbín 9802 esq. Santander, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7274298,
+            "lng": -58.7944867
+          }
+        },
+        {
+          "nombre": "Curotti",
+          "direccion": "Av. San Martín 3225, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6880997,
+            "lng": -58.7334948
+          }
+        },
+        {
+          "nombre": "Rois",
+          "direccion": "Echeverry 545, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7002444,
+            "lng": -58.7481793
+          }
+        },
+        {
+          "nombre": "Biondo",
+          "direccion": "Av. Eva Perón 6747 (El Palomo), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7087848,
+            "lng": -58.7097664
+          }
+        },
+        {
+          "nombre": "Chavez",
+          "direccion": "Colombia 531 esq. Panamá, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.5061803,
+            "lng": -58.5203712
+          }
+        },
+        {
+          "nombre": "Vantage Merlo",
+          "direccion": "Cámpora 2289, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6634249,
+            "lng": -58.7273243
+          }
+        },
+        {
+          "nombre": "Salgueiro",
+          "direccion": "De los Italianos 4018, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7516776,
+            "lng": -58.702977
+          }
+        },
+        {
+          "nombre": "MGM Padua",
+          "direccion": "Esteban Echeverría 702-706, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6696474,
+            "lng": -58.6909767
           }
         }
       ],
@@ -1154,13 +2774,123 @@
           }
         },
         {
-          "nombre": "Mendibil",
+          "nombre": "Farmacia Mendibil",
           "direccion": "Ruta 200 Km. 34,5, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.6813486,
             "lng": -58.7501659
+          }
+        },
+        {
+          "nombre": "Corona",
+          "direccion": "D. F. Sarmiento 33, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6689153,
+            "lng": -58.7208573
+          }
+        },
+        {
+          "nombre": "Jauregui",
+          "direccion": "Av. Calle Real (Ex Vergara) 1401, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6810694,
+            "lng": -58.7045916
+          }
+        },
+        {
+          "nombre": "Aguer",
+          "direccion": "Dr. Balbín 8685, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6883125,
+            "lng": -58.7659174
+          }
+        },
+        {
+          "nombre": "Arnold",
+          "direccion": "Av. San Martín 2458, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6836577,
+            "lng": -58.7290692
+          }
+        },
+        {
+          "nombre": "Ienni",
+          "direccion": "25 de Mayo 5200, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7017018,
+            "lng": -58.7430262
+          }
+        },
+        {
+          "nombre": "Cancha de los Patos",
+          "direccion": "Av. Calle Real 2205 esq. Iturri (Ex Vergara), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6758995,
+            "lng": -58.7346245
+          }
+        },
+        {
+          "nombre": "Nuevo Arco (Ex Jeram)",
+          "direccion": "Av. Eva Perón 7485 (Arco Barrio Rivadavia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7136595,
+            "lng": -58.7189463
+          }
+        },
+        {
+          "nombre": "Suev Farma",
+          "direccion": "Sgo. del Estero 1799, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6591605,
+            "lng": -58.7189033
+          }
+        },
+        {
+          "nombre": "Salgueiro",
+          "direccion": "De los Italianos 4018, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7516776,
+            "lng": -58.702977
+          }
+        },
+        {
+          "nombre": "Comastri",
+          "direccion": "Zarate 260, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6631469,
+            "lng": -58.6983603
+          }
+        },
+        {
+          "nombre": "La Esmeralda De Padua",
+          "direccion": "Pueyrredón 1611, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.675644,
+            "lng": -58.6998129
           }
         }
       ],
@@ -1196,13 +2926,143 @@
           }
         },
         {
-          "nombre": "Castro",
+          "nombre": "Farmacia Castro",
           "direccion": "Ruta 200.Km 5886, Merlo",
           "telefono": "",
           "mapa": "",
           "coordenadas": {
             "lat": -34.6725693,
             "lng": -58.7367027
+          }
+        },
+        {
+          "nombre": "De la Estación",
+          "direccion": "Av. del Libertador 788, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6654872,
+            "lng": -58.7277292
+          }
+        },
+        {
+          "nombre": "Pricolo",
+          "direccion": "Ricardo Balbín 1905 Esq. Gral. Paz, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6690969,
+            "lng": -58.7427434
+          }
+        },
+        {
+          "nombre": "Lois",
+          "direccion": "Tucumán 1051, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6656923,
+            "lng": -58.73271
+          }
+        },
+        {
+          "nombre": "Científica Constituyentes",
+          "direccion": "Av. Constituyentes 918, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7170432,
+            "lng": -58.7960816
+          }
+        },
+        {
+          "nombre": "Zamudio",
+          "direccion": "Ricardo Balbín y Superí, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7245917,
+            "lng": -58.7925764
+          }
+        },
+        {
+          "nombre": "Romano",
+          "direccion": "Arist. del Valle 2898, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6895538,
+            "lng": -58.7259857
+          }
+        },
+        {
+          "nombre": "Esteve",
+          "direccion": "Echeverry 133, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6965206,
+            "lng": -58.7533557
+          }
+        },
+        {
+          "nombre": "Testa",
+          "direccion": "Malvinas 2359 esq. Honduras (Villa Amelia), Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6981706,
+            "lng": -58.691925
+          }
+        },
+        {
+          "nombre": "Bella Vista",
+          "direccion": "Bella Vista 2898, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6995301,
+            "lng": -58.655076
+          }
+        },
+        {
+          "nombre": "Cardin",
+          "direccion": "Rocamora 670, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7500082,
+            "lng": -58.6066867
+          }
+        },
+        {
+          "nombre": "Coppola Orlando",
+          "direccion": "H. Yrigoyen 2125, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6464777,
+            "lng": -58.7188329
+          }
+        },
+        {
+          "nombre": "Roge",
+          "direccion": "Balladares 4186, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7499258,
+            "lng": -58.7004272
+          }
+        },
+        {
+          "nombre": "Guercio",
+          "direccion": "Int. Mendiluce 1608, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6709121,
+            "lng": -58.6988556
           }
         }
       ],
@@ -1811,114 +3671,6 @@
           "coordenadas": {
             "lat": -34.5091159,
             "lng": -58.5779757
-          }
-        }
-      ],
-      "01": [
-        {
-          "nombre": "Etchenique",
-          "direccion": "Filiberto 670, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6667551,
-            "lng": -58.757327
-          }
-        }
-      ],
-      "02": [
-        {
-          "nombre": "Díaz",
-          "direccion": "Filiberto 1504, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6727368,
-            "lng": -58.7635022
-          }
-        }
-      ],
-      "03": [
-        {
-          "nombre": "Montalvo",
-          "direccion": "Montalvo 1174, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.672,
-            "lng": -58.77
-          }
-        }
-      ],
-      "04": [
-        {
-          "nombre": "Hernández",
-          "direccion": "Peyret 2417, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6767592,
-            "lng": -58.7756217
-          }
-        }
-      ],
-      "05": [
-        {
-          "nombre": "Mendibil",
-          "direccion": "Ruta 200 Km. 34,5, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6813486,
-            "lng": -58.7501659
-          }
-        }
-      ],
-      "06": [
-        {
-          "nombre": "Castro",
-          "direccion": "Ruta 200.Km 5886, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6725693,
-            "lng": -58.7367027
-          }
-        }
-      ],
-      "07": [
-        {
-          "nombre": "Mendibil",
-          "direccion": "Av. Ferrari 7648, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.7128284,
-            "lng": -58.7697918
-          }
-        }
-      ],
-      "08": [
-        {
-          "nombre": "Rossi",
-          "direccion": "Mozart 419, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6911001,
-            "lng": -58.7632746
-          }
-        }
-      ],
-      "09": [
-        {
-          "nombre": "Samoré",
-          "direccion": "Freire 662, Merlo",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.6985893,
-            "lng": -58.7672239
           }
         }
       ]
