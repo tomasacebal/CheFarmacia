@@ -956,16 +956,6 @@
           }
         },
         {
-          "nombre": "Comastri",
-          "direccion": "Zárate 260, Merlo",
-          "telefono": "",
-          "mapa": "https://www.google.com/maps/search/Z%C3%A1rate%20260%2C%20Merlo",
-          "coordenadas": {
-            "lat": -34.6631469,
-            "lng": -58.6983603
-          }
-        },
-        {
           "nombre": "La Esmeralda De Padua",
           "direccion": "Pueyrredón 1611, Merlo",
           "telefono": "",
@@ -973,6 +963,16 @@
           "coordenadas": {
             "lat": -34.675644,
             "lng": -58.6998129
+          }
+        },
+        {
+          "nombre": "Comastri",
+          "direccion": "Zárate 260, Merlo",
+          "telefono": "",
+          "mapa": "https://www.google.com/maps/search/Z%C3%A1rate%20260%2C%20Merlo",
+          "coordenadas": {
+            "lat": -34.6631469,
+            "lng": -58.6983603
           }
         }
       ],
@@ -2217,9 +2217,9 @@
         },
         {
           "nombre": "Pasteur",
-          "direccion": "25 de Mayo 440, Zárate",
+          "direccion": "25 de Mayo 440, Zarate",
           "telefono": "03487422914",
-          "mapa": "https://www.google.com/maps/search/25%20de%20Mayo%20440%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/25%20de%20Mayo%20440%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0970596,
             "lng": -59.0185184
@@ -2227,9 +2227,9 @@
         },
         {
           "nombre": "Ostrovsky",
-          "direccion": "Lavalle 1834, Zárate",
+          "direccion": "Lavalle 1834, Zarate",
           "telefono": "03487424278",
-          "mapa": "https://www.google.com/maps/search/Lavalle%201834%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Lavalle%201834%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1128316,
             "lng": -59.0202581
@@ -2237,9 +2237,9 @@
         },
         {
           "nombre": "Moyano",
-          "direccion": "Matheu 1100, Zárate",
+          "direccion": "Matheu 1100, Zarate",
           "telefono": "03487441552",
-          "mapa": "https://www.google.com/maps/search/Matheu%201100%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Matheu%201100%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0862849,
             "lng": -59.0358624
@@ -2247,11 +2247,11 @@
         },
         {
           "nombre": "Fernández",
-          "direccion": "Av. 11 Nº 500, Zárate",
+          "direccion": "Av. 11 Nº 500, Zarate",
           "telefono": "03487480387",
-          "mapa": "https://www.google.com/maps/search/Av.%2011%20N%C2%BA%20500%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Av.%2011%20N%C2%BA%20500%2C%20Zarate",
           "coordenadas": {
-            "lat": -34.1049237,
+            "lat": -34.114614,
             "lng": -59.0421572
           }
         }
@@ -2759,9 +2759,9 @@
         },
         {
           "nombre": "Pérez Márquez",
-          "direccion": "Rivadavia 545, Zárate",
+          "direccion": "Rivadavia 545, Zarate",
           "telefono": "03487430618",
-          "mapa": "https://www.google.com/maps/search/Rivadavia%20545%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Rivadavia%20545%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0941977,
             "lng": -59.0227421
@@ -2769,9 +2769,9 @@
         },
         {
           "nombre": "Mestre",
-          "direccion": "Mitre 1355, Zárate",
+          "direccion": "Mitre 1355, Zarate",
           "telefono": "3487540049",
-          "mapa": "https://www.google.com/maps/search/Mitre%201355%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Mitre%201355%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1051937,
             "lng": -59.0248755
@@ -2779,9 +2779,9 @@
         },
         {
           "nombre": "Palacios",
-          "direccion": "Félix Pagola 899, Zárate",
+          "direccion": "Félix Pagola 899, Zarate",
           "telefono": "03487423830",
-          "mapa": "https://www.google.com/maps/search/F%C3%A9lix%20Pagola%20899%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/F%C3%A9lix%20Pagola%20899%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0886771,
             "lng": -59.0301579
@@ -2789,12 +2789,12 @@
         },
         {
           "nombre": "Fabio",
-          "direccion": "Calle 7 Nº 324, Zárate",
+          "direccion": "Calle 7 Nº 324, Zarate",
           "telefono": "03487482311",
-          "mapa": "https://www.google.com/maps/search/Calle%207%20N%C2%BA%20324%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Calle%207%20N%C2%BA%20324%2C%20Zarate",
           "coordenadas": {
-            "lat": -34.1085068,
-            "lng": -59.0426709
+            "lat": -34.5014272,
+            "lng": -58.5302016
           }
         }
       ],
@@ -2981,9 +2981,9 @@
         },
         {
           "nombre": "Montoya",
-          "direccion": "Av. Anta y Estrada, Zárate",
+          "direccion": "Av. Anta y Estrada, Zarate",
           "telefono": "03487441811",
-          "mapa": "https://www.google.com/maps/search/Av.%20Anta%20y%20Estrada%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Av.%20Anta%20y%20Estrada%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0931835,
             "lng": -59.0398674
@@ -2991,9 +2991,9 @@
         },
         {
           "nombre": "Lopez",
-          "direccion": "E. Carriego 268, Zárate",
+          "direccion": "E. Carriego 268, Zarate",
           "telefono": "03487315003",
-          "mapa": "https://www.google.com/maps/search/E.%20Carriego%20268%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/E.%20Carriego%20268%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1021803,
             "lng": -59.0434596
@@ -3001,9 +3001,9 @@
         },
         {
           "nombre": "Justa Lima",
-          "direccion": "Justa Lima 1245, Zárate",
+          "direccion": "Justa Lima 1245, Zarate",
           "telefono": "03487426886",
-          "mapa": "https://www.google.com/maps/search/Justa%20Lima%201245%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Justa%20Lima%201245%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1052164,
             "lng": -59.0178781
@@ -3011,9 +3011,9 @@
         },
         {
           "nombre": "Ullmann",
-          "direccion": "Calle 13 Nº345, Zárate",
+          "direccion": "Calle 13 Nº345, Zarate",
           "telefono": "+5493487712652",
-          "mapa": "https://www.google.com/maps/search/Calle%2013%20N%C2%BA345%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Calle%2013%20N%C2%BA345%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1063919,
             "lng": -59.0417824
@@ -3183,9 +3183,9 @@
         },
         {
           "nombre": "Lopez",
-          "direccion": "E. Carriego 268, Zárate",
+          "direccion": "E. Carriego 268, Zarate",
           "telefono": "03487315003",
-          "mapa": "https://www.google.com/maps/search/E.%20Carriego%20268%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/E.%20Carriego%20268%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1021803,
             "lng": -59.0434596
@@ -3193,9 +3193,9 @@
         },
         {
           "nombre": "Villa Fox",
-          "direccion": "Justa Lima 1567, Zárate",
+          "direccion": "Justa Lima 1567, Zarate",
           "telefono": "03487422877",
-          "mapa": "https://www.google.com/maps/search/Justa%20Lima%201567%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Justa%20Lima%201567%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1076008,
             "lng": -59.0160073
@@ -3203,9 +3203,9 @@
         },
         {
           "nombre": "Sampaolesi",
-          "direccion": "3 de Febrero y V. Alsina, Zárate",
+          "direccion": "3 de Febrero y V. Alsina, Zarate",
           "telefono": "03487441118",
-          "mapa": "https://www.google.com/maps/search/3%20de%20Febrero%20y%20V.%20Alsina%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/3%20de%20Febrero%20y%20V.%20Alsina%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0913105,
             "lng": -59.0270015
@@ -3213,11 +3213,11 @@
         },
         {
           "nombre": "Fernández",
-          "direccion": "Av. 11 Nº 500, Zárate",
+          "direccion": "Av. 11 Nº 500, Zarate",
           "telefono": "03487480387",
-          "mapa": "https://www.google.com/maps/search/Av.%2011%20N%C2%BA%20500%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Av.%2011%20N%C2%BA%20500%2C%20Zarate",
           "coordenadas": {
-            "lat": -34.1049237,
+            "lat": -34.114614,
             "lng": -59.0421572
           }
         }
@@ -3385,9 +3385,9 @@
         },
         {
           "nombre": "Galatti",
-          "direccion": "Justa Lima 701, Zárate",
+          "direccion": "Justa Lima 701, Zarate",
           "telefono": "03487422854",
-          "mapa": "https://www.google.com/maps/search/Justa%20Lima%20701%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Justa%20Lima%20701%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1010592,
             "lng": -59.0207833
@@ -3395,9 +3395,9 @@
         },
         {
           "nombre": "Justa Lima",
-          "direccion": "Justa Lima 1245, Zárate",
+          "direccion": "Justa Lima 1245, Zarate",
           "telefono": "03487426886",
-          "mapa": "https://www.google.com/maps/search/Justa%20Lima%201245%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Justa%20Lima%201245%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1052164,
             "lng": -59.0178781
@@ -3405,9 +3405,9 @@
         },
         {
           "nombre": "Infanti",
-          "direccion": "U. Fernández 415, Zárate",
+          "direccion": "U. Fernández 415, Zarate",
           "telefono": "03487440040",
-          "mapa": "https://www.google.com/maps/search/U.%20Fern%C3%A1ndez%20415%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/U.%20Fern%C3%A1ndez%20415%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1018547,
             "lng": -59.0281285
@@ -3415,12 +3415,12 @@
         },
         {
           "nombre": "Fabio",
-          "direccion": "Calle 7 Nº 324, Zárate",
+          "direccion": "Calle 7 Nº 324, Zarate",
           "telefono": "03487482311",
-          "mapa": "https://www.google.com/maps/search/Calle%207%20N%C2%BA%20324%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Calle%207%20N%C2%BA%20324%2C%20Zarate",
           "coordenadas": {
-            "lat": -34.1085068,
-            "lng": -59.0426709
+            "lat": -34.5014272,
+            "lng": -58.5302016
           }
         }
       ],
@@ -3597,9 +3597,9 @@
         },
         {
           "nombre": "Silvetti",
-          "direccion": "Justa Lima 330, Zárate",
+          "direccion": "Justa Lima 330, Zarate",
           "telefono": "03487422101",
-          "mapa": "https://www.google.com/maps/search/Justa%20Lima%20330%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Justa%20Lima%20330%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0981921,
             "lng": -59.023037
@@ -3607,9 +3607,9 @@
         },
         {
           "nombre": "Davies",
-          "direccion": "Av. anta 50, Zárate",
+          "direccion": "Av. anta 50, Zarate",
           "telefono": "03487424298",
-          "mapa": "https://www.google.com/maps/search/Av.%20anta%2050%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Av.%20anta%2050%2C%20Zarate",
           "coordenadas": {
             "lat": -34.100083,
             "lng": -59.035081
@@ -3617,9 +3617,9 @@
         },
         {
           "nombre": "Varesi",
-          "direccion": "Félix Pagola 400, Zárate",
+          "direccion": "Félix Pagola 400, Zarate",
           "telefono": "03487422406",
-          "mapa": "https://www.google.com/maps/search/F%C3%A9lix%20Pagola%20400%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/F%C3%A9lix%20Pagola%20400%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0926854,
             "lng": -59.0274149
@@ -3627,9 +3627,9 @@
         },
         {
           "nombre": "Ullmann",
-          "direccion": "Calle 13 Nº345, Zárate",
+          "direccion": "Calle 13 Nº345, Zarate",
           "telefono": "+5493487712652",
-          "mapa": "https://www.google.com/maps/search/Calle%2013%20N%C2%BA345%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Calle%2013%20N%C2%BA345%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1063919,
             "lng": -59.0417824
@@ -3669,9 +3669,9 @@
         },
         {
           "nombre": "Unreim",
-          "direccion": "Suipacha 1110, Zárate",
+          "direccion": "Suipacha 1110, Zarate",
           "telefono": "03487440999",
-          "mapa": "https://www.google.com/maps/search/Suipacha%201110%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Suipacha%201110%2C%20Zarate",
           "coordenadas": {
             "lat": -34.095022,
             "lng": -59.0295094
@@ -3679,9 +3679,9 @@
         },
         {
           "nombre": "Coria",
-          "direccion": "Av. Lavalle 1417, Zárate",
+          "direccion": "Av. Lavalle 1417, Zarate",
           "telefono": "03487423622",
-          "mapa": "https://www.google.com/maps/search/Av.%20Lavalle%201417%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Av.%20Lavalle%201417%2C%20Zarate",
           "coordenadas": {
             "lat": -34.1088052,
             "lng": -59.0211742
@@ -3689,9 +3689,9 @@
         },
         {
           "nombre": "Casey",
-          "direccion": "Lavalle 295, Zárate",
+          "direccion": "Lavalle 295, Zarate",
           "telefono": "03487441732",
-          "mapa": "https://www.google.com/maps/search/Lavalle%20295%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Lavalle%20295%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0998774,
             "lng": -59.027078
@@ -3699,11 +3699,11 @@
         },
         {
           "nombre": "Fernández",
-          "direccion": "Av. 11 Nº 500, Zárate",
+          "direccion": "Av. 11 Nº 500, Zarate",
           "telefono": "03487480387",
-          "mapa": "https://www.google.com/maps/search/Av.%2011%20N%C2%BA%20500%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Av.%2011%20N%C2%BA%20500%2C%20Zarate",
           "coordenadas": {
-            "lat": -34.1049237,
+            "lat": -34.114614,
             "lng": -59.0421572
           }
         }
@@ -3751,9 +3751,9 @@
         },
         {
           "nombre": "Stricker",
-          "direccion": "Brown 23, Zárate",
+          "direccion": "Brown 23, Zarate",
           "telefono": "03487422520",
-          "mapa": "https://www.google.com/maps/search/Brown%2023%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Brown%2023%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0964071,
             "lng": -59.0258781
@@ -3761,9 +3761,9 @@
         },
         {
           "nombre": "Anfolisi",
-          "direccion": "Soler y Matheu, Zárate",
+          "direccion": "Soler y Matheu, Zarate",
           "telefono": "03487421423",
-          "mapa": "https://www.google.com/maps/search/Soler%20y%20Matheu%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Soler%20y%20Matheu%2C%20Zarate",
           "coordenadas": {
             "lat": -34.0877426,
             "lng": -59.0387789
@@ -3771,9 +3771,9 @@
         },
         {
           "nombre": "Madeira",
-          "direccion": "A. Pacheco 1050, Zárate",
+          "direccion": "A. Pacheco 1050, Zarate",
           "telefono": "03487425818",
-          "mapa": "https://www.google.com/maps/search/A.%20Pacheco%201050%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/A.%20Pacheco%201050%2C%20Zarate",
           "coordenadas": {
             "lat": -34.113132,
             "lng": -59.0153481
@@ -3781,12 +3781,12 @@
         },
         {
           "nombre": "Fabio",
-          "direccion": "Calle 7 Nº 324, Zárate",
+          "direccion": "Calle 7 Nº 324, Zarate",
           "telefono": "03487482311",
-          "mapa": "https://www.google.com/maps/search/Calle%207%20N%C2%BA%20324%2C%20Z%C3%A1rate",
+          "mapa": "https://www.google.com/maps/search/Calle%207%20N%C2%BA%20324%2C%20Zarate",
           "coordenadas": {
-            "lat": -34.1085068,
-            "lng": -59.0426709
+            "lat": -34.5014272,
+            "lng": -58.5302016
           }
         }
       ],
