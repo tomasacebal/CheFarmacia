@@ -621,8 +621,8 @@
           "telefono": "47492295",
           "mapa": "https://www.google.com/maps/place/-34.417152,-58.597868",
           "coordenadas": {
-            "lat": -34.4165777,
-            "lng": -58.5988872
+            "lat": -34.417152,
+            "lng": -58.597868
           }
         },
         {
@@ -631,8 +631,8 @@
           "telefono": "47406752",
           "mapa": "https://www.google.com/maps/place/-34.461241,-58.636255",
           "coordenadas": {
-            "lat": -34.4610296,
-            "lng": -58.6362549
+            "lat": -34.461241,
+            "lng": -58.636255
           }
         },
         {
@@ -641,8 +641,8 @@
           "telefono": "03327453371",
           "mapa": "https://www.google.com/maps/place/-34.447827,-58.670425",
           "coordenadas": {
-            "lat": null,
-            "lng": null
+            "lat": -34.447827,
+            "lng": -58.670425
           }
         },
         {
