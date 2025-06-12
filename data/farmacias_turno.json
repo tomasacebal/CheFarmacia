@@ -676,16 +676,6 @@
           }
         },
         {
-          "nombre": "s",
-          "direccion": "",
-          "telefono": "",
-          "mapa": "",
-          "coordenadas": {
-            "lat": -34.4977811,
-            "lng": -58.5486797
-          }
-        },
-        {
           "nombre": "ACHEME S.C.S.",
           "direccion": "44 ESQ. 135 NRO 2002",
           "telefono": "4796116",

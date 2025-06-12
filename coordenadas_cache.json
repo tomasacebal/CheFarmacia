@@ -1,8 +1,4 @@
 {
-  "Uruguay 4074, Béccar, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4703484,
-    "lng": -58.5638398
-  },
   "Bernardo de Irigoyen 1808, B1609BGI Boulogne, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4965955,
     "lng": -58.5824311
@@ -18,38 +14,6 @@
   "Edison 1185, B1640HQW Martínez, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4989813,
     "lng": -58.5124007
-  },
-  "Av. Sir Alexander Fleming 1345, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4938086,
-    "lng": -58.5225819
-  },
-  "Av. del Libertador 14995, B1641ANF San Isidro, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4763985,
-    "lng": -58.4984288
-  },
-  "Av. Avelino Rolón 1820, Boulogne, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.5065555,
-    "lng": -58.5640591
-  },
-  "Av. de Mayo 1438, B1607DDO Villa Adelina, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.5218256,
-    "lng": -58.5449519
-  },
-  "Bernardo de Irigoyen 1167, B1609BFV Boulogne, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.5000757,
-    "lng": -58.5774175
-  },
-  "Av. Fondo de la Legua 872, Villa Adelina, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4994177,
-    "lng": -58.5421354
-  },
-  "Av. Centenario 1601, B1643CGD Béccar, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4626193,
-    "lng": -58.5250318
-  },
-  "Sarratea 366, Boulogne, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.5145748,
-    "lng": -58.5722485
   },
   "Av. del Libertador 18300, Béccar, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4524892,
@@ -75,6 +39,10 @@
     "lat": -34.4900443,
     "lng": -58.5247402
   },
+  "Av. Sir Alexander Fleming 1345, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4938086,
+    "lng": -58.5225819
+  },
   "Av. Juan Segundo Fernández 105, B1642 San Isidro, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4908025,
     "lng": -58.5473782
@@ -90,6 +58,10 @@
   "Nuestras Malvinas 1463, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4942316,
     "lng": -58.5751694
+  },
+  "Av. del Libertador 14995, B1641ANF San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4763985,
+    "lng": -58.4984288
   },
   "Av. de Mayo 241, Villa Adelina, Provincia de Buenos Aires, Argentina": {
     "lat": -34.5109736,
@@ -115,6 +87,10 @@
     "lat": -34.4734007,
     "lng": -58.5554864
   },
+  "Uruguay 4074, Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4703484,
+    "lng": -58.5638398
+  },
   "Av. Avelino Rolón 1169, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
     "lat": -34.5009179,
     "lng": -58.5592938
@@ -122,10 +98,6 @@
   "Av. Sir Alexander Fleming 1799, B1640CSX Martínez, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4971246,
     "lng": -58.5202311
-  },
-  "Av. Avelino Rolón 177, Boulogne, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4949487,
-    "lng": -58.5523105
   },
   "Av. Avelino Rolón 2415, B1609HVR Boulogne, Provincia de Buenos Aires, Argentina": {
     "lat": -34.5128458,
@@ -143,9 +115,9 @@
     "lat": -34.4649806,
     "lng": -58.5082537
   },
-  "Hipólito Yrigoyen 2598, B1640 DNZ, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.502475,
-    "lng": -58.528478
+  "Av. Avelino Rolón 1820, Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5065555,
+    "lng": -58.5640591
   },
   "Av. Andrés Rolón 138, B1642 San Isidro, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4806258,
@@ -167,13 +139,13 @@
     "lat": -34.5071268,
     "lng": -58.5668587
   },
+  "Av. de Mayo 1438, B1607DDO Villa Adelina, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5218256,
+    "lng": -58.5449519
+  },
   "José Ingenieros 3417, B1643FRQ Béccar, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4767426,
     "lng": -58.559942
-  },
-  "Av. Sta Fe 408, B1641AAN Acassuso, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4771902,
-    "lng": -58.5095267
   },
   "Juan B. Justo 301, B1643FME Béccar, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4614539,
@@ -184,8 +156,8 @@
     "lng": -58.5468324
   },
   "Cno. Morón a  S.F Loc. 41": {
-    "lat": -34.6320002,
-    "lng": -58.526345
+    "lat": -34.4962685,
+    "lng": -58.5870799
   },
   "Av. Sir Alexander Fleming 2133, B1640CTA Buenos Aires, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4995956,
@@ -199,6 +171,14 @@
     "lat": -34.5135597,
     "lng": -58.5546165
   },
+  "Bernardo de Irigoyen 1167, B1609BFV Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5000757,
+    "lng": -58.5774175
+  },
+  "Av. Fondo de la Legua 872, Villa Adelina, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4994177,
+    "lng": -58.5421354
+  },
   "Av. Sucre 2141, B1643AQC Béccar, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4777823,
     "lng": -58.5549772
@@ -210,10 +190,6 @@
   "Av. de Mayo 900, C1002 CABA, Argentina": {
     "lat": -34.6090116,
     "lng": -58.3791159
-  },
-  "Rosario 1711, Boulogne, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.495895,
-    "lng": -58.5767702
   },
   "Thames 1400, B1607 Villa Adelina, Provincia de Buenos Aires, Argentina": {
     "lat": -34.5070781,
@@ -239,10 +215,6 @@
     "lat": -34.5181218,
     "lng": -58.5372941
   },
-  "José Ingenieros 1781, B1643FQG Béccar, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.469301,
-    "lng": -58.5444708
-  },
   "Juncal 862, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
     "lat": -34.4915795,
     "lng": -58.5122069
@@ -251,17 +223,9 @@
     "lat": -34.4972702,
     "lng": -58.5590857
   },
-  "Av. Sta Fe 902, B1641ABO Acassuso, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.4810241,
-    "lng": -58.5059693
-  },
   "Av. Andrés Rolón 1799, B1643BOE Béccar, Provincia de Buenos Aires, Argentina": {
     "lat": -34.468879,
     "lng": -58.5411237
-  },
-  "Bernardo de Irigoyen 60, B1609BED Boulogne, Provincia de Buenos Aires, Argentina": {
-    "lat": -34.5094148,
-    "lng": -58.5670544
   },
   "Edison 1799, B1640HRI Martínez, Provincia de Buenos Aires, Argentina": {
     "lat": -34.5022113,
@@ -279,524 +243,168 @@
     "lat": -34.5002164,
     "lng": -58.5774644
   },
-  "Av. Santa Fe 1234, Vicente López, Buenos Aires": {
-    "lat": -34.5959117,
-    "lng": -58.3846907
-  },
-  "Av. Maipu 3201": {
-    "lat": -34.5060599,
-    "lng": -58.4929988
-  },
-  "Vélez Sársfield 4164": {
-    "lat": -34.5278281,
-    "lng": -58.518521
-  },
-  "Paraná 6502": {
-    "lat": -34.5264503,
-    "lng": -58.5491819
-  },
-  "Vélez Sársfield 4164, B1605BQB Vicente López, Provincia de Buenos Aires": {
-    "lat": -34.5278281,
-    "lng": -58.518521
-  },
-  "Av. Dardo Rocha 937, Tigre": {
-    "lat": -34.4306163,
-    "lng": -58.5757348
-  },
-  "Av. Sta. María de las Conchas 4793, Rincón de Milberg": {
-    "lat": -34.4060738,
-    "lng": -58.6207753
-  },
-  "Gral. Pacheco 2728, Don Torcuato": {
-    "lat": -34.4856159,
-    "lng": -58.6550349
-  },
-  "Ruta 197 y General Belgrano, Troncos del Talar": {
-    "lat": null,
-    "lng": null
-  },
-  "Santiago de Estero 388, Gral. Pacheco": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Juan Domingo Perón 4946, Benavidez": {
-    "lat": -34.4297725,
-    "lng": -58.6892521
-  },
-  "Av. Juan Domingo Perón 4255, Benavidez": {
-    "lat": -34.4374961,
-    "lng": -58.6822761
-  },
-  "Av. Santa Fe 2013": {
-    "lat": -34.4898979,
-    "lng": -58.5028496
-  },
-  "Diego Carman 539": {
-    "lat": -34.4957036,
-    "lng": -58.549623
-  },
-  "Av. Centenario 300": {
-    "lat": -34.4720114,
-    "lng": -58.5150233
-  },
-  "Gdor. Emilio Castro 4095": {
-    "lat": -34.5264086,
-    "lng": -58.5682866
-  },
-  "Av. General Paz 4998": {
-    "lat": -34.5698845,
-    "lng": -58.5089454
-  },
-  "Av. Elcano 3110": {
-    "lat": -34.5721796,
-    "lng": -58.4587132
-  },
-  "Av. Rivadavia 2215": {
-    "lat": -34.6094783,
-    "lng": -58.3979299
-  },
-  "Av. Triunvirato 3752": {
-    "lat": -34.5812419,
-    "lng": -58.4745528
-  },
-  "Av. Pedro Goyena 701": {
-    "lat": -34.6259142,
-    "lng": -58.4378717
-  },
-  "Av. Montes de Oca 894": {
-    "lat": -34.63849,
-    "lng": -58.374376
-  },
-  "Juana Manso 1189, C1107 Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6112666,
-    "lng": -58.3627788
-  },
-  "Av. Directorio 2896": {
-    "lat": -34.635611,
-    "lng": -58.467291
-  },
-  "Florida 474, C1005 San Nicolas, Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6025225,
-    "lng": -58.3752385
-  },
-  "Mcal. Antonio José de Sucre 1520, C1428DUT C1428DUT, Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5588821,
-    "lng": -58.4462927
-  },
-  "Saladillo 2016, C1440FFP Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6612968,
-    "lng": -58.5167807
-  },
-  "Av. Francisco Beiró 5272": {
-    "lat": -34.6137799,
-    "lng": -58.5245311
-  },
-  "Av. Triunvirato 4634": {
-    "lat": -34.5749147,
-    "lng": -58.4861372
-  },
-  "Gral. José Gervasio Artigas 4684, C1419ECX Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5837096,
-    "lng": -58.4976539
-  },
-  "Av. San Juan 387": {
-    "lat": -34.6215877,
-    "lng": -58.3711878
-  },
-  "Av. Corrientes 3930": {
-    "lat": -34.6034798,
-    "lng": -58.4199663
-  },
-  "Av. Rivadavia 3827": {
-    "lat": -34.6110532,
-    "lng": -58.4201927
-  },
-  "Cuenca 3149, C1417ABA Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6008212,
-    "lng": -58.4954904
-  },
-  "Av. Corrientes 1236": {
-    "lat": -34.6040084,
-    "lng": -58.3842042
-  },
-  "Av. Corrientes 5256": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Corrientes 1820": {
-    "lat": -34.604602,
-    "lng": -58.3927125
-  },
-  "Av. Pueyrredón 991": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. F. Beiró 4366": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Independencia 2676": {
-    "lat": -34.618947,
-    "lng": -58.403268
-  },
-  "Av. Cabildo 2967": {
-    "lat": -34.5545337,
-    "lng": -58.4627098
-  },
-  "Av. Córdoba 3844": {
-    "lat": -34.5979648,
-    "lng": -58.4210544
-  },
-  "Av. Gaona 1101": {
-    "lat": -34.6073317,
-    "lng": -58.4460712
-  },
-  "Av. Acoyte 18": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Rivadavia 8784": {
-    "lat": -34.6352998,
-    "lng": -58.4873508
-  },
-  "Av. Caseros 3590": {
-    "lat": -34.6391788,
-    "lng": -58.4158756
-  },
-  "Vedia 3788, C1430DAL Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5462479,
-    "lng": -58.4895128
-  },
-  "Av. Entre Ríos 198": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Costanera Rafael Obligado S/N": {
-    "lat": -34.5578885,
-    "lng": -58.4175331
-  },
-  "Av. Santa Fe 2822": {
-    "lat": -34.5924754,
-    "lng": -58.4064853
-  },
-  "Av. Córdoba 4601, C1414BAE Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5940234,
-    "lng": -58.4301014
-  },
-  "Av. Cabildo 4633": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Rivadavia 6398": {
-    "lat": -34.6267699,
-    "lng": -58.456458
-  },
-  "Av. Asamblea 826": {
-    "lat": -34.6348767,
-    "lng": -58.4360852
-  },
-  "Paraguay 4979, C1425BTC Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5809089,
-    "lng": -58.4298141
-  },
-  "Av. Santa Fe": {
-    "lat": -34.588986,
-    "lng": -58.4101025
-  },
-  "Av. Santa Fe 2453": {
-    "lat": -34.5943576,
-    "lng": -58.4016746
-  },
-  "Av. Santa Fe 1740": {
-    "lat": -34.595986,
-    "lng": -58.3924267
-  },
-  "Av. Rivadavia 6728": {
-    "lat": -34.628328,
-    "lng": -58.4601679
-  },
-  "Av. Cabildo 1842": {
-    "lat": -34.5646566,
-    "lng": -58.4547101
-  },
-  "Av. del Libertador 8404": {
-    "lat": -34.5382878,
-    "lng": -58.4655562
-  },
-  "Olleros 1802, C1426CRH Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5652908,
-    "lng": -58.4382455
-  },
-  "Av. Callao 1600": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Raúl Scalabrini Ortíz 3149": {
-    "lat": -34.5804814,
-    "lng": -58.4100187
-  },
-  "Av. Santa Fe 802": {
-    "lat": -34.595273,
-    "lng": -58.3785964
-  },
-  "Av. Cramer 2301": {
-    "lat": -34.5627302,
-    "lng": -58.4628912
-  },
-  "Av. Rivadavia 5375": {
-    "lat": null,
-    "lng": null
-  },
-  "Av. Pueyrredón 1845": {
-    "lat": -34.5898884,
-    "lng": -58.3998345
-  },
-  "Av. Rivadavia 5014, C1424 Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6184334,
-    "lng": -58.4368708
-  },
-  "Avenida Cazón 635": {
-    "lat": -34.4299486,
-    "lng": -58.5713426
-  },
-  "Av. Sta. María de las Conchas 2160, Rincón de Milberg": {
-    "lat": -34.4220126,
-    "lng": -58.5921632
-  },
-  "Av. Hipólito Yrigoyen 485, Gral. Pacheco": {
-    "lat": -34.4573421,
-    "lng": -58.6293313
-  },
-  "Marcos Sastre 2511, Ricardo Rojas": {
-    "lat": -34.4608085,
-    "lng": -58.6790228
-  },
-  "Av. Alvear 2571, Benavídez": {
-    "lat": null,
-    "lng": null
-  },
-  "km 54, Au Panamericana, Don Torcuato": {
-    "lat": null,
-    "lng": null
-  },
-  "Colombia 1152, El Talar": {
-    "lat": -34.4742209,
-    "lng": -58.6625199
-  },
-  "Av. Hipólito Yrigoyen 8101 L.de Zamora, Lomas de Zamora": {
-    "lat": -34.7498775,
-    "lng": -58.4005123
-  },
-  "_ |Av. Hipólito Yrigoyen 10228 Temperle, Lomas de Zamora": {
-    "lat": -34.775724,
-    "lng": -58.4053788
-  },
-  "guazu 71 Banfield, Lomas de Zamora": {
-    "lat": null,
-    "lng": null
+  "Rosario 1711, Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.495895,
+    "lng": -58.5767702
   },
   "Av. Sta. María de las Conchas 2785, Rincón de Milberg": {
-    "lat": -34.4165777,
-    "lng": -58.5988872
+    "lat": -34.417152,
+    "lng": -58.597868
   },
   "Av. Hipólito Yrigoyen 999, Gral. Pacheco": {
-    "lat": -34.4610296,
-    "lng": -58.6362549
-  },
-  "Av. Constiuyentes 3107, Gral. Pacheco": {
-    "lat": -34.4476948,
-    "lng": -58.6704321
+    "lat": -34.461241,
+    "lng": -58.636255
   },
   "Almte Brown 1665, Don Torcuato": {
-    "lat": -34.5017097,
-    "lng": -58.6423965
+    "lat": -34.501831,
+    "lng": -58.64232
   },
   "Corredor Vial Bancalari 3901, Los Troncos del Talar": {
-    "lat": null,
-    "lng": null
+    "lat": -34.4474953,
+    "lng": -58.6344085
   },
   "Fernando Fader 2535, Benavídez": {
-    "lat": -34.4077487,
-    "lng": -58.6845601
+    "lat": -34.4100058,
+    "lng": -58.6810999
   },
-  "Av. Hipólito Yrigoyen 13301, Malvinas Argentinas": {
-    "lat": -34.8096288,
-    "lng": -58.4041592
+  "Bernardo de Irigoyen 1808, B1609BGI Boulogne, Provincia de Buenos Aires, Argentina, San Isidro": {
+    "lat": -34.4965955,
+    "lng": -58.5824311
   },
-  "Mariano Castex 845, Canning": {
-    "lat": -34.8525696,
-    "lng": -58.5021712
+  "Paraná 2509, B1640 San Isidro, Provincia de Buenos Aires, Argentina, San Isidro": {
+    "lat": -34.5024427,
+    "lng": -58.5083025
   },
-  "Hipólito Yrigoyen 8101, Lomas de Zamora": {
-    "lat": -34.7498638,
-    "lng": -58.403077
+  "Sarratea 366, Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5145748,
+    "lng": -58.5722485
   },
-  "Dorrego 324, Lomas de Zamora": {
-    "lat": -34.7757041,
-    "lng": -58.4076765
+  "Av. Avelino Rolón 177, Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4949487,
+    "lng": -58.5523105
   },
-  "Blvd. Buenos Aires 179, Monte Grande": {
-    "lat": -34.8182806,
-    "lng": -58.4662102
+  "Hipólito Yrigoyen 2598, B1640 DNZ, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.502475,
+    "lng": -58.528478
   },
-  "Roca 849, Burzaco": {
-    "lat": -34.8257081,
-    "lng": -58.3945647
+  "Av. Sta Fe 408, B1641AAN Acassuso, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4771902,
+    "lng": -58.5095267
   },
-  "Maipú 202, Banfield": {
-    "lat": -34.7431948,
-    "lng": -58.3979272
+  "Av. Centenario 1601, B1643CGD Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4626193,
+    "lng": -58.5250318
   },
-  "Av. Hipólito Yrigoyen 7702, Lomas de Zamora": {
-    "lat": -34.7450204,
-    "lng": -58.4017572
+  "José Ingenieros 1781, B1643FQG Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.469301,
+    "lng": -58.5444708
   },
-  "Av. Adolfo Alsina 390, Banfield": {
-    "lat": -34.7408256,
-    "lng": -58.3951724
+  "Av. Sta Fe 902, B1641ABO Acassuso, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4810241,
+    "lng": -58.5059693
   },
-  "Av. Almte. Brown 2820, B1834 Temperley": {
-    "lat": -34.7703303,
-    "lng": -58.3986091
+  "Bernardo de Irigoyen 60, B1609BED Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5094148,
+    "lng": -58.5670544
   },
-  "Av. 9 de Julio 2501, Lanus": {
-    "lat": -34.717657,
-    "lng": -58.3794688
+  "Av. Constiuyentes 3107, Gral. Pacheco": {
+    "lat": -34.447827,
+    "lng": -58.670425
   },
-  "Dip. M Pedrera 1026, B1822QFN Valentín Alsina": {
-    "lat": -34.6799295,
-    "lng": -58.4068312
+  "": {
+    "lat": -34.4977811,
+    "lng": -58.5486797
   },
-  "Diag. 61, B1832 Ingeniero Budge": {
-    "lat": -34.7460588,
-    "lng": -58.4826752
+  "44 ESQ. 135 NRO 2002": {
+    "lat": -34.93751,
+    "lng": -57.98438
   },
-  "Av. Almte. Brown 1220, C1159 ABR, Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6353994,
-    "lng": -58.3611975
+  "7 nro 1510 e/ 63 y 64": {
+    "lat": -34.9234999,
+    "lng": -57.9378243
   },
-  "Av. Dr. Ricardo Balbín 4955, C1430 Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5515504,
-    "lng": -58.5013939
+  "11 Y 530": {
+    "lat": -34.9025901,
+    "lng": -57.9753098
   },
-  "Adolfo Alsina 998, B1852 Burzaco": {
-    "lat": -34.8281358,
-    "lng": -58.3919799
+  "1 NRO 2037 E/ 73 Y 74": {
+    "lat": -34.9270261,
+    "lng": -57.9198628
   },
-  "Av. la Aviación 991, B1854 Longchamps": {
-    "lat": -34.8622553,
-    "lng": -58.3902414
+  "31 nro 2260 e/78 y 79": {
+    "lat": -34.95828,
+    "lng": 57.94592
   },
-  "Av. Cabildo 2171, C1428 Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.5613025,
-    "lng": -58.459649
+  "520 e/2bis y 3": {
+    "lat": -34.88621,
+    "lng": -57.97829
   },
-  "Leandro N. Alem 801, B1842ASQ Gran Buenos Aires": {
-    "lat": -34.822675,
-    "lng": -58.466132
+  "5 ESQ 46": {
+    "lat": -34.91062,
+    "lng": -57.95097
   },
-  "Leandro N. Alem y Pehuajó, B1842 Monte Grande, Provincia de Buenos Aires": {
-    "lat": -34.844561,
-    "lng": -58.4485655
+  "Diag 73 nro 2186 e/ 46 y 47": {
+    "lat": -34.92189,
+    "lng": -57.96263
   },
-  "Nicolás Avellaneda 74, B1804EOB Ezeiza": {
-    "lat": -34.854992,
-    "lng": -58.5287597
+  "41 nro 791 (Diag. 77 Y 11)": {
+    "lat": -34.91158,
+    "lng": -57.96265
   },
-  "Mariano Moreno 88, B1704 Ramos Mejía, Provincia de Buenos Aires": {
-    "lat": -34.6413261,
-    "lng": -58.5651581
+  "115 esq diag 74 nro 234": {
+    "lat": -34.89785,
+    "lng": -57.95624
   },
-  "Cnel. Lorenzo Barcala 230, B1714DNF Ituzaingó, Provincia de Buenos Aires": {
-    "lat": -34.634974,
-    "lng": -58.6700603
+  "19 e/33 y 34": {
+    "lat": -34.91271,
+    "lng": -57.97973
   },
-  "Av. Gdor. Vergara 2081, B1688 Santos Tesei, Provincia de Buenos Aires": {
-    "lat": -34.6186035,
-    "lng": -58.6363562
+  "17 Y 70 NRO 1852": {
+    "lat": -34.938784,
+    "lng": -57.940322
   },
-  "Carlos Casares 1279, B1712 Morón, Provincia de Buenos Aires": {
-    "lat": -34.6470601,
-    "lng": -58.6441047
+  "31 E/ 66 Y 67": {
+    "lat": -34.94851,
+    "lng": -57.95882
   },
-  "Av. Bartolomé Mitre 2360, B1744OHU Gran Buenos Aires, Provincia de Buenos Aires": {
-    "lat": -34.6507395,
-    "lng": -58.7866089
+  "60 NRO 1144 E/ 17 Y 18": {
+    "lat": -34.9310869,
+    "lng": -57.9526744
   },
-  "Av. Pres. Perón 6501, B1688 Ituzaingó, Provincia de Buenos Aires": {
-    "lat": -34.6300725,
-    "lng": -58.6590869
+  "7 e/76 y 77 nro 2169": {
+    "lat": -34.9343472,
+    "lng": -57.9237191
   },
-  "Av. San Martín 2643, Caseros Buenos Aires AR, B1678": {
-    "lat": -34.606386,
-    "lng": -58.5648813
+  "7 nro 1052 esq 54": {
+    "lat": -34.916621,
+    "lng": -57.9469086
   },
-  "San Miguel Buenos Aires AR, Av. Dr. Ricardo Balbín 2506, B1663": {
-    "lat": -34.5520999,
-    "lng": -58.7253486
+  "59 e/3 y 4": {
+    "lat": -34.91686,
+    "lng": -57.93951
   },
-  "Av. Pte. J. D. Perón 4708, B1665KQZ José C. Paz, Provincia de Buenos Aires": {
-    "lat": -34.5190467,
-    "lng": -58.7460749
+  "CNO GRAL BELGRANO E/ 511 Y 514": {
+    "lat": -34.8932484,
+    "lng": -58.0040569
   },
-  "Pres. Rivadavia 1, B1665 José C. Paz, Provincia de Buenos Aires": {
-    "lat": -34.5183854,
-    "lng": -58.7535688
+  "137 Nº 879 e/ 523 y 524": {
+    "lat": -34.9217,
+    "lng": -58.00994
   },
-  "Av. Victorica 177, B1744BWB Gran Buenos Aires, Provincia de Buenos Aires": {
-    "lat": -34.6468254,
-    "lng": -58.7992665
+  "14 ESQ. 502": {
+    "lat": -34.8819608,
+    "lng": -58.0115643
   },
-  "Av. Monseñor Bufano 3340, B1754BZN San Justo, Provincia de Buenos Aires": {
-    "lat": -34.6847792,
-    "lng": -58.5639608
+  "473 NRO 925": {
+    "lat": -34.874415,
+    "lng": -58.04845
   },
-  "Gregorio Jaramillo 1137, B1755ACW Gran Buenos Aires, Provincia de Buenos Aires": {
-    "lat": -34.7002974,
-    "lng": -58.6286952
+  "cno Gral Belgrano esq 445 Km 12600": {
+    "lat": -34.8744634,
+    "lng": -58.0880797
   },
-  "Av. Boulogne Sur Mer 1634, B1768 Villa Madero, Provincia de Buenos Aires": {
-    "lat": -34.6998498,
-    "lng": -58.5063511
-  },
-  "Av. Rivadavia 14002, B1704 Ramos Mejía, Provincia de Buenos Aires": {
-    "lat": -34.6408919,
-    "lng": -58.5669631
-  },
-  "Ciudad Autónoma de Buenos Aires AR, Av. Riestra 5701, C1439 BYI, Cdad. Autónoma de Buenos Aires": {
-    "lat": -34.6772021,
-    "lng": -58.4781755
-  },
-  "Av. Rivadavia 18199, B1708 Morón, Provincia de Buenos Aires": {
-    "lat": -34.6491546,
-    "lng": -58.6222349
-  },
-  "Av. del Libertador 507, B1744 Moreno, Provincia de Buenos Aires": {
-    "lat": -34.6440175,
-    "lng": -58.7916931
-  },
-  "Av. San Martín 3300, B1824EKV Gran Buenos Aires, Provincia de Buenos Aires": {
-    "lat": -34.7050556,
-    "lng": -58.4185949
-  },
-  "Av. Hipólito Yrigoyen 4583, B1824ABB Gran Buenos Aires, Provincia de Buenos Aires": {
-    "lat": -34.7078016,
-    "lng": -58.3944759
-  },
-  "Av. Hipolito Yrigoyen 9301, esquina, Av. Colombres, B1832 Lomas de Zamora, Provincia de Buenos Aires": {
-    "lat": -34.764079,
-    "lng": -58.4061017
-  },
-  "Av. 7 2915, B1914 Villa Elvira, Provincia de Buenos Aires": {
-    "lat": -34.9456757,
-    "lng": -57.9121065
-  },
-  "C. 1282 931, B1891 Ingeniero Juan Allan, Provincia de Buenos Aires": {
-    "lat": -34.8633426,
-    "lng": -58.1857947
-  },
-  "C. 893 4291, B1881 San Francisco Solano, Provincia de Buenos Aires": {
-    "lat": -34.7772919,
-    "lng": -58.3115713
+  "66 Nro. 2169": {
+    "lat": -34.955627,
+    "lng": -57.970198
   }
 }

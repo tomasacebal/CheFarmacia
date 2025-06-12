@@ -5,6 +5,7 @@ from tqdm import tqdm
 from scrapers.san_isidro import SanIsidroScraper
 from scrapers.tigre import TigreScraper
 from scrapers.lomas_de_zamora import LomasDeZamoraScraper
+from scrapers.la_plata import LaPlataScraper
 
 from utils import save_to_json, commit_and_push, format_data_for_json
 
@@ -15,6 +16,7 @@ def main():
     scrapers = [
         SanIsidroScraper(),
         TigreScraper(),
+        LaPlataScraper(),
         # LomasDeZamoraScraper()
     ]
 

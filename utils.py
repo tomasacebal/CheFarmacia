@@ -9,20 +9,30 @@ import urllib.parse
 from get_coords_from_maps import consultar_coordenadas  # función que busca coordenadas con cache
 
 
+# ... [importaciones y funciones sin cambios] ...
+
+
 def merge_data(existing, new):
     for mes, contenido in new.items():
         if mes not in existing:
             existing[mes] = contenido
         else:
-            # Solo actualizamos días
-            for dia, farmacias in contenido["dias"].items():
+            for dia, nuevas_farmacias in contenido["dias"].items():
                 if dia not in existing[mes]["dias"]:
-                    existing[mes]["dias"][dia] = farmacias
+                    existing[mes]["dias"][dia] = nuevas_farmacias
                 else:
-                    # Agrega farmacias evitando duplicados por dirección
-                    direcciones_existentes = {f["direccion"] for f in existing[mes]["dias"][dia]}
-                    for f in farmacias:
-                        if f["direccion"] not in direcciones_existentes:
+                    direcciones_existentes = {
+                        f["direccion"]: idx for idx, f in enumerate(existing[mes]["dias"][dia])
+                    }
+
+                    for f in nuevas_farmacias:
+                        dir_nueva = f["direccion"]
+                        if dir_nueva in direcciones_existentes:
+                            # Reemplaza la farmacia existente por la nueva (actualiza coordenadas)
+                            idx = direcciones_existentes[dir_nueva]
+                            existing[mes]["dias"][dia][idx] = f
+                        else:
+                            # Agrega si no existe
                             existing[mes]["dias"][dia].append(f)
     return existing
 
@@ -72,6 +82,7 @@ def format_data_for_json(farmacias):
         fuente = f["fuente"]
         confianza = f["nivel_confianza"]
         dia = f["fecha"]
+        mapa = f["mapa"]
 
         if mes not in data:
             data[mes] = {
@@ -84,10 +95,11 @@ def format_data_for_json(farmacias):
         if dia not in data[mes]["dias"]:
             data[mes]["dias"][dia] = []
 
+        direccionMaps = f"{f["direccion"]}, {f["localidad"]}"
         direccion = f["direccion"]
         telefono = limpiar_telefono(f["telefono"])
-        mapa = generar_link_mapa(direccion)
-        coords = consultar_coordenadas(direccion)  # ← usa cache o consulta a Maps
+        mapa = mapa
+        coords = consultar_coordenadas(direccion, mapa) # ← usa cache o consulta a Maps
 
         data[mes]["dias"][dia].append({
             "nombre": f["nombre"],

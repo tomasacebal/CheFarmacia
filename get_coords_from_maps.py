@@ -2,6 +2,7 @@ import json
 import os
 import time
 import urllib.parse
+import re
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -36,18 +37,36 @@ def crear_driver():
 
 def extraer_coordenadas_desde_url(url):
     try:
-        at_index = url.find("/@")
-        if at_index == -1:
-            return None
-        partes = url[at_index + 2:].split(",")
-        lat = float(partes[0])
-        lng = float(partes[1])
-        return {"lat": lat, "lng": lng}
+        # Patrón 1: /@LAT,LNG
+        if "/@" in url:
+            at_index = url.find("/@")
+            partes = url[at_index + 2:].split(",")
+            lat = float(partes[0])
+            lng = float(partes[1])
+            return {"lat": lat, "lng": lng}
+
+        # Patrón 2: destination=LAT,LNG
+        match_dest = re.search(r"[?&]destination=(-?\d+\.\d+),(-?\d+\.\d+)", url)
+        if match_dest:
+            lat = float(match_dest.group(1))
+            lng = float(match_dest.group(2))
+            return {"lat": lat, "lng": lng}
+
+        # Patrón 3: cualquier LAT,LNG suelto (último recurso, puede dar falsos positivos)
+        match = re.search(r"(-3?\d+\.\d+),(-5?\d+\.\d+)", url)
+        if match:
+            lat = float(match.group(1))
+            lng = float(match.group(2))
+            return {"lat": lat, "lng": lng}
+
+        return None
     except Exception as e:
         print(f"[ERROR] No se pudo extraer coordenadas: {e}")
         return None
 
-def obtener_coordenadas(direccion, delay=3):
+
+
+def obtener_coordenadas(direccion, delay=5):
     """Usa un WebDriver para buscar la dirección en Google Maps y devuelve coordenadas."""
     print(f"[BUSCANDO] {direccion}")
     query = urllib.parse.quote(direccion)
@@ -68,14 +87,24 @@ def obtener_coordenadas(direccion, delay=3):
     finally:
         driver.quit()
 
-def consultar_coordenadas(direccion):
-    """Consulta una dirección en caché. Si no existe, la busca y actualiza el caché."""
+def consultar_coordenadas(direccion, mapa_url):
+    """Consulta coordenadas de una dirección, primero desde la URL si contiene @lat,lng, si no, recurre a Selenium."""
     cache = cargar_cache()
 
     if direccion in cache:
         print(f"[CACHE] Coordenadas ya guardadas para: {direccion}")
         return cache[direccion]
 
+    # Paso 1: Intentar extraer coordenadas directamente de la URL
+    if mapa_url:
+        coords = extraer_coordenadas_desde_url(mapa_url)
+        if coords and coords["lat"] is not None and coords["lng"] is not None:
+            print(f"[✓] Coordenadas extraídas desde mapa_url: {coords}")
+            cache[direccion] = coords
+            guardar_cache(cache)
+            return coords
+
+    # Paso 2: Usar Selenium si no se pudo extraer
     coords = obtener_coordenadas(direccion)
     cache[direccion] = coords
     guardar_cache(cache)
@@ -143,9 +172,11 @@ def obtener_coordenadas_desde_url_directa(mapa_url, delay=3):
 
 if __name__ == "__main__":
     # Solo para pruebas rápidas
-    direccion = "Vélez Sársfield 4164, B1605BQB Vicente López, Provincia de Buenos Aires"
-    coords = consultar_coordenadas(direccion)
-    print(coords)
+    # direccion = "Vélez Sársfield 4164, B1605BQB Vicente López, Provincia de Buenos Aires"
+    # coords = consultar_coordenadas(direccion)
+    # print(coords)
 
     # También podés ejecutar directamente la función de actualización del archivo 24h
-    añadir_coordenadas_a_farmacias_24h()
+    # añadir_coordenadas_a_farmacias_24h()
+
+    print(extraer_coordenadas_desde_url("https://www.google.com/maps/place/-34.417152,-58.597868"))
