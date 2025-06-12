@@ -4097,6 +4097,74 @@
           }
         ]
       }
+    },
+    "Berazategui": {
+      "fuente": "https://www.farmaciadeturnoahora.com.ar/de-turno/buenos-aires/berazategui/",
+      "confianza": 2,
+      "dias": {
+        "12": [
+          {
+            "nombre": "Lerana",
+            "direccion": "14 y 140",
+            "telefono": "421674811171161012",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76829315,-58.21870497",
+            "coordenadas": {
+              "lat": -34.76829315,
+              "lng": -58.21870497
+            }
+          },
+          {
+            "nombre": "Dagand",
+            "direccion": "21 y 153",
+            "telefono": "42564051",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76583790,-58.19909590",
+            "coordenadas": {
+              "lat": -34.7658379,
+              "lng": -58.1990959
+            }
+          },
+          {
+            "nombre": "López G.",
+            "direccion": "7 y 109",
+            "telefono": "42610262",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76829315,-58.21870497",
+            "coordenadas": {
+              "lat": -34.76829315,
+              "lng": -58.21870497
+            }
+          },
+          {
+            "nombre": "Milaya S.II",
+            "direccion": "Vergara 98",
+            "telefono": "435629251159459965",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.79062388,-58.16356446",
+            "coordenadas": {
+              "lat": -34.79062388,
+              "lng": -58.16356446
+            }
+          },
+          {
+            "nombre": "Otazu (ex Rosati)",
+            "direccion": "365 e/303 y 304 Ranelagh",
+            "telefono": "42231777",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.79062388,-58.16356446",
+            "coordenadas": {
+              "lat": -34.79062388,
+              "lng": -58.16356446
+            }
+          },
+          {
+            "nombre": "Elías",
+            "direccion": "160 e/24 y 25",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76458890,-58.18875510",
+            "coordenadas": {
+              "lat": -34.7645889,
+              "lng": -58.1887551
+            }
+          }
+        ]
+      }
     }
   }
 }
