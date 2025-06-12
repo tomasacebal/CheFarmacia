@@ -2386,6 +2386,336 @@
             "lat": -34.6548267,
             "lng": -58.7136112
           }
+        },
+        {
+          "nombre": "Farmacia Arballos",
+          "direccion": "Av. Liniers 1902, Tigre",
+          "telefono": "47498612",
+          "mapa": "https://www.google.com/maps/place/-34.427838,-58.591576",
+          "coordenadas": {
+            "lat": -34.427838,
+            "lng": -58.591576
+          }
+        },
+        {
+          "nombre": "Farmacia Esper",
+          "direccion": "Av. Sta. María de las Conchas 3037,  Rincón de Milberg",
+          "telefono": "47497818",
+          "mapa": "https://www.google.com/maps/place/-34.41562,-58.601184",
+          "coordenadas": {
+            "lat": -34.41562,
+            "lng": -58.601184
+          }
+        },
+        {
+          "nombre": "Farmacia Pacheco Norte",
+          "direccion": "Boulogne Sur Mer & Alberdi, Gral. Pacheco",
+          "telefono": "47361510",
+          "mapa": "https://www.google.com/maps/place/-34.462031,-58.628545",
+          "coordenadas": {
+            "lat": -34.462031,
+            "lng": -58.628545
+          }
+        },
+        {
+          "nombre": "Farmacia Agnes",
+          "direccion": "Av. Hipólito Yrigoyen 1655, El Talar",
+          "telefono": "47405424",
+          "mapa": "https://www.google.com/maps/place/-34.466319,-58.645703",
+          "coordenadas": {
+            "lat": -34.466319,
+            "lng": -58.645703
+          }
+        },
+        {
+          "nombre": "Farmacia Magnin",
+          "direccion": "Triunvirato 1875, Don Torcuato",
+          "telefono": "47484605",
+          "mapa": "https://www.google.com/maps/place/-34.49073,-58.613021",
+          "coordenadas": {
+            "lat": -34.49073,
+            "lng": -58.613021
+          }
+        },
+        {
+          "nombre": "Farmacia Lecumberry",
+          "direccion": "Ruta 197 & Balcarce, Los Troncos del Talar",
+          "telefono": "47150380",
+          "mapa": "https://www.google.com/maps/place/-34.445338,-58.598769",
+          "coordenadas": {
+            "lat": -34.445338,
+            "lng": -58.598769
+          }
+        },
+        {
+          "nombre": "Farmacia Valenti",
+          "direccion": "Av. Alvear 2971, Benavidez",
+          "telefono": "03327481035",
+          "mapa": "https://www.google.com/maps/place/-34.410319,-58.68618",
+          "coordenadas": {
+            "lat": -34.410319,
+            "lng": -58.68618
+          }
+        },
+        {
+          "nombre": "BERRI S.C.S.",
+          "direccion": "50 nro 530",
+          "telefono": "4243136",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9135709,-57.9481775",
+          "coordenadas": {
+            "lat": -34.9135709,
+            "lng": -57.9481775
+          }
+        },
+        {
+          "nombre": "BERTRAND (NUEVA)",
+          "direccion": "Diag 74 nro 871 e/ 3 y 4",
+          "telefono": "4828802",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90472,-57.95587",
+          "coordenadas": {
+            "lat": -34.90472,
+            "lng": -57.95587
+          }
+        },
+        {
+          "nombre": "BREA",
+          "direccion": "40 E/ 15 Y 16",
+          "telefono": "4839962",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91535,-57.96843",
+          "coordenadas": {
+            "lat": -34.91535,
+            "lng": -57.96843
+          }
+        },
+        {
+          "nombre": "VILLA ELVIRA",
+          "direccion": "7 e/600 y 601",
+          "telefono": "4866556",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.95126,-57.90206",
+          "coordenadas": {
+            "lat": -34.95126,
+            "lng": -57.90206
+          }
+        },
+        {
+          "nombre": "DEL INCA",
+          "direccion": "Diag 73 esq 64",
+          "telefono": "4212846",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9206172,-57.9339369",
+          "coordenadas": {
+            "lat": -34.9206172,
+            "lng": -57.9339369
+          }
+        },
+        {
+          "nombre": "FAGNANI",
+          "direccion": "60 E/ 125 Y 126",
+          "telefono": "4210460",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90414,-57.92427",
+          "coordenadas": {
+            "lat": -34.90414,
+            "lng": -57.92427
+          }
+        },
+        {
+          "nombre": "FRAGASSO",
+          "direccion": "72  nro751",
+          "telefono": "4529223",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.93379,-57.93126",
+          "coordenadas": {
+            "lat": -34.93379,
+            "lng": -57.93126
+          }
+        },
+        {
+          "nombre": "CHICLANA (Ex GRATTI)",
+          "direccion": "19 e/523 y 524 nro 814",
+          "telefono": "4270811",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90502,-57.99077",
+          "coordenadas": {
+            "lat": -34.90502,
+            "lng": -57.99077
+          }
+        },
+        {
+          "nombre": "IRIBERRI",
+          "direccion": "11 esq. 46 nro 705",
+          "telefono": "4821488",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91625,-57.95721",
+          "coordenadas": {
+            "lat": -34.91625,
+            "lng": -57.95721
+          }
+        },
+        {
+          "nombre": "LA NUEVA ESPAÑOLA S.C.S.",
+          "direccion": "35 E/ 9 y 10",
+          "telefono": "4828812",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90516,-57.96794",
+          "coordenadas": {
+            "lat": -34.90516,
+            "lng": -57.96794
+          }
+        },
+        {
+          "nombre": "GUTIERREZ",
+          "direccion": "54 NRO 1139 E / 17 Y 18",
+          "telefono": "4519959",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9267385,-57.9582227",
+          "coordenadas": {
+            "lat": -34.9267385,
+            "lng": -57.9582227
+          }
+        },
+        {
+          "nombre": "BALBIANO",
+          "direccion": "120 Y 84",
+          "telefono": "4867476",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.92915,-57.90284",
+          "coordenadas": {
+            "lat": -34.92915,
+            "lng": -57.90284
+          }
+        },
+        {
+          "nombre": "LOPEZ TORIS",
+          "direccion": "44 NRO 2234 ENTRE 139 Y 140",
+          "telefono": "4706388",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9408035,-57.9885307",
+          "coordenadas": {
+            "lat": -34.9408035,
+            "lng": -57.9885307
+          }
+        },
+        {
+          "nombre": "FRENCH DE LA PLATA S.C.S.",
+          "direccion": "122 E/ 35 Y 36 NRO 181",
+          "telefono": "4823180",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8894251,-57.9509733",
+          "coordenadas": {
+            "lat": -34.8894251,
+            "lng": -57.9509733
+          }
+        },
+        {
+          "nombre": "NATALE",
+          "direccion": "9 e/61 y 62 nro 1415",
+          "telefono": "4513660",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.92398,-57.94221",
+          "coordenadas": {
+            "lat": -34.92398,
+            "lng": -57.94221
+          }
+        },
+        {
+          "nombre": "NAVICKAS",
+          "direccion": "7 nro 307 e/ 528 y 529",
+          "telefono": "4228439",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.89759,-57.97254",
+          "coordenadas": {
+            "lat": -34.89759,
+            "lng": -57.97254
+          }
+        },
+        {
+          "nombre": "SAN MIGUEL",
+          "direccion": "60 ESQ. 14 NRO 951",
+          "telefono": "4512840",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.92742,-57.94903",
+          "coordenadas": {
+            "lat": -34.92742,
+            "lng": -57.94903
+          }
+        },
+        {
+          "nombre": "WHITE",
+          "direccion": "25 esq 35",
+          "telefono": "4796894",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.92001,-57.98423",
+          "coordenadas": {
+            "lat": -34.92001,
+            "lng": -57.98423
+          }
+        },
+        {
+          "nombre": "YULN",
+          "direccion": "65 E/ 25 Y 26",
+          "telefono": "4512183",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.94234,-57.95522",
+          "coordenadas": {
+            "lat": -34.94234,
+            "lng": -57.95522
+          }
+        },
+        {
+          "nombre": "REDOLATTI",
+          "direccion": "137 N 487 entre 527 y 528",
+          "telefono": "0",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9261934,-58.0042941",
+          "coordenadas": {
+            "lat": -34.9261934,
+            "lng": -58.0042941
+          }
+        },
+        {
+          "nombre": "MANCUSO CABRERA",
+          "direccion": "155 e/ 33 y  34",
+          "telefono": "154973066",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9476233,-58.0180529",
+          "coordenadas": {
+            "lat": -34.9476233,
+            "lng": -58.0180529
+          }
+        },
+        {
+          "nombre": "AURORA LOPEZ S.C.S.",
+          "direccion": "Cantilo (473) esq 20",
+          "telefono": "4722337",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8786331,-58.0513533",
+          "coordenadas": {
+            "lat": -34.8786331,
+            "lng": -58.0513533
+          }
+        },
+        {
+          "nombre": "GANGONI",
+          "direccion": "502 esquina 10",
+          "telefono": "4711200+5492213997436",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.87425990000001,-58.004494799999975",
+          "coordenadas": {
+            "lat": -34.87425990000001,
+            "lng": -58.004494799999975
+          }
+        },
+        {
+          "nombre": "PASQUALI",
+          "direccion": "Cno. Gral. Belgrano nro 1430 e/ 416 Y 417",
+          "telefono": "4740526",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8681471,-58.1056717",
+          "coordenadas": {
+            "lat": -34.8681471,
+            "lng": -58.1056717
+          }
+        },
+        {
+          "nombre": "GIRALDEZ",
+          "direccion": "68 e/140 y 141",
+          "telefono": "0",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9597044,-57.9732475",
+          "coordenadas": {
+            "lat": -34.9597044,
+            "lng": -57.9732475
+          }
+        },
+        {
+          "nombre": "MANUEL",
+          "direccion": "149 E/ 69 Y 70",
+          "telefono": "22",
+          "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9672906,-57.982445",
+          "coordenadas": {
+            "lat": -34.9672906,
+            "lng": -57.982445
+          }
         }
       ],
       "13": [
