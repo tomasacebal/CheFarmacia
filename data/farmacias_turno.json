@@ -572,6 +572,16 @@
             "lat": -34.4771902,
             "lng": -58.5095267
           }
+        },
+        {
+          "nombre": "Rojas",
+          "direccion": "Rojas 909, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6841677,
+            "lng": -58.7798326
+          }
         }
       ],
       "11": [
@@ -904,6 +914,16 @@
             "lat": -34.955627,
             "lng": -57.970198
           }
+        },
+        {
+          "nombre": "Etchenique",
+          "direccion": "Filiberto 670, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6667551,
+            "lng": -58.757327
+          }
         }
       ],
       "12": [
@@ -955,6 +975,16 @@
           "coordenadas": {
             "lat": -34.4777823,
             "lng": -58.5549772
+          }
+        },
+        {
+          "nombre": "Díaz",
+          "direccion": "Filiberto 1504, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6727368,
+            "lng": -58.7635022
           }
         }
       ],
@@ -1008,6 +1038,16 @@
             "lat": -34.5009179,
             "lng": -58.5592938
           }
+        },
+        {
+          "nombre": "Montalvo",
+          "direccion": "Montalvo 1174, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.672,
+            "lng": -58.77
+          }
         }
       ],
       "14": [
@@ -1060,6 +1100,16 @@
             "lat": -34.5091159,
             "lng": -58.5779757
           }
+        },
+        {
+          "nombre": "Hernández",
+          "direccion": "Peyret 2417, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6767592,
+            "lng": -58.7756217
+          }
         }
       ],
       "15": [
@@ -1102,6 +1152,16 @@
             "lat": -34.4972702,
             "lng": -58.5590857
           }
+        },
+        {
+          "nombre": "Mendibil",
+          "direccion": "Ruta 200 Km. 34,5, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6813486,
+            "lng": -58.7501659
+          }
         }
       ],
       "16": [
@@ -1133,6 +1193,16 @@
           "coordenadas": {
             "lat": -34.5094148,
             "lng": -58.5670544
+          }
+        },
+        {
+          "nombre": "Castro",
+          "direccion": "Ruta 200.Km 5886, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6725693,
+            "lng": -58.7367027
           }
         }
       ],
@@ -1741,6 +1811,114 @@
           "coordenadas": {
             "lat": -34.5091159,
             "lng": -58.5779757
+          }
+        }
+      ],
+      "01": [
+        {
+          "nombre": "Etchenique",
+          "direccion": "Filiberto 670, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6667551,
+            "lng": -58.757327
+          }
+        }
+      ],
+      "02": [
+        {
+          "nombre": "Díaz",
+          "direccion": "Filiberto 1504, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6727368,
+            "lng": -58.7635022
+          }
+        }
+      ],
+      "03": [
+        {
+          "nombre": "Montalvo",
+          "direccion": "Montalvo 1174, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.672,
+            "lng": -58.77
+          }
+        }
+      ],
+      "04": [
+        {
+          "nombre": "Hernández",
+          "direccion": "Peyret 2417, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6767592,
+            "lng": -58.7756217
+          }
+        }
+      ],
+      "05": [
+        {
+          "nombre": "Mendibil",
+          "direccion": "Ruta 200 Km. 34,5, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6813486,
+            "lng": -58.7501659
+          }
+        }
+      ],
+      "06": [
+        {
+          "nombre": "Castro",
+          "direccion": "Ruta 200.Km 5886, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6725693,
+            "lng": -58.7367027
+          }
+        }
+      ],
+      "07": [
+        {
+          "nombre": "Mendibil",
+          "direccion": "Av. Ferrari 7648, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.7128284,
+            "lng": -58.7697918
+          }
+        }
+      ],
+      "08": [
+        {
+          "nombre": "Rossi",
+          "direccion": "Mozart 419, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6911001,
+            "lng": -58.7632746
+          }
+        }
+      ],
+      "09": [
+        {
+          "nombre": "Samoré",
+          "direccion": "Freire 662, Merlo",
+          "telefono": "",
+          "mapa": "",
+          "coordenadas": {
+            "lat": -34.6985893,
+            "lng": -58.7672239
           }
         }
       ]
