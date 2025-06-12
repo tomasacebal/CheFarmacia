@@ -3961,6 +3961,74 @@
           }
         ]
       }
+    },
+    "Florencio Varela": {
+      "fuente": "https://www.varela.gov.ar/farmaciasdeturno/",
+      "confianza": 2,
+      "dias": {
+        "12": [
+          {
+            "nombre": "AON",
+            "direccion": "Cabello 340 esq. Brasil, V. Susana",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.7519652502992!2d-58.283831684219656!3d-34.81218157606613!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzQzLjkiUyA1OMKwMTYnNTMuOSJX!5e0!3m2!1ses!2sar!4v1466627728105",
+            "coordenadas": {
+              "lat": -34.81218157606613,
+              "lng": -58.283831684219656
+            }
+          },
+          {
+            "nombre": "DEL NEGRO",
+            "direccion": "Av. H. Yrigoyen 1490, Cruce",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.862248648861!2d-58.27162778422058!3d-34.7842429745803!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ3JzAzLjMiUyA1OMKwMTYnMTAuMCJX!5e0!3m2!1ses!2sar!4v1466628207124",
+            "coordenadas": {
+              "lat": -34.7842429745803,
+              "lng": -58.27162778422058
+            }
+          },
+          {
+            "nombre": "DELLA RAGGIONNE",
+            "direccion": "Av. Hudson 275, V. Vatteone",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.704859959635!2d-58.259037184219736!3d-34.81336647612905!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzQ4LjEiUyA1OMKwMTUnMjQuNiJX!5e0!3m2!1ses!2sar!4v1466628165252",
+            "coordenadas": {
+              "lat": -34.81336647612905,
+              "lng": -58.259037184219736
+            }
+          },
+          {
+            "nombre": "FARMA 365",
+            "direccion": "La Rotonda 987, Ing. Allan",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3274.7064224619567!2d-58.209068284231016!3d-34.838473177465026!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a328197b2e6211%3A0x26148167ad9273b7!2sLa%20Rotonda%20987%2C%20B1891FJG%20Ingeniero%20J.%20Allan%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1656687046834!5m2!1ses!2sar",
+            "coordenadas": {
+              "lat": -34.838473177465026,
+              "lng": -58.209068284231016
+            }
+          },
+          {
+            "nombre": "FCIA. VARELA 5",
+            "direccion": "Av. Eva Perón 5140, V. Vatteone",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.041679219739!2d-58.27976868421924!3d-34.83004457701643!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ5JzQ4LjIiUyA1OMKwMTYnMzkuMyJX!5e0!3m2!1ses!2sar!4v1466687645773",
+            "coordenadas": {
+              "lat": -34.83004457701643,
+              "lng": -58.27976868421924
+            }
+          },
+          {
+            "nombre": "RAMOGNINO",
+            "direccion": "Agote y D`Anuncio, Bosques",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.4814870565187!2d-58.23221025653749!3d-34.81898478285629!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32853c680a345%3A0x23bb1f7ad90422f1!2sGabriel+D+Annuncio+%26+Luis+Agote%2C+B1889+Bosques%2C+Buenos+Aires!5e0!3m2!1ses!2sar!4v1519757109186",
+            "coordenadas": {
+              "lat": -34.81898478285629,
+              "lng": -58.23221025653749
+            }
+          }
+        ]
+      }
     }
   }
 }
