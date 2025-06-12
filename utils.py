@@ -13,27 +13,29 @@ from get_coords_from_maps import consultar_coordenadas  # función que busca coo
 
 
 def merge_data(existing, new):
-    for mes, contenido in new.items():
+    for mes, localidades in new.items():
         if mes not in existing:
-            existing[mes] = contenido
+            existing[mes] = localidades
         else:
-            for dia, nuevas_farmacias in contenido["dias"].items():
-                if dia not in existing[mes]["dias"]:
-                    existing[mes]["dias"][dia] = nuevas_farmacias
+            for localidad, contenido in localidades.items():
+                if localidad not in existing[mes]:
+                    existing[mes][localidad] = contenido
                 else:
-                    direcciones_existentes = {
-                        f["direccion"]: idx for idx, f in enumerate(existing[mes]["dias"][dia])
-                    }
-
-                    for f in nuevas_farmacias:
-                        dir_nueva = f["direccion"]
-                        if dir_nueva in direcciones_existentes:
-                            # Reemplaza la farmacia existente por la nueva (actualiza coordenadas)
-                            idx = direcciones_existentes[dir_nueva]
-                            existing[mes]["dias"][dia][idx] = f
+                    for dia, nuevas_farmacias in contenido["dias"].items():
+                        if dia not in existing[mes][localidad]["dias"]:
+                            existing[mes][localidad]["dias"][dia] = nuevas_farmacias
                         else:
-                            # Agrega si no existe
-                            existing[mes]["dias"][dia].append(f)
+                            direcciones_existentes = {
+                                f["direccion"]: idx for idx, f in enumerate(existing[mes][localidad]["dias"][dia])
+                            }
+
+                            for f in nuevas_farmacias:
+                                dir_nueva = f["direccion"]
+                                if dir_nueva in direcciones_existentes:
+                                    idx = direcciones_existentes[dir_nueva]
+                                    existing[mes][localidad]["dias"][dia][idx] = f
+                                else:
+                                    existing[mes][localidad]["dias"][dia].append(f)
     return existing
 
 
@@ -75,9 +77,9 @@ def generar_link_mapa(direccion):
 
 def format_data_for_json(farmacias):
     data = {}
+    mes = 'junio'  # Podrías hacerlo dinámico con datetime.now().strftime("%B").lower()
 
     for f in farmacias:
-        mes = 'junio'
         localidad = f["localidad"]
         fuente = f["fuente"]
         confianza = f["nivel_confianza"]
@@ -85,23 +87,23 @@ def format_data_for_json(farmacias):
         mapa = f["mapa"]
 
         if mes not in data:
-            data[mes] = {
-                "localidad": localidad,
+            data[mes] = {}
+
+        if localidad not in data[mes]:
+            data[mes][localidad] = {
                 "fuente": fuente,
                 "confianza": confianza,
                 "dias": {}
             }
 
-        if dia not in data[mes]["dias"]:
-            data[mes]["dias"][dia] = []
+        if dia not in data[mes][localidad]["dias"]:
+            data[mes][localidad]["dias"][dia] = []
 
-        direccionMaps = f"{f["direccion"]}, {f["localidad"]}"
         direccion = f["direccion"]
         telefono = limpiar_telefono(f["telefono"])
-        mapa = mapa
-        coords = consultar_coordenadas(direccion, mapa) # ← usa cache o consulta a Maps
+        coords = consultar_coordenadas(direccion, mapa)
 
-        data[mes]["dias"][dia].append({
+        data[mes][localidad]["dias"][dia].append({
             "nombre": f["nombre"],
             "direccion": direccion,
             "telefono": telefono,
@@ -110,7 +112,6 @@ def format_data_for_json(farmacias):
         })
 
     return data
-
 
 def commit_and_push(repo_path, file_path, message="Update JSON file"):
     repo = Repository(repo_path)

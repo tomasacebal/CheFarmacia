@@ -311,10 +311,6 @@
     "lat": -34.447827,
     "lng": -58.670425
   },
-  "": {
-    "lat": -34.4977811,
-    "lng": -58.5486797
-  },
   "44 ESQ. 135 NRO 2002": {
     "lat": -34.93751,
     "lng": -57.98438
@@ -406,5 +402,749 @@
   "66 Nro. 2169": {
     "lat": -34.955627,
     "lng": -57.970198
+  },
+  "Filiberto 670, Merlo": {
+    "lat": -34.6667551,
+    "lng": -58.757327
+  },
+  "Filiberto 1504, Merlo": {
+    "lat": -34.6727368,
+    "lng": -58.7635022
+  },
+  "Montalvo 1174, Merlo": {
+    "lat": -34.672,
+    "lng": -58.77
+  },
+  "Peyret 2417, Merlo": {
+    "lat": -34.6767592,
+    "lng": -58.7756217
+  },
+  "Ruta 200 Km. 34,5, Merlo": {
+    "lat": -34.6805928,
+    "lng": -58.7788108
+  },
+  "Ruta 200.Km 5886, Merlo": {
+    "lat": -34.6902227,
+    "lng": -58.768178
+  },
+  "Av. Ferrari 7648, Merlo": {
+    "lat": -34.7128284,
+    "lng": -58.7697918
+  },
+  "Mozart 419, Merlo": {
+    "lat": -34.6911001,
+    "lng": -58.7632746
+  },
+  "Freire 662, Merlo": {
+    "lat": -34.6985893,
+    "lng": -58.7672239
+  },
+  "Rojas 909, Merlo": {
+    "lat": -34.6841677,
+    "lng": -58.7798326
+  },
+  "Av. del Libertador 501, Merlo": {
+    "lat": -34.6687026,
+    "lng": -58.7256795
+  },
+  "Suipacha 547, Merlo": {
+    "lat": -34.6662927,
+    "lng": -58.7264133
+  },
+  "Av. Calle Real (Ex Vergara) 598, Merlo": {
+    "lat": -34.6776843,
+    "lng": -58.7126372
+  },
+  "Av. del Libertador 386, Merlo": {
+    "lat": -34.6703214,
+    "lng": -58.7253371
+  },
+  "Julián M. Castro 806, Merlo": {
+    "lat": -34.6865436,
+    "lng": -58.7171794
+  },
+  "Riobamba 781, Merlo": {
+    "lat": -34.6681296,
+    "lng": -58.7282267
+  },
+  "Constitución 538, Merlo": {
+    "lat": -34.6732276,
+    "lng": -58.7326779
+  },
+  "Mario Bravo 1081, Merlo": {
+    "lat": -34.6823441,
+    "lng": -58.7105436
+  },
+  "Perú 503, Merlo": {
+    "lat": -34.6719128,
+    "lng": -58.7234147
+  },
+  "Moreno 482, Merlo": {
+    "lat": -34.6650883,
+    "lng": -58.7260745
+  },
+  "D. F. Sarmiento 33, Merlo": {
+    "lat": -34.6689153,
+    "lng": -58.7208573
+  },
+  "Av. Calle Real (Ex Vergara) 1401, Merlo": {
+    "lat": -34.6810694,
+    "lng": -58.7045916
+  },
+  "Av. del Libertador 788, Merlo": {
+    "lat": -34.6654872,
+    "lng": -58.7277292
+  },
+  "Ricardo Balbín 1905 esq. Gral. Paz, Merlo": {
+    "lat": -34.6690969,
+    "lng": -58.7427434
+  },
+  "Tucumán 1051, Merlo": {
+    "lat": -34.6656923,
+    "lng": -58.73271
+  },
+  "Av. Calle Real (Ex Vergara) 101, Merlo": {
+    "lat": -34.6722471,
+    "lng": -58.7109295
+  },
+  "Constitución 698, Merlo": {
+    "lat": -34.6701927,
+    "lng": -58.7359858
+  },
+  "Colón 502, Merlo": {
+    "lat": -34.6677541,
+    "lng": -58.7229441
+  },
+  "Av. Argentina 1557, Merlo": {
+    "lat": -34.6766201,
+    "lng": -58.7260946
+  },
+  "Ricardo Balbín 1905 Esq. Gral. Paz, Merlo": {
+    "lat": -34.6690969,
+    "lng": -58.7427434
+  },
+  "Ricardo Balbín 9040 esq. Uriarte, Merlo": {
+    "lat": -34.7196609,
+    "lng": -58.7889544
+  },
+  "Dr. Ricardo Balbín 9802 esq. Santander, Merlo": {
+    "lat": -34.7274298,
+    "lng": -58.7944867
+  },
+  "Dr. Balbín 8685, Merlo": {
+    "lat": -34.6883125,
+    "lng": -58.7659174
+  },
+  "Av. Constituyentes 918, Merlo": {
+    "lat": -34.7170432,
+    "lng": -58.7960816
+  },
+  "B. Bossini y C. Salvadores, Merlo": {
+    "lat": -34.7205388,
+    "lng": -58.7929747
+  },
+  "Ricardo Balbín y Superí, Merlo": {
+    "lat": -34.7245917,
+    "lng": -58.7925764
+  },
+  "Ruta 200 Km 40, Merlo": {
+    "lat": -34.6940534,
+    "lng": -59.3005449
+  },
+  "Ricardo Balbín 9040 Esq. Uriarte, Merlo": {
+    "lat": -34.7196609,
+    "lng": -58.7889544
+  },
+  "Av. San Martín 3225, Merlo": {
+    "lat": -34.6880997,
+    "lng": -58.7334948
+  },
+  "Echeverry 545, Merlo": {
+    "lat": -34.7002444,
+    "lng": -58.7481793
+  },
+  "Av. San Martín 2800, Merlo": {
+    "lat": -34.6440042,
+    "lng": -58.5985122
+  },
+  "Fleming 4500, Merlo": {
+    "lat": -34.6987123,
+    "lng": -58.7329811
+  },
+  "Av. San Martín 2458, Merlo": {
+    "lat": -34.6836577,
+    "lng": -58.7290692
+  },
+  "25 de Mayo 5200, Merlo": {
+    "lat": -34.7017018,
+    "lng": -58.7430262
+  },
+  "Arist. del Valle 2898, Merlo": {
+    "lat": -34.6895538,
+    "lng": -58.7259857
+  },
+  "Echeverry 133, Merlo": {
+    "lat": -34.6965206,
+    "lng": -58.7533557
+  },
+  "Av. San Martín 4474, Merlo": {
+    "lat": -34.6956936,
+    "lng": -58.7407397
+  },
+  "Balbastro 1755, Merlo": {
+    "lat": -34.6954627,
+    "lng": -58.7191554
+  },
+  "Echeverry 1061, Merlo": {
+    "lat": -34.7048608,
+    "lng": -58.7419908
+  },
+  "Gómez Fretes 4206, Merlo": {
+    "lat": -34.6933119,
+    "lng": -58.7405375
+  },
+  "Av. San Martín 3600, Merlo": {
+    "lat": -34.6457495,
+    "lng": -58.6045428
+  },
+  "Echeverry 1478, Merlo": {
+    "lat": -34.7080384,
+    "lng": -58.7366179
+  },
+  "Av. Eva Perón 681 esq. La Porteña, Merlo": {
+    "lat": -34.6844275,
+    "lng": -58.6833014
+  },
+  "Colombia 1046 esq. Escobar (B. Nuevo), Merlo": {
+    "lat": -34.6861357,
+    "lng": -58.7280938
+  },
+  "Av. Eva Perón 4321 esq. J. B. Justo (Lib. Ctro), Merlo": {
+    "lat": -34.6912283,
+    "lng": -58.6902915
+  },
+  "Gamboa 516 esq. Soler (Barrio Petracchi), Merlo": {
+    "lat": -34.6904211,
+    "lng": -58.6676056
+  },
+  "Bella Vista 4648 (Barrio Nuevo), Merlo": {
+    "lat": -34.6448707,
+    "lng": -58.6664046
+  },
+  "Av. Eva Perón 2399 esq. Sucre (V. Amelia), Merlo": {
+    "lat": -34.6891777,
+    "lng": -58.7053826
+  },
+  "French 1920 (La Blanquita), Merlo": {
+    "lat": -34.7007926,
+    "lng": -58.7216938
+  },
+  "Av. Eva Perón 2992 y Rivarola (La Cortada), Merlo": {
+    "lat": -34.6821121,
+    "lng": -58.6797913
+  },
+  "Carabajal 1021 (Los Aromos), Merlo": {
+    "lat": -34.6977306,
+    "lng": -58.671086
+  },
+  "Av. Eva Perón 6747 (El Palomo), Merlo": {
+    "lat": -34.7087848,
+    "lng": -58.7097664
+  },
+  "Colombia 531 esq. Panamá, Merlo": {
+    "lat": -34.5061803,
+    "lng": -58.5203712
+  },
+  "Av. Calle Real 2205 esq. Iturri (Ex Vergara), Merlo": {
+    "lat": -34.6758995,
+    "lng": -58.7346245
+  },
+  "Av. Eva Perón 7485 (Arco Barrio Rivadavia), Merlo": {
+    "lat": -34.7136595,
+    "lng": -58.7189463
+  },
+  "Malvinas 2359 esq. Honduras (Villa Amelia), Merlo": {
+    "lat": -34.6981706,
+    "lng": -58.691925
+  },
+  "Bella Vista 2898, Merlo": {
+    "lat": -34.6995301,
+    "lng": -58.655076
+  },
+  "Rocamora 670, Merlo": {
+    "lat": -34.7500082,
+    "lng": -58.6066867
+  },
+  "Av. Eva Perón 3050 esq. Noguera, Merlo": {
+    "lat": -34.6821752,
+    "lng": -58.6797711
+  },
+  "Carolina Lara de Maldonado 2706, Merlo": {
+    "lat": -34.7122192,
+    "lng": -58.7240455
+  },
+  "Obarrio 2106, Merlo": {
+    "lat": -34.707128,
+    "lng": -58.667857
+  },
+  "Av. Eva Perón 1373 (Libertad Centro), Merlo": {
+    "lat": -34.690487,
+    "lng": -58.689579
+  },
+  "Sica 3004 (Barrio Rivadavia), Merlo": {
+    "lat": -34.7125163,
+    "lng": -58.7211153
+  },
+  "Av. Del Cortijo 1559 (Merlo Gómez), Merlo": {
+    "lat": -34.7194101,
+    "lng": -58.52262
+  },
+  "Av. Eva Perón 681 Esq. La Porteña, Merlo": {
+    "lat": -34.6844275,
+    "lng": -58.6833014
+  },
+  "Colombia 1046 Esq. Escobar (B. Nuevo), Merlo": {
+    "lat": -34.6861357,
+    "lng": -58.7280938
+  },
+  "Rodríguez Peña 290, Merlo": {
+    "lat": -34.6608078,
+    "lng": -58.7332376
+  },
+  "H. Yrigoyen 315, Merlo": {
+    "lat": -34.661569,
+    "lng": -58.726422
+  },
+  "H. Yrigoyen 1353, Merlo": {
+    "lat": -34.652822,
+    "lng": -58.7219782
+  },
+  "Independencia 1777, Merlo": {
+    "lat": -34.6618443,
+    "lng": -58.7192216
+  },
+  "H. Yrigoyen 797, Merlo": {
+    "lat": -34.657663,
+    "lng": -58.7244132
+  },
+  "Cámpora 2289, Merlo": {
+    "lat": -34.6634249,
+    "lng": -58.7273243
+  },
+  "Sgo. del Estero 1799, Merlo": {
+    "lat": -34.6591605,
+    "lng": -58.7189033
+  },
+  "H. Yrigoyen 2125, Merlo": {
+    "lat": -34.6464777,
+    "lng": -58.7188329
+  },
+  "De los Franceses 3861, Merlo": {
+    "lat": -34.7496717,
+    "lng": -58.7029933
+  },
+  "De los Italianos 4018, Merlo": {
+    "lat": -34.7516776,
+    "lng": -58.702977
+  },
+  "Av. De la Unión 1291, Merlo": {
+    "lat": -34.7439325,
+    "lng": -58.6959136
+  },
+  "Balladares 4186, Merlo": {
+    "lat": -34.7499258,
+    "lng": -58.7004272
+  },
+  "Av. De la Unión 1684, Merlo": {
+    "lat": -34.7468427,
+    "lng": -58.6981769
+  },
+  "Av. De la Unión 1002, Merlo": {
+    "lat": -34.7426267,
+    "lng": -58.6938034
+  },
+  "Int. Mendiluce 115, Merlo": {
+    "lat": -34.6697409,
+    "lng": -58.6989491
+  },
+  "Noguera 600, Merlo": {
+    "lat": -34.6705483,
+    "lng": -58.6942535
+  },
+  "Noguera 244, Merlo": {
+    "lat": -34.6680236,
+    "lng": -58.6971553
+  },
+  "Av. Sullivan 1484, Merlo": {
+    "lat": -34.6548267,
+    "lng": -58.7136112
+  },
+  "Independencia 861, Merlo": {
+    "lat": -34.6638215,
+    "lng": -58.7060942
+  },
+  "Noguera 2045, Merlo": {
+    "lat": -34.6788329,
+    "lng": -58.6847304
+  },
+  "Esteban Echeverría 702-706, Merlo": {
+    "lat": -34.6696474,
+    "lng": -58.6909767
+  },
+  "Zárate 260, Merlo": {
+    "lat": -34.6631469,
+    "lng": -58.6983603
+  },
+  "Pueyrredón 1611, Merlo": {
+    "lat": -34.675644,
+    "lng": -58.6998129
+  },
+  "Int. Mendiluce 1608, Merlo": {
+    "lat": -34.6709121,
+    "lng": -58.6988556
+  },
+  "A. Rivadavia 23870, Merlo": {
+    "lat": -34.6659831,
+    "lng": -58.6992098
+  },
+  "Noguera 23, Merlo": {
+    "lat": -34.6663315,
+    "lng": -58.6997968
+  },
+  "Zarate 260, Merlo": {
+    "lat": -34.6631469,
+    "lng": -58.6983603
+  },
+  "Av. Liniers 1902, Tigre": {
+    "lat": -34.427838,
+    "lng": -58.591576
+  },
+  "Av. Sta. María de las Conchas 3037,  Rincón de Milberg": {
+    "lat": -34.41562,
+    "lng": -58.601184
+  },
+  "Boulogne Sur Mer & Alberdi, Gral. Pacheco": {
+    "lat": -34.462031,
+    "lng": -58.628545
+  },
+  "Av. Hipólito Yrigoyen 1655, El Talar": {
+    "lat": -34.466319,
+    "lng": -58.645703
+  },
+  "Triunvirato 1875, Don Torcuato": {
+    "lat": -34.49073,
+    "lng": -58.613021
+  },
+  "Ruta 197 & Balcarce, Los Troncos del Talar": {
+    "lat": -34.445338,
+    "lng": -58.598769
+  },
+  "Av. Alvear 2971, Benavidez": {
+    "lat": -34.410319,
+    "lng": -58.68618
+  },
+  "50 nro 530": {
+    "lat": -34.9135709,
+    "lng": -57.9481775
+  },
+  "Diag 74 nro 871 e/ 3 y 4": {
+    "lat": -34.90472,
+    "lng": -57.95587
+  },
+  "40 E/ 15 Y 16": {
+    "lat": -34.91535,
+    "lng": -57.96843
+  },
+  "7 e/600 y 601": {
+    "lat": -34.95126,
+    "lng": -57.90206
+  },
+  "Diag 73 esq 64": {
+    "lat": -34.9206172,
+    "lng": -57.9339369
+  },
+  "60 E/ 125 Y 126": {
+    "lat": -34.90414,
+    "lng": -57.92427
+  },
+  "72  nro751": {
+    "lat": -34.93379,
+    "lng": -57.93126
+  },
+  "19 e/523 y 524 nro 814": {
+    "lat": -34.90502,
+    "lng": -57.99077
+  },
+  "11 esq. 46 nro 705": {
+    "lat": -34.91625,
+    "lng": -57.95721
+  },
+  "35 E/ 9 y 10": {
+    "lat": -34.90516,
+    "lng": -57.96794
+  },
+  "54 NRO 1139 E / 17 Y 18": {
+    "lat": -34.9267385,
+    "lng": -57.9582227
+  },
+  "120 Y 84": {
+    "lat": -34.92915,
+    "lng": -57.90284
+  },
+  "44 NRO 2234 ENTRE 139 Y 140": {
+    "lat": -34.9408035,
+    "lng": -57.9885307
+  },
+  "122 E/ 35 Y 36 NRO 181": {
+    "lat": -34.8894251,
+    "lng": -57.9509733
+  },
+  "9 e/61 y 62 nro 1415": {
+    "lat": -34.92398,
+    "lng": -57.94221
+  },
+  "7 nro 307 e/ 528 y 529": {
+    "lat": -34.89759,
+    "lng": -57.97254
+  },
+  "60 ESQ. 14 NRO 951": {
+    "lat": -34.92742,
+    "lng": -57.94903
+  },
+  "25 esq 35": {
+    "lat": -34.92001,
+    "lng": -57.98423
+  },
+  "65 E/ 25 Y 26": {
+    "lat": -34.94234,
+    "lng": -57.95522
+  },
+  "137 N 487 entre 527 y 528": {
+    "lat": -34.9261934,
+    "lng": -58.0042941
+  },
+  "155 e/ 33 y  34": {
+    "lat": -34.9476233,
+    "lng": -58.0180529
+  },
+  "Cantilo (473) esq 20": {
+    "lat": -34.8786331,
+    "lng": -58.0513533
+  },
+  "502 esquina 10": {
+    "lat": -34.87425990000001,
+    "lng": -58.004494799999975
+  },
+  "Cno. Gral. Belgrano nro 1430 e/ 416 Y 417": {
+    "lat": -34.8681471,
+    "lng": -58.1056717
+  },
+  "68 e/140 y 141": {
+    "lat": -34.9597044,
+    "lng": -57.9732475
+  },
+  "149 E/ 69 Y 70": {
+    "lat": -34.9672906,
+    "lng": -57.982445
+  },
+  "25 de Mayo 440": {
+    "lat": -34.5333614,
+    "lng": -58.4768913
+  },
+  "Lavalle 1834": {
+    "lat": -34.3265033,
+    "lng": -58.7575899
+  },
+  "Matheu 1100": {
+    "lat": -34.5652386,
+    "lng": -58.489399
+  },
+  "25 de Mayo 440, Zárate": {
+    "lat": -34.0970596,
+    "lng": -59.0185184
+  },
+  "Lavalle 1834, Zárate": {
+    "lat": -34.1128316,
+    "lng": -59.0202581
+  },
+  "Matheu 1100, Zárate": {
+    "lat": -34.0862849,
+    "lng": -59.0358624
+  },
+  "Rivadavia 545, Zárate": {
+    "lat": -34.0941977,
+    "lng": -59.0227421
+  },
+  "Mitre 1355, Zárate": {
+    "lat": -34.1051937,
+    "lng": -59.0248755
+  },
+  "Félix Pagola 899, Zárate": {
+    "lat": -34.0886771,
+    "lng": -59.0301579
+  },
+  "Av. Anta y Estrada, Zárate": {
+    "lat": -34.0931835,
+    "lng": -59.0398674
+  },
+  "E. Carriego 268, Zárate": {
+    "lat": -34.1021803,
+    "lng": -59.0434596
+  },
+  "Justa Lima 1245, Zárate": {
+    "lat": -34.1052164,
+    "lng": -59.0178781
+  },
+  "Justa Lima 1567, Zárate": {
+    "lat": -34.1076008,
+    "lng": -59.0160073
+  },
+  "3 de Febrero y V. Alsina, Zárate": {
+    "lat": -34.0913105,
+    "lng": -59.0270015
+  },
+  "Justa Lima 701, Zárate": {
+    "lat": -34.1010592,
+    "lng": -59.0207833
+  },
+  "U. Fernández 415, Zárate": {
+    "lat": -34.1018547,
+    "lng": -59.0281285
+  },
+  "Justa Lima 330, Zárate": {
+    "lat": -34.0981921,
+    "lng": -59.023037
+  },
+  "Av. anta 50, Zárate": {
+    "lat": -34.100083,
+    "lng": -59.035081
+  },
+  "Félix Pagola 400, Zárate": {
+    "lat": -34.0926854,
+    "lng": -59.0274149
+  },
+  "Suipacha 1110, Zárate": {
+    "lat": -34.095022,
+    "lng": -59.0295094
+  },
+  "Av. Lavalle 1417, Zárate": {
+    "lat": -34.1088052,
+    "lng": -59.0211742
+  },
+  "Lavalle 295, Zárate": {
+    "lat": -34.0998774,
+    "lng": -59.027078
+  },
+  "Brown 23, Zárate": {
+    "lat": -34.0964071,
+    "lng": -59.0258781
+  },
+  "Soler y Matheu, Zárate": {
+    "lat": -34.0877426,
+    "lng": -59.0387789
+  },
+  "A. Pacheco 1050, Zárate": {
+    "lat": -34.113132,
+    "lng": -59.0153481
+  },
+  "25 de Mayo 440, Zarate": {
+    "lat": -34.0970596,
+    "lng": -59.0185184
+  },
+  "Lavalle 1834, Zarate": {
+    "lat": -34.1128316,
+    "lng": -59.0202581
+  },
+  "Matheu 1100, Zarate": {
+    "lat": -34.0862849,
+    "lng": -59.0358624
+  },
+  "Av. 11 Nº 500, Zarate": {
+    "lat": -34.046251,
+    "lng": -59.1983322
+  },
+  "Rivadavia 545, Zarate": {
+    "lat": -34.0941977,
+    "lng": -59.0227421
+  },
+  "Mitre 1355, Zarate": {
+    "lat": -34.1051937,
+    "lng": -59.0248755
+  },
+  "Félix Pagola 899, Zarate": {
+    "lat": -34.0886771,
+    "lng": -59.0301579
+  },
+  "Calle 7 Nº 324, Zarate": {
+    "lat": -34.0452071,
+    "lng": -59.1954523
+  },
+  "Av. Anta y Estrada, Zarate": {
+    "lat": -34.0931835,
+    "lng": -59.0398674
+  },
+  "E. Carriego 268, Zarate": {
+    "lat": -34.1021803,
+    "lng": -59.0434596
+  },
+  "Justa Lima 1245, Zarate": {
+    "lat": -34.1052164,
+    "lng": -59.0178781
+  },
+  "Calle 13 Nº345, Zarate": {
+    "lat": -34.045247,
+    "lng": -59.1997065
+  },
+  "Justa Lima 1567, Zarate": {
+    "lat": -34.1076008,
+    "lng": -59.0160073
+  },
+  "3 de Febrero y V. Alsina, Zarate": {
+    "lat": -34.0913105,
+    "lng": -59.0270015
+  },
+  "Justa Lima 701, Zarate": {
+    "lat": -34.1010592,
+    "lng": -59.0207833
+  },
+  "U. Fernández 415, Zarate": {
+    "lat": -34.1018547,
+    "lng": -59.0281285
+  },
+  "Justa Lima 330, Zarate": {
+    "lat": -34.0981921,
+    "lng": -59.023037
+  },
+  "Av. anta 50, Zarate": {
+    "lat": -34.100083,
+    "lng": -59.035081
+  },
+  "Félix Pagola 400, Zarate": {
+    "lat": -34.0926854,
+    "lng": -59.0274149
+  },
+  "Suipacha 1110, Zarate": {
+    "lat": -34.095022,
+    "lng": -59.0295094
+  },
+  "Av. Lavalle 1417, Zarate": {
+    "lat": -34.1088052,
+    "lng": -59.0211742
+  },
+  "Lavalle 295, Zarate": {
+    "lat": -34.0998774,
+    "lng": -59.027078
+  },
+  "Brown 23, Zarate": {
+    "lat": -34.0964071,
+    "lng": -59.0258781
+  },
+  "Soler y Matheu, Zarate": {
+    "lat": -34.0877426,
+    "lng": -59.0387789
+  },
+  "A. Pacheco 1050, Zarate": {
+    "lat": -34.113132,
+    "lng": -59.0153481
   }
 }
