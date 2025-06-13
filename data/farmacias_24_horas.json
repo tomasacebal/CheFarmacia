@@ -36,7 +36,7 @@
       "nombre": "SELMA",
       "direccion": "Av. Maipu 3201",
       "telefono": "1140731597",
-      "mapa": "https://maps.app.goo.gl/ap9rVY3yohDZnjuv6",
+      "mapa": "https://www.google.com.ar/maps/place/Farmacia+Selma+-+Olivos/@-34.5060599,-58.5120532,15z/data=!4m7!3m6!1s0x95bcb116eb0663b3:0x30cd4a0928684dcd!8m2!3d-34.5060599!4d-58.4929988!15sChFmYXJtYWNpYSAyNCBob3JhcyICGAFaCiIIZmFybWFjaWGSAQhwaGFybWFjeaoBSgoJL20vMDFyZnBzEAEqDCIIZmFybWFjaWEoDjIfEAEiG0zJa-4sAW2f9RJ9ybsRvixJKmjvU_FoCAJvqzIMEAIiCGZhcm1hY2lh4AEA!16s%2Fg%2F11cr_p2m2w?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=b7cf7acc-ee86-4026-9c34-4e317b9f09a8",
       "coordenadas": {
         "lat": -34.5060599,
         "lng": -58.4929988
@@ -46,7 +46,7 @@
       "nombre": "Central Munro",
       "direccion": "Vélez Sársfield 4164",
       "telefono": "1147562837",
-      "mapa": "https://maps.app.goo.gl/N6cu1kXmmtDLBMQK7",
+      "mapa": "https://www.google.com.ar/maps/place/Farmacia+Central+Munro/@-34.527697,-58.537676,15z/data=!4m7!3m6!1s0x95bcb0d012b4a42b:0x9e711de2b3352234!8m2!3d-34.527697!4d-58.5186216!15sChFmYXJtYWNpYSAyNCBob3JhcyICGAFaCiIIZmFybWFjaWGSAQhwaGFybWFjeaoBSgoJL20vMDFyZnBzEAEqDCIIZmFybWFjaWEoDjIfEAEiG0zJa-4sAW2f9RJ9ybsRvixJKmjvU_FoCAJvqzIMEAIiCGZhcm1hY2lh4AEA!16s%2Fg%2F1vspsp94?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=212ae275-aef4-4c60-90ff-6c5b878c9f7e",
       "coordenadas": {
         "lat": -34.5278281,
         "lng": -58.518521
@@ -56,7 +56,7 @@
       "nombre": "SELMA",
       "direccion": "Paraná 6502",
       "telefono": "1160517711",
-      "mapa": "https://maps.app.goo.gl/oNU544fEYF6bbHSZ9",
+      "mapa": "https://www.google.com.ar/maps/place/Farmacia+Selma+-+Villa+Adelina/@-34.5287255,-58.5509504,16.17z/data=!4m14!1m7!3m6!1s0x95bcb0a058a2fe1d:0xbb6c8d845d7baed0!2sFarmacia+Central+Adelina!8m2!3d-34.5290723!4d-58.5522172!16s%2Fg%2F1hc7xxhm8!3m5!1s0x95bcb0a1fae489e1:0xb01321c008e02595!8m2!3d-34.5264086!4d-58.5492322!16s%2Fg%2F1hc0xx714?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
       "coordenadas": {
         "lat": -34.5290723,
         "lng": -58.5522172
@@ -66,7 +66,7 @@
       "nombre": "Central Adelina",
       "direccion": "Gdor. Emilio Castro 4095",
       "telefono": "47000216",
-      "mapa": "https://maps.app.goo.gl/1yvbg6svEA6NxEzJ7",
+      "mapa": "https://www.google.com.ar/maps/place/Farmacia+Central+Adelina/@-34.53538,-58.5684925,13z/data=!4m14!1m7!3m6!1s0x95bcb0a058a2fe1d:0xbb6c8d845d7baed0!2sFarmacia+Central+Adelina!8m2!3d-34.5290723!4d-58.5522172!16s%2Fg%2F1hc7xxhm8!3m5!1s0x95bcb0a058a2fe1d:0xbb6c8d845d7baed0!8m2!3d-34.5290723!4d-58.5522172!16s%2Fg%2F1hc7xxhm8?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
       "coordenadas": {
         "lat": -34.5290723,
         "lng": -58.5522172
@@ -138,7 +138,7 @@
       "nombre": "Farmacity - 71",
       "direccion": "Juana Manso 1189, C1107 Cdad. Autónoma de Buenos Aires",
       "telefono": "1157750081",
-      "mapa": "https://maps.app.goo.gl/6qQRchcsaBxaqF2P9",
+      "mapa": "https://www.google.com.ar/maps/place/Juana+Manso+1189,+C1107+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6112666,-58.3627788,17z/data=!3m1!4b1!4m6!3m5!1s0x95a33528318ee9a7:0xcbb7439ae353f7e6!8m2!3d-34.6112666!4d-58.3627788!16s%2Fg%2F11nntq1lsd?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=684660be-452c-4e09-b32d-5fd3b38ffeb5",
       "coordenadas": {
         "lat": -34.6112666,
         "lng": -58.3627788
@@ -158,7 +158,7 @@
       "nombre": "Farmacity - 20",
       "direccion": "Florida 474, C1005 San Nicolas, Cdad. Autónoma de Buenos Aires",
       "telefono": "1143227777",
-      "mapa": "https://maps.app.goo.gl/JwQkbWd8X9pZMx196",
+      "mapa": "https://www.google.com.ar/maps/place/Florida+474,+C1005+San+Nicolas,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6025225,-58.3752385,17z/data=!4m6!3m5!1s0x95bccacc4e26b681:0x2ec5d1e4099db654!8m2!3d-34.6024891!4d-58.3753135!16s%2Fg%2F11c5j8f9xl?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=507a2db2-48b5-4b6e-9835-d915a57bc764",
       "coordenadas": {
         "lat": -34.6025225,
         "lng": -58.3752385
@@ -168,7 +168,7 @@
       "nombre": "Farmacity - 54",
       "direccion": "Mcal. Antonio José de Sucre 1520, C1428DUT C1428DUT, Cdad. Autónoma de Buenos Aires",
       "telefono": "1147801060",
-      "mapa": "https://maps.app.goo.gl/hFgDTZbfTrfVV2446",
+      "mapa": "https://www.google.com.ar/maps/place/Mcal,+Mcal.+Antonio+Jos%C3%A9+de+Sucre+1520,+C1428DUT+C1428DUT,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5588821,-58.4462927,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb5cc7dccb9a1:0x865f64559e8be95f!8m2!3d-34.5588821!4d-58.4462927!16s%2Fg%2F11vf4cg62h?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
       "coordenadas": {
         "lat": -34.5588821,
         "lng": -58.4462927
@@ -178,7 +178,7 @@
       "nombre": "Farmacity - 114",
       "direccion": "Saladillo 2016, C1440FFP Cdad. Autónoma de Buenos Aires",
       "telefono": "1146863461",
-      "mapa": "https://maps.app.goo.gl/u31aG2ErhKWCn8AF6",
+      "mapa": "https://www.google.com.ar/maps/place/Saladillo+2016,+C1440FFP+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6612968,-58.5167807,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8fbd64f8325:0x31358e077203cef7!8m2!3d-34.6612968!4d-58.5167807!16s%2Fg%2F11hzlqp8t2?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=15c47457-1ece-4d7c-bba3-e073d06994a6",
       "coordenadas": {
         "lat": -34.6612968,
         "lng": -58.5167807
@@ -208,7 +208,7 @@
       "nombre": "Farmacity - 137",
       "direccion": "Gral. José Gervasio Artigas 4684, C1419ECX Cdad. Autónoma de Buenos Aires",
       "telefono": "1145142350",
-      "mapa": "https://maps.app.goo.gl/8M1DismBbuGzzCHb7",
+      "mapa": "https://www.google.com.ar/maps/place/Gral.+Jos%C3%A9+Gervasio+Artigas+4684,+C1419ECX+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5837096,-58.4976539,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcb64f7950f6b1:0xdd692d2a69eae9b4!8m2!3d-34.5837096!4d-58.4976539!16s%2Fg%2F11rgf9085w?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=7d0d8abf-af6a-4579-8379-b244788eb35a",
       "coordenadas": {
         "lat": -34.5837096,
         "lng": -58.4976539
@@ -248,7 +248,7 @@
       "nombre": "Farmacity - 29",
       "direccion": "Cuenca 3149, C1417ABA Cdad. Autónoma de Buenos Aires",
       "telefono": "1145014422",
-      "mapa": "https://maps.app.goo.gl/amVx9Qqfp5d1Veow6",
+      "mapa": "https://www.google.com.ar/maps/place/Cuenca+3149,+C1417ABA+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6008212,-58.4954904,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb62539d61027:0x2879a43ffb2dc780!8m2!3d-34.6008212!4d-58.4954904?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=d0a650a3-553d-4612-b14c-af65d1e6afbf",
       "coordenadas": {
         "lat": -34.6008212,
         "lng": -58.4954904
@@ -378,7 +378,7 @@
       "nombre": "Farmacity - 330, DOT",
       "direccion": "Vedia 3788, C1430DAL Cdad. Autónoma de Buenos Aires",
       "telefono": "",
-      "mapa": "https://maps.app.goo.gl/9tMCDGiDj52sSEz76",
+      "mapa": "https://www.google.com/maps/place/Vedia+3788,+C1430DAL+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5462479,-58.4895128,17z/data=!3m1!4b1!4m5!3m4!1s0x95bcb6c109f48afd:0x707c3987389033c7!8m2!3d-34.5462479!4d-58.4895128?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=3a4bb3af-2f31-4034-8094-03d74b7b33cc",
       "coordenadas": {
         "lat": -34.5462479,
         "lng": -58.4895128
@@ -390,15 +390,15 @@
       "telefono": "1143733276",
       "mapa": "https://www.google.com/maps/search/?api=1&query=Av.+Entre+R%C3%ADos+198%2C+CABA",
       "coordenadas": {
-        "lat": null,
-        "lng": null
+        "lat": -34.6112821,
+        "lng": -58.391605
       }
     },
     {
       "nombre": "Farmacity - 33, Aeroparque",
       "direccion": "Av. Costanera Rafael Obligado S/N",
       "telefono": "1154803800",
-      "mapa": "https://maps.app.goo.gl/yAFF5Gvy7aKhuqDf8",
+      "mapa": "https://www.google.com.ar/maps/place/Aeroparque+Internacional+Jorge+Newbery/@-34.5578885,-58.4175331,17z/data=!4m6!3m5!1s0x95bcb5a7f531c7b5:0xfdd992892f9ccadb!8m2!3d-34.5590184!4d-58.4156511!16zL20vMDFfdDM3?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=471ceb75-3f58-4b7c-b56d-f9d7cf67376e",
       "coordenadas": {
         "lat": -34.5578885,
         "lng": -58.4175331
@@ -418,7 +418,7 @@
       "nombre": "Farmacity - 73",
       "direccion": "Av. Córdoba 4601, C1414BAE Cdad. Autónoma de Buenos Aires",
       "telefono": "",
-      "mapa": "https://maps.app.goo.gl/sUqbQ31kGDrQ3KjNA",
+      "mapa": "https://www.google.com.ar/maps/place/Av.+C%C3%B3rdoba+4601,+C1414BAE+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5940234,-58.4301014,17z/data=!3m1!4b1!4m6!3m5!1s0x95bcca77755faa4f:0xf4475cf637c24e05!8m2!3d-34.5940234!4d-58.4301014!16s%2Fg%2F11c1zlw_45?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=f59d9c44-8a67-4dde-9982-afdcc5a670dd",
       "coordenadas": {
         "lat": -34.5940234,
         "lng": -58.4301014
@@ -458,7 +458,7 @@
       "nombre": "Farmacity - 201, Arcos",
       "direccion": "Paraguay 4979, C1425BTC Cdad. Autónoma de Buenos Aires",
       "telefono": "1175093384",
-      "mapa": "https://maps.app.goo.gl/5cwt9At3WTUercAw6",
+      "mapa": "https://www.google.com.ar/maps/place/Paraguay+4979,+C1425BTC+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5809089,-58.4298141,17z/data=!4m6!3m5!1s0x95bcb58552070e6d:0xf17c9697cc78977d!8m2!3d-34.5812004!4d-58.4280438!16s%2Fg%2F11spgz5t6h?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=1f6dfcf5-9d74-4642-99d8-32db9182e092",
       "coordenadas": {
         "lat": -34.5809089,
         "lng": -58.4298141
@@ -528,7 +528,7 @@
       "nombre": "Farmacity - 39",
       "direccion": "Olleros 1802, C1426CRH Cdad. Autónoma de Buenos Aires",
       "telefono": "1147719710",
-      "mapa": "https://maps.app.goo.gl/iGtPJUMyAv8TTViR6",
+      "mapa": "https://www.google.com.ar/maps/place/Olleros+1802,+C1426CRH+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.5652908,-58.4382455,17z/data=!4m6!3m5!1s0x95bcb5b8469374a1:0xc0fa1c6a31997f84!8m2!3d-34.5653952!4d-58.438265!16s%2Fg%2F11q2nfmnyx?entry=tts&g_ep=EgoyMDI1MDYwNC4wIPu8ASoASAFQAw%3D%3D&skid=e7226ca4-084f-4da5-ac53-13d2e6c844d3",
       "coordenadas": {
         "lat": -34.5652908,
         "lng": -58.4382455
@@ -598,7 +598,7 @@
       "nombre": "FarmaPlus 18 (Caballito 1)",
       "direccion": "Av. Rivadavia 5014, C1424 Cdad. Autónoma de Buenos Aires",
       "telefono": "1133847304",
-      "mapa": "https://maps.app.goo.gl/GWMZTRrqviZ5Ap487",
+      "mapa": "https://www.google.com.ar/maps/place/Av.+Rivadavia+5014,+C1424+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6187187,-58.4369121,19z/data=!4m6!3m5!1s0x95bcca46d3c95e2d:0x79ed06bc767f2de6!8m2!3d-34.6185756!4d-58.4367727!16s%2Fg%2F11fx9b3d9z?entry=ttu&g_ep=EgoyMDI1MDYxMC4xIKXMDSoASAFQAw%3D%3D",
       "coordenadas": {
         "lat": -34.6184334,
         "lng": -58.4368708
