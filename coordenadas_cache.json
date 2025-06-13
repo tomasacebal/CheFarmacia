@@ -188,8 +188,8 @@
     "lng": -58.5045099
   },
   "Av. de Mayo 900, C1002 CABA, Argentina": {
-    "lat": -34.6090116,
-    "lng": -58.3791159
+    "lat": -34.516266,
+    "lng": -58.5426465
   },
   "Thames 1400, B1607 Villa Adelina, Provincia de Buenos Aires, Argentina": {
     "lat": -34.5070781,
@@ -604,8 +604,8 @@
     "lng": -58.7405375
   },
   "Av. San Martín 3600, Merlo": {
-    "lat": -34.6457495,
-    "lng": -58.6045428
+    "lat": -34.6905972,
+    "lng": -58.7354186
   },
   "Echeverry 1478, Merlo": {
     "lat": -34.7080384,
@@ -1702,5 +1702,185 @@
   "Calle 32 Nº 1307": {
     "lat": -36.533794,
     "lng": -56.7085744
+  },
+  "Calle 202 2767, Don Torcuato": {
+    "lat": -34.48746,
+    "lng": -58.61841
+  },
+  "Emilio Mitre 407, Tigre": {
+    "lat": -34.417237,
+    "lng": -58.587683
+  },
+  "Agustín García 7353, Rincón de Milberg": {
+    "lat": -34.3988,
+    "lng": -58.646296
+  },
+  "Av. Hipólito Yrigoyen 1337, Gral. Pacheco": {
+    "lat": -34.462741,
+    "lng": -58.639017
+  },
+  "Cnel. Vilela & Manuel Quintana, Ricardo Rojas": {
+    "lat": -34.449504,
+    "lng": -58.676749
+  },
+  "Av. Juan Domingo Perón 6474, Benavidez": {
+    "lat": -34.41642,
+    "lng": -58.699478
+  },
+  "Gral. Pacheco, Buenos Aires, Argentina": {
+    "lat": -34.452971,
+    "lng": -58.642987
+  },
+  "28 esq 38": {
+    "lat": -34.9254915,
+    "lng": -57.9836225
+  },
+  "43 nro 439 entre 3 y 4": {
+    "lat": -34.90667,
+    "lng": -57.95318
+  },
+  "56 ESQ. 15": {
+    "lat": -34.9262384,
+    "lng": -57.954871
+  },
+  "70 nro 1686 e/ 28 y 29": {
+    "lat": -34.94973,
+    "lng": -57.95238
+  },
+  "1 esq 61 nro 1400": {
+    "lat": -34.9116879,
+    "lng": -57.9402754
+  },
+  "530 esq 115bis nro 457": {
+    "lat": -34.8904189,
+    "lng": -57.9654072
+  },
+  "44 nro 4576 e/186 y 187": {
+    "lat": -34.9560799,
+    "lng": -58.0049794
+  },
+  "13 esq 77 nro 2198": {
+    "lat": -34.9223011,
+    "lng": -57.95326990000001
+  },
+  "13 e/33 y 34 nro 83": {
+    "lat": -34.9068574,
+    "lng": -57.97334
+  },
+  "120 e/72 y 73 nro 1980": {
+    "lat": -34.8899246,
+    "lng": -57.9544361
+  },
+  "49 ESQ. 28 NRO 1647": {
+    "lat": -34.9338017,
+    "lng": -57.9719868
+  },
+  "DIAG. 80 Y 49 NRO 1053": {
+    "lat": -34.9127575,
+    "lng": -57.9487482
+  },
+  "7 ESQ. 67 NRO 1701": {
+    "lat": -34.926911,
+    "lng": -57.9336352
+  },
+  "41 nro 1151 esq 18": {
+    "lat": -34.918436,
+    "lng": -57.9701091
+  },
+  "526 NRO 3304": {
+    "lat": -34.9153747,
+    "lng": -57.9973411
+  },
+  "142 Nro 14 ESQ 32": {
+    "lat": -34.9337124,
+    "lng": -58.0049355
+  },
+  "473 bis(ex15) e/21A (ex 22) y cno Gral Belgarno": {
+    "lat": -34.8742622,
+    "lng": -58.0467584
+  },
+  "Cno Gral Belgrano e/409 y 411 nro 1850": {
+    "lat": -34.8715262,
+    "lng": -58.0923444
+  },
+  "137 Nro 1880": {
+    "lat": -34.9582082,
+    "lng": -57.9633006
+  },
+  "Calle 839 N° 2698, esq. Av. Tte. Gral. Donato Alvarez": {
+    "lat": -34.7795796,
+    "lng": -58.31800997
+  },
+  "Av. Los Quilmes N° 1194, entre Formosa y Misiones": {
+    "lat": -34.71506703,
+    "lng": -58.30650598
+  },
+  "Viejo Bueno N° 801, esq. Cerrito": {
+    "lat": -34.71726295,
+    "lng": -58.30059171
+  },
+  "Primera Junta N° 203, esq. Lavalle": {
+    "lat": -34.73254012,
+    "lng": -58.24909329
+  },
+  "Av. 12 de Octubre N° 2347, e/ Est. del Campo y J. V. Gonzalez": {
+    "lat": -34.7386805,
+    "lng": -58.28236878
+  },
+  "Av. San Martin N° 5535, e/ Av. Fcio. Varela y Dgo. Sobral": {
+    "lat": -34.73695535,
+    "lng": -58.22479657
+  },
+  "Av.Kirchner (ex Mitre) y 19 n°1905": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "14 e/130 y 131": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "Cno.Gral.Belgrano 4629 e/214A y 215": {
+    "lat": -34.80498017,
+    "lng": -58.21798772
+  },
+  "163 nº 6177 e/61 y 62 Hudson": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "413 e/459 y 460 Gutiérrez 112201-7310": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "Av.Calchaquí e/6 y 7 n°638": {
+    "lat": -34.7798726,
+    "lng": -58.2622977
+  },
+  "López Escribano 1701, Zeballos": {
+    "lat": -34.80201927552562,
+    "lng": -58.24426298422
+  },
+  "Av. San Martin 1299, Curva Berraymundo": {
+    "lat": -34.7888694748264,
+    "lng": -58.2811584842204
+  },
+  "Av. San Martin 2944, Centro": {
+    "lat": -34.806302775753316,
+    "lng": -58.27994188421988
+  },
+  "Calle 1282 Nº 931, Ing. Allan": {
+    "lat": -34.862910578766424,
+    "lng": -58.18576268421854
+  },
+  "P. Podestá 1628, Bosques": {
+    "lat": -34.821896376582856,
+    "lng": -58.23397338421953
+  },
+  "Av. Hudson 531, V. Vatteone": {
+    "lat": -34.81531326870514,
+    "lng": -58.257388723495104
+  },
+  "Pueyrredón 417, V. Vatteone": {
+    "lat": -34.81477557620396,
+    "lng": -58.27329668421979
   }
 }
