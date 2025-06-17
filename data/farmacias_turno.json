@@ -1453,6 +1453,58 @@
               "lng": -58.642987
             }
           }
+        ],
+        "16": [
+          {
+            "nombre": "Farmacia Sarmiento",
+            "direccion": "Av. Cazón 1200, B1648EWZ Tigre",
+            "telefono": "47490643",
+            "mapa": "https://www.google.com/maps/place/-34.426119,-58.576355",
+            "coordenadas": {
+              "lat": -34.426119,
+              "lng": -58.576355
+            }
+          },
+          {
+            "nombre": "Farmacia Trajtemberg",
+            "direccion": "Riobamba 2026, Don Torcuato",
+            "telefono": "47481600",
+            "mapa": "https://www.google.com/maps/place/-34.493733,-58.616641",
+            "coordenadas": {
+              "lat": -34.493733,
+              "lng": -58.616641
+            }
+          },
+          {
+            "nombre": "Farmacia Eguiarte",
+            "direccion": "Ruta 197 y General Belgrano, Troncos del Talar",
+            "telefono": "47153913",
+            "mapa": "https://www.google.com/maps/place/-34.436014,-58.567778",
+            "coordenadas": {
+              "lat": -34.436014,
+              "lng": -58.567778
+            }
+          },
+          {
+            "nombre": "Farmacia Di Cola",
+            "direccion": "Santiago de Estero 388, Gral. Pacheco",
+            "telefono": "47368029",
+            "mapa": "https://www.google.com/maps/place/-34.454694,-58.635291",
+            "coordenadas": {
+              "lat": -34.454694,
+              "lng": -58.635291
+            }
+          },
+          {
+            "nombre": "Farmacia Rial",
+            "direccion": "Av. Alvear 2571, Benavídez",
+            "telefono": "03327481210",
+            "mapa": "https://www.google.com/maps/place/-34.412535,-58.690349",
+            "coordenadas": {
+              "lat": -34.412535,
+              "lng": -58.690349
+            }
+          }
         ]
       }
     },
@@ -1921,6 +1973,218 @@
             "coordenadas": {
               "lat": -34.9582082,
               "lng": -57.9633006
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "SPICOLI",
+            "direccion": "7 nro 1554 e/ 516 y 517",
+            "telefono": "2216558063",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8874854,-57.9862168",
+            "coordenadas": {
+              "lat": -34.8874854,
+              "lng": -57.9862168
+            }
+          },
+          {
+            "nombre": "ANTONELLI",
+            "direccion": "4 esq 57",
+            "telefono": "4243929",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91539,-57.94161",
+            "coordenadas": {
+              "lat": -34.91539,
+              "lng": -57.94161
+            }
+          },
+          {
+            "nombre": "RIVADULLA",
+            "direccion": "Pza Azcuenaga 19 y 44",
+            "telefono": "4253730",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9212133,-57.96718",
+            "coordenadas": {
+              "lat": -34.9212133,
+              "lng": -57.96718
+            }
+          },
+          {
+            "nombre": "DE ROSE",
+            "direccion": "131 esq 40 nro 399",
+            "telefono": "4705716",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.93026,-57.98514",
+            "coordenadas": {
+              "lat": -34.93026,
+              "lng": -57.98514
+            }
+          },
+          {
+            "nombre": "DEL NUEVO TEATRO S.C.S.",
+            "direccion": "51 nro 741",
+            "telefono": "4226855",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9179511,-57.9521621",
+            "coordenadas": {
+              "lat": -34.9179511,
+              "lng": -57.9521621
+            }
+          },
+          {
+            "nombre": "ENTRE RIOS S.C.S.",
+            "direccion": "7 nro 2917",
+            "telefono": "4869780",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.945584,-57.9094641",
+            "coordenadas": {
+              "lat": -34.945584,
+              "lng": -57.9094641
+            }
+          },
+          {
+            "nombre": "ABDALA LA PLATA S.C.S.",
+            "direccion": "2 nro 190 1/2 e/35 y 36",
+            "telefono": "4891773",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8989311,-57.9594673",
+            "coordenadas": {
+              "lat": -34.8989311,
+              "lng": -57.9594673
+            }
+          },
+          {
+            "nombre": "GLOWKO",
+            "direccion": "58 nro 1765 e/ 30 y 31",
+            "telefono": "4570024",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.941125,-57.967956",
+            "coordenadas": {
+              "lat": -34.941125,
+              "lng": -57.967956
+            }
+          },
+          {
+            "nombre": "INTERNACIONAL",
+            "direccion": "3 Nro761 e/ 47 y 48",
+            "telefono": "0221152238857",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9096088,-57.9478008",
+            "coordenadas": {
+              "lat": -34.9096088,
+              "lng": -57.9478008
+            }
+          },
+          {
+            "nombre": "LEYES S.C.S.",
+            "direccion": "26 nro 2288 e/ 78 y 79",
+            "telefono": "4531877",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9538233,-57.9406509",
+            "coordenadas": {
+              "lat": -34.9538233,
+              "lng": -57.9406509
+            }
+          },
+          {
+            "nombre": "NOTTE",
+            "direccion": "4 ESQ. 78 Bis",
+            "telefono": "4527929",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.93329,-57.91821",
+            "coordenadas": {
+              "lat": -34.93329,
+              "lng": -57.91821
+            }
+          },
+          {
+            "nombre": "PROTEU S.C.S.",
+            "direccion": "2 esq 68",
+            "telefono": "4274477",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.92294,-57.92761",
+            "coordenadas": {
+              "lat": -34.92294,
+              "lng": -57.92761
+            }
+          },
+          {
+            "nombre": "ROCHA S.C.S.",
+            "direccion": "7 y 58 nro 1249",
+            "telefono": "42108564271590",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91931,-57.94405",
+            "coordenadas": {
+              "lat": -34.91931,
+              "lng": -57.94405
+            }
+          },
+          {
+            "nombre": "VILLAMARIN",
+            "direccion": "15 nro 149 esq 35",
+            "telefono": "4828819",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91061,-57.97394",
+            "coordenadas": {
+              "lat": -34.91061,
+              "lng": -57.97394
+            }
+          },
+          {
+            "nombre": "BONVISSUTO",
+            "direccion": "CALLE 64 E/123 Y 124",
+            "telefono": "4273791",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90924,-57.92119",
+            "coordenadas": {
+              "lat": -34.90924,
+              "lng": -57.92119
+            }
+          },
+          {
+            "nombre": "GORRITI S.C.S.",
+            "direccion": "520 NRO 6256 E/157 Y 158",
+            "telefono": "2215639820",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.938192,-58.0349317",
+            "coordenadas": {
+              "lat": -34.938192,
+              "lng": -58.0349317
+            }
+          },
+          {
+            "nombre": "BULACIO S.C.S",
+            "direccion": "143 ESQ 47",
+            "telefono": "221153107626",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.94737,-57.98897",
+            "coordenadas": {
+              "lat": -34.94737,
+              "lng": -57.98897
+            }
+          },
+          {
+            "nombre": "FARMAMACK",
+            "direccion": "14 esq 51 nro 1803",
+            "telefono": "4732731",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8520154,-58.0889148",
+            "coordenadas": {
+              "lat": -34.8520154,
+              "lng": -58.0889148
+            }
+          },
+          {
+            "nombre": "MEYER S.C.S.",
+            "direccion": "Cno Gral Belgrano nro 635 e/ 466 y 467 City Bell",
+            "telefono": "4722323",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8804223,-58.0603099",
+            "coordenadas": {
+              "lat": -34.8804223,
+              "lng": -58.0603099
+            }
+          },
+          {
+            "nombre": "MELITON",
+            "direccion": "485 e/ 135 y 136 nro 4254",
+            "telefono": "4710771",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90139,-58.04341",
+            "coordenadas": {
+              "lat": -34.90139,
+              "lng": -58.04341
+            }
+          },
+          {
+            "nombre": "BARONTINI",
+            "direccion": "60 nro 2871",
+            "telefono": "4564707",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9634604,-57.9908457",
+            "coordenadas": {
+              "lat": -34.9634604,
+              "lng": -57.9908457
             }
           }
         ]
@@ -3891,6 +4155,1704 @@
               "lng": -58.6988556
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Farmacia Mendibil",
+            "direccion": "Av. Ferrari 7648, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Ferrari%207648%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7128284,
+              "lng": -58.7697918
+            }
+          },
+          {
+            "nombre": "Guida",
+            "direccion": "Av. Calle Real (Ex Vergara) 101, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Calle%20Real%20%28Ex%20Vergara%29%20101%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6722471,
+              "lng": -58.7109295
+            }
+          },
+          {
+            "nombre": "Constitución 698",
+            "direccion": "Constitución 698, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Constituci%C3%B3n%20698%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6701927,
+              "lng": -58.7359858
+            }
+          },
+          {
+            "nombre": "Contreras",
+            "direccion": "B. Bossini y C. Salvadores, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/B.%20Bossini%20y%20C.%20Salvadores%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7205388,
+              "lng": -58.7929747
+            }
+          },
+          {
+            "nombre": "Mughini",
+            "direccion": "Av. San Martín 4474, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%204474%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6956936,
+              "lng": -58.7407397
+            }
+          },
+          {
+            "nombre": "Caminos",
+            "direccion": "Balbastro 1755, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Balbastro%201755%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6954627,
+              "lng": -58.7191554
+            }
+          },
+          {
+            "nombre": "Anele",
+            "direccion": "Av. Eva Perón 3050 esq. Noguera, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%203050%20esq.%20Noguera%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6821752,
+              "lng": -58.6797711
+            }
+          },
+          {
+            "nombre": "Vía Scuderlando",
+            "direccion": "Carolina Lara de Maldonado 2706, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Carolina%20Lara%20de%20Maldonado%202706%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7122192,
+              "lng": -58.7240455
+            }
+          },
+          {
+            "nombre": "Obarrio",
+            "direccion": "Obarrio 2106, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Obarrio%202106%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.707128,
+              "lng": -58.667857
+            }
+          },
+          {
+            "nombre": "Güemes Peña",
+            "direccion": "Rodríguez Peña 290, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rodr%C3%ADguez%20Pe%C3%B1a%20290%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6608078,
+              "lng": -58.7332376
+            }
+          },
+          {
+            "nombre": "Amistad",
+            "direccion": "Av. De la Unión 1684, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201684%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7468427,
+              "lng": -58.6981769
+            }
+          },
+          {
+            "nombre": "Nueva Aparicio",
+            "direccion": "A. Rivadavia 23870, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/A.%20Rivadavia%2023870%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6659831,
+              "lng": -58.6992098
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "Farmacia Rossi",
+            "direccion": "Mozart 419, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Mozart%20419%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6911001,
+              "lng": -58.7632746
+            }
+          },
+          {
+            "nombre": "Glikin",
+            "direccion": "Colón 502, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Col%C3%B3n%20502%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6677541,
+              "lng": -58.7229441
+            }
+          },
+          {
+            "nombre": "Generia",
+            "direccion": "Av. Argentina 1557, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Argentina%201557%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6766201,
+              "lng": -58.7260946
+            }
+          },
+          {
+            "nombre": "Nueva Miguel",
+            "direccion": "Ruta 200 Km 40, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ruta%20200%20Km%2040%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6940534,
+              "lng": -59.3005449
+            }
+          },
+          {
+            "nombre": "Echeverry",
+            "direccion": "Echeverry 1061, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%201061%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7048608,
+              "lng": -58.7419908
+            }
+          },
+          {
+            "nombre": "Verona",
+            "direccion": "Gómez Fretes 4206, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/G%C3%B3mez%20Fretes%204206%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6933119,
+              "lng": -58.7405375
+            }
+          },
+          {
+            "nombre": "Benitez",
+            "direccion": "Av. Eva Peron 1373 (Libertad Centro), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Peron%201373%20%28Libertad%20Centro%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6897458,
+              "lng": -58.6888665
+            }
+          },
+          {
+            "nombre": "Sica",
+            "direccion": "Sica 3004 (Barrio Rivadavia), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sica%203004%20%28Barrio%20Rivadavia%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7125163,
+              "lng": -58.7211153
+            }
+          },
+          {
+            "nombre": "Saavedra",
+            "direccion": "Av. Del Cortijo 1559 (Merlo Gómez), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Del%20Cortijo%201559%20%28Merlo%20G%C3%B3mez%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7194101,
+              "lng": -58.52262
+            }
+          },
+          {
+            "nombre": "Fusco",
+            "direccion": "H. Yrigoyen 315, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%20315%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.661569,
+              "lng": -58.726422
+            }
+          },
+          {
+            "nombre": "Zurro",
+            "direccion": "De los Franceses 3861, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/De%20los%20Franceses%203861%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7496717,
+              "lng": -58.7029933
+            }
+          },
+          {
+            "nombre": "Farm. Noguera",
+            "direccion": "Noguera 23, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%2023%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6663315,
+              "lng": -58.6997968
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "Farmacia Samoré",
+            "direccion": "Freire 662, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Freire%20662%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6985893,
+              "lng": -58.7672239
+            }
+          },
+          {
+            "nombre": "Nueva Merlo",
+            "direccion": "Av. del Libertador 501, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20del%20Libertador%20501%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6687026,
+              "lng": -58.7256795
+            }
+          },
+          {
+            "nombre": "Central Merlo",
+            "direccion": "Suipacha 547, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Suipacha%20547%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6662927,
+              "lng": -58.7264133
+            }
+          },
+          {
+            "nombre": "Benítez",
+            "direccion": "Ricardo Balbín 9040 esq. Uriarte, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ricardo%20Balb%C3%ADn%209040%20esq.%20Uriarte%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7196609,
+              "lng": -58.7889544
+            }
+          },
+          {
+            "nombre": "Iaco",
+            "direccion": "Av. San Martín 3600, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%203600%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6905972,
+              "lng": -58.7354186
+            }
+          },
+          {
+            "nombre": "Bravo",
+            "direccion": "Echeverry 1478, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%201478%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7080384,
+              "lng": -58.7366179
+            }
+          },
+          {
+            "nombre": "Plazza",
+            "direccion": "Av. Eva Perón 681 esq. La Porteña, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%20681%20esq.%20La%20Porte%C3%B1a%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6844275,
+              "lng": -58.6833014
+            }
+          },
+          {
+            "nombre": "Nueva Colombia",
+            "direccion": "Colombia 1046 esq. Escobar (B. Nuevo), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Colombia%201046%20esq.%20Escobar%20%28B.%20Nuevo%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6861357,
+              "lng": -58.7280938
+            }
+          },
+          {
+            "nombre": "Palmar",
+            "direccion": "H. Yrigoyen 1353, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%201353%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.652822,
+              "lng": -58.7219782
+            }
+          },
+          {
+            "nombre": "Cientifica KST",
+            "direccion": "Av. De la Unión 1002, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201002%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7426267,
+              "lng": -58.6938034
+            }
+          },
+          {
+            "nombre": "Ceballos",
+            "direccion": "Int. Mendiluce 115, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.%20Mendiluce%20115%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6697409,
+              "lng": -58.6989491
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "Farmacia Rojas",
+            "direccion": "Rojas 909, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rojas%20909%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6841677,
+              "lng": -58.7798326
+            }
+          },
+          {
+            "nombre": "Ares",
+            "direccion": "Av. Calle Real (Ex Vergara) 598, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Calle%20Real%20%28Ex%20Vergara%29%20598%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6776843,
+              "lng": -58.7126372
+            }
+          },
+          {
+            "nombre": "Funes",
+            "direccion": "Av. del Libertador 386, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20del%20Libertador%20386%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6703214,
+              "lng": -58.7253371
+            }
+          },
+          {
+            "nombre": "Farma Soluciones",
+            "direccion": "Dr. Ricardo Balbín 9802 esq. Santander, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Dr.%20Ricardo%20Balb%C3%ADn%209802%20esq.%20Santander%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7274298,
+              "lng": -58.7944867
+            }
+          },
+          {
+            "nombre": "Curotti",
+            "direccion": "Av. San Martín 3225, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%203225%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6880997,
+              "lng": -58.7334948
+            }
+          },
+          {
+            "nombre": "Rois",
+            "direccion": "Echeverry 545, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%20545%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7002444,
+              "lng": -58.7481793
+            }
+          },
+          {
+            "nombre": "Libertad",
+            "direccion": "Av. Eva Perón 4321 esq. J. B. Justo (Lib. Ctro), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%204321%20esq.%20J.%20B.%20Justo%20%28Lib.%20Ctro%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6912283,
+              "lng": -58.6902915
+            }
+          },
+          {
+            "nombre": "Nobel Repetto",
+            "direccion": "Gamboa 516 esq. Soler (Barrio Petracchi), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Gamboa%20516%20esq.%20Soler%20%28Barrio%20Petracchi%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6904211,
+              "lng": -58.6676056
+            }
+          },
+          {
+            "nombre": "Traverso",
+            "direccion": "Bella Vista 4648 (Barrio Nuevo), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Bella%20Vista%204648%20%28Barrio%20Nuevo%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6448707,
+              "lng": -58.6664046
+            }
+          },
+          {
+            "nombre": "Melo",
+            "direccion": "Independencia 1777, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Independencia%201777%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6618443,
+              "lng": -58.7192216
+            }
+          },
+          {
+            "nombre": "Salgueiro",
+            "direccion": "De los Italianos 4018, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/De%20los%20Italianos%204018%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7516776,
+              "lng": -58.702977
+            }
+          },
+          {
+            "nombre": "Nuova Varrone",
+            "direccion": "Noguera 600, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%20600%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6705483,
+              "lng": -58.6942535
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "Farmacia Etchenique",
+            "direccion": "Filiberto 670, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Filiberto%20670%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6667551,
+              "lng": -58.757327
+            }
+          },
+          {
+            "nombre": "Nuova Cesaretti",
+            "direccion": "Julián M. Castro 806, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Juli%C3%A1n%20M.%20Castro%20806%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6865436,
+              "lng": -58.7171794
+            }
+          },
+          {
+            "nombre": "Farmamass",
+            "direccion": "Riobamba 781, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Riobamba%20781%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6681296,
+              "lng": -58.7282267
+            }
+          },
+          {
+            "nombre": "Aguer",
+            "direccion": "Dr. Balbín 8685, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Dr.%20Balb%C3%ADn%208685%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6883125,
+              "lng": -58.7659174
+            }
+          },
+          {
+            "nombre": "Porvenir",
+            "direccion": "Av. San Martín 2800, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%202800%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6440042,
+              "lng": -58.5985122
+            }
+          },
+          {
+            "nombre": "De la Fuente",
+            "direccion": "Fleming 4500, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Fleming%204500%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6987123,
+              "lng": -58.7329811
+            }
+          },
+          {
+            "nombre": "Farmanele",
+            "direccion": "Av. Eva Perón 2399 esq. Sucre (V. Amelia), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%202399%20esq.%20Sucre%20%28V.%20Amelia%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6891777,
+              "lng": -58.7053826
+            }
+          },
+          {
+            "nombre": "Alvarez",
+            "direccion": "French 1920 (La Blanquita), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/French%201920%20%28La%20Blanquita%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7007926,
+              "lng": -58.7216938
+            }
+          },
+          {
+            "nombre": "Cano",
+            "direccion": "H. Yrigoyen 797, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%20797%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.657663,
+              "lng": -58.7244132
+            }
+          },
+          {
+            "nombre": "Padua",
+            "direccion": "Av. De la Unión 1291, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201291%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7439325,
+              "lng": -58.6959136
+            }
+          },
+          {
+            "nombre": "Dingianti",
+            "direccion": "Noguera 244, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%20244%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6680236,
+              "lng": -58.6971553
+            }
+          },
+          {
+            "nombre": "Sullivan",
+            "direccion": "Av. Sullivan 1484, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Sullivan%201484%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6548267,
+              "lng": -58.7136112
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "Farmacia Díaz",
+            "direccion": "Filiberto 1504, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Filiberto%201504%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6727368,
+              "lng": -58.7635022
+            }
+          },
+          {
+            "nombre": "Sasso",
+            "direccion": "Constitución 538, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Constituci%C3%B3n%20538%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6732276,
+              "lng": -58.7326779
+            }
+          },
+          {
+            "nombre": "Mario Bravo S.C.S",
+            "direccion": "Mario Bravo 1081, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Mario%20Bravo%201081%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6823441,
+              "lng": -58.7105436
+            }
+          },
+          {
+            "nombre": "Científica Constituyentes",
+            "direccion": "Av. Constituyentes 918, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Constituyentes%20918%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7170432,
+              "lng": -58.7960816
+            }
+          },
+          {
+            "nombre": "Romano",
+            "direccion": "Arist. del Valle 2898, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Arist.%20del%20Valle%202898%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6895538,
+              "lng": -58.7259857
+            }
+          },
+          {
+            "nombre": "Esteve",
+            "direccion": "Echeverry 133, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%20133%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6965206,
+              "lng": -58.7533557
+            }
+          },
+          {
+            "nombre": "Blanco",
+            "direccion": "Av. Eva Perón 2992 y Rivarola (La Cortada), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%202992%20y%20Rivarola%20%28La%20Cortada%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6821121,
+              "lng": -58.6797913
+            }
+          },
+          {
+            "nombre": "Pasic",
+            "direccion": "Carabajal 1021 (Los Aromos), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Carabajal%201021%20%28Los%20Aromos%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6977306,
+              "lng": -58.671086
+            }
+          },
+          {
+            "nombre": "Vantage Merlo",
+            "direccion": "Cámpora 2289, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/C%C3%A1mpora%202289%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6634249,
+              "lng": -58.7273243
+            }
+          },
+          {
+            "nombre": "Padua",
+            "direccion": "Av. De la Unión 1291, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201291%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7439325,
+              "lng": -58.6959136
+            }
+          },
+          {
+            "nombre": "Rusitti",
+            "direccion": "Independencia 861, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Independencia%20861%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6638215,
+              "lng": -58.7060942
+            }
+          },
+          {
+            "nombre": "Botica Noguera",
+            "direccion": "Noguera 2045, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%202045%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6788329,
+              "lng": -58.6847304
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "Farmacia Montalvo",
+            "direccion": "Montalvo 1174, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Montalvo%201174%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.672,
+              "lng": -58.77
+            }
+          },
+          {
+            "nombre": "Massaro",
+            "direccion": "Perú 503, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Per%C3%BA%20503%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6719128,
+              "lng": -58.7234147
+            }
+          },
+          {
+            "nombre": "Alonso",
+            "direccion": "Moreno 482, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Moreno%20482%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6650883,
+              "lng": -58.7260745
+            }
+          },
+          {
+            "nombre": "Contreras",
+            "direccion": "B. Bossini y C. Salvadores, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/B.%20Bossini%20y%20C.%20Salvadores%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7205388,
+              "lng": -58.7929747
+            }
+          },
+          {
+            "nombre": "Mughini",
+            "direccion": "Av. San Martín 4474, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%204474%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6956936,
+              "lng": -58.7407397
+            }
+          },
+          {
+            "nombre": "Caminos",
+            "direccion": "Balbastro 1755, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Balbastro%201755%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6954627,
+              "lng": -58.7191554
+            }
+          },
+          {
+            "nombre": "Biondo",
+            "direccion": "Av. Eva Perón 6747 (El Palomo), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%206747%20%28El%20Palomo%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7087848,
+              "lng": -58.7097664
+            }
+          },
+          {
+            "nombre": "Chavez",
+            "direccion": "Colombia 531 Esq. Panamá, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Colombia%20531%20Esq.%20Panam%C3%A1%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7088094,
+              "lng": -58.6908777
+            }
+          },
+          {
+            "nombre": "Suev Farma",
+            "direccion": "Sgo. del Estero 1799, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sgo.%20del%20Estero%201799%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6591605,
+              "lng": -58.7189033
+            }
+          },
+          {
+            "nombre": "Amistad",
+            "direccion": "Av. De la Unión 1684, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201684%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7468427,
+              "lng": -58.6981769
+            }
+          },
+          {
+            "nombre": "MGM Padua",
+            "direccion": "Esteban Echeverria 702-706, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Esteban%20Echeverria%20702-706%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6696474,
+              "lng": -58.6909767
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Farmacia Hernández",
+            "direccion": "Peyret 2417, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Peyret%202417%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6767592,
+              "lng": -58.7756217
+            }
+          },
+          {
+            "nombre": "Corona",
+            "direccion": "D. F. Sarmiento 33, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/D.%20F.%20Sarmiento%2033%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6689153,
+              "lng": -58.7208573
+            }
+          },
+          {
+            "nombre": "Jauregui",
+            "direccion": "Av. Calle Real (Ex Vergara) 1401, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Calle%20Real%20%28Ex%20Vergara%29%201401%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6810694,
+              "lng": -58.7045916
+            }
+          },
+          {
+            "nombre": "Nueva Miguel",
+            "direccion": "Ruta 200 Km 40, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ruta%20200%20Km%2040%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6940534,
+              "lng": -59.3005449
+            }
+          },
+          {
+            "nombre": "Zamudio",
+            "direccion": "Ricardo Balbín y Superí, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ricardo%20Balb%C3%ADn%20y%20Super%C3%AD%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7245917,
+              "lng": -58.7925764
+            }
+          },
+          {
+            "nombre": "Echeverry",
+            "direccion": "Echeverry 1061, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%201061%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7048608,
+              "lng": -58.7419908
+            }
+          },
+          {
+            "nombre": "Verona",
+            "direccion": "Gómez Fretes 4206, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/G%C3%B3mez%20Fretes%204206%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6933119,
+              "lng": -58.7405375
+            }
+          },
+          {
+            "nombre": "Cancha de los Patos",
+            "direccion": "Av. Calle Real 2205 esq. Iturri (Ex Vergara), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Calle%20Real%202205%20esq.%20Iturri%20%28Ex%20Vergara%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6758995,
+              "lng": -58.7346245
+            }
+          },
+          {
+            "nombre": "Nuevo Arco (Ex Jeram)",
+            "direccion": "Av. Eva Perón 7485 (Arco Barrio Rivadavia), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%207485%20%28Arco%20Barrio%20Rivadavia%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7136595,
+              "lng": -58.7189463
+            }
+          },
+          {
+            "nombre": "Coppola Orlando",
+            "direccion": "H. Yrigoyen 2125, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%202125%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6464777,
+              "lng": -58.7188329
+            }
+          },
+          {
+            "nombre": "Zurro",
+            "direccion": "De los Franceses 3861, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/De%20los%20Franceses%203861%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7496717,
+              "lng": -58.7029933
+            }
+          },
+          {
+            "nombre": "Comastri",
+            "direccion": "Zarate 260, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Zarate%20260%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6631469,
+              "lng": -58.6983603
+            }
+          },
+          {
+            "nombre": "La Esmeralda De Padua",
+            "direccion": "Pueyrredón 1611, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Pueyrred%C3%B3n%201611%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.675644,
+              "lng": -58.6998129
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "Farmacia Mendibil",
+            "direccion": "Ruta 200 Km. 34,5, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ruta%20200%20Km.%2034%2C5%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6805928,
+              "lng": -58.7788108
+            }
+          },
+          {
+            "nombre": "De la Estación",
+            "direccion": "Av. del Libertador 788, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20del%20Libertador%20788%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6654872,
+              "lng": -58.7277292
+            }
+          },
+          {
+            "nombre": "Pricolo",
+            "direccion": "Ricardo Balbín 1905 Esq. Gral. Paz, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ricardo%20Balb%C3%ADn%201905%20Esq.%20Gral.%20Paz%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6690969,
+              "lng": -58.7427434
+            }
+          },
+          {
+            "nombre": "Lois",
+            "direccion": "Tucumán 1051, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Tucum%C3%A1n%201051%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6656923,
+              "lng": -58.73271
+            }
+          },
+          {
+            "nombre": "Benítez",
+            "direccion": "Ricardo Balbín 9040 esq. Uriarte, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ricardo%20Balb%C3%ADn%209040%20esq.%20Uriarte%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7196609,
+              "lng": -58.7889544
+            }
+          },
+          {
+            "nombre": "Iaco",
+            "direccion": "Av. San Martín 3600, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%203600%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6905972,
+              "lng": -58.7354186
+            }
+          },
+          {
+            "nombre": "Bravo",
+            "direccion": "Echeverry 1478, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%201478%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7080384,
+              "lng": -58.7366179
+            }
+          },
+          {
+            "nombre": "Testa",
+            "direccion": "Malvinas 2359 esq. Honduras (Villa Amelia), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Malvinas%202359%20esq.%20Honduras%20%28Villa%20Amelia%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6981706,
+              "lng": -58.691925
+            }
+          },
+          {
+            "nombre": "Bella Vista",
+            "direccion": "Bella Vista 2898, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Bella%20Vista%202898%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6995301,
+              "lng": -58.655076
+            }
+          },
+          {
+            "nombre": "Cardin",
+            "direccion": "Rocamora 670, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rocamora%20670%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7500082,
+              "lng": -58.6066867
+            }
+          },
+          {
+            "nombre": "Güemes Peña",
+            "direccion": "Rodríguez Peña 290, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rodr%C3%ADguez%20Pe%C3%B1a%20290%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6608078,
+              "lng": -58.7332376
+            }
+          },
+          {
+            "nombre": "Cientifica KST",
+            "direccion": "Av. De la Unión 1002, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201002%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7426267,
+              "lng": -58.6938034
+            }
+          },
+          {
+            "nombre": "Guercio",
+            "direccion": "Int. Mendiluce 1608, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.%20Mendiluce%201608%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6709121,
+              "lng": -58.6988556
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "Farmacia Castro",
+            "direccion": "Ruta 200.Km 5886, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ruta%20200.Km%205886%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6902227,
+              "lng": -58.768178
+            }
+          },
+          {
+            "nombre": "Guida",
+            "direccion": "Av. Calle Real (Ex Vergara) 101, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Calle%20Real%20%28Ex%20Vergara%29%20101%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6722471,
+              "lng": -58.7109295
+            }
+          },
+          {
+            "nombre": "Constitución 698",
+            "direccion": "Constitución 698, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Constituci%C3%B3n%20698%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6701927,
+              "lng": -58.7359858
+            }
+          },
+          {
+            "nombre": "Farma Soluciones",
+            "direccion": "Dr. Ricardo Balbín 9802 esq. Santander, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Dr.%20Ricardo%20Balb%C3%ADn%209802%20esq.%20Santander%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7274298,
+              "lng": -58.7944867
+            }
+          },
+          {
+            "nombre": "Curotti",
+            "direccion": "Av. San Martín 3225, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%203225%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6880997,
+              "lng": -58.7334948
+            }
+          },
+          {
+            "nombre": "Rois",
+            "direccion": "Echeverry 545, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%20545%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7002444,
+              "lng": -58.7481793
+            }
+          },
+          {
+            "nombre": "Anele",
+            "direccion": "Av. Eva Perón 3050 esq. Noguera, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%203050%20esq.%20Noguera%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6821752,
+              "lng": -58.6797711
+            }
+          },
+          {
+            "nombre": "Vía Scuderlando",
+            "direccion": "Carolina Lara de Maldonado 2706, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Carolina%20Lara%20de%20Maldonado%202706%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7122192,
+              "lng": -58.7240455
+            }
+          },
+          {
+            "nombre": "Obarrio",
+            "direccion": "Obarrio 2106, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Obarrio%202106%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.707128,
+              "lng": -58.667857
+            }
+          },
+          {
+            "nombre": "Fusco",
+            "direccion": "H. Yrigoyen 315, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%20315%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.661569,
+              "lng": -58.726422
+            }
+          },
+          {
+            "nombre": "Salgueiro",
+            "direccion": "De los Italianos 4018, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/De%20los%20Italianos%204018%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7516776,
+              "lng": -58.702977
+            }
+          },
+          {
+            "nombre": "Nueva Aparicio",
+            "direccion": "A. Rivadavia 23870, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/A.%20Rivadavia%2023870%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6659831,
+              "lng": -58.6992098
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "Farmacia Mendibil",
+            "direccion": "Av. Ferrari 7648, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Ferrari%207648%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7128284,
+              "lng": -58.7697918
+            }
+          },
+          {
+            "nombre": "Glikin",
+            "direccion": "Colón 502, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Col%C3%B3n%20502%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6677541,
+              "lng": -58.7229441
+            }
+          },
+          {
+            "nombre": "Generia",
+            "direccion": "Av. Argentina 1557, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Argentina%201557%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6766201,
+              "lng": -58.7260946
+            }
+          },
+          {
+            "nombre": "Aguer",
+            "direccion": "Dr. Balbín 8685, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Dr.%20Balb%C3%ADn%208685%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6883125,
+              "lng": -58.7659174
+            }
+          },
+          {
+            "nombre": "Porvenir",
+            "direccion": "Av. San Martín 2800, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%202800%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6440042,
+              "lng": -58.5985122
+            }
+          },
+          {
+            "nombre": "De la Fuente",
+            "direccion": "Fleming 4500, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Fleming%204500%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6987123,
+              "lng": -58.7329811
+            }
+          },
+          {
+            "nombre": "Benitez",
+            "direccion": "Av. Eva Perón 1373 (Libertad Centro), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%201373%20%28Libertad%20Centro%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.690487,
+              "lng": -58.689579
+            }
+          },
+          {
+            "nombre": "Sica",
+            "direccion": "Sica 3004 (Barrio Rivadavia), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sica%203004%20%28Barrio%20Rivadavia%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7125163,
+              "lng": -58.7211153
+            }
+          },
+          {
+            "nombre": "Saavedra",
+            "direccion": "Av. Del Cortijo 1559 (Merlo Gómez), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Del%20Cortijo%201559%20%28Merlo%20G%C3%B3mez%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7194101,
+              "lng": -58.52262
+            }
+          },
+          {
+            "nombre": "Palmar",
+            "direccion": "H. Yrigoyen 1353, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%201353%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.652822,
+              "lng": -58.7219782
+            }
+          },
+          {
+            "nombre": "Padua",
+            "direccion": "Av. De la Unión 1291, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20De%20la%20Uni%C3%B3n%201291%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7439325,
+              "lng": -58.6959136
+            }
+          },
+          {
+            "nombre": "Farm. Noguera",
+            "direccion": "Noguera 23, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%2023%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6663315,
+              "lng": -58.6997968
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "Farmacia Rossi",
+            "direccion": "Mozart 419, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Mozart%20419%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6911001,
+              "lng": -58.7632746
+            }
+          },
+          {
+            "nombre": "Nueva Merlo",
+            "direccion": "Av. del Libertador 501, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20del%20Libertador%20501%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6687026,
+              "lng": -58.7256795
+            }
+          },
+          {
+            "nombre": "Central Merlo",
+            "direccion": "Suipacha 547, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Suipacha%20547%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6662927,
+              "lng": -58.7264133
+            }
+          },
+          {
+            "nombre": "Científica Constituyentes",
+            "direccion": "Av. Constituyentes 918, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Constituyentes%20918%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7170432,
+              "lng": -58.7960816
+            }
+          },
+          {
+            "nombre": "Arnold",
+            "direccion": "Av. San Martín 2458, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%202458%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6836577,
+              "lng": -58.7290692
+            }
+          },
+          {
+            "nombre": "Ienni",
+            "direccion": "25 de Mayo 5200, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/25%20de%20Mayo%205200%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7017018,
+              "lng": -58.7430262
+            }
+          },
+          {
+            "nombre": "Plazza",
+            "direccion": "Av. Eva Perón 681 esq. La Porteña, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%20681%20esq.%20La%20Porte%C3%B1a%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6844275,
+              "lng": -58.6833014
+            }
+          },
+          {
+            "nombre": "Nueva Colombia",
+            "direccion": "Colombia 1046 esq. Escobar (B. Nuevo), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Colombia%201046%20esq.%20Escobar%20%28B.%20Nuevo%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6861357,
+              "lng": -58.7280938
+            }
+          },
+          {
+            "nombre": "Melo",
+            "direccion": "Independencia 1777, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Independencia%201777%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6618443,
+              "lng": -58.7192216
+            }
+          },
+          {
+            "nombre": "Roge",
+            "direccion": "Balladares 4186, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Balladares%204186%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7499258,
+              "lng": -58.7004272
+            }
+          },
+          {
+            "nombre": "Ceballos",
+            "direccion": "Int. Mendiluce 115, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.%20Mendiluce%20115%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6697409,
+              "lng": -58.6989491
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "Farmacia Samoré",
+            "direccion": "Freire 662, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Freire%20662%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6985893,
+              "lng": -58.7672239
+            }
+          },
+          {
+            "nombre": "Ares",
+            "direccion": "Av. Calle Real (Ex Vergara) 598, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Calle%20Real%20%28Ex%20Vergara%29%20598%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6776843,
+              "lng": -58.7126372
+            }
+          },
+          {
+            "nombre": "Funes",
+            "direccion": "Av. del Libertador 386, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20del%20Libertador%20386%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6703214,
+              "lng": -58.7253371
+            }
+          },
+          {
+            "nombre": "Contreras",
+            "direccion": "B. Bossini y C. Salvadores, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/B.%20Bossini%20y%20C.%20Salvadores%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7205388,
+              "lng": -58.7929747
+            }
+          },
+          {
+            "nombre": "Mughini",
+            "direccion": "Av. San Martín 4474, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20San%20Mart%C3%ADn%204474%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6956936,
+              "lng": -58.7407397
+            }
+          },
+          {
+            "nombre": "Caminos",
+            "direccion": "Balbastro 1755, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Balbastro%201755%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6954627,
+              "lng": -58.7191554
+            }
+          },
+          {
+            "nombre": "Libertad",
+            "direccion": "Av. Eva Perón 4321 esq. J. B. Justo (Lib. Ctro), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%204321%20esq.%20J.%20B.%20Justo%20%28Lib.%20Ctro%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6912283,
+              "lng": -58.6902915
+            }
+          },
+          {
+            "nombre": "Nobel Repetto",
+            "direccion": "Gamboa 516 esq. Soler (Barrio Petracchi), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Gamboa%20516%20esq.%20Soler%20%28Barrio%20Petracchi%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6904211,
+              "lng": -58.6676056
+            }
+          },
+          {
+            "nombre": "Traverso",
+            "direccion": "Bella Vista 4648 (Barrio Nuevo), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Bella%20Vista%204648%20%28Barrio%20Nuevo%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6448707,
+              "lng": -58.6664046
+            }
+          },
+          {
+            "nombre": "Cano",
+            "direccion": "H. Yrigoyen 797, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/H.%20Yrigoyen%20797%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.657663,
+              "lng": -58.7244132
+            }
+          },
+          {
+            "nombre": "Roge",
+            "direccion": "Balladares 4186, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Balladares%204186%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7499258,
+              "lng": -58.7004272
+            }
+          },
+          {
+            "nombre": "Nuova Varrone",
+            "direccion": "Noguera 600, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%20600%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6705483,
+              "lng": -58.6942535
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "Farmacia Rojas",
+            "direccion": "Rojas 909, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rojas%20909%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6841677,
+              "lng": -58.7798326
+            }
+          },
+          {
+            "nombre": "Nuova Cesaretti",
+            "direccion": "Julián M. Castro 806, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Juli%C3%A1n%20M.%20Castro%20806%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6865436,
+              "lng": -58.7171794
+            }
+          },
+          {
+            "nombre": "Farmamass",
+            "direccion": "Riobamba 781, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Riobamba%20781%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6681296,
+              "lng": -58.7282267
+            }
+          },
+          {
+            "nombre": "Nueva Miguel",
+            "direccion": "Ruta 200 Km 40, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ruta%20200%20Km%2040%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6940534,
+              "lng": -59.3005449
+            }
+          },
+          {
+            "nombre": "Echeverry",
+            "direccion": "Echeverry 1061, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Echeverry%201061%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7048608,
+              "lng": -58.7419908
+            }
+          },
+          {
+            "nombre": "Verona",
+            "direccion": "Gómez Fretes 4206, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/G%C3%B3mez%20Fretes%204206%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6933119,
+              "lng": -58.7405375
+            }
+          },
+          {
+            "nombre": "Farmanele",
+            "direccion": "Av. Eva Perón 2399 esq. Sucre (V. Amelia), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Eva%20Per%C3%B3n%202399%20esq.%20Sucre%20%28V.%20Amelia%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6891777,
+              "lng": -58.7053826
+            }
+          },
+          {
+            "nombre": "Alvarez",
+            "direccion": "French 1920 (La Blanquita), Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/French%201920%20%28La%20Blanquita%29%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7007926,
+              "lng": -58.7216938
+            }
+          },
+          {
+            "nombre": "Vantage Merlo",
+            "direccion": "Cámpora 2289, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/C%C3%A1mpora%202289%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6634249,
+              "lng": -58.7273243
+            }
+          },
+          {
+            "nombre": "Zurro",
+            "direccion": "De los Franceses 3861, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/De%20los%20Franceses%203861%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.7496717,
+              "lng": -58.7029933
+            }
+          },
+          {
+            "nombre": "Dingianti",
+            "direccion": "Noguera 244, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Noguera%20244%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6680236,
+              "lng": -58.6971553
+            }
+          },
+          {
+            "nombre": "Sullivan",
+            "direccion": "Av. Sullivan 1484, Merlo",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.%20Sullivan%201484%2C%20Merlo",
+            "coordenadas": {
+              "lat": -34.6548267,
+              "lng": -58.7136112
+            }
+          }
         ]
       }
     },
@@ -4503,6 +6465,68 @@
               "lng": -58.22479657
             }
           }
+        ],
+        "16": [
+          {
+            "nombre": "NOVO",
+            "direccion": "La Guarda N° 301, esq. Lavalle",
+            "telefono": "42267226",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.74806571,-58.23646009",
+            "coordenadas": {
+              "lat": -34.74806571,
+              "lng": -58.23646009
+            }
+          },
+          {
+            "nombre": "BERNAL",
+            "direccion": "9 de Julio N° 57, entre Av. San Martin Y Belgrano",
+            "telefono": "1135507579",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.71053833,-58.28137636",
+            "coordenadas": {
+              "lat": -34.71053833,
+              "lng": -58.28137636
+            }
+          },
+          {
+            "nombre": "RONZONI",
+            "direccion": "Av. Urquiza N° 2862, entre Berutti y Lavalleja",
+            "telefono": "1152299343",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.74132156,-58.26285034",
+            "coordenadas": {
+              "lat": -34.74132156,
+              "lng": -58.26285034
+            }
+          },
+          {
+            "nombre": "SANAR 59",
+            "direccion": "Av. Triumvirato N° 3095, esq. Av. Calchaqui",
+            "telefono": "1166346701",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.75132298,-58.28506440",
+            "coordenadas": {
+              "lat": -34.75132298,
+              "lng": -58.2850644
+            }
+          },
+          {
+            "nombre": "GONZALEZ R.",
+            "direccion": "calle 898 N° 6198, esq. 862",
+            "telefono": "1136429578",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.79218442,-58.30649793",
+            "coordenadas": {
+              "lat": -34.79218442,
+              "lng": -58.30649793
+            }
+          },
+          {
+            "nombre": "ZAPIOLA BERNAL",
+            "direccion": "Av. Zapiola N° 1020, esq. Viejo Bueno",
+            "telefono": "1157129587",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.72276129,-58.29702973",
+            "coordenadas": {
+              "lat": -34.72276129,
+              "lng": -58.29702973
+            }
+          }
         ]
       }
     },
@@ -4631,6 +6655,58 @@
             "coordenadas": {
               "lat": -34.7798726,
               "lng": -58.2622977
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "Chirumbolo",
+            "direccion": "14 n°5656 e/156 y 157",
+            "telefono": "772592911122441601",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.75733751,-58.20100665",
+            "coordenadas": {
+              "lat": -34.75733751,
+              "lng": -58.20100665
+            }
+          },
+          {
+            "nombre": "Trasel",
+            "direccion": "21 y 131A",
+            "telefono": "42267930",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.77766590,-58.22174030",
+            "coordenadas": {
+              "lat": -34.7776659,
+              "lng": -58.2217403
+            }
+          },
+          {
+            "nombre": "Restuccia",
+            "direccion": "31 e/145 y 146 V.España -116068-4122",
+            "telefono": "1153422966",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76829315,-58.21870497",
+            "coordenadas": {
+              "lat": -34.76829315,
+              "lng": -58.21870497
+            }
+          },
+          {
+            "nombre": "Medina",
+            "direccion": "138 n° 5628 Hudson",
+            "telefono": "77226759",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.80588210,-58.17897210",
+            "coordenadas": {
+              "lat": -34.8058821,
+              "lng": -58.1789721
+            }
+          },
+          {
+            "nombre": "Kucharski",
+            "direccion": "Cno.Gral.Belgrano y 14",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.78585900,-58.25322280",
+            "coordenadas": {
+              "lat": -34.785859,
+              "lng": -58.2532228
             }
           }
         ]
@@ -4833,6 +6909,198 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Alfaro",
+            "direccion": "Pueyrredon N° 701",
+            "telefono": "02355421832",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86327100,-61.52895230",
+            "coordenadas": {
+              "lat": -34.8633435,
+              "lng": -61.5289742
+            }
+          },
+          {
+            "nombre": "Tellechea",
+            "direccion": "Av. Massey N° 897",
+            "telefono": "02355422177",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86629900,-61.52826900",
+            "coordenadas": {
+              "lat": -34.8661216,
+              "lng": -61.5282946
+            }
+          },
+          {
+            "nombre": "Sorgentini",
+            "direccion": "Av. Massey N° 1099",
+            "telefono": "02355431675",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86769760,-61.52991540",
+            "coordenadas": {
+              "lat": -34.8676976,
+              "lng": -61.5299154
+            }
+          },
+          {
+            "nombre": "Rodriguez",
+            "direccion": "Sarmiento N° 999",
+            "telefono": "02355421627",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86613370,-61.53020850",
+            "coordenadas": {
+              "lat": -34.8661337,
+              "lng": -61.5302085
+            }
+          },
+          {
+            "nombre": "Ricco",
+            "direccion": "Av. 25 De Mayo N° 751",
+            "telefono": "02355416712",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86133090,-61.53786770",
+            "coordenadas": {
+              "lat": -34.8613309,
+              "lng": -61.5378677
+            }
+          },
+          {
+            "nombre": "Petroni",
+            "direccion": "Av. Alem N° 2100",
+            "telefono": "02355424600",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87527060,-61.53663220",
+            "coordenadas": {
+              "lat": -34.8752706,
+              "lng": -61.5366322
+            }
+          },
+          {
+            "nombre": "Parma",
+            "direccion": "Ituzaingo N° 499",
+            "telefono": "02355430215",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86066620,-61.53208470",
+            "coordenadas": {
+              "lat": -34.8606662,
+              "lng": -61.5320847
+            }
+          },
+          {
+            "nombre": "Palumbo",
+            "direccion": "Av. Massey N° 800",
+            "telefono": "02355401910",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86575180,-61.52748360",
+            "coordenadas": {
+              "lat": -34.8657518,
+              "lng": -61.5274836
+            }
+          },
+          {
+            "nombre": "Paidon",
+            "direccion": "Belgrano N° 163",
+            "telefono": "02355423966",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87002380,-61.52877970",
+            "coordenadas": {
+              "lat": -34.8700238,
+              "lng": -61.5287797
+            }
+          },
+          {
+            "nombre": "Lincoln",
+            "direccion": "Mitre N° 302",
+            "telefono": "02355422820",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86971550,-61.52570340",
+            "coordenadas": {
+              "lat": -34.8697155,
+              "lng": -61.5257034
+            }
+          },
+          {
+            "nombre": "Lacave",
+            "direccion": "Av. Alem N°1722",
+            "telefono": "02355423506",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87282340,-61.53371350",
+            "coordenadas": {
+              "lat": -34.8728234,
+              "lng": -61.5337135
+            }
+          },
+          {
+            "nombre": "Hidalgo",
+            "direccion": "Av. Alem N° 600",
+            "telefono": "02355423716",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86535730,-61.52480040",
+            "coordenadas": {
+              "lat": -34.8653573,
+              "lng": -61.5248004
+            }
+          },
+          {
+            "nombre": "Frassone",
+            "direccion": "Av. Peron N° 842",
+            "telefono": "02355432558",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.85898560,-61.53650220",
+            "coordenadas": {
+              "lat": -34.8589856,
+              "lng": -61.5365022
+            }
+          },
+          {
+            "nombre": "Falco",
+            "direccion": "Av. 9 De Julio N° 600",
+            "telefono": "02355430282",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87307930,-61.52336240",
+            "coordenadas": {
+              "lat": -34.8730793,
+              "lng": -61.5233624
+            }
+          },
+          {
+            "nombre": "Cruz Roja",
+            "direccion": "San Martin 1201",
+            "telefono": "02355422179",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86752000,-61.53187960",
+            "coordenadas": {
+              "lat": -34.86752,
+              "lng": -61.5318796
+            }
+          },
+          {
+            "nombre": "Avenida",
+            "direccion": "Av. 25 de Mayo N° 314",
+            "telefono": "02355422969",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86498430,-61.53335920",
+            "coordenadas": {
+              "lat": -34.8649843,
+              "lng": -61.5333592
+            }
+          },
+          {
+            "nombre": "Andrade",
+            "direccion": "Av. Massey N° 1301",
+            "telefono": "02355422091",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86906200,-61.53157600",
+            "coordenadas": {
+              "lat": -34.869062,
+              "lng": -61.531576
+            }
+          },
+          {
+            "nombre": "Alcalde Vera",
+            "direccion": "Av. Massey N° 393",
+            "telefono": "02355422764",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86301800,-61.52431950",
+            "coordenadas": {
+              "lat": -34.863018,
+              "lng": -61.5243195
+            }
+          },
+          {
+            "nombre": "Rios",
+            "direccion": "Leandro N. Alem 1",
+            "telefono": "02355432074",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86132027,-61.52003914",
+            "coordenadas": {
+              "lat": -34.86132027,
+              "lng": -61.52003914
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Alfaro",
             "direccion": "Pueyrredon N° 701",
@@ -5413,6 +7681,198 @@
               "lng": -59.85842264
             }
           }
+        ],
+        "16": [
+          {
+            "nombre": "Fidalgo",
+            "direccion": "Burgos 314",
+            "telefono": "424172",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77353517,-59.85799512",
+            "coordenadas": {
+              "lat": -36.77353517,
+              "lng": -59.85799512
+            }
+          },
+          {
+            "nombre": "Vinciguerra",
+            "direccion": "Alvear esq Prat",
+            "telefono": "426152426331",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77349153,-59.86261245",
+            "coordenadas": {
+              "lat": -36.77349153,
+              "lng": -59.86261245
+            }
+          },
+          {
+            "nombre": "Castro",
+            "direccion": "Colon 942",
+            "telefono": "424283",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78157024,-59.86912294",
+            "coordenadas": {
+              "lat": -36.78157024,
+              "lng": -59.86912294
+            }
+          },
+          {
+            "nombre": "Del fuerte Azul",
+            "direccion": "Mitre 809",
+            "telefono": "422409",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78080942,-59.85487399",
+            "coordenadas": {
+              "lat": -36.78080942,
+              "lng": -59.85487399
+            }
+          },
+          {
+            "nombre": "Soncini",
+            "direccion": "Irigoyen 650",
+            "telefono": "424169424333",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78010688,-59.85930388",
+            "coordenadas": {
+              "lat": -36.78010688,
+              "lng": -59.85930388
+            }
+          },
+          {
+            "nombre": "Santa Rosa",
+            "direccion": "9 de julio 763",
+            "telefono": "432218",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78356514,-59.85971549",
+            "coordenadas": {
+              "lat": -36.78356514,
+              "lng": -59.85971549
+            }
+          },
+          {
+            "nombre": "Santa Lucia",
+            "direccion": "Av.Piazza 1146",
+            "telefono": "434800",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78545938,-59.84903448",
+            "coordenadas": {
+              "lat": -36.78545938,
+              "lng": -59.84903448
+            }
+          },
+          {
+            "nombre": "Merlo",
+            "direccion": "Caneva 534",
+            "telefono": "427267",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78389314,-59.85240463",
+            "coordenadas": {
+              "lat": -36.78389314,
+              "lng": -59.85240463
+            }
+          },
+          {
+            "nombre": "Ciotta",
+            "direccion": "Colon 812",
+            "telefono": "423423",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77962478,-59.86681573",
+            "coordenadas": {
+              "lat": -36.77962478,
+              "lng": -59.86681573
+            }
+          },
+          {
+            "nombre": "Peroggi",
+            "direccion": "Irigoyen esq. Moreno",
+            "telefono": "423256434364",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77877206,-59.86101429",
+            "coordenadas": {
+              "lat": -36.77877206,
+              "lng": -59.86101429
+            }
+          },
+          {
+            "nombre": "Lucero",
+            "direccion": "25 de Mayo 1264",
+            "telefono": "433985",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78837571,-59.87093595",
+            "coordenadas": {
+              "lat": -36.78837571,
+              "lng": -59.87093595
+            }
+          },
+          {
+            "nombre": "Marchisio",
+            "direccion": "Colon 652",
+            "telefono": "422777424201",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77766275,-59.86442999",
+            "coordenadas": {
+              "lat": -36.77766275,
+              "lng": -59.86442999
+            }
+          },
+          {
+            "nombre": "Lucini",
+            "direccion": "Av. Peron esq. 25 de Mayo",
+            "telefono": "423939",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78271120,-59.86419337",
+            "coordenadas": {
+              "lat": -36.7827112,
+              "lng": -59.86419337
+            }
+          },
+          {
+            "nombre": "López",
+            "direccion": "San Martín 641",
+            "telefono": "424101",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78057230,-59.86025730",
+            "coordenadas": {
+              "lat": -36.7805723,
+              "lng": -59.8602573
+            }
+          },
+          {
+            "nombre": "Orianda",
+            "direccion": "Mitre 426",
+            "telefono": "423109",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77573343,-59.86147239",
+            "coordenadas": {
+              "lat": -36.77573343,
+              "lng": -59.86147239
+            }
+          },
+          {
+            "nombre": "Diab",
+            "direccion": "A.Diab 311",
+            "telefono": "431946",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77093070,-59.85907656",
+            "coordenadas": {
+              "lat": -36.7709307,
+              "lng": -59.85907656
+            }
+          },
+          {
+            "nombre": "Colotto",
+            "direccion": "Av. Peron 850",
+            "telefono": "422995",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78600422,-59.85994396",
+            "coordenadas": {
+              "lat": -36.78600422,
+              "lng": -59.85994396
+            }
+          },
+          {
+            "nombre": "San Martin",
+            "direccion": "San Martín 900",
+            "telefono": "425867",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78394392,-59.85592673",
+            "coordenadas": {
+              "lat": -36.78394392,
+              "lng": -59.85592673
+            }
+          },
+          {
+            "nombre": "Burgan",
+            "direccion": "Mitre 602 esq. 25 de Mayo",
+            "telefono": "425501",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77802281,-59.85842264",
+            "coordenadas": {
+              "lat": -36.77802281,
+              "lng": -59.85842264
+            }
+          }
         ]
       }
     },
@@ -5523,6 +7983,108 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Albanese",
+            "direccion": "Av. Lavalle 374",
+            "telefono": "02314428142",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23279200,-61.11831400",
+            "coordenadas": {
+              "lat": -36.232792,
+              "lng": -61.118314
+            }
+          },
+          {
+            "nombre": "Comas",
+            "direccion": "584 Av. San Martín",
+            "telefono": "02314428430",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23158280,-61.11285160",
+            "coordenadas": {
+              "lat": -36.2315828,
+              "lng": -61.1128516
+            }
+          },
+          {
+            "nombre": "Fal",
+            "direccion": "Av. San Martín 500",
+            "telefono": "02314427480",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23232870,-61.11190530",
+            "coordenadas": {
+              "lat": -36.2323287,
+              "lng": -61.1119053
+            }
+          },
+          {
+            "nombre": "Gagliardi",
+            "direccion": "Av. San Martín 302",
+            "telefono": "02314427426",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23364460,-61.11023110",
+            "coordenadas": {
+              "lat": -36.2336446,
+              "lng": -61.1102311
+            }
+          },
+          {
+            "nombre": "Gomez Arrospide",
+            "direccion": "Av. Calfucurá y 3 de Febrero",
+            "telefono": "02314427295",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23605550,-61.12241960",
+            "coordenadas": {
+              "lat": -36.2360555,
+              "lng": -61.1224196
+            }
+          },
+          {
+            "nombre": "Iglesias",
+            "direccion": "Av. Venezuela 536",
+            "telefono": "02314426205",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.22501130,-61.11911080",
+            "coordenadas": {
+              "lat": -36.2250113,
+              "lng": -61.1191108
+            }
+          },
+          {
+            "nombre": "Lopez",
+            "direccion": "Av. San Martín 915",
+            "telefono": "02314421050",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.22893600,-61.11606220",
+            "coordenadas": {
+              "lat": -36.228936,
+              "lng": -61.1160622
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. General Paz 60",
+            "telefono": "02314427430",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23119580,-61.11440680",
+            "coordenadas": {
+              "lat": -36.2311958,
+              "lng": -61.1144068
+            }
+          },
+          {
+            "nombre": "Sudiro",
+            "direccion": "Av. Brown 300",
+            "telefono": "02314428626",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.22750820,-61.11214410",
+            "coordenadas": {
+              "lat": -36.2275082,
+              "lng": -61.1121441
+            }
+          },
+          {
+            "nombre": "Tres de Febrero",
+            "direccion": "3 de Febrero 302",
+            "telefono": "02314420404",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23373960,-61.12526280",
+            "coordenadas": {
+              "lat": -36.2337396,
+              "lng": -61.1252628
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Albanese",
             "direccion": "Av. Lavalle 374",
@@ -5913,6 +8475,148 @@
               "lng": -61.9309438
             }
           }
+        ],
+        "16": [
+          {
+            "nombre": "Sotelo",
+            "direccion": "Hipólito Irigoyen 855",
+            "telefono": "02926421739",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45140700,-61.93393450",
+            "coordenadas": {
+              "lat": -37.451407,
+              "lng": -61.9339345
+            }
+          },
+          {
+            "nombre": "Matta",
+            "direccion": "Lamadrid y Conturbi",
+            "telefono": "0292615492303",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45844810,-61.94268270",
+            "coordenadas": {
+              "lat": -37.4584481,
+              "lng": -61.9426827
+            }
+          },
+          {
+            "nombre": "Fonzo",
+            "direccion": "Belgrano 1269",
+            "telefono": "02926422230",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45930540,-61.93419980",
+            "coordenadas": {
+              "lat": -37.4593054,
+              "lng": -61.9341998
+            }
+          },
+          {
+            "nombre": "Fetter",
+            "direccion": "Mitre y San Martin",
+            "telefono": "02926422778",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45712130,-61.92668970",
+            "coordenadas": {
+              "lat": -37.4571213,
+              "lng": -61.9266897
+            }
+          },
+          {
+            "nombre": "De la Ciudad",
+            "direccion": "Las Heras y Garibaldi",
+            "telefono": "02926431666",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45666520,-61.93795230",
+            "coordenadas": {
+              "lat": -37.4566652,
+              "lng": -61.9379523
+            }
+          },
+          {
+            "nombre": "Del Pueblo",
+            "direccion": "Mitre y Brandsen",
+            "telefono": "02926424338",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45835130,-61.93492980",
+            "coordenadas": {
+              "lat": -37.4583513,
+              "lng": -61.9349298
+            }
+          },
+          {
+            "nombre": "Gomez",
+            "direccion": "Avda. San Martin  218",
+            "telefono": "02926431713",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.46312423,-61.93122750",
+            "coordenadas": {
+              "lat": -37.46312423,
+              "lng": -61.9312275
+            }
+          },
+          {
+            "nombre": "Jaime",
+            "direccion": "Brandsen y Brown",
+            "telefono": "02926422254",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45433580,-61.93579160",
+            "coordenadas": {
+              "lat": -37.4543358,
+              "lng": -61.9357916
+            }
+          },
+          {
+            "nombre": "Menna",
+            "direccion": "Avda. Sixto Rodriguez y Alem",
+            "telefono": "02926431467",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45234560,-61.92908070",
+            "coordenadas": {
+              "lat": -37.4523456,
+              "lng": -61.9290807
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Belgrano y Junín",
+            "telefono": "02926422156",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45857800,-61.92899790",
+            "coordenadas": {
+              "lat": -37.458578,
+              "lng": -61.9289979
+            }
+          },
+          {
+            "nombre": "Perrig",
+            "direccion": "Avda. Balcarce 459",
+            "telefono": "0292615408697",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.46387510,-61.92157477",
+            "coordenadas": {
+              "lat": -37.4638751,
+              "lng": -61.92157477
+            }
+          },
+          {
+            "nombre": "Santomauro",
+            "direccion": "Las Heras 1242",
+            "telefono": "02926421261",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45618400,-61.93474760",
+            "coordenadas": {
+              "lat": -37.456184,
+              "lng": -61.9347476
+            }
+          },
+          {
+            "nombre": "Schuvab",
+            "direccion": "Belgrano y Sarmiento",
+            "telefono": "02926422045",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45923280,-61.93341700",
+            "coordenadas": {
+              "lat": -37.4592328,
+              "lng": -61.933417
+            }
+          },
+          {
+            "nombre": "Cnel. Suarez",
+            "direccion": "Avellaneda y Lavalle",
+            "telefono": "02926430019",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45463100,-61.93094380",
+            "coordenadas": {
+              "lat": -37.454631,
+              "lng": -61.9309438
+            }
+          }
         ]
       }
     },
@@ -5943,6 +8647,28 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Postigo",
+            "direccion": "Calle 7 Nº 1599",
+            "telefono": "02246431055",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.49517060,-56.69591800",
+            "coordenadas": {
+              "lat": -36.4951706,
+              "lng": -56.695918
+            }
+          },
+          {
+            "nombre": "Las Toninas",
+            "direccion": "Calle 1 Nº 1558",
+            "telefono": "02246431337",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.49427970,-56.69278290",
+            "coordenadas": {
+              "lat": -36.4942797,
+              "lng": -56.6927829
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Postigo",
             "direccion": "Calle 7 Nº 1599",
@@ -6213,6 +8939,128 @@
               "lng": -56.68018397
             }
           }
+        ],
+        "16": [
+          {
+            "nombre": "Farmajo",
+            "direccion": "Avda. Tucumán Nº 1434",
+            "telefono": "02257420362",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.70363560,-56.68347490",
+            "coordenadas": {
+              "lat": -36.7036356,
+              "lng": -56.6834749
+            }
+          },
+          {
+            "nombre": "Cano",
+            "direccion": "Jorge Newbery Nº 1126",
+            "telefono": "0225715500991",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.70700370,-56.67667890",
+            "coordenadas": {
+              "lat": -36.7070037,
+              "lng": -56.6766789
+            }
+          },
+          {
+            "nombre": "Mangiante",
+            "direccion": "Avda. Costanera esq. San Luís",
+            "telefono": "02257420719",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.71341080,-56.67496770",
+            "coordenadas": {
+              "lat": -36.7134108,
+              "lng": -56.6749677
+            }
+          },
+          {
+            "nombre": "Perez Miriam",
+            "direccion": "San Juán Nº 5",
+            "telefono": "02257421566",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72109610,-56.67727220",
+            "coordenadas": {
+              "lat": -36.7210961,
+              "lng": -56.6772722
+            }
+          },
+          {
+            "nombre": "Birreci",
+            "direccion": "H. Yrigoyen Nº 24",
+            "telefono": "02257420130",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72188400,-56.67512760",
+            "coordenadas": {
+              "lat": -36.721884,
+              "lng": -56.6751276
+            }
+          },
+          {
+            "nombre": "Farmacia Científica Mar de ajo",
+            "direccion": "Francisco de las Carreras Nº 1310",
+            "telefono": "02257422010",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.74102330,-56.67749860",
+            "coordenadas": {
+              "lat": -36.7410233,
+              "lng": -56.6774986
+            }
+          },
+          {
+            "nombre": "Merlo",
+            "direccion": "Avda. San Martín Nº 1072",
+            "telefono": "02257422494",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72133570,-56.68544360",
+            "coordenadas": {
+              "lat": -36.7213357,
+              "lng": -56.6854436
+            }
+          },
+          {
+            "nombre": "Andres",
+            "direccion": "Avda. San Martín Nº 1698",
+            "telefono": "02257420966",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72120510,-56.69226200",
+            "coordenadas": {
+              "lat": -36.7212051,
+              "lng": -56.692262
+            }
+          },
+          {
+            "nombre": "Andriola",
+            "direccion": "Francisco de las Carreras Nº 126",
+            "telefono": "02257420180",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72333880,-56.67728730",
+            "coordenadas": {
+              "lat": -36.7233388,
+              "lng": -56.6772873
+            }
+          },
+          {
+            "nombre": "Grillo",
+            "direccion": "H. Yrigoyen Nº 317",
+            "telefono": "02257421755",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72627400,-56.67517440",
+            "coordenadas": {
+              "lat": -36.726274,
+              "lng": -56.6751744
+            }
+          },
+          {
+            "nombre": "Cano Center",
+            "direccion": "Francisco de las Carreras Nº 460",
+            "telefono": "02257429451",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72827250,-56.67733000",
+            "coordenadas": {
+              "lat": -36.7282725,
+              "lng": -56.67733
+            }
+          },
+          {
+            "nombre": "Llambias",
+            "direccion": "Avda. San Martín Nº 582",
+            "telefono": "02257422134",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72137570,-56.68018397",
+            "coordenadas": {
+              "lat": -36.7213757,
+              "lng": -56.68018397
+            }
+          }
         ]
       }
     },
@@ -6263,6 +9111,48 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Paz",
+            "direccion": "Calle 2 Nº 7571",
+            "telefono": "02246434883",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.57785620,-56.69023240",
+            "coordenadas": {
+              "lat": -36.5778562,
+              "lng": -56.6902324
+            }
+          },
+          {
+            "nombre": "Valdez",
+            "direccion": "Calle 2 Nº 7269",
+            "telefono": "02246434051",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.57488210,-56.69035750",
+            "coordenadas": {
+              "lat": -36.5748821,
+              "lng": -56.6903575
+            }
+          },
+          {
+            "nombre": "Bautista",
+            "direccion": "Calle 79 Nº 134",
+            "telefono": "02246434397",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.58132190,-56.68953650",
+            "coordenadas": {
+              "lat": -36.5813219,
+              "lng": -56.6895365
+            }
+          },
+          {
+            "nombre": "Nethol",
+            "direccion": "Calle 2 Nº 6087",
+            "telefono": "02246421790",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.56204880,-56.69104260",
+            "coordenadas": {
+              "lat": -36.5620488,
+              "lng": -56.6910426
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Paz",
             "direccion": "Calle 2 Nº 7571",
@@ -6433,6 +9323,128 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Peatonal",
+            "direccion": "21 N° 838",
+            "telefono": "02291420303",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27282420,-57.83483930",
+            "coordenadas": {
+              "lat": -38.2728242,
+              "lng": -57.8348393
+            }
+          },
+          {
+            "nombre": "Mateo",
+            "direccion": "26 N° 927",
+            "telefono": "02291434350",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26855280,-57.83746650",
+            "coordenadas": {
+              "lat": -38.2685528,
+              "lng": -57.8374665
+            }
+          },
+          {
+            "nombre": "Mercuri",
+            "direccion": "13 esquina 36",
+            "telefono": "02291420034",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26359710,-57.83986210",
+            "coordenadas": {
+              "lat": -38.2635971,
+              "lng": -57.8398621
+            }
+          },
+          {
+            "nombre": "Chiaradia",
+            "direccion": "25 esquina 12",
+            "telefono": "02291423912",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27579110,-57.83471040",
+            "coordenadas": {
+              "lat": -38.2757911,
+              "lng": -57.8347104
+            }
+          },
+          {
+            "nombre": "Espinosa",
+            "direccion": "23 N° 1918",
+            "telefono": "02291420204",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26639700,-57.84519030",
+            "coordenadas": {
+              "lat": -38.266397,
+              "lng": -57.8451903
+            }
+          },
+          {
+            "nombre": "Bardin",
+            "direccion": "9 N° 1415",
+            "telefono": "02291423077",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26469580,-57.83512370",
+            "coordenadas": {
+              "lat": -38.2646958,
+              "lng": -57.8351237
+            }
+          },
+          {
+            "nombre": "Miramar",
+            "direccion": "21 N° 1225",
+            "telefono": "02291420892",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27037180,-57.83826590",
+            "coordenadas": {
+              "lat": -38.2703718,
+              "lng": -57.8382659
+            }
+          },
+          {
+            "nombre": "Beni",
+            "direccion": "9 N° 2345",
+            "telefono": "02291423775",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.25847432,-57.84287274",
+            "coordenadas": {
+              "lat": -38.25847432,
+              "lng": -57.84287274
+            }
+          },
+          {
+            "nombre": "Malvestiti",
+            "direccion": "26 esquina 31",
+            "telefono": "02291422969",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27312200,-57.84325570",
+            "coordenadas": {
+              "lat": -38.273122,
+              "lng": -57.8432557
+            }
+          },
+          {
+            "nombre": "Acha",
+            "direccion": "Diagonal Illia 736",
+            "telefono": "02291431860",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27040930,-57.83028630",
+            "coordenadas": {
+              "lat": -38.2704093,
+              "lng": -57.8302863
+            }
+          },
+          {
+            "nombre": "Asili",
+            "direccion": "23 esquina 46",
+            "telefono": "02291430123",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26392670,-57.84839830",
+            "coordenadas": {
+              "lat": -38.2639267,
+              "lng": -57.8483983
+            }
+          },
+          {
+            "nombre": "Del pueblo",
+            "direccion": "21 esquina 32",
+            "telefono": "02291420673",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26777770,-57.84142320",
+            "coordenadas": {
+              "lat": -38.2677777,
+              "lng": -57.8414232
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Peatonal",
             "direccion": "21 N° 838",
@@ -6783,6 +9795,118 @@
               "lng": -56.6771323
             }
           }
+        ],
+        "16": [
+          {
+            "nombre": "Burghardt",
+            "direccion": "Chiozza Nº 2932",
+            "telefono": "02257460620",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68456180,-56.67826800",
+            "coordenadas": {
+              "lat": -36.6845618,
+              "lng": -56.678268
+            }
+          },
+          {
+            "nombre": "Bertinetti",
+            "direccion": "Mendoza Nº 5049",
+            "telefono": "02257462381",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.65934210,-56.68114570",
+            "coordenadas": {
+              "lat": -36.6593421,
+              "lng": -56.6811457
+            }
+          },
+          {
+            "nombre": "Acosta",
+            "direccion": "Mendoza Nº 3806",
+            "telefono": "02257462522",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.67480490,-56.67938740",
+            "coordenadas": {
+              "lat": -36.6748049,
+              "lng": -56.6793874
+            }
+          },
+          {
+            "nombre": "Betancourt",
+            "direccion": "Chiozza Nº 3241",
+            "telefono": "02257468797",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68073510,-56.67850850",
+            "coordenadas": {
+              "lat": -36.6807351,
+              "lng": -56.6785085
+            }
+          },
+          {
+            "nombre": "Bustos Souto",
+            "direccion": "San Bernardo Nº 286",
+            "telefono": "02257468281",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68635650,-56.68001220",
+            "coordenadas": {
+              "lat": -36.6863565,
+              "lng": -56.6800122
+            }
+          },
+          {
+            "nombre": "Farmafilsb scs",
+            "direccion": "Chiozza Nº 2688",
+            "telefono": "02257464180",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68798500,-56.67805000",
+            "coordenadas": {
+              "lat": -36.687985,
+              "lng": -56.67805
+            }
+          },
+          {
+            "nombre": "Filgueira",
+            "direccion": "Chiozza Nº 2412",
+            "telefono": "02257460218",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69115070,-56.67784520",
+            "coordenadas": {
+              "lat": -36.6911507,
+              "lng": -56.6778452
+            }
+          },
+          {
+            "nombre": "San bernardo",
+            "direccion": "Chiozza Nº 2042",
+            "telefono": "02257460618",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69579150,-56.67754810",
+            "coordenadas": {
+              "lat": -36.6957915,
+              "lng": -56.6775481
+            }
+          },
+          {
+            "nombre": "Larrivey",
+            "direccion": "Tucumán Nº 2389",
+            "telefono": "02257466360",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69188710,-56.68429700",
+            "coordenadas": {
+              "lat": -36.6918871,
+              "lng": -56.684297
+            }
+          },
+          {
+            "nombre": "Siano",
+            "direccion": "Chiozza Nº 1745",
+            "telefono": "02257461790",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69928400,-56.67732910",
+            "coordenadas": {
+              "lat": -36.699284,
+              "lng": -56.6773291
+            }
+          },
+          {
+            "nombre": "Norte Farm",
+            "direccion": "Jorge Newbery Nº 1500",
+            "telefono": "02257460302",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.70243020,-56.67713230",
+            "coordenadas": {
+              "lat": -36.7024302,
+              "lng": -56.6771323
+            }
+          }
         ]
       }
     },
@@ -6863,6 +9987,78 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Villa",
+            "direccion": "Calle 2 y Calle 16",
+            "telefono": "02252421033",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.35653640,-56.71904500",
+            "coordenadas": {
+              "lat": -36.3565364,
+              "lng": -56.719045
+            }
+          },
+          {
+            "nombre": "Villa Centro",
+            "direccion": "Calle 1 y Calle 13",
+            "telefono": "02252522392",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.36103800,-56.71700290",
+            "coordenadas": {
+              "lat": -36.361038,
+              "lng": -56.7170029
+            }
+          },
+          {
+            "nombre": "Moreno",
+            "direccion": "Av. 2da nro 390",
+            "telefono": "02252527863",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.36364450,-56.72012450",
+            "coordenadas": {
+              "lat": -36.3636445,
+              "lng": -56.7201245
+            }
+          },
+          {
+            "nombre": "Carelli",
+            "direccion": "Calle 8 y Calle 25",
+            "telefono": "02252527075",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.35760260,-56.72718570",
+            "coordenadas": {
+              "lat": -36.3576026,
+              "lng": -56.7271857
+            }
+          },
+          {
+            "nombre": "Foglia",
+            "direccion": "Av. Talas y Calle 71",
+            "telefono": "02252525805",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.37110520,-56.71678780",
+            "coordenadas": {
+              "lat": -36.3711052,
+              "lng": -56.7167878
+            }
+          },
+          {
+            "nombre": "Maneglia",
+            "direccion": "Av. San Martín y Calle 5",
+            "telefono": "02252421232",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.35750130,-56.72355460",
+            "coordenadas": {
+              "lat": -36.3575013,
+              "lng": -56.7235546
+            }
+          },
+          {
+            "nombre": "Harner",
+            "direccion": "Av. Talas y Calle 69",
+            "telefono": "02252522152",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.36830970,-56.71622960",
+            "coordenadas": {
+              "lat": -36.3683097,
+              "lng": -56.7162296
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Villa",
             "direccion": "Calle 2 y Calle 16",
@@ -7053,6 +10249,118 @@
           }
         ],
         "13": [
+          {
+            "nombre": "Consumed",
+            "direccion": "Calle 2 Nº 1453",
+            "telefono": "02246526402",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54465650,-56.69083300",
+            "coordenadas": {
+              "lat": -36.5446565,
+              "lng": -56.690833
+            }
+          },
+          {
+            "nombre": "V & C",
+            "direccion": "Calle 32 Nº 358",
+            "telefono": "02246526402",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53513210,-56.69191970",
+            "coordenadas": {
+              "lat": -36.5351321,
+              "lng": -56.6919197
+            }
+          },
+          {
+            "nombre": "Rasan",
+            "direccion": "Calle 3 Nº 777",
+            "telefono": "02246520340",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53796307,-56.69131994",
+            "coordenadas": {
+              "lat": -36.53796307,
+              "lng": -56.69131994
+            }
+          },
+          {
+            "nombre": "Munar",
+            "direccion": "Calle 2 Nº 648",
+            "telefono": "02246520287",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53697420,-56.68938160",
+            "coordenadas": {
+              "lat": -36.5369742,
+              "lng": -56.6893816
+            }
+          },
+          {
+            "nombre": "Diaz",
+            "direccion": "Calle 6 esq. 41",
+            "telefono": "02246420066",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54373940,-56.69738500",
+            "coordenadas": {
+              "lat": -36.5437394,
+              "lng": -56.697385
+            }
+          },
+          {
+            "nombre": "Aguilera",
+            "direccion": "Calle 41 Nº 1548",
+            "telefono": "02246421035",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54242420,-56.71358500",
+            "coordenadas": {
+              "lat": -36.5424242,
+              "lng": -56.713585
+            }
+          },
+          {
+            "nombre": "Alberti",
+            "direccion": "Calle 32 Nº 657",
+            "telefono": "02246521694",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53472110,-56.69716810",
+            "coordenadas": {
+              "lat": -36.5347211,
+              "lng": -56.6971681
+            }
+          },
+          {
+            "nombre": "Farmar",
+            "direccion": "Calle 2 Nº 936",
+            "telefono": "02246422103",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53998130,-56.68976150",
+            "coordenadas": {
+              "lat": -36.5399813,
+              "lng": -56.6897615
+            }
+          },
+          {
+            "nombre": "Tango",
+            "direccion": "Diagonal 21 N° 994",
+            "telefono": "02246523114",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54294980,-56.70378260",
+            "coordenadas": {
+              "lat": -36.5429498,
+              "lng": -56.7037826
+            }
+          },
+          {
+            "nombre": "Avenida 32",
+            "direccion": "Calle 32 Nº 935",
+            "telefono": "02246527874",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53431550,-56.70196540",
+            "coordenadas": {
+              "lat": -36.5343155,
+              "lng": -56.7019654
+            }
+          },
+          {
+            "nombre": "P.M. SCS",
+            "direccion": "Calle 32 Nº 1307",
+            "telefono": "02246526112",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53379400,-56.70857440",
+            "coordenadas": {
+              "lat": -36.533794,
+              "lng": -56.7085744
+            }
+          }
+        ],
+        "16": [
           {
             "nombre": "Consumed",
             "direccion": "Calle 2 Nº 1453",
