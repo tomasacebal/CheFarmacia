@@ -1505,6 +1505,88 @@
               "lng": -58.690349
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Farmacia Ferreyra",
+            "direccion": "Av. Sta. María de las Conchas 2418, Rincón de Milberg",
+            "telefono": "47495423",
+            "mapa": "https://www.google.com/maps/place/-34.419466,-58.594762",
+            "coordenadas": {
+              "lat": -34.419466,
+              "lng": -58.594762
+            }
+          },
+          {
+            "nombre": "Farmacia Tinto",
+            "direccion": "Av. Crisólogo Larralde 783, Tigre",
+            "telefono": "47492279",
+            "mapa": "https://www.google.com/maps/place/-34.438571,-58.572224",
+            "coordenadas": {
+              "lat": -34.438571,
+              "lng": -58.572224
+            }
+          },
+          {
+            "nombre": "Farmacia JKS",
+            "direccion": "Calle 202 602, Don Torcuato, Buenos Aires",
+            "telefono": "474878931020",
+            "mapa": "https://www.google.com/maps/place/-34.499299,-58.641189",
+            "coordenadas": {
+              "lat": -34.499299,
+              "lng": -58.641189
+            }
+          },
+          {
+            "nombre": "Farmacia Jankowicz",
+            "direccion": "Av. Hipólito Yrigoyen 485, Gral. Pacheco",
+            "telefono": "47405684",
+            "mapa": "https://www.google.com/maps/place/-34.457401,-58.629176",
+            "coordenadas": {
+              "lat": -34.457401,
+              "lng": -58.629176
+            }
+          },
+          {
+            "nombre": "Farmacia Treitel",
+            "direccion": "Marcos Sastre 2511, Ricardo Rojas",
+            "telefono": "47400250",
+            "mapa": "https://www.google.com/maps/place/-34.460897,-58.679116",
+            "coordenadas": {
+              "lat": -34.460897,
+              "lng": -58.679116
+            }
+          },
+          {
+            "nombre": "Farmacia Hornos",
+            "direccion": "Av. Juan Domingo Perón & El Salvador, Benavidez",
+            "telefono": "03327483440",
+            "mapa": "https://www.google.com/maps/place/-34.425132,-58.692554",
+            "coordenadas": {
+              "lat": -34.425132,
+              "lng": -58.692554
+            }
+          },
+          {
+            "nombre": "Farmacia Talar Salud Uno SCS",
+            "direccion": "Colombia 1152, El Talar",
+            "telefono": "55520734",
+            "mapa": "https://www.google.com/maps/place/-34.47446,-58.664477",
+            "coordenadas": {
+              "lat": -34.47446,
+              "lng": -58.664477
+            }
+          },
+          {
+            "nombre": "Farmacia Pacheco Las Marias SCS",
+            "direccion": "Av. Benavidez 3933, Benavidez",
+            "telefono": "1544176741",
+            "mapa": "https://www.google.com/maps/place/-34.4035897,-58.6826896",
+            "coordenadas": {
+              "lat": -34.4035897,
+              "lng": -58.6826896
+            }
+          }
         ]
       }
     },
@@ -2185,6 +2267,228 @@
             "coordenadas": {
               "lat": -34.9634604,
               "lng": -57.9908457
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "CASALAGA",
+            "direccion": "14 esq 66 nro 1651",
+            "telefono": "4533360",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9327006,-57.941912",
+            "coordenadas": {
+              "lat": -34.9327006,
+              "lng": -57.941912
+            }
+          },
+          {
+            "nombre": "CORIA",
+            "direccion": "120 nro 2159 esq. 76",
+            "telefono": "4176528",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9232876,-57.911136",
+            "coordenadas": {
+              "lat": -34.9232876,
+              "lng": -57.911136
+            }
+          },
+          {
+            "nombre": "DEL PUEBLO",
+            "direccion": "60 nro 1767 e/ 30 y 31",
+            "telefono": "4516524",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9425888,-57.96570459999998",
+            "coordenadas": {
+              "lat": -34.9425888,
+              "lng": -57.96570459999998
+            }
+          },
+          {
+            "nombre": "DELLA CASA",
+            "direccion": "18 e/37 y 38 nro 293",
+            "telefono": "4229440",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91577,-57.9737",
+            "coordenadas": {
+              "lat": -34.91577,
+              "lng": -57.9737
+            }
+          },
+          {
+            "nombre": "FARAH",
+            "direccion": "44 esq 132 nro 1853",
+            "telefono": "4706194",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.93446,-57.98175",
+            "coordenadas": {
+              "lat": -34.93446,
+              "lng": -57.98175
+            }
+          },
+          {
+            "nombre": "FERRARIS",
+            "direccion": "av 32(532) esq 3 Tolosa",
+            "telefono": "4277525",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.89636,-57.96545",
+            "coordenadas": {
+              "lat": -34.89636,
+              "lng": -57.96545
+            }
+          },
+          {
+            "nombre": "HECTOR PERONI",
+            "direccion": "8 e/54 y 55 nro 1082",
+            "telefono": "4821803",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91795,-57.94767",
+            "coordenadas": {
+              "lat": -34.91795,
+              "lng": -57.94767
+            }
+          },
+          {
+            "nombre": "LENOIER",
+            "direccion": "7 e/61 y 62 nro 1441",
+            "telefono": "42103444095",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.922461,-57.939752",
+            "coordenadas": {
+              "lat": -34.922461,
+              "lng": -57.939752
+            }
+          },
+          {
+            "nombre": "MOYANO",
+            "direccion": "DIAG.74 E/ 34 Y 118 NRO 100",
+            "telefono": "2215676208",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8900438,-57.9565061",
+            "coordenadas": {
+              "lat": -34.8900438,
+              "lng": -57.9565061
+            }
+          },
+          {
+            "nombre": "RINGUELET S.C.S.",
+            "direccion": "511 nro 1514 e/10 y 10 bis",
+            "telefono": "4840703",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.88574,-57.99572",
+            "coordenadas": {
+              "lat": -34.88574,
+              "lng": -57.99572
+            }
+          },
+          {
+            "nombre": "PAOLETTI",
+            "direccion": "23 nro 1908 e/ 71 y 71bis",
+            "telefono": "4511423",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9452109,-57.9452739",
+            "coordenadas": {
+              "lat": -34.9452109,
+              "lng": -57.9452739
+            }
+          },
+          {
+            "nombre": "TESTA",
+            "direccion": "11 E/ 33 Y 34 NRO 77",
+            "telefono": "4270138",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90571,-57.97131",
+            "coordenadas": {
+              "lat": -34.90571,
+              "lng": -57.97131
+            }
+          },
+          {
+            "nombre": "BREANT S.C.S.",
+            "direccion": "44 ESQ 21",
+            "telefono": "4707358",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9238126,-57.9698927",
+            "coordenadas": {
+              "lat": -34.9238126,
+              "lng": -57.9698927
+            }
+          },
+          {
+            "nombre": "VILLANUEVA S.C.S.",
+            "direccion": "7 ESQ. 37 NRO 252",
+            "telefono": "4829022",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.90471,-57.96304",
+            "coordenadas": {
+              "lat": -34.90471,
+              "lng": -57.96304
+            }
+          },
+          {
+            "nombre": "ZUCOLILLO",
+            "direccion": "48 Y 4 NRO 449",
+            "telefono": "4218291",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.91072,-57.94814",
+            "coordenadas": {
+              "lat": -34.91072,
+              "lng": -57.94814
+            }
+          },
+          {
+            "nombre": "TEMPESTA",
+            "direccion": "80 nro 731 e/ 9 y 10",
+            "telefono": "4536416",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9396174,-57.9224377",
+            "coordenadas": {
+              "lat": -34.9396174,
+              "lng": -57.9224377
+            }
+          },
+          {
+            "nombre": "MANCUSO CABRERA",
+            "direccion": "155 e/ 33 y  34",
+            "telefono": "154973066",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9476233,-58.0180529",
+            "coordenadas": {
+              "lat": -34.9476233,
+              "lng": -58.0180529
+            }
+          },
+          {
+            "nombre": "SARAVIA",
+            "direccion": "609 y 5 Bis",
+            "telefono": "5122506",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.95442,-57.89179",
+            "coordenadas": {
+              "lat": -34.95442,
+              "lng": -57.89179
+            }
+          },
+          {
+            "nombre": "ARAKAKI",
+            "direccion": "467 esquina 19",
+            "telefono": "4724327",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.876043,-58.054072",
+            "coordenadas": {
+              "lat": -34.876043,
+              "lng": -58.054072
+            }
+          },
+          {
+            "nombre": "CENTRAL LA PLATA S.C.S.",
+            "direccion": "493 nro 1827 esq Cno Centenario",
+            "telefono": "4842217",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.87486,-58.02327",
+            "coordenadas": {
+              "lat": -34.87486,
+              "lng": -58.02327
+            }
+          },
+          {
+            "nombre": "OLIVERA",
+            "direccion": "av Arana e/10 y 11 nro 928",
+            "telefono": "2216163314",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.8566388,-58.0827138",
+            "coordenadas": {
+              "lat": -34.8566388,
+              "lng": -58.0827138
+            }
+          },
+          {
+            "nombre": "PAGANO",
+            "direccion": "60 NRO 2448 E/ 143 Y 144",
+            "telefono": "4505008",
+            "mapa": "https://www.google.com/maps/dir/?api=1&destination=-34.9559146,-57.9796837",
+            "coordenadas": {
+              "lat": -34.9559146,
+              "lng": -57.9796837
             }
           }
         ]
@@ -6335,6 +6639,88 @@
               "lng": -58.27329668421979
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "DI VIRGILIO",
+            "direccion": "Av. H. Yrigoyen 1895 ex 1200, Cruce",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.9197949466!2d-58.26803208422042!3d-34.78279437450339!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ2JzU4LjEiUyA1OMKwMTUnNTcuMCJX!5e0!3m2!1ses!2sar!4v1466628921996",
+            "coordenadas": {
+              "lat": -34.78279437450339,
+              "lng": -58.26803208422042
+            }
+          },
+          {
+            "nombre": "FERNANDEZ",
+            "direccion": "Pte. Arturo Illia 1354, Chacabuco",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.09864236575!2d-58.29515178421991!3d-34.803460075602366!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzEyLjUiUyA1OMKwMTcnMzQuNyJX!5e0!3m2!1ses!2sar!4v1466629172359",
+            "coordenadas": {
+              "lat": -34.803460075602366,
+              "lng": -58.29515178421991
+            }
+          },
+          {
+            "nombre": "NAKANDAKARE",
+            "direccion": "Ituzaingó 322, Zeballos",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.9414376848576!2d-58.26366398421988!3d-34.807415175812615!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzI2LjciUyA1OMKwMTUnNDEuMyJX!5e0!3m2!1ses!2sar!4v1466686274513",
+            "coordenadas": {
+              "lat": -34.807415175812615,
+              "lng": -58.26366398421988
+            }
+          },
+          {
+            "nombre": "NUEVA DONATO",
+            "direccion": "Av. Donato Álvarez 6109, Km. 26",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.506158693588!2d-58.31201768422029!3d-34.79320557505697!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ3JzM1LjYiUyA1OMKwMTgnMzUuNCJX!5e0!3m2!1ses!2sar!4v1466609068851",
+            "coordenadas": {
+              "lat": -34.79320557505697,
+              "lng": -58.31201768422029
+            }
+          },
+          {
+            "nombre": "SBATELLA",
+            "direccion": "Monteagudo 101, Centro",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.8488111393267!2d-58.27690738421986!3d-34.80974537593635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzM1LjEiUyA1OMKwMTYnMjkuMCJX!5e0!3m2!1ses!2sar!4v1466686796257",
+            "coordenadas": {
+              "lat": -34.80974537593635,
+              "lng": -58.27690738421986
+            }
+          },
+          {
+            "nombre": "SU FARM",
+            "direccion": "D´Anuncio  e/ ruta Nº 36 y O´Gorman, Bosques",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.673985734579!2d-58.22973108421967!3d-34.8141430761705!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzUwLjkiUyA1OMKwMTMnMzkuMSJX!5e0!3m2!1ses!2sar!4v1466686976234",
+            "coordenadas": {
+              "lat": -34.8141430761705,
+              "lng": -58.22973108421967
+            }
+          },
+          {
+            "nombre": "TREPERA",
+            "direccion": "San Nicolás y Avellaneda , Pista de Trote",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.4372805800895!2d-58.267281684219505!3d-34.820096576487124!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ5JzEyLjQiUyA1OMKwMTUnNTQuMyJX!5e0!3m2!1ses!2sar!4v1466610655141",
+            "coordenadas": {
+              "lat": -34.820096576487124,
+              "lng": -58.267281684219505
+            }
+          },
+          {
+            "nombre": "VÉLEZ SARSFIELD",
+            "direccion": "Vélez Sarsfield 190, Centro",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.905412776843!2d-58.28405012349535!3d-34.808321468333865!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a32bdfec1c74cd%3A0x56c2b3a2eaef5e1b!2sGMD%2C%20V%C3%A9lez%20S%C3%A1rsfield%20190%2C%20B1887%20Florencio%20Varela%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1724075772012!5m2!1ses!2sar",
+            "coordenadas": {
+              "lat": -34.808321468333865,
+              "lng": -58.28405012349535
+            }
+          }
         ]
       }
     },
@@ -6527,6 +6913,68 @@
               "lng": -58.29702973
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Di LAURO",
+            "direccion": "Republica Del Libano N° 2599, esq. Miguel Cane",
+            "telefono": "1132890998",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.72963922,-58.29213470",
+            "coordenadas": {
+              "lat": -34.72963922,
+              "lng": -58.2921347
+            }
+          },
+          {
+            "nombre": "FREYER",
+            "direccion": "Av. Oscar Smith N° 1982, entre Condarco y Husares",
+            "telefono": "42103972",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.75483576,-58.26362282",
+            "coordenadas": {
+              "lat": -34.75483576,
+              "lng": -58.26362282
+            }
+          },
+          {
+            "nombre": "SANAR 6",
+            "direccion": "Arturo Humberto illia N° 1847 (Shop. Nvo. Quilmes Plaza)",
+            "telefono": "1135543215",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.70032532,-58.28813553",
+            "coordenadas": {
+              "lat": -34.70032532,
+              "lng": -58.28813553
+            }
+          },
+          {
+            "nombre": "ROSALES",
+            "direccion": "Av. 12 de Octubre N° 1300, esq. Blas Parera",
+            "telefono": "1165093122",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.73342624,-58.27138513",
+            "coordenadas": {
+              "lat": -34.73342624,
+              "lng": -58.27138513
+            }
+          },
+          {
+            "nombre": "AMIRANTE",
+            "direccion": "Av. 844 N° 267, entre Cno. Gral. Belgrano y 873",
+            "telefono": "1171166699",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76666399,-58.28851372",
+            "coordenadas": {
+              "lat": -34.76666399,
+              "lng": -58.28851372
+            }
+          },
+          {
+            "nombre": "SANAR 60",
+            "direccion": "Felipe Amoedo N° 3156, entre Av. Calchaqui y Urrestarazu",
+            "telefono": "1135378359",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.74611746,-58.28808725",
+            "coordenadas": {
+              "lat": -34.74611746,
+              "lng": -58.28808725
+            }
+          }
         ]
       }
     },
@@ -6707,6 +7155,68 @@
             "coordenadas": {
               "lat": -34.785859,
               "lng": -58.2532228
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "Albistur",
+            "direccion": "14 y 134",
+            "telefono": "42169144",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.79214954,-58.21460134",
+            "coordenadas": {
+              "lat": -34.79214954,
+              "lng": -58.21460134
+            }
+          },
+          {
+            "nombre": "Del Rey JMS",
+            "direccion": "Av.Fcio.Varela 2283",
+            "telefono": "21283593",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76251070,-58.24606150",
+            "coordenadas": {
+              "lat": -34.7625107,
+              "lng": -58.2460615
+            }
+          },
+          {
+            "nombre": "Iturre",
+            "direccion": "L.de la Torre 1596",
+            "telefono": "42164739",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.76407200,-58.20815570",
+            "coordenadas": {
+              "lat": -34.764072,
+              "lng": -58.2081557
+            }
+          },
+          {
+            "nombre": "Minetto",
+            "direccion": "Calle 366 esq. 313",
+            "telefono": "606035101128475012",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.78901148,-58.19463372",
+            "coordenadas": {
+              "lat": -34.78901148,
+              "lng": -58.19463372
+            }
+          },
+          {
+            "nombre": "Hudson",
+            "direccion": "161 n°5806 Hudson",
+            "telefono": "42155263",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.78991930,-58.15543790",
+            "coordenadas": {
+              "lat": -34.7899193,
+              "lng": -58.1554379
+            }
+          },
+          {
+            "nombre": "Minotti",
+            "direccion": "21 y casi Cno.Gral.Belgrano wp:1121861374",
+            "telefono": "77051177",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.78996990,-58.24476630",
+            "coordenadas": {
+              "lat": -34.7899699,
+              "lng": -58.2447663
             }
           }
         ]
@@ -7101,6 +7611,198 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Alfaro",
+            "direccion": "Pueyrredon N° 701",
+            "telefono": "02355421832",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86327100,-61.52895230",
+            "coordenadas": {
+              "lat": -34.8633435,
+              "lng": -61.5289742
+            }
+          },
+          {
+            "nombre": "Tellechea",
+            "direccion": "Av. Massey N° 897",
+            "telefono": "02355422177",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86629900,-61.52826900",
+            "coordenadas": {
+              "lat": -34.8661216,
+              "lng": -61.5282946
+            }
+          },
+          {
+            "nombre": "Sorgentini",
+            "direccion": "Av. Massey N° 1099",
+            "telefono": "02355431675",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86769760,-61.52991540",
+            "coordenadas": {
+              "lat": -34.8676976,
+              "lng": -61.5299154
+            }
+          },
+          {
+            "nombre": "Rodriguez",
+            "direccion": "Sarmiento N° 999",
+            "telefono": "02355421627",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86613370,-61.53020850",
+            "coordenadas": {
+              "lat": -34.8661337,
+              "lng": -61.5302085
+            }
+          },
+          {
+            "nombre": "Ricco",
+            "direccion": "Av. 25 De Mayo N° 751",
+            "telefono": "02355416712",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86133090,-61.53786770",
+            "coordenadas": {
+              "lat": -34.8613309,
+              "lng": -61.5378677
+            }
+          },
+          {
+            "nombre": "Petroni",
+            "direccion": "Av. Alem N° 2100",
+            "telefono": "02355424600",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87527060,-61.53663220",
+            "coordenadas": {
+              "lat": -34.8752706,
+              "lng": -61.5366322
+            }
+          },
+          {
+            "nombre": "Parma",
+            "direccion": "Ituzaingo N° 499",
+            "telefono": "02355430215",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86066620,-61.53208470",
+            "coordenadas": {
+              "lat": -34.8606662,
+              "lng": -61.5320847
+            }
+          },
+          {
+            "nombre": "Palumbo",
+            "direccion": "Av. Massey N° 800",
+            "telefono": "02355401910",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86575180,-61.52748360",
+            "coordenadas": {
+              "lat": -34.8657518,
+              "lng": -61.5274836
+            }
+          },
+          {
+            "nombre": "Paidon",
+            "direccion": "Belgrano N° 163",
+            "telefono": "02355423966",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87002380,-61.52877970",
+            "coordenadas": {
+              "lat": -34.8700238,
+              "lng": -61.5287797
+            }
+          },
+          {
+            "nombre": "Lincoln",
+            "direccion": "Mitre N° 302",
+            "telefono": "02355422820",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86971550,-61.52570340",
+            "coordenadas": {
+              "lat": -34.8697155,
+              "lng": -61.5257034
+            }
+          },
+          {
+            "nombre": "Lacave",
+            "direccion": "Av. Alem N°1722",
+            "telefono": "02355423506",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87282340,-61.53371350",
+            "coordenadas": {
+              "lat": -34.8728234,
+              "lng": -61.5337135
+            }
+          },
+          {
+            "nombre": "Hidalgo",
+            "direccion": "Av. Alem N° 600",
+            "telefono": "02355423716",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86535730,-61.52480040",
+            "coordenadas": {
+              "lat": -34.8653573,
+              "lng": -61.5248004
+            }
+          },
+          {
+            "nombre": "Frassone",
+            "direccion": "Av. Peron N° 842",
+            "telefono": "02355432558",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.85898560,-61.53650220",
+            "coordenadas": {
+              "lat": -34.8589856,
+              "lng": -61.5365022
+            }
+          },
+          {
+            "nombre": "Falco",
+            "direccion": "Av. 9 De Julio N° 600",
+            "telefono": "02355430282",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.87307930,-61.52336240",
+            "coordenadas": {
+              "lat": -34.8730793,
+              "lng": -61.5233624
+            }
+          },
+          {
+            "nombre": "Cruz Roja",
+            "direccion": "San Martin 1201",
+            "telefono": "02355422179",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86752000,-61.53187960",
+            "coordenadas": {
+              "lat": -34.86752,
+              "lng": -61.5318796
+            }
+          },
+          {
+            "nombre": "Avenida",
+            "direccion": "Av. 25 de Mayo N° 314",
+            "telefono": "02355422969",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86498430,-61.53335920",
+            "coordenadas": {
+              "lat": -34.8649843,
+              "lng": -61.5333592
+            }
+          },
+          {
+            "nombre": "Andrade",
+            "direccion": "Av. Massey N° 1301",
+            "telefono": "02355422091",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86906200,-61.53157600",
+            "coordenadas": {
+              "lat": -34.869062,
+              "lng": -61.531576
+            }
+          },
+          {
+            "nombre": "Alcalde Vera",
+            "direccion": "Av. Massey N° 393",
+            "telefono": "02355422764",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86301800,-61.52431950",
+            "coordenadas": {
+              "lat": -34.863018,
+              "lng": -61.5243195
+            }
+          },
+          {
+            "nombre": "Rios",
+            "direccion": "Leandro N. Alem 1",
+            "telefono": "02355432074",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-34.86132027,-61.52003914",
+            "coordenadas": {
+              "lat": -34.86132027,
+              "lng": -61.52003914
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Alfaro",
             "direccion": "Pueyrredon N° 701",
@@ -7873,6 +8575,198 @@
               "lng": -59.85842264
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Fidalgo",
+            "direccion": "Burgos 314",
+            "telefono": "424172",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77353517,-59.85799512",
+            "coordenadas": {
+              "lat": -36.77353517,
+              "lng": -59.85799512
+            }
+          },
+          {
+            "nombre": "Vinciguerra",
+            "direccion": "Alvear esq Prat",
+            "telefono": "426152426331",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77349153,-59.86261245",
+            "coordenadas": {
+              "lat": -36.77349153,
+              "lng": -59.86261245
+            }
+          },
+          {
+            "nombre": "Castro",
+            "direccion": "Colon 942",
+            "telefono": "424283",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78157024,-59.86912294",
+            "coordenadas": {
+              "lat": -36.78157024,
+              "lng": -59.86912294
+            }
+          },
+          {
+            "nombre": "Del fuerte Azul",
+            "direccion": "Mitre 809",
+            "telefono": "422409",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78080942,-59.85487399",
+            "coordenadas": {
+              "lat": -36.78080942,
+              "lng": -59.85487399
+            }
+          },
+          {
+            "nombre": "Soncini",
+            "direccion": "Irigoyen 650",
+            "telefono": "424169424333",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78010688,-59.85930388",
+            "coordenadas": {
+              "lat": -36.78010688,
+              "lng": -59.85930388
+            }
+          },
+          {
+            "nombre": "Santa Rosa",
+            "direccion": "9 de julio 763",
+            "telefono": "432218",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78356514,-59.85971549",
+            "coordenadas": {
+              "lat": -36.78356514,
+              "lng": -59.85971549
+            }
+          },
+          {
+            "nombre": "Santa Lucia",
+            "direccion": "Av.Piazza 1146",
+            "telefono": "434800",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78545938,-59.84903448",
+            "coordenadas": {
+              "lat": -36.78545938,
+              "lng": -59.84903448
+            }
+          },
+          {
+            "nombre": "Merlo",
+            "direccion": "Caneva 534",
+            "telefono": "427267",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78389314,-59.85240463",
+            "coordenadas": {
+              "lat": -36.78389314,
+              "lng": -59.85240463
+            }
+          },
+          {
+            "nombre": "Ciotta",
+            "direccion": "Colon 812",
+            "telefono": "423423",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77962478,-59.86681573",
+            "coordenadas": {
+              "lat": -36.77962478,
+              "lng": -59.86681573
+            }
+          },
+          {
+            "nombre": "Peroggi",
+            "direccion": "Irigoyen esq. Moreno",
+            "telefono": "423256434364",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77877206,-59.86101429",
+            "coordenadas": {
+              "lat": -36.77877206,
+              "lng": -59.86101429
+            }
+          },
+          {
+            "nombre": "Lucero",
+            "direccion": "25 de Mayo 1264",
+            "telefono": "433985",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78837571,-59.87093595",
+            "coordenadas": {
+              "lat": -36.78837571,
+              "lng": -59.87093595
+            }
+          },
+          {
+            "nombre": "Marchisio",
+            "direccion": "Colon 652",
+            "telefono": "422777424201",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77766275,-59.86442999",
+            "coordenadas": {
+              "lat": -36.77766275,
+              "lng": -59.86442999
+            }
+          },
+          {
+            "nombre": "Lucini",
+            "direccion": "Av. Peron esq. 25 de Mayo",
+            "telefono": "423939",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78271120,-59.86419337",
+            "coordenadas": {
+              "lat": -36.7827112,
+              "lng": -59.86419337
+            }
+          },
+          {
+            "nombre": "López",
+            "direccion": "San Martín 641",
+            "telefono": "424101",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78057230,-59.86025730",
+            "coordenadas": {
+              "lat": -36.7805723,
+              "lng": -59.8602573
+            }
+          },
+          {
+            "nombre": "Orianda",
+            "direccion": "Mitre 426",
+            "telefono": "423109",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77573343,-59.86147239",
+            "coordenadas": {
+              "lat": -36.77573343,
+              "lng": -59.86147239
+            }
+          },
+          {
+            "nombre": "Diab",
+            "direccion": "A.Diab 311",
+            "telefono": "431946",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77093070,-59.85907656",
+            "coordenadas": {
+              "lat": -36.7709307,
+              "lng": -59.85907656
+            }
+          },
+          {
+            "nombre": "Colotto",
+            "direccion": "Av. Peron 850",
+            "telefono": "422995",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78600422,-59.85994396",
+            "coordenadas": {
+              "lat": -36.78600422,
+              "lng": -59.85994396
+            }
+          },
+          {
+            "nombre": "San Martin",
+            "direccion": "San Martín 900",
+            "telefono": "425867",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.78394392,-59.85592673",
+            "coordenadas": {
+              "lat": -36.78394392,
+              "lng": -59.85592673
+            }
+          },
+          {
+            "nombre": "Burgan",
+            "direccion": "Mitre 602 esq. 25 de Mayo",
+            "telefono": "425501",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.77802281,-59.85842264",
+            "coordenadas": {
+              "lat": -36.77802281,
+              "lng": -59.85842264
+            }
+          }
         ]
       }
     },
@@ -8085,6 +8979,108 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Albanese",
+            "direccion": "Av. Lavalle 374",
+            "telefono": "02314428142",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23279200,-61.11831400",
+            "coordenadas": {
+              "lat": -36.232792,
+              "lng": -61.118314
+            }
+          },
+          {
+            "nombre": "Comas",
+            "direccion": "584 Av. San Martín",
+            "telefono": "02314428430",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23158280,-61.11285160",
+            "coordenadas": {
+              "lat": -36.2315828,
+              "lng": -61.1128516
+            }
+          },
+          {
+            "nombre": "Fal",
+            "direccion": "Av. San Martín 500",
+            "telefono": "02314427480",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23232870,-61.11190530",
+            "coordenadas": {
+              "lat": -36.2323287,
+              "lng": -61.1119053
+            }
+          },
+          {
+            "nombre": "Gagliardi",
+            "direccion": "Av. San Martín 302",
+            "telefono": "02314427426",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23364460,-61.11023110",
+            "coordenadas": {
+              "lat": -36.2336446,
+              "lng": -61.1102311
+            }
+          },
+          {
+            "nombre": "Gomez Arrospide",
+            "direccion": "Av. Calfucurá y 3 de Febrero",
+            "telefono": "02314427295",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23605550,-61.12241960",
+            "coordenadas": {
+              "lat": -36.2360555,
+              "lng": -61.1224196
+            }
+          },
+          {
+            "nombre": "Iglesias",
+            "direccion": "Av. Venezuela 536",
+            "telefono": "02314426205",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.22501130,-61.11911080",
+            "coordenadas": {
+              "lat": -36.2250113,
+              "lng": -61.1191108
+            }
+          },
+          {
+            "nombre": "Lopez",
+            "direccion": "Av. San Martín 915",
+            "telefono": "02314421050",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.22893600,-61.11606220",
+            "coordenadas": {
+              "lat": -36.228936,
+              "lng": -61.1160622
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. General Paz 60",
+            "telefono": "02314427430",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23119580,-61.11440680",
+            "coordenadas": {
+              "lat": -36.2311958,
+              "lng": -61.1144068
+            }
+          },
+          {
+            "nombre": "Sudiro",
+            "direccion": "Av. Brown 300",
+            "telefono": "02314428626",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.22750820,-61.11214410",
+            "coordenadas": {
+              "lat": -36.2275082,
+              "lng": -61.1121441
+            }
+          },
+          {
+            "nombre": "Tres de Febrero",
+            "direccion": "3 de Febrero 302",
+            "telefono": "02314420404",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.23373960,-61.12526280",
+            "coordenadas": {
+              "lat": -36.2337396,
+              "lng": -61.1252628
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Albanese",
             "direccion": "Av. Lavalle 374",
@@ -8617,6 +9613,148 @@
               "lng": -61.9309438
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Sotelo",
+            "direccion": "Hipólito Irigoyen 855",
+            "telefono": "02926421739",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45140700,-61.93393450",
+            "coordenadas": {
+              "lat": -37.451407,
+              "lng": -61.9339345
+            }
+          },
+          {
+            "nombre": "Matta",
+            "direccion": "Lamadrid y Conturbi",
+            "telefono": "0292615492303",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45844810,-61.94268270",
+            "coordenadas": {
+              "lat": -37.4584481,
+              "lng": -61.9426827
+            }
+          },
+          {
+            "nombre": "Fonzo",
+            "direccion": "Belgrano 1269",
+            "telefono": "02926422230",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45930540,-61.93419980",
+            "coordenadas": {
+              "lat": -37.4593054,
+              "lng": -61.9341998
+            }
+          },
+          {
+            "nombre": "Fetter",
+            "direccion": "Mitre y San Martin",
+            "telefono": "02926422778",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45712130,-61.92668970",
+            "coordenadas": {
+              "lat": -37.4571213,
+              "lng": -61.9266897
+            }
+          },
+          {
+            "nombre": "De la Ciudad",
+            "direccion": "Las Heras y Garibaldi",
+            "telefono": "02926431666",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45666520,-61.93795230",
+            "coordenadas": {
+              "lat": -37.4566652,
+              "lng": -61.9379523
+            }
+          },
+          {
+            "nombre": "Del Pueblo",
+            "direccion": "Mitre y Brandsen",
+            "telefono": "02926424338",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45835130,-61.93492980",
+            "coordenadas": {
+              "lat": -37.4583513,
+              "lng": -61.9349298
+            }
+          },
+          {
+            "nombre": "Gomez",
+            "direccion": "Avda. San Martin  218",
+            "telefono": "02926431713",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.46312423,-61.93122750",
+            "coordenadas": {
+              "lat": -37.46312423,
+              "lng": -61.9312275
+            }
+          },
+          {
+            "nombre": "Jaime",
+            "direccion": "Brandsen y Brown",
+            "telefono": "02926422254",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45433580,-61.93579160",
+            "coordenadas": {
+              "lat": -37.4543358,
+              "lng": -61.9357916
+            }
+          },
+          {
+            "nombre": "Menna",
+            "direccion": "Avda. Sixto Rodriguez y Alem",
+            "telefono": "02926431467",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45234560,-61.92908070",
+            "coordenadas": {
+              "lat": -37.4523456,
+              "lng": -61.9290807
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Belgrano y Junín",
+            "telefono": "02926422156",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45857800,-61.92899790",
+            "coordenadas": {
+              "lat": -37.458578,
+              "lng": -61.9289979
+            }
+          },
+          {
+            "nombre": "Perrig",
+            "direccion": "Avda. Balcarce 459",
+            "telefono": "0292615408697",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.46387510,-61.92157477",
+            "coordenadas": {
+              "lat": -37.4638751,
+              "lng": -61.92157477
+            }
+          },
+          {
+            "nombre": "Santomauro",
+            "direccion": "Las Heras 1242",
+            "telefono": "02926421261",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45618400,-61.93474760",
+            "coordenadas": {
+              "lat": -37.456184,
+              "lng": -61.9347476
+            }
+          },
+          {
+            "nombre": "Schuvab",
+            "direccion": "Belgrano y Sarmiento",
+            "telefono": "02926422045",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45923280,-61.93341700",
+            "coordenadas": {
+              "lat": -37.4592328,
+              "lng": -61.933417
+            }
+          },
+          {
+            "nombre": "Cnel. Suarez",
+            "direccion": "Avellaneda y Lavalle",
+            "telefono": "02926430019",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-37.45463100,-61.93094380",
+            "coordenadas": {
+              "lat": -37.454631,
+              "lng": -61.9309438
+            }
+          }
         ]
       }
     },
@@ -8669,6 +9807,28 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Postigo",
+            "direccion": "Calle 7 Nº 1599",
+            "telefono": "02246431055",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.49517060,-56.69591800",
+            "coordenadas": {
+              "lat": -36.4951706,
+              "lng": -56.695918
+            }
+          },
+          {
+            "nombre": "Las Toninas",
+            "direccion": "Calle 1 Nº 1558",
+            "telefono": "02246431337",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.49427970,-56.69278290",
+            "coordenadas": {
+              "lat": -36.4942797,
+              "lng": -56.6927829
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Postigo",
             "direccion": "Calle 7 Nº 1599",
@@ -9061,6 +10221,128 @@
               "lng": -56.68018397
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Farmajo",
+            "direccion": "Avda. Tucumán Nº 1434",
+            "telefono": "02257420362",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.70363560,-56.68347490",
+            "coordenadas": {
+              "lat": -36.7036356,
+              "lng": -56.6834749
+            }
+          },
+          {
+            "nombre": "Cano",
+            "direccion": "Jorge Newbery Nº 1126",
+            "telefono": "0225715500991",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.70700370,-56.67667890",
+            "coordenadas": {
+              "lat": -36.7070037,
+              "lng": -56.6766789
+            }
+          },
+          {
+            "nombre": "Mangiante",
+            "direccion": "Avda. Costanera esq. San Luís",
+            "telefono": "02257420719",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.71341080,-56.67496770",
+            "coordenadas": {
+              "lat": -36.7134108,
+              "lng": -56.6749677
+            }
+          },
+          {
+            "nombre": "Perez Miriam",
+            "direccion": "San Juán Nº 5",
+            "telefono": "02257421566",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72109610,-56.67727220",
+            "coordenadas": {
+              "lat": -36.7210961,
+              "lng": -56.6772722
+            }
+          },
+          {
+            "nombre": "Birreci",
+            "direccion": "H. Yrigoyen Nº 24",
+            "telefono": "02257420130",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72188400,-56.67512760",
+            "coordenadas": {
+              "lat": -36.721884,
+              "lng": -56.6751276
+            }
+          },
+          {
+            "nombre": "Farmacia Científica Mar de ajo",
+            "direccion": "Francisco de las Carreras Nº 1310",
+            "telefono": "02257422010",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.74102330,-56.67749860",
+            "coordenadas": {
+              "lat": -36.7410233,
+              "lng": -56.6774986
+            }
+          },
+          {
+            "nombre": "Merlo",
+            "direccion": "Avda. San Martín Nº 1072",
+            "telefono": "02257422494",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72133570,-56.68544360",
+            "coordenadas": {
+              "lat": -36.7213357,
+              "lng": -56.6854436
+            }
+          },
+          {
+            "nombre": "Andres",
+            "direccion": "Avda. San Martín Nº 1698",
+            "telefono": "02257420966",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72120510,-56.69226200",
+            "coordenadas": {
+              "lat": -36.7212051,
+              "lng": -56.692262
+            }
+          },
+          {
+            "nombre": "Andriola",
+            "direccion": "Francisco de las Carreras Nº 126",
+            "telefono": "02257420180",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72333880,-56.67728730",
+            "coordenadas": {
+              "lat": -36.7233388,
+              "lng": -56.6772873
+            }
+          },
+          {
+            "nombre": "Grillo",
+            "direccion": "H. Yrigoyen Nº 317",
+            "telefono": "02257421755",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72627400,-56.67517440",
+            "coordenadas": {
+              "lat": -36.726274,
+              "lng": -56.6751744
+            }
+          },
+          {
+            "nombre": "Cano Center",
+            "direccion": "Francisco de las Carreras Nº 460",
+            "telefono": "02257429451",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72827250,-56.67733000",
+            "coordenadas": {
+              "lat": -36.7282725,
+              "lng": -56.67733
+            }
+          },
+          {
+            "nombre": "Llambias",
+            "direccion": "Avda. San Martín Nº 582",
+            "telefono": "02257422134",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.72137570,-56.68018397",
+            "coordenadas": {
+              "lat": -36.7213757,
+              "lng": -56.68018397
+            }
+          }
         ]
       }
     },
@@ -9153,6 +10435,48 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Paz",
+            "direccion": "Calle 2 Nº 7571",
+            "telefono": "02246434883",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.57785620,-56.69023240",
+            "coordenadas": {
+              "lat": -36.5778562,
+              "lng": -56.6902324
+            }
+          },
+          {
+            "nombre": "Valdez",
+            "direccion": "Calle 2 Nº 7269",
+            "telefono": "02246434051",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.57488210,-56.69035750",
+            "coordenadas": {
+              "lat": -36.5748821,
+              "lng": -56.6903575
+            }
+          },
+          {
+            "nombre": "Bautista",
+            "direccion": "Calle 79 Nº 134",
+            "telefono": "02246434397",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.58132190,-56.68953650",
+            "coordenadas": {
+              "lat": -36.5813219,
+              "lng": -56.6895365
+            }
+          },
+          {
+            "nombre": "Nethol",
+            "direccion": "Calle 2 Nº 6087",
+            "telefono": "02246421790",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.56204880,-56.69104260",
+            "coordenadas": {
+              "lat": -36.5620488,
+              "lng": -56.6910426
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Paz",
             "direccion": "Calle 2 Nº 7571",
@@ -9445,6 +10769,128 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Peatonal",
+            "direccion": "21 N° 838",
+            "telefono": "02291420303",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27282420,-57.83483930",
+            "coordenadas": {
+              "lat": -38.2728242,
+              "lng": -57.8348393
+            }
+          },
+          {
+            "nombre": "Mateo",
+            "direccion": "26 N° 927",
+            "telefono": "02291434350",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26855280,-57.83746650",
+            "coordenadas": {
+              "lat": -38.2685528,
+              "lng": -57.8374665
+            }
+          },
+          {
+            "nombre": "Mercuri",
+            "direccion": "13 esquina 36",
+            "telefono": "02291420034",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26359710,-57.83986210",
+            "coordenadas": {
+              "lat": -38.2635971,
+              "lng": -57.8398621
+            }
+          },
+          {
+            "nombre": "Chiaradia",
+            "direccion": "25 esquina 12",
+            "telefono": "02291423912",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27579110,-57.83471040",
+            "coordenadas": {
+              "lat": -38.2757911,
+              "lng": -57.8347104
+            }
+          },
+          {
+            "nombre": "Espinosa",
+            "direccion": "23 N° 1918",
+            "telefono": "02291420204",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26639700,-57.84519030",
+            "coordenadas": {
+              "lat": -38.266397,
+              "lng": -57.8451903
+            }
+          },
+          {
+            "nombre": "Bardin",
+            "direccion": "9 N° 1415",
+            "telefono": "02291423077",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26469580,-57.83512370",
+            "coordenadas": {
+              "lat": -38.2646958,
+              "lng": -57.8351237
+            }
+          },
+          {
+            "nombre": "Miramar",
+            "direccion": "21 N° 1225",
+            "telefono": "02291420892",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27037180,-57.83826590",
+            "coordenadas": {
+              "lat": -38.2703718,
+              "lng": -57.8382659
+            }
+          },
+          {
+            "nombre": "Beni",
+            "direccion": "9 N° 2345",
+            "telefono": "02291423775",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.25847432,-57.84287274",
+            "coordenadas": {
+              "lat": -38.25847432,
+              "lng": -57.84287274
+            }
+          },
+          {
+            "nombre": "Malvestiti",
+            "direccion": "26 esquina 31",
+            "telefono": "02291422969",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27312200,-57.84325570",
+            "coordenadas": {
+              "lat": -38.273122,
+              "lng": -57.8432557
+            }
+          },
+          {
+            "nombre": "Acha",
+            "direccion": "Diagonal Illia 736",
+            "telefono": "02291431860",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.27040930,-57.83028630",
+            "coordenadas": {
+              "lat": -38.2704093,
+              "lng": -57.8302863
+            }
+          },
+          {
+            "nombre": "Asili",
+            "direccion": "23 esquina 46",
+            "telefono": "02291430123",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26392670,-57.84839830",
+            "coordenadas": {
+              "lat": -38.2639267,
+              "lng": -57.8483983
+            }
+          },
+          {
+            "nombre": "Del pueblo",
+            "direccion": "21 esquina 32",
+            "telefono": "02291420673",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-38.26777770,-57.84142320",
+            "coordenadas": {
+              "lat": -38.2677777,
+              "lng": -57.8414232
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Peatonal",
             "direccion": "21 N° 838",
@@ -9907,6 +11353,118 @@
               "lng": -56.6771323
             }
           }
+        ],
+        "17": [
+          {
+            "nombre": "Burghardt",
+            "direccion": "Chiozza Nº 2932",
+            "telefono": "02257460620",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68456180,-56.67826800",
+            "coordenadas": {
+              "lat": -36.6845618,
+              "lng": -56.678268
+            }
+          },
+          {
+            "nombre": "Bertinetti",
+            "direccion": "Mendoza Nº 5049",
+            "telefono": "02257462381",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.65934210,-56.68114570",
+            "coordenadas": {
+              "lat": -36.6593421,
+              "lng": -56.6811457
+            }
+          },
+          {
+            "nombre": "Acosta",
+            "direccion": "Mendoza Nº 3806",
+            "telefono": "02257462522",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.67480490,-56.67938740",
+            "coordenadas": {
+              "lat": -36.6748049,
+              "lng": -56.6793874
+            }
+          },
+          {
+            "nombre": "Betancourt",
+            "direccion": "Chiozza Nº 3241",
+            "telefono": "02257468797",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68073510,-56.67850850",
+            "coordenadas": {
+              "lat": -36.6807351,
+              "lng": -56.6785085
+            }
+          },
+          {
+            "nombre": "Bustos Souto",
+            "direccion": "San Bernardo Nº 286",
+            "telefono": "02257468281",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68635650,-56.68001220",
+            "coordenadas": {
+              "lat": -36.6863565,
+              "lng": -56.6800122
+            }
+          },
+          {
+            "nombre": "Farmafilsb scs",
+            "direccion": "Chiozza Nº 2688",
+            "telefono": "02257464180",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.68798500,-56.67805000",
+            "coordenadas": {
+              "lat": -36.687985,
+              "lng": -56.67805
+            }
+          },
+          {
+            "nombre": "Filgueira",
+            "direccion": "Chiozza Nº 2412",
+            "telefono": "02257460218",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69115070,-56.67784520",
+            "coordenadas": {
+              "lat": -36.6911507,
+              "lng": -56.6778452
+            }
+          },
+          {
+            "nombre": "San bernardo",
+            "direccion": "Chiozza Nº 2042",
+            "telefono": "02257460618",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69579150,-56.67754810",
+            "coordenadas": {
+              "lat": -36.6957915,
+              "lng": -56.6775481
+            }
+          },
+          {
+            "nombre": "Larrivey",
+            "direccion": "Tucumán Nº 2389",
+            "telefono": "02257466360",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69188710,-56.68429700",
+            "coordenadas": {
+              "lat": -36.6918871,
+              "lng": -56.684297
+            }
+          },
+          {
+            "nombre": "Siano",
+            "direccion": "Chiozza Nº 1745",
+            "telefono": "02257461790",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.69928400,-56.67732910",
+            "coordenadas": {
+              "lat": -36.699284,
+              "lng": -56.6773291
+            }
+          },
+          {
+            "nombre": "Norte Farm",
+            "direccion": "Jorge Newbery Nº 1500",
+            "telefono": "02257460302",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.70243020,-56.67713230",
+            "coordenadas": {
+              "lat": -36.7024302,
+              "lng": -56.6771323
+            }
+          }
         ]
       }
     },
@@ -10059,6 +11617,78 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Villa",
+            "direccion": "Calle 2 y Calle 16",
+            "telefono": "02252421033",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.35653640,-56.71904500",
+            "coordenadas": {
+              "lat": -36.3565364,
+              "lng": -56.719045
+            }
+          },
+          {
+            "nombre": "Villa Centro",
+            "direccion": "Calle 1 y Calle 13",
+            "telefono": "02252522392",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.36103800,-56.71700290",
+            "coordenadas": {
+              "lat": -36.361038,
+              "lng": -56.7170029
+            }
+          },
+          {
+            "nombre": "Moreno",
+            "direccion": "Av. 2da nro 390",
+            "telefono": "02252527863",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.36364450,-56.72012450",
+            "coordenadas": {
+              "lat": -36.3636445,
+              "lng": -56.7201245
+            }
+          },
+          {
+            "nombre": "Carelli",
+            "direccion": "Calle 8 y Calle 25",
+            "telefono": "02252527075",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.35760260,-56.72718570",
+            "coordenadas": {
+              "lat": -36.3576026,
+              "lng": -56.7271857
+            }
+          },
+          {
+            "nombre": "Foglia",
+            "direccion": "Av. Talas y Calle 71",
+            "telefono": "02252525805",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.37110520,-56.71678780",
+            "coordenadas": {
+              "lat": -36.3711052,
+              "lng": -56.7167878
+            }
+          },
+          {
+            "nombre": "Maneglia",
+            "direccion": "Av. San Martín y Calle 5",
+            "telefono": "02252421232",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.35750130,-56.72355460",
+            "coordenadas": {
+              "lat": -36.3575013,
+              "lng": -56.7235546
+            }
+          },
+          {
+            "nombre": "Harner",
+            "direccion": "Av. Talas y Calle 69",
+            "telefono": "02252522152",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.36830970,-56.71622960",
+            "coordenadas": {
+              "lat": -36.3683097,
+              "lng": -56.7162296
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Villa",
             "direccion": "Calle 2 y Calle 16",
@@ -10361,6 +11991,118 @@
           }
         ],
         "16": [
+          {
+            "nombre": "Consumed",
+            "direccion": "Calle 2 Nº 1453",
+            "telefono": "02246526402",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54465650,-56.69083300",
+            "coordenadas": {
+              "lat": -36.5446565,
+              "lng": -56.690833
+            }
+          },
+          {
+            "nombre": "V & C",
+            "direccion": "Calle 32 Nº 358",
+            "telefono": "02246526402",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53513210,-56.69191970",
+            "coordenadas": {
+              "lat": -36.5351321,
+              "lng": -56.6919197
+            }
+          },
+          {
+            "nombre": "Rasan",
+            "direccion": "Calle 3 Nº 777",
+            "telefono": "02246520340",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53796307,-56.69131994",
+            "coordenadas": {
+              "lat": -36.53796307,
+              "lng": -56.69131994
+            }
+          },
+          {
+            "nombre": "Munar",
+            "direccion": "Calle 2 Nº 648",
+            "telefono": "02246520287",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53697420,-56.68938160",
+            "coordenadas": {
+              "lat": -36.5369742,
+              "lng": -56.6893816
+            }
+          },
+          {
+            "nombre": "Diaz",
+            "direccion": "Calle 6 esq. 41",
+            "telefono": "02246420066",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54373940,-56.69738500",
+            "coordenadas": {
+              "lat": -36.5437394,
+              "lng": -56.697385
+            }
+          },
+          {
+            "nombre": "Aguilera",
+            "direccion": "Calle 41 Nº 1548",
+            "telefono": "02246421035",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54242420,-56.71358500",
+            "coordenadas": {
+              "lat": -36.5424242,
+              "lng": -56.713585
+            }
+          },
+          {
+            "nombre": "Alberti",
+            "direccion": "Calle 32 Nº 657",
+            "telefono": "02246521694",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53472110,-56.69716810",
+            "coordenadas": {
+              "lat": -36.5347211,
+              "lng": -56.6971681
+            }
+          },
+          {
+            "nombre": "Farmar",
+            "direccion": "Calle 2 Nº 936",
+            "telefono": "02246422103",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53998130,-56.68976150",
+            "coordenadas": {
+              "lat": -36.5399813,
+              "lng": -56.6897615
+            }
+          },
+          {
+            "nombre": "Tango",
+            "direccion": "Diagonal 21 N° 994",
+            "telefono": "02246523114",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.54294980,-56.70378260",
+            "coordenadas": {
+              "lat": -36.5429498,
+              "lng": -56.7037826
+            }
+          },
+          {
+            "nombre": "Avenida 32",
+            "direccion": "Calle 32 Nº 935",
+            "telefono": "02246527874",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53431550,-56.70196540",
+            "coordenadas": {
+              "lat": -36.5343155,
+              "lng": -56.7019654
+            }
+          },
+          {
+            "nombre": "P.M. SCS",
+            "direccion": "Calle 32 Nº 1307",
+            "telefono": "02246526112",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=-36.53379400,-56.70857440",
+            "coordenadas": {
+              "lat": -36.533794,
+              "lng": -56.7085744
+            }
+          }
+        ],
+        "17": [
           {
             "nombre": "Consumed",
             "direccion": "Calle 2 Nº 1453",
