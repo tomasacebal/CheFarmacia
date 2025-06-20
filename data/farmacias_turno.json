@@ -3015,8 +3015,8 @@
             "telefono": "",
             "mapa": "https://www.google.com/maps/dir/?api=1&destination=0,0",
             "coordenadas": {
-              "lat": -34.7445605,
-              "lng": -58.2091785
+              "lat": -34.7349961,
+              "lng": -58.2351348
             }
           },
           {
@@ -15998,6 +15998,26 @@
               "lat": -34.5225719,
               "lng": -58.7024752
             }
+          },
+          {
+            "nombre": "PANAMERICANPHARMA",
+            "direccion": "Ruta 197 2078, Polvorines",
+            "telefono": "02320437172",
+            "mapa": "https://www.google.com/maps/search/PANAMERICANPHARMA+Ruta+197+2078%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.4791983,
+              "lng": -58.6745211
+            }
+          },
+          {
+            "nombre": "NOGUÉS S.C.S.",
+            "direccion": "Miraflores 4799, Ing. Pablo Nogués",
+            "telefono": "02320683981",
+            "mapa": "https://www.google.com/maps/search/NOGU%C3%89S+S.C.S.+Miraflores+4799%2C+Ing.+Pablo+Nogu%C3%A9s%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4905678,
+              "lng": -58.7134759
+            }
           }
         ],
         "2": [
@@ -16019,6 +16039,16 @@
             "coordenadas": {
               "lat": -34.5025269,
               "lng": -58.6811005
+            }
+          },
+          {
+            "nombre": "RIVERA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
             }
           }
         ],
@@ -16052,6 +16082,26 @@
               "lat": -34.5181009,
               "lng": -58.6718376
             }
+          },
+          {
+            "nombre": "RIVADAVIA",
+            "direccion": "Rivadavia 2687, Polvorines",
+            "telefono": "46638292",
+            "mapa": "https://www.google.com/maps/search/RIVADAVIA+Rivadavia+2687%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.5009858,
+              "lng": -58.6932525
+            }
+          },
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
+            }
           }
         ],
         "4": [
@@ -16084,6 +16134,26 @@
               "lat": -34.5085986,
               "lng": -58.6966454
             }
+          },
+          {
+            "nombre": "L.A.I. RIVADAVIA",
+            "direccion": "Juan Palliere 3204, Polvorines",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/L.A.I.+RIVADAVIA+Juan+Palliere+3204%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.509994,
+              "lng": -58.7042954
+            }
+          },
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
           }
         ],
         "5": [
@@ -16105,6 +16175,16 @@
             "coordenadas": {
               "lat": -34.5059176,
               "lng": -58.6773363
+            }
+          },
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 663, Grand Bourg",
+            "telefono": "02320446021",
+            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5066322,
+              "lng": -58.7234117
             }
           }
         ],
@@ -16128,6 +16208,16 @@
               "lat": -34.5003664,
               "lng": -58.6960774
             }
+          },
+          {
+            "nombre": "RASPO",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4903301,
+              "lng": -58.7268928
+            }
           }
         ],
         "7": [
@@ -16149,6 +16239,26 @@
             "coordenadas": {
               "lat": -33.8384721,
               "lng": -59.5294465
+            }
+          },
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4956885,
+              "lng": -58.7211597
+            }
+          },
+          {
+            "nombre": "NOGUÉS S.C.S.",
+            "direccion": "Miraflores 4799, Ing. Pablo Nogués",
+            "telefono": "02320683981",
+            "mapa": "https://www.google.com/maps/search/NOGU%C3%89S+S.C.S.+Miraflores+4799%2C+Ing.+Pablo+Nogu%C3%A9s%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4905678,
+              "lng": -58.7134759
             }
           }
         ],
@@ -16172,6 +16282,16 @@
               "lat": -34.5022335,
               "lng": -58.667105
             }
+          },
+          {
+            "nombre": "RIVERA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
           }
         ],
         "9": [
@@ -16194,6 +16314,16 @@
               "lat": -34.5142289,
               "lng": -58.7074235
             }
+          },
+          {
+            "nombre": "AMORIELLO",
+            "direccion": "El Callao 636, Grand Bourg",
+            "telefono": "01128750966",
+            "mapa": "https://www.google.com/maps/search/AMORIELLO+El+Callao+636%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4949118,
+              "lng": -58.7196035
+            }
           }
         ],
         "10": [
@@ -16213,8 +16343,8 @@
             "telefono": "1122382746",
             "mapa": "https://www.google.com/maps/search/DEL+SOL+Derqui+y+Pe%C3%B1a%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
             "coordenadas": {
-              "lat": -34.5028885,
-              "lng": -58.6665339
+              "lat": -34.5005986,
+              "lng": -58.6613088
             }
           },
           {
@@ -16225,6 +16355,16 @@
             "coordenadas": {
               "lat": -34.4922074,
               "lng": -58.6824617
+            }
+          },
+          {
+            "nombre": "CERNETTI",
+            "direccion": "Pasco 612, Grand Bourg",
+            "telefono": "02320481327",
+            "mapa": "https://www.google.com/maps/search/CERNETTI+Pasco+612%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4986916,
+              "lng": -58.7303427
             }
           }
         ],
@@ -16258,6 +16398,26 @@
               "lat": -34.5225719,
               "lng": -58.7024752
             }
+          },
+          {
+            "nombre": "PANAMERICANPHARMA",
+            "direccion": "Ruta 197 2078, Polvorines",
+            "telefono": "02320437172",
+            "mapa": "https://www.google.com/maps/search/PANAMERICANPHARMA+Ruta+197+2078%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.4791983,
+              "lng": -58.6745211
+            }
+          },
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 663, Grand Bourg",
+            "telefono": "02320446021",
+            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5066322,
+              "lng": -58.7234117
+            }
           }
         ],
         "12": [
@@ -16279,6 +16439,16 @@
             "coordenadas": {
               "lat": -34.5025269,
               "lng": -58.6811005
+            }
+          },
+          {
+            "nombre": "RASPO",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4903301,
+              "lng": -58.7268928
             }
           }
         ],
@@ -16312,6 +16482,26 @@
               "lat": -34.5181009,
               "lng": -58.6718376
             }
+          },
+          {
+            "nombre": "RIVADAVIA",
+            "direccion": "Rivadavia 2687, Polvorines",
+            "telefono": "46638292",
+            "mapa": "https://www.google.com/maps/search/RIVADAVIA+Rivadavia+2687%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.5009858,
+              "lng": -58.6932525
+            }
+          },
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4956885,
+              "lng": -58.7211597
+            }
           }
         ],
         "14": [
@@ -16344,6 +16534,36 @@
               "lat": -34.5085986,
               "lng": -58.6966454
             }
+          },
+          {
+            "nombre": "L.A.I. RIVADAVIA",
+            "direccion": "Juan Palliere 3204, Polvorines",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/L.A.I.+RIVADAVIA+Juan+Palliere+3204%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.509994,
+              "lng": -58.7042954
+            }
+          },
+          {
+            "nombre": "RIVERA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          },
+          {
+            "nombre": "NOGUÉS NORTE",
+            "direccion": "Ejército de los Andes 2224, Ing. Pablo Nogués",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/NOGU%C3%89S+NORTE+Ej%C3%A9rcito+de+los+Andes+2224%2C+Ing.+Pablo+Nogu%C3%A9s%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4934484,
+              "lng": -58.7052082
+            }
           }
         ],
         "15": [
@@ -16365,6 +16585,26 @@
             "coordenadas": {
               "lat": -34.5059176,
               "lng": -58.6773363
+            }
+          },
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
+            }
+          },
+          {
+            "nombre": "AMORIELLO",
+            "direccion": "El Callao 636, Grand Bourg",
+            "telefono": "01128750966",
+            "mapa": "https://www.google.com/maps/search/AMORIELLO+El+Callao+636%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4949118,
+              "lng": -58.7196035
             }
           }
         ],
@@ -16388,6 +16628,16 @@
               "lat": -34.5003664,
               "lng": -58.6960774
             }
+          },
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
           }
         ],
         "17": [
@@ -16409,6 +16659,16 @@
             "coordenadas": {
               "lat": -33.8384721,
               "lng": -59.5294465
+            }
+          },
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 663, Grand Bourg",
+            "telefono": "02320446021",
+            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5066322,
+              "lng": -58.7234117
             }
           }
         ],
@@ -16432,6 +16692,16 @@
               "lat": -34.5022335,
               "lng": -58.667105
             }
+          },
+          {
+            "nombre": "RASPO",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4903301,
+              "lng": -58.7268928
+            }
           }
         ],
         "19": [
@@ -16454,6 +16724,16 @@
               "lat": -34.5142289,
               "lng": -58.7074235
             }
+          },
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4956885,
+              "lng": -58.7211597
+            }
           }
         ],
         "20": [
@@ -16473,8 +16753,8 @@
             "telefono": "1122382746",
             "mapa": "https://www.google.com/maps/search/DEL+SOL+Derqui+y+Pe%C3%B1a%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
             "coordenadas": {
-              "lat": -34.5028885,
-              "lng": -58.6665339
+              "lat": -34.5005986,
+              "lng": -58.6613088
             }
           },
           {
@@ -16485,6 +16765,16 @@
             "coordenadas": {
               "lat": -34.4922074,
               "lng": -58.6824617
+            }
+          },
+          {
+            "nombre": "RIVERA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
             }
           }
         ],
@@ -16518,6 +16808,36 @@
               "lat": -34.5225719,
               "lng": -58.7024752
             }
+          },
+          {
+            "nombre": "PANAMERICANPHARMA",
+            "direccion": "Ruta 197 2078, Polvorines",
+            "telefono": "02320437172",
+            "mapa": "https://www.google.com/maps/search/PANAMERICANPHARMA+Ruta+197+2078%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.4791983,
+              "lng": -58.6745211
+            }
+          },
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
+            }
+          },
+          {
+            "nombre": "AMORIELLO",
+            "direccion": "El Callao 636, Grand Bourg",
+            "telefono": "01128750966",
+            "mapa": "https://www.google.com/maps/search/AMORIELLO+El+Callao+636%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4949118,
+              "lng": -58.7196035
+            }
           }
         ],
         "22": [
@@ -16539,6 +16859,26 @@
             "coordenadas": {
               "lat": -34.5025269,
               "lng": -58.6811005
+            }
+          },
+          {
+            "nombre": "CERNETTI",
+            "direccion": "Pasco 612, Grand Bourg",
+            "telefono": "02320481327",
+            "mapa": "https://www.google.com/maps/search/CERNETTI+Pasco+612%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4986916,
+              "lng": -58.7303427
+            }
+          },
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
             }
           }
         ],
@@ -16572,6 +16912,26 @@
               "lat": -34.5181009,
               "lng": -58.6718376
             }
+          },
+          {
+            "nombre": "RIVADAVIA",
+            "direccion": "Rivadavia 2687, Polvorines",
+            "telefono": "46638292",
+            "mapa": "https://www.google.com/maps/search/RIVADAVIA+Rivadavia+2687%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.5009858,
+              "lng": -58.6932525
+            }
+          },
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 663, Grand Bourg",
+            "telefono": "02320446021",
+            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5066322,
+              "lng": -58.7234117
+            }
           }
         ],
         "24": [
@@ -16604,6 +16964,26 @@
               "lat": -34.5085986,
               "lng": -58.6966454
             }
+          },
+          {
+            "nombre": "L.A.I. RIVADAVIA",
+            "direccion": "Juan Palliere 3204, Polvorines",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/L.A.I.+RIVADAVIA+Juan+Palliere+3204%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
+            "coordenadas": {
+              "lat": -34.509994,
+              "lng": -58.7042954
+            }
+          },
+          {
+            "nombre": "RASPO",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4903301,
+              "lng": -58.7268928
+            }
           }
         ],
         "25": [
@@ -16625,6 +17005,16 @@
             "coordenadas": {
               "lat": -34.5059176,
               "lng": -58.6773363
+            }
+          },
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4956885,
+              "lng": -58.7211597
             }
           }
         ],
@@ -16648,6 +17038,16 @@
               "lat": -34.5003664,
               "lng": -58.6960774
             }
+          },
+          {
+            "nombre": "RIVERA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
           }
         ],
         "27": [
@@ -16669,6 +17069,16 @@
             "coordenadas": {
               "lat": -33.8384721,
               "lng": -59.5294465
+            }
+          },
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
             }
           }
         ],
@@ -16692,6 +17102,26 @@
               "lat": -34.5022335,
               "lng": -58.667105
             }
+          },
+          {
+            "nombre": "CERNETTI",
+            "direccion": "Pasco 612, Grand Bourg",
+            "telefono": "02320481327",
+            "mapa": "https://www.google.com/maps/search/CERNETTI+Pasco+612%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4986916,
+              "lng": -58.7303427
+            }
+          },
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
           }
         ],
         "29": [
@@ -16714,6 +17144,16 @@
               "lat": -34.5142289,
               "lng": -58.7074235
             }
+          },
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 663, Grand Bourg",
+            "telefono": "02320446021",
+            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.5066322,
+              "lng": -58.7234117
+            }
           }
         ],
         "30": [
@@ -16733,8 +17173,8 @@
             "telefono": "1122382746",
             "mapa": "https://www.google.com/maps/search/DEL+SOL+Derqui+y+Pe%C3%B1a%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
             "coordenadas": {
-              "lat": -34.5028885,
-              "lng": -58.6665339
+              "lat": -34.5005986,
+              "lng": -58.6613088
             }
           },
           {
@@ -16745,6 +17185,16 @@
             "coordenadas": {
               "lat": -34.4922074,
               "lng": -58.6824617
+            }
+          },
+          {
+            "nombre": "RASPO",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
+            "telefono": "02320480531",
+            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
+            "coordenadas": {
+              "lat": -34.4903301,
+              "lng": -58.7268928
             }
           }
         ]
