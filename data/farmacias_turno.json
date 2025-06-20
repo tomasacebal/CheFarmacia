@@ -16018,6 +16018,16 @@
               "lat": -34.4905678,
               "lng": -58.7134759
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "2": [
@@ -16049,6 +16059,16 @@
             "coordenadas": {
               "lat": -34.4843393,
               "lng": -58.7261149
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -16102,6 +16122,16 @@
               "lat": -34.4900986,
               "lng": -58.7377993
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "4": [
@@ -16154,6 +16184,16 @@
               "lat": -34.5018857,
               "lng": -58.7142459
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "5": [
@@ -16186,6 +16226,16 @@
               "lat": -34.5066322,
               "lng": -58.7234117
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "6": [
@@ -16217,6 +16267,16 @@
             "coordenadas": {
               "lat": -34.4903301,
               "lng": -58.7268928
+            }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
             }
           }
         ],
@@ -16260,6 +16320,16 @@
               "lat": -34.4905678,
               "lng": -58.7134759
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "8": [
@@ -16292,6 +16362,16 @@
               "lat": -34.4843393,
               "lng": -58.7261149
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "9": [
@@ -16323,6 +16403,16 @@
             "coordenadas": {
               "lat": -34.4949118,
               "lng": -58.7196035
+            }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
             }
           }
         ],
@@ -16365,6 +16455,16 @@
             "coordenadas": {
               "lat": -34.4986916,
               "lng": -58.7303427
+            }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
             }
           }
         ],
@@ -16418,6 +16518,16 @@
               "lat": -34.5066322,
               "lng": -58.7234117
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "12": [
@@ -16449,6 +16559,16 @@
             "coordenadas": {
               "lat": -34.4903301,
               "lng": -58.7268928
+            }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
             }
           }
         ],
@@ -16501,6 +16621,16 @@
             "coordenadas": {
               "lat": -34.4956885,
               "lng": -58.7211597
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -16564,6 +16694,16 @@
               "lat": -34.4934484,
               "lng": -58.7052082
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "15": [
@@ -16606,6 +16746,16 @@
               "lat": -34.4949118,
               "lng": -58.7196035
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "16": [
@@ -16637,6 +16787,16 @@
             "coordenadas": {
               "lat": -34.5018857,
               "lng": -58.7142459
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -16670,6 +16830,16 @@
               "lat": -34.5066322,
               "lng": -58.7234117
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "18": [
@@ -16702,6 +16872,16 @@
               "lat": -34.4903301,
               "lng": -58.7268928
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "19": [
@@ -16733,6 +16913,16 @@
             "coordenadas": {
               "lat": -34.4956885,
               "lng": -58.7211597
+            }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
             }
           }
         ],
@@ -16775,6 +16965,16 @@
             "coordenadas": {
               "lat": -34.4843393,
               "lng": -58.7261149
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -16838,6 +17038,16 @@
               "lat": -34.4949118,
               "lng": -58.7196035
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "22": [
@@ -16879,6 +17089,16 @@
             "coordenadas": {
               "lat": -34.5018857,
               "lng": -58.7142459
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -16932,6 +17152,16 @@
               "lat": -34.5066322,
               "lng": -58.7234117
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "24": [
@@ -16984,6 +17214,16 @@
               "lat": -34.4903301,
               "lng": -58.7268928
             }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
           }
         ],
         "25": [
@@ -17015,6 +17255,16 @@
             "coordenadas": {
               "lat": -34.4956885,
               "lng": -58.7211597
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -17048,6 +17298,16 @@
               "lat": -34.4843393,
               "lng": -58.7261149
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "27": [
@@ -17079,6 +17339,16 @@
             "coordenadas": {
               "lat": -34.4900986,
               "lng": -58.7377993
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ],
@@ -17122,6 +17392,16 @@
               "lat": -34.5018857,
               "lng": -58.7142459
             }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
           }
         ],
         "29": [
@@ -17153,6 +17433,16 @@
             "coordenadas": {
               "lat": -34.5066322,
               "lng": -58.7234117
+            }
+          },
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
             }
           }
         ],
@@ -17195,6 +17485,16 @@
             "coordenadas": {
               "lat": -34.4903301,
               "lng": -58.7268928
+            }
+          },
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
             }
           }
         ]
