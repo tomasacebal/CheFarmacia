@@ -22,6 +22,9 @@ from scrapers.miramar import MiramarScraper
 from scrapers.san_bernardo import SanBernardoScraper
 from scrapers.san_clemente_del_tuyu import SanClementeScraper
 from scrapers.santa_teresita import SantaTeresitaScraper
+from scrapers.polvorines import PolvorinesScraper
+from scrapers.grand_bourg import GranBourgScraper
+from scrapers.tortuguitas import TortuguitasScraper
 
 from utils import save_to_json, commit_and_push, format_data_for_json, merge_data
 
@@ -48,10 +51,12 @@ def main():
         SanBernardoScraper(),
         SanClementeScraper(),
         SantaTeresitaScraper(),
+        PolvorinesScraper(),
+        GranBourgScraper(),
+        TortuguitasScraper(),
 
 
-
-        # VarelaScraper(),
+        VarelaScraper(),
     ]
 
     datos_combinados = {}

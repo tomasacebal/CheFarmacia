@@ -1882,5 +1882,893 @@
   "Pueyrredón 417, V. Vatteone": {
     "lat": -34.81477557620396,
     "lng": -58.27329668421979
+  },
+  "Av. Cazón 1200, B1648EWZ Tigre": {
+    "lat": -34.426119,
+    "lng": -58.576355
+  },
+  "Riobamba 2026, Don Torcuato": {
+    "lat": -34.493733,
+    "lng": -58.616641
+  },
+  "Ruta 197 y General Belgrano, Troncos del Talar": {
+    "lat": -34.436014,
+    "lng": -58.567778
+  },
+  "Santiago de Estero 388, Gral. Pacheco": {
+    "lat": -34.454694,
+    "lng": -58.635291
+  },
+  "Av. Alvear 2571, Benavídez": {
+    "lat": -34.412535,
+    "lng": -58.690349
+  },
+  "7 nro 1554 e/ 516 y 517": {
+    "lat": -34.8874854,
+    "lng": -57.9862168
+  },
+  "4 esq 57": {
+    "lat": -34.91539,
+    "lng": -57.94161
+  },
+  "Pza Azcuenaga 19 y 44": {
+    "lat": -34.9212133,
+    "lng": -57.96718
+  },
+  "131 esq 40 nro 399": {
+    "lat": -34.93026,
+    "lng": -57.98514
+  },
+  "51 nro 741": {
+    "lat": -34.9179511,
+    "lng": -57.9521621
+  },
+  "7 nro 2917": {
+    "lat": -34.945584,
+    "lng": -57.9094641
+  },
+  "2 nro 190 1/2 e/35 y 36": {
+    "lat": -34.8989311,
+    "lng": -57.9594673
+  },
+  "58 nro 1765 e/ 30 y 31": {
+    "lat": -34.941125,
+    "lng": -57.967956
+  },
+  "3 Nro761 e/ 47 y 48": {
+    "lat": -34.9096088,
+    "lng": -57.9478008
+  },
+  "26 nro 2288 e/ 78 y 79": {
+    "lat": -34.9538233,
+    "lng": -57.9406509
+  },
+  "4 ESQ. 78 Bis": {
+    "lat": -34.93329,
+    "lng": -57.91821
+  },
+  "2 esq 68": {
+    "lat": -34.92294,
+    "lng": -57.92761
+  },
+  "7 y 58 nro 1249": {
+    "lat": -34.91931,
+    "lng": -57.94405
+  },
+  "15 nro 149 esq 35": {
+    "lat": -34.91061,
+    "lng": -57.97394
+  },
+  "CALLE 64 E/123 Y 124": {
+    "lat": -34.90924,
+    "lng": -57.92119
+  },
+  "520 NRO 6256 E/157 Y 158": {
+    "lat": -34.938192,
+    "lng": -58.0349317
+  },
+  "143 ESQ 47": {
+    "lat": -34.94737,
+    "lng": -57.98897
+  },
+  "14 esq 51 nro 1803": {
+    "lat": -34.8520154,
+    "lng": -58.0889148
+  },
+  "Cno Gral Belgrano nro 635 e/ 466 y 467 City Bell": {
+    "lat": -34.8804223,
+    "lng": -58.0603099
+  },
+  "485 e/ 135 y 136 nro 4254": {
+    "lat": -34.90139,
+    "lng": -58.04341
+  },
+  "60 nro 2871": {
+    "lat": -34.9634604,
+    "lng": -57.9908457
+  },
+  "Av. Eva Peron 1373 (Libertad Centro), Merlo": {
+    "lat": -34.6897458,
+    "lng": -58.6888665
+  },
+  "Colombia 531 Esq. Panamá, Merlo": {
+    "lat": -34.7088094,
+    "lng": -58.6908777
+  },
+  "Esteban Echeverria 702-706, Merlo": {
+    "lat": -34.6696474,
+    "lng": -58.6909767
+  },
+  "La Guarda N° 301, esq. Lavalle": {
+    "lat": -34.74806571,
+    "lng": -58.23646009
+  },
+  "9 de Julio N° 57, entre Av. San Martin Y Belgrano": {
+    "lat": -34.71053833,
+    "lng": -58.28137636
+  },
+  "Av. Urquiza N° 2862, entre Berutti y Lavalleja": {
+    "lat": -34.74132156,
+    "lng": -58.26285034
+  },
+  "Av. Triumvirato N° 3095, esq. Av. Calchaqui": {
+    "lat": -34.75132298,
+    "lng": -58.2850644
+  },
+  "calle 898 N° 6198, esq. 862": {
+    "lat": -34.79218442,
+    "lng": -58.30649793
+  },
+  "Av. Zapiola N° 1020, esq. Viejo Bueno": {
+    "lat": -34.72276129,
+    "lng": -58.29702973
+  },
+  "14 n°5656 e/156 y 157": {
+    "lat": -34.75733751,
+    "lng": -58.20100665
+  },
+  "21 y 131A": {
+    "lat": -34.7776659,
+    "lng": -58.2217403
+  },
+  "31 e/145 y 146 V.España -116068-4122": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "138 n° 5628 Hudson": {
+    "lat": -34.8058821,
+    "lng": -58.1789721
+  },
+  "Cno.Gral.Belgrano y 14": {
+    "lat": -34.785859,
+    "lng": -58.2532228
+  },
+  "Av. Sta. María de las Conchas 2418, Rincón de Milberg": {
+    "lat": -34.419466,
+    "lng": -58.594762
+  },
+  "Av. Crisólogo Larralde 783, Tigre": {
+    "lat": -34.438571,
+    "lng": -58.572224
+  },
+  "Calle 202 602, Don Torcuato, Buenos Aires": {
+    "lat": -34.499299,
+    "lng": -58.641189
+  },
+  "Av. Hipólito Yrigoyen 485, Gral. Pacheco": {
+    "lat": -34.457401,
+    "lng": -58.629176
+  },
+  "Marcos Sastre 2511, Ricardo Rojas": {
+    "lat": -34.460897,
+    "lng": -58.679116
+  },
+  "Av. Juan Domingo Perón & El Salvador, Benavidez": {
+    "lat": -34.425132,
+    "lng": -58.692554
+  },
+  "Colombia 1152, El Talar": {
+    "lat": -34.47446,
+    "lng": -58.664477
+  },
+  "Av. Benavidez 3933, Benavidez": {
+    "lat": -34.4035897,
+    "lng": -58.6826896
+  },
+  "14 esq 66 nro 1651": {
+    "lat": -34.9327006,
+    "lng": -57.941912
+  },
+  "120 nro 2159 esq. 76": {
+    "lat": -34.9232876,
+    "lng": -57.911136
+  },
+  "60 nro 1767 e/ 30 y 31": {
+    "lat": -34.9425888,
+    "lng": -57.96570459999998
+  },
+  "18 e/37 y 38 nro 293": {
+    "lat": -34.91577,
+    "lng": -57.9737
+  },
+  "44 esq 132 nro 1853": {
+    "lat": -34.93446,
+    "lng": -57.98175
+  },
+  "av 32(532) esq 3 Tolosa": {
+    "lat": -34.89636,
+    "lng": -57.96545
+  },
+  "8 e/54 y 55 nro 1082": {
+    "lat": -34.91795,
+    "lng": -57.94767
+  },
+  "7 e/61 y 62 nro 1441": {
+    "lat": -34.922461,
+    "lng": -57.939752
+  },
+  "DIAG.74 E/ 34 Y 118 NRO 100": {
+    "lat": -34.8900438,
+    "lng": -57.9565061
+  },
+  "511 nro 1514 e/10 y 10 bis": {
+    "lat": -34.88574,
+    "lng": -57.99572
+  },
+  "23 nro 1908 e/ 71 y 71bis": {
+    "lat": -34.9452109,
+    "lng": -57.9452739
+  },
+  "11 E/ 33 Y 34 NRO 77": {
+    "lat": -34.90571,
+    "lng": -57.97131
+  },
+  "44 ESQ 21": {
+    "lat": -34.9238126,
+    "lng": -57.9698927
+  },
+  "7 ESQ. 37 NRO 252": {
+    "lat": -34.90471,
+    "lng": -57.96304
+  },
+  "48 Y 4 NRO 449": {
+    "lat": -34.91072,
+    "lng": -57.94814
+  },
+  "80 nro 731 e/ 9 y 10": {
+    "lat": -34.9396174,
+    "lng": -57.9224377
+  },
+  "609 y 5 Bis": {
+    "lat": -34.95442,
+    "lng": -57.89179
+  },
+  "467 esquina 19": {
+    "lat": -34.876043,
+    "lng": -58.054072
+  },
+  "493 nro 1827 esq Cno Centenario": {
+    "lat": -34.87486,
+    "lng": -58.02327
+  },
+  "av Arana e/10 y 11 nro 928": {
+    "lat": -34.8566388,
+    "lng": -58.0827138
+  },
+  "60 NRO 2448 E/ 143 Y 144": {
+    "lat": -34.9559146,
+    "lng": -57.9796837
+  },
+  "Republica Del Libano N° 2599, esq. Miguel Cane": {
+    "lat": -34.72963922,
+    "lng": -58.2921347
+  },
+  "Av. Oscar Smith N° 1982, entre Condarco y Husares": {
+    "lat": -34.75483576,
+    "lng": -58.26362282
+  },
+  "Arturo Humberto illia N° 1847 (Shop. Nvo. Quilmes Plaza)": {
+    "lat": -34.70032532,
+    "lng": -58.28813553
+  },
+  "Av. 12 de Octubre N° 1300, esq. Blas Parera": {
+    "lat": -34.73342624,
+    "lng": -58.27138513
+  },
+  "Av. 844 N° 267, entre Cno. Gral. Belgrano y 873": {
+    "lat": -34.76666399,
+    "lng": -58.28851372
+  },
+  "Felipe Amoedo N° 3156, entre Av. Calchaqui y Urrestarazu": {
+    "lat": -34.74611746,
+    "lng": -58.28808725
+  },
+  "14 y 134": {
+    "lat": -34.79214954,
+    "lng": -58.21460134
+  },
+  "Av.Fcio.Varela 2283": {
+    "lat": -34.7625107,
+    "lng": -58.2460615
+  },
+  "L.de la Torre 1596": {
+    "lat": -34.764072,
+    "lng": -58.2081557
+  },
+  "Calle 366 esq. 313": {
+    "lat": -34.78901148,
+    "lng": -58.19463372
+  },
+  "161 n°5806 Hudson": {
+    "lat": -34.7899193,
+    "lng": -58.1554379
+  },
+  "21 y casi Cno.Gral.Belgrano wp:1121861374": {
+    "lat": -34.7899699,
+    "lng": -58.2447663
+  },
+  "Av. H. Yrigoyen 1895 ex 1200, Cruce": {
+    "lat": -34.78279437450339,
+    "lng": -58.26803208422042
+  },
+  "Pte. Arturo Illia 1354, Chacabuco": {
+    "lat": -34.803460075602366,
+    "lng": -58.29515178421991
+  },
+  "Ituzaingó 322, Zeballos": {
+    "lat": -34.807415175812615,
+    "lng": -58.26366398421988
+  },
+  "Av. Donato Álvarez 6109, Km. 26": {
+    "lat": -34.79320557505697,
+    "lng": -58.31201768422029
+  },
+  "Monteagudo 101, Centro": {
+    "lat": -34.80974537593635,
+    "lng": -58.27690738421986
+  },
+  "D´Anuncio  e/ ruta Nº 36 y O´Gorman, Bosques": {
+    "lat": -34.8141430761705,
+    "lng": -58.22973108421967
+  },
+  "San Nicolás y Avellaneda , Pista de Trote": {
+    "lat": -34.820096576487124,
+    "lng": -58.267281684219505
+  },
+  "Vélez Sarsfield 190, Centro": {
+    "lat": -34.808321468333865,
+    "lng": -58.28405012349535
+  },
+  "Av. Dardo Rocha 937, Tigre": {
+    "lat": -34.430688,
+    "lng": -58.575712
+  },
+  "Av. Sta. María de las Conchas 4793, Rincón de Milberg": {
+    "lat": -34.406554,
+    "lng": -58.620995
+  },
+  "Arata & España, Don Torcuato": {
+    "lat": -34.500432,
+    "lng": -58.626799
+  },
+  "Santiago de Estero 22, Gral. Pacheco": {
+    "lat": -34.45875,
+    "lng": -58.632235
+  },
+  "Boulogne Sur Mer 1249, Gral. Pacheco": {
+    "lat": -34.468022,
+    "lng": -58.623964
+  },
+  "Av. Juan Domingo Perón & Chilavert, Benavidez": {
+    "lat": -34.41109,
+    "lng": -58.713032
+  },
+  "Ruta 197 y Panamericana, El Talar": {
+    "lat": -34.475234,
+    "lng": -58.664253
+  },
+  "60 E/ 24 Y 25 NRO 1465": {
+    "lat": -34.93691,
+    "lng": -57.95941
+  },
+  "13 esq 36 nro 199": {
+    "lat": -34.9095017,
+    "lng": -57.97048
+  },
+  "Diag 80 nro 960 e/ 4 y 5": {
+    "lat": -34.91172,
+    "lng": -57.94848
+  },
+  "22 e/76 y 77 nro 2169": {
+    "lat": -34.94841,
+    "lng": -57.93912
+  },
+  "66 nro 761 e/ 10 y 11": {
+    "lat": -34.9289092,
+    "lng": -57.9382347
+  },
+  "46 esq 14 nro 950": {
+    "lat": -34.91898,
+    "lng": -57.96001
+  },
+  "197 esquina 46": {
+    "lat": -34.99687,
+    "lng": -58.04594
+  },
+  "56 esq 10": {
+    "lat": -34.9220684,
+    "lng": -57.9499613
+  },
+  "7 ESQ. 525": {
+    "lat": -34.8946202,
+    "lng": -57.9769579
+  },
+  "25 nro 32 e/32 y 33": {
+    "lat": -34.9178372,
+    "lng": -57.9866258
+  },
+  "24 ESQ. 44 NRO 600": {
+    "lat": -34.92638,
+    "lng": -57.97274
+  },
+  "RUTA 11 ESQ 95": {
+    "lat": -34.93208,
+    "lng": -57.88871
+  },
+  "56 ESQ 19 NRO 1199": {
+    "lat": -34.92892,
+    "lng": -57.95795
+  },
+  "520 Esq 172": {
+    "lat": -34.9518279,
+    "lng": -58.049928
+  },
+  "511 E/ 21 Y 22 NRO 2629": {
+    "lat": -34.8937833,
+    "lng": -58.00462600000003
+  },
+  "11 nro 951 e/ Sarmiento y 17": {
+    "lat": -34.8740661,
+    "lng": -58.0610257
+  },
+  "42 E/ 5 y 6": {
+    "lat": -34.8523989,
+    "lng": -58.0782709
+  },
+  "60 nro 2573 e/ 146 y 147": {
+    "lat": -34.9580924,
+    "lng": -57.985316
+  },
+  "De La Torre 1501, Zarate": {
+    "lat": -34.0958137,
+    "lng": -59.0339691
+  },
+  "Gral. Pinto 1201, Zarate": {
+    "lat": -34.1029359,
+    "lng": -59.0247588
+  },
+  "Félix Pagola 1487, Zarate": {
+    "lat": -34.0839268,
+    "lng": -59.0337082
+  },
+  "Av. Gallesio 416, Zarate": {
+    "lat": -34.1036144,
+    "lng": -59.0317122
+  },
+  "Rivadavia 1102, Zarate": {
+    "lat": -34.0972831,
+    "lng": -59.0278001
+  },
+  "H. Yrigoyen 500, Zarate": {
+    "lat": -34.1005287,
+    "lng": -59.0173169
+  },
+  "19 de Marzo 441, Zarate": {
+    "lat": -34.0986495,
+    "lng": -59.0215737
+  },
+  "Independencia 899, Zarate": {
+    "lat": -34.098283,
+    "lng": -59.0241409
+  },
+  "Sarmiento 540, Zarate": {
+    "lat": -34.0933749,
+    "lng": -59.032064
+  },
+  "Pellegrini 1054, Zarate": {
+    "lat": -34.1046909,
+    "lng": -59.0212573
+  },
+  "Calle 809 N° 1895, esq. 889": {
+    "lat": -34.7510779,
+    "lng": -58.32242489
+  },
+  "Av. Vicente Lopez N° 1400, esq. Corrientes": {
+    "lat": -34.7267823,
+    "lng": -58.26270819
+  },
+  "Av. San Martin N° 6249, entre La Calandria y El Zorzal": {
+    "lat": -34.77481208,
+    "lng": -58.32692564
+  },
+  "Av. Mitre N° 4733, esq. Salta": {
+    "lat": -34.74316414,
+    "lng": -58.23148191
+  },
+  "Av. La Plata N° 1702, esq. Primero de Mayo": {
+    "lat": -34.73752168,
+    "lng": -58.27683002
+  },
+  "9 de Julio N° 190, entre Lavalle y Luis Maria Drago": {
+    "lat": -34.71261971,
+    "lng": -58.28376353
+  },
+  "Mitre y 14": {
+    "lat": -34.7594471,
+    "lng": -58.2048924
+  },
+  "21 y 144": {
+    "lat": -34.7705977,
+    "lng": -58.2081878
+  },
+  "137 e/11 y 12": {
+    "lat": -34.7656439,
+    "lng": -58.2227658
+  },
+  "7 y 126": {
+    "lat": -34.7675715,
+    "lng": -58.238035
+  },
+  "55 e/150 y 151 Hudson": {
+    "lat": -34.7961279,
+    "lng": -58.1696354
+  },
+  "Cno.Gral.Belgrano 4228": {
+    "lat": -34.802144,
+    "lng": -58.2203712
+  },
+  "Av. Novak 1389, Gdor. Costa": {
+    "lat": -34.81179347604536,
+    "lng": -58.29470408423174
+  },
+  "Calle 1344, San Francisco": {
+    "lat": -34.872192079260735,
+    "lng": -58.27656738421831
+  },
+  "Cno. Gral. Belgrano y Monteverde, San Emilio": {
+    "lat": -34.77294417397982,
+    "lng": -58.280033284220714
+  },
+  "Santa Sofía y Aconquija, San Rudecindo": {
+    "lat": -34.82106857653883,
+    "lng": -58.21110298421954
+  },
+  "Montevideo y Progreso, V. Vatteone": {
+    "lat": -34.818891076422936,
+    "lng": -58.27415848421958
+  },
+  "Av. San Martín 2646, Centro": {
+    "lat": -34.80314427558535,
+    "lng": -58.28016448422001
+  },
+  "Monteagudo 3101 - Centro": {
+    "lat": -34.807920575839354,
+    "lng": -58.27705668421988
+  },
+  "Av. Eva Perón 6556, La Colorada": {
+    "lat": -34.840941577596524,
+    "lng": -58.28055168421909
+  },
+  "Avenida Cazón 635": {
+    "lat": -34.421947,
+    "lng": -58.582071
+  },
+  "Av. Sta. María de las Conchas 2160, Rincón de Milberg": {
+    "lat": -34.421979,
+    "lng": -58.592024
+  },
+  "Av. Hipólito Yrigoyen 786, Gral. Pacheco": {
+    "lat": -34.459585,
+    "lng": -58.632964
+  },
+  "Tte. Gral. Juan José Valle 1909, El Talar": {
+    "lat": -34.460584,
+    "lng": -58.660026
+  },
+  "Av Angel Torcuato de Alvear 1472, Don Torcuato": {
+    "lat": -34.494377,
+    "lng": -58.634357
+  },
+  "57 nro 398 esq 3": {
+    "lat": -34.9147953,
+    "lng": -57.9405333
+  },
+  "30 nro 806 e/ 48 y 49": {
+    "lat": -34.9353468,
+    "lng": -57.9745109
+  },
+  "Plaza H. Irigoyen nro 60": {
+    "lat": -34.9315393,
+    "lng": -57.954599
+  },
+  "10 e/diag 74 y 48 nro 780": {
+    "lat": -34.9169505,
+    "lng": -57.9546304
+  },
+  "34 nro 598 esq 7": {
+    "lat": -34.90218,
+    "lng": -57.96637
+  },
+  "62 E/ 11 Y 12": {
+    "lat": -34.92708,
+    "lng": -57.94403
+  },
+  "520 esq. 151 bis": {
+    "lat": -34.9325187,
+    "lng": -58.028676
+  },
+  "21 NRO 151 ESQ. 35": {
+    "lat": -34.916399,
+    "lng": -57.97991
+  },
+  "Diag 74 nro 996 Esq 5": {
+    "lat": -34.90681,
+    "lng": -57.95535
+  },
+  "7 NRO 1851 ESQ.70": {
+    "lat": -34.9295122,
+    "lng": -57.9302099
+  },
+  "44 e/ 184 y 185 nro 4457": {
+    "lat": -34.98321,
+    "lng": -58.03529
+  },
+  "CNO. GRAL. BELGRANO Y 517": {
+    "lat": -34.89522,
+    "lng": -57.99403
+  },
+  "122 esq 70": {
+    "lat": -34.9157768,
+    "lng": -57.915373
+  },
+  "32 E/ 164 y 165": {
+    "lat": -34.95492,
+    "lng": -58.02884
+  },
+  "22 E/ 657 Y 658": {
+    "lat": -35.0016218,
+    "lng": -57.8677645
+  },
+  "Av 31 esq. 512": {
+    "lat": -34.9061889,
+    "lng": -58.0158685
+  },
+  "Arana esq 10 nro 212": {
+    "lat": -34.8515996,
+    "lng": -58.0764465
+  },
+  "462 nro 1046 e/16 y 17": {
+    "lat": -34.8714066,
+    "lng": -58.0574035
+  },
+  "60 e/ 139 y 140 nro 2224": {
+    "lat": -34.9518206,
+    "lng": -57.9801188
+  },
+  "Av. Agustin Pedemonte N° 1741, entre 187 y 188": {
+    "lat": -34.74022669,
+    "lng": -58.32977951
+  },
+  "Av. Oscar Smith N° 2629, entre Miguel Cane y Gral. Acha": {
+    "lat": -34.75936598,
+    "lng": -58.27212811
+  },
+  "Fcio. Varela N° 367, entre Rio de Janeiro y Sucre": {
+    "lat": -34.75574808,
+    "lng": -58.233971
+  },
+  "Av. Dardo Rocha N° 427, entre Avellaneda y Ameghino": {
+    "lat": -34.71754074,
+    "lng": -58.29355896
+  },
+  "Av. Monteverde N° 1205, esq. 882": {
+    "lat": -34.77917864,
+    "lng": -58.29080164
+  },
+  "14 e/143 y 144 wp: 1121859003": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "14 y 113": {
+    "lat": -34.7803538,
+    "lng": -58.2444554
+  },
+  "21 n° 2918 wp: 1121857318": {
+    "lat": -34.7793623,
+    "lng": -58.2250413
+  },
+  "131 n°5698 Hudson": {
+    "lat": -34.8104922,
+    "lng": -58.1827876
+  },
+  "158 y 44 Plátanos": {
+    "lat": -34.7835352,
+    "lng": -58.173827
+  },
+  "514 n°1344 El Pato - 1135311181": {
+    "lat": -34.8787504,
+    "lng": -58.1777071
+  },
+  "Av. Perón 897, V. de Mayo": {
+    "lat": -34.5131006,
+    "lng": -58.6776077
+  },
+  "Ruta 197 2078, Polvorines": {
+    "lat": -34.4791983,
+    "lng": -58.6745211
+  },
+  "J.M. Gutiérrez 981, Polvorines": {
+    "lat": -34.5225719,
+    "lng": -58.7024752
+  },
+  "Ruta 8 y 197, Polvorines": {
+    "lat": -34.509446,
+    "lng": -58.728141
+  },
+  "Sucre 2359, V. de Mayo": {
+    "lat": -34.5025269,
+    "lng": -58.6811005
+  },
+  "Rivadavia 2687, Polvorines": {
+    "lat": -34.5009858,
+    "lng": -58.6932525
+  },
+  "Arquímedes y Luján, V. de Mayo": {
+    "lat": -34.5120653,
+    "lng": -58.667136
+  },
+  "Av. Pdte. Perón 43, V. de Mayo": {
+    "lat": -34.5181009,
+    "lng": -58.6718376
+  },
+  "Pdte. Perón 3387, Polvorines": {
+    "lat": -34.4997881,
+    "lng": -58.6938857
+  },
+  "Arturo Illia 5254, Polvorines": {
+    "lat": -34.5207235,
+    "lng": -58.7173806
+  },
+  "Juan Palliere 3204, Polvorines": {
+    "lat": -34.509994,
+    "lng": -58.7042954
+  },
+  "Baroni 1859, Polvorines": {
+    "lat": -34.5048126,
+    "lng": -58.7050607
+  },
+  "Sucre 1635, V. de Mayo": {
+    "lat": -34.5059176,
+    "lng": -58.6773363
+  },
+  "Pdte. Perón y Wilson, Polvorines": {
+    "lat": -34.512295,
+    "lng": -58.6943436
+  },
+  "San Martín 2580, Polvorines": {
+    "lat": -34.5003664,
+    "lng": -58.6960774
+  },
+  "Pdte. Perón 3030, Polvorines": {
+    "lat": -34.5309988,
+    "lng": -58.7270642
+  },
+  "S. Martín y Amenábar, V. de Mayo": {
+    "lat": -33.8384721,
+    "lng": -59.5294465
+  },
+  "Rivadavia 2017, Polvorines": {
+    "lat": -34.5068557,
+    "lng": -58.7002914
+  },
+  "Rosario 4605, A. Sourdeaux": {
+    "lat": -34.5022335,
+    "lng": -58.667105
+  },
+  "Av. Eva Perón 5068, V. de Mayo": {
+    "lat": -34.4938797,
+    "lng": -58.6710376
+  },
+  "L. Suárez 2939, Polvorines": {
+    "lat": -34.5142289,
+    "lng": -58.7074235
+  },
+  "Ing. Huergo 3595, Polvorines": {
+    "lat": -34.4973638,
+    "lng": -58.6937587
+  },
+  "Derqui y Peña, A. Sourdeaux": {
+    "lat": -34.5005986,
+    "lng": -58.6613088
+  },
+  "San Martín 2887, Polvorines": {
+    "lat": -34.4922074,
+    "lng": -58.6824617
+  },
+  "Miraflores 4799, Ing. Pablo Nogués": {
+    "lat": -34.4905678,
+    "lng": -58.7134759
+  },
+  "Coronel Bogado 1626, Grand Bourg": {
+    "lat": -34.4843393,
+    "lng": -58.7261149
+  },
+  "Cura Brochero 1669, Grand Bourg": {
+    "lat": -34.4900986,
+    "lng": -58.7377993
+  },
+  "El Callao 24, Grand Bourg": {
+    "lat": -34.5018857,
+    "lng": -58.7142459
+  },
+  "R.197 663, Grand Bourg": {
+    "lat": -34.5066322,
+    "lng": -58.7234117
+  },
+  "Av. Grand Bourg 1098, Grand Bourg": {
+    "lat": -34.4903301,
+    "lng": -58.7268928
+  },
+  "Av. Grand Bourg 1301, Grand Bourg": {
+    "lat": -34.4956885,
+    "lng": -58.7211597
+  },
+  "El Callao 636, Grand Bourg": {
+    "lat": -34.4949118,
+    "lng": -58.7196035
+  },
+  "Pasco 612, Grand Bourg": {
+    "lat": -34.4986916,
+    "lng": -58.7303427
+  },
+  "Ejército de los Andes 2224, Ing. Pablo Nogués": {
+    "lat": -34.4934484,
+    "lng": -58.7052082
+  },
+  "Av. Hudson 1002, Zeballos": {
+    "lat": -34.81769957635963,
+    "lng": -58.25447468421961
+  },
+  "Mitre 498, Centro": {
+    "lat": -34.808705075881214,
+    "lng": -58.272282484219765
+  },
+  "Senzabello y Paso de los Libres, Gdor. Monteverde": {
+    "lat": -34.79575277519215,
+    "lng": -58.27508158422016
+  },
+  "Av. San Martin 1601, Centro": {
+    "lat": -34.79386477509193,
+    "lng": -58.2814657842202
+  },
+  "Calle 14 Nº 905, San Eduardo": {
+    "lat": -34.78412157457383,
+    "lng": -58.28709168422049
+  },
+  "Av. Eva Perón 4059, Villa Susana": {
+    "lat": -34.81736557634175,
+    "lng": -58.27958488421971
+  },
+  "Av. Eva Perón 9843, San Francisco": {
+    "lat": -34.873789697211876,
+    "lng": -58.276509022684316
+  },
+  "Francisco Seguí 4073, Tortuguitas": {
+    "lat": -34.4706089,
+    "lng": -58.7577378
+  },
+  "Directorio 507, Tortuguitas": {
+    "lat": -34.4595447,
+    "lng": -58.73669
   }
 }
