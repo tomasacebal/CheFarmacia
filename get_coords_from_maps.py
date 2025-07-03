@@ -32,6 +32,7 @@ def crear_driver():
     chrome_options.add_argument("--disable-webgl")
     chrome_options.add_argument("--disable-3d-apis")
 
+    print(binary_path)
     service = Service(executable_path=binary_path)
     return webdriver.Chrome(service=service, options=chrome_options)
 
@@ -39,29 +40,37 @@ import re
 
 def extraer_coordenadas_desde_url(url):
     try:
-        # Patrón 1: /@LAT,LNG
-        if "/@" in url:
-            at_index = url.find("/@")
-            partes = url[at_index + 2:].split(",")
-            lat = float(partes[0])
-            lng = float(partes[1])
+        # Patrón prioritario: !3dLAT!4dLNG → coordenadas reales del lugar
+        match_real_coords = re.search(r"!3d(-?\d+\.\d+)!4d(-?\d+\.\d+)", url)
+        if match_real_coords:
+            lat = float(match_real_coords.group(1))
+            lng = float(match_real_coords.group(2))
             return {"lat": lat, "lng": lng}
 
-        # Patrón 2: destination=LAT,LNG
-        match_dest = re.search(r"[?&]destination=(-?\d+\.\d+),(-?\d+\.\d+)", url)
-        if match_dest:
-            lat = float(match_dest.group(1))
-            lng = float(match_dest.group(2))
-            return {"lat": lat, "lng": lng}
-
-        # Patrón 3: embed con !2dLNG!3dLAT
+        # Patrón embed: !2dLNG!3dLAT
         match_embed = re.search(r"!2d(-?\d+\.\d+)!3d(-?\d+\.\d+)", url)
         if match_embed:
             lng = float(match_embed.group(1))
             lat = float(match_embed.group(2))
             return {"lat": lat, "lng": lng}
 
-        # Patrón 4: cualquier LAT,LNG suelto (último recurso)
+        # Patrón en parámetros: destination=LAT,LNG
+        match_dest = re.search(r"[?&]destination=(-?\d+\.\d+),(-?\d+\.\d+)", url)
+        if match_dest:
+            lat = float(match_dest.group(1))
+            lng = float(match_dest.group(2))
+            return {"lat": lat, "lng": lng}
+
+        # Patrón visual del mapa: /@LAT,LNG,...
+        if "/@" in url:
+            at_index = url.find("/@")
+            partes = url[at_index + 2:].split(",")
+            if len(partes) >= 2:
+                lat = float(partes[0])
+                lng = float(partes[1])
+                return {"lat": lat, "lng": lng}
+
+        # Fallback: cualquier lat/lng suelto, por ejemplo -34.x, -58.x o -34.x, -60.x
         match_fallback = re.search(r"(-3\d+\.\d+),(-5\d+\.\d+)", url)
         if match_fallback:
             lat = float(match_fallback.group(1))
@@ -78,6 +87,7 @@ def extraer_coordenadas_desde_url(url):
     except Exception as e:
         print(f"[ERROR] No se pudo extraer coordenadas: {e}")
         return None
+
 
 
 
