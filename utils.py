@@ -5,6 +5,7 @@ import requests
 import datetime
 import re
 import urllib.parse
+import datetime as d
 
 from get_coords_from_maps import consultar_coordenadas  # función que busca coordenadas con cache
 
@@ -77,7 +78,22 @@ def generar_link_mapa(direccion):
 
 def format_data_for_json(farmacias):
     data = {}
-    mes = 'junio'  # Podrías hacerlo dinámico con datetime.now().strftime("%B").lower()
+
+    meses = {
+    'january': 'enero',
+    'february': 'febrero',
+    'march': 'marzo',
+    'april': 'abril',
+    'may': 'mayo',
+    'june': 'junio',
+    'july': 'julio',
+    'august': 'agosto',
+    'september': 'septiembre',
+    'october': 'octubre',
+    'november': 'noviembre',
+    'diciembre': 'diciembre'
+    }
+    mes = meses[d.datetime.now().strftime("%B").lower()]  # Podrías hacerlo dinámico con datetime.now().strftime("%B").lower()
 
     for f in farmacias:
         localidad = f["localidad"]

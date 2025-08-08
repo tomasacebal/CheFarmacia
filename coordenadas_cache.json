@@ -652,8 +652,8 @@
     "lng": -58.7097664
   },
   "Colombia 531 esq. Panamá, Merlo": {
-    "lat": -34.5061803,
-    "lng": -58.5203712
+    "lat": -34.6984021,
+    "lng": -58.6875467
   },
   "Av. Calle Real 2205 esq. Iturri (Ex Vergara), Merlo": {
     "lat": -34.6758995,
@@ -1882,5 +1882,517 @@
   "Pueyrredón 417, V. Vatteone": {
     "lat": -34.81477557620396,
     "lng": -58.27329668421979
+  },
+  "Av. Sta Fe 1402, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4847712,
+    "lng": -58.5030603
+  },
+  "Av. Fondo de la Legua 872, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4994177,
+    "lng": -58.5421354
+  },
+  "Italia 1526, B1640GPE Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4872599,
+    "lng": -58.5054635
+  },
+  "Av. Andrés Rolón 1799, B1643 Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.468879,
+    "lng": -58.5411237
+  },
+  "Av. del Libertador 13982, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4828811,
+    "lng": -58.4904546
+  },
+  "Av. del Libertador 18300, B1643GYO Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4524892,
+    "lng": -58.5276192
+  },
+  "Av Alexander Fleming 801": {
+    "lat": -34.4900443,
+    "lng": -58.5247402
+  },
+  "Av. del Libertador 14995, B1641 San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4763985,
+    "lng": -58.4984288
+  },
+  "Cuyo 671, B1641CQM Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4879475,
+    "lng": -58.5118505
+  },
+  "Av. Andrés Rolón 716, B1642BIU San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4751419,
+    "lng": -58.5306589
+  },
+  "Av. Sta Fe 2791, B1640 Martínez, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4970727,
+    "lng": -58.4980808
+  },
+  "Aráoz & General Lamadrid, B1607 Villa Adelina, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5074668,
+    "lng": -58.5468324
+  },
+  "Int. Tomkinson 2995, B1643 Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4805708,
+    "lng": -58.5545495
+  },
+  "Pedro de Mendoza 635, B1642CRM San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4649806,
+    "lng": -58.5082537
+  },
+  "Av. Hipólito Yrigoyen 2598, B1646CGX San Fernando, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4493682,
+    "lng": -58.5667614
+  },
+  "Av. de Mayo 900, B1607DCV Gran Buenos Aires, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6090116,
+    "lng": -58.3791159
+  },
+  "Rosario 1711, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.495895,
+    "lng": -58.5767702
+  },
+  "Coronel Francisco Uzal 4300, B1636 Olivos, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5062179,
+    "lng": -58.5160067
+  },
+  "Thames 1400, B1609 Villa Adelina, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5070781,
+    "lng": -58.5526931
+  },
+  "J. Ingenieros 3417, B1636EQM Olivos, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5120262,
+    "lng": -58.5134055
+  },
+  "Sarratea 955, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5091159,
+    "lng": -58.5779757
+  },
+  "Avenida Sucre, Av. Sucre, Béccar, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4845085,
+    "lng": -58.5560537
+  },
+  "Sarratea 366, B1655 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5145748,
+    "lng": -58.5722485
+  },
+  "Thames 1001, B1607 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.504784,
+    "lng": -58.550088
+  },
+  "Blanco Encalada 88, B1609EEN San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.493668,
+    "lng": -58.552231
+  },
+  "Av. Avelino Rolón 730, B1609HTU San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4984041,
+    "lng": -58.5560884
+  },
+  "Av. de Mayo 241, B1607 Villa Adelina, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5109736,
+    "lng": -58.540682
+  },
+  "Av. Bernardo Ader 845, B1607 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5198474,
+    "lng": -58.5595398
+  },
+  "Avenida Avelino Rolón, Av. Avelino Rolón, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5062618,
+    "lng": -58.5640059
+  },
+  "Av. Avelino Rolón 177, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4949487,
+    "lng": -58.5523105
+  },
+  "Av. Avelino Rolón 1820, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5065555,
+    "lng": -58.5640591
+  },
+  "Sure Mer, Bernardo de Irigoyen 601, B1609BFI San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5041176,
+    "lng": -58.572809
+  },
+  "Av. del Trabajo & Italia, Don Torcuato": {
+    "lat": -34.503892,
+    "lng": -58.619843
+  },
+  "Alfredo Palacios & Federico Ozanam, Los Troncos del Talar": {
+    "lat": -34.449782,
+    "lng": -58.608707
+  },
+  "Av. Constiuyentes 1010, Gral. Pacheco": {
+    "lat": -34.45366,
+    "lng": -58.642524
+  },
+  "Av. Hipólito Yrigoyen 1914, El Talar": {
+    "lat": -34.468486,
+    "lng": -58.649263
+  },
+  "Av. Juan Domingo Perón 4255, Benavidez": {
+    "lat": -34.4297839,
+    "lng": -58.689245
+  },
+  "51 nro 451 esq. 4": {
+    "lat": -34.9134505,
+    "lng": -57.9468093
+  },
+  "7 nro 2010 e/ 73 y 74": {
+    "lat": -34.932462,
+    "lng": -57.92582
+  },
+  "Diag 79 esq 64 nro 202": {
+    "lat": -34.91506,
+    "lng": -57.92714
+  },
+  "10 e/ 520 y 521 nro 1129": {
+    "lat": -34.8931868,
+    "lng": -57.9856636
+  },
+  "7 nro 2917": {
+    "lat": -34.945584,
+    "lng": -57.9094641
+  },
+  "122 nro  2151 esq 76": {
+    "lat": -34.92056,
+    "lng": -57.90927
+  },
+  "32 E/11 Y 12 NRO 814": {
+    "lat": -34.90463,
+    "lng": -57.97319
+  },
+  "7 e/61 y 62 nro 1441": {
+    "lat": -34.922461,
+    "lng": -57.939752
+  },
+  "44 ESQ. 28 NRO 1652": {
+    "lat": -34.9305446,
+    "lng": -57.9767926
+  },
+  "56 nº 865": {
+    "lat": -34.9231225,
+    "lng": -57.9514875
+  },
+  "38 NRO 1251 ESQ. 20": {
+    "lat": -34.9178542,
+    "lng": -57.9753998
+  },
+  "44 ESQ. 15": {
+    "lat": -34.91807,
+    "lng": -57.96331
+  },
+  "51 esq 20": {
+    "lat": -34.9275937,
+    "lng": -57.9624832
+  },
+  "17 esq 63 nro 1501": {
+    "lat": -34.93296,
+    "lng": -57.94841
+  },
+  "38 e/ 120 y 121 nro 94": {
+    "lat": -34.89311,
+    "lng": -57.94863
+  },
+  "63 ESQ. 30 NRO 1747": {
+    "lat": -34.94479,
+    "lng": -57.96174
+  },
+  "44 Nº 6140 E/ 217 y 218": {
+    "lat": -35.01398,
+    "lng": -58.06835
+  },
+  "80 ESQ 13 Nro 898": {
+    "lat": -34.8946415,
+    "lng": -58.0088124
+  },
+  "25 e/511bis y 512bis": {
+    "lat": -34.9002227,
+    "lng": -58.0104696
+  },
+  "Cno Gral Belgrano nro 635 e/ 466 y 467 City Bell": {
+    "lat": -34.8804223,
+    "lng": -58.0603099
+  },
+  "422 Bis e/3 y 4 nro 154": {
+    "lat": -34.8528848,
+    "lng": -58.0724329
+  },
+  "Av. Eva Peron 1373 (Libertad Centro), Merlo": {
+    "lat": -34.6897458,
+    "lng": -58.6888665
+  },
+  "Colombia 531 Esq. Panamá, Merlo": {
+    "lat": -34.672556,
+    "lng": -58.7372241
+  },
+  "Esteban Echeverria 702-706, Merlo": {
+    "lat": -34.6696474,
+    "lng": -58.6909767
+  },
+  "Rivadavia 1102, Zarate": {
+    "lat": -34.0972831,
+    "lng": -59.0278001
+  },
+  "H. Yrigoyen 500, Zarate": {
+    "lat": -34.1005287,
+    "lng": -59.0173169
+  },
+  "19 de Marzo 441, Zarate": {
+    "lat": -34.0986495,
+    "lng": -59.0215737
+  },
+  "Independencia 899, Zarate": {
+    "lat": -34.098283,
+    "lng": -59.0241409
+  },
+  "Justa Lima 1877, Zarate": {
+    "lat": -34.1098929,
+    "lng": -59.0141491
+  },
+  "Sarmiento 540, Zarate": {
+    "lat": -34.0933749,
+    "lng": -59.032064
+  },
+  "Justa Lima 170, Zarate": {
+    "lat": -34.0969403,
+    "lng": -59.0239422
+  },
+  "Calle 20 Nº 564, Zarate": {
+    "lat": -34.099288,
+    "lng": -59.0479699
+  },
+  "Rivadavia 1446, Zarate": {
+    "lat": -34.0989341,
+    "lng": -59.0308875
+  },
+  "Pellegrini 1794, Zarate": {
+    "lat": -34.1083536,
+    "lng": -59.02812
+  },
+  "Av. Antartida 2001, Zarate": {
+    "lat": -34.1004518,
+    "lng": -59.0376671
+  },
+  "De La Torre 1501, Zarate": {
+    "lat": -34.0958137,
+    "lng": -59.0339691
+  },
+  "Gral. Pinto 1201, Zarate": {
+    "lat": -34.1029359,
+    "lng": -59.0247588
+  },
+  "Félix Pagola 1487, Zarate": {
+    "lat": -34.0839268,
+    "lng": -59.0337082
+  },
+  "Av. Gallesio 416, Zarate": {
+    "lat": -34.1036144,
+    "lng": -59.0317122
+  },
+  "Pellegrini 1054, Zarate": {
+    "lat": -34.1046909,
+    "lng": -59.0212573
+  },
+  "San Marcos N° 1002, esq. Monseñor Miguel de Andrea": {
+    "lat": -34.74168744,
+    "lng": -58.32612365
+  },
+  "Av. 12 de Octubre N° 657, entre Andres Baranda y Manuel Quintana": {
+    "lat": -34.73012418,
+    "lng": -58.2650283
+  },
+  "Av. Calchaqui N° 3950 local 1012": {
+    "lat": -34.75876706,
+    "lng": -58.27562571
+  },
+  "Av. Cerrito N° 489, esq. Yapeyú": {
+    "lat": -34.71054715,
+    "lng": -58.29245925
+  },
+  "7A e/Mitre y 149": {
+    "lat": -34.7543158,
+    "lng": -58.2124162
+  },
+  "21 y 131A": {
+    "lat": -34.7776659,
+    "lng": -58.2217403
+  },
+  "Av. Kirchner (ex Mitre) 3045": {
+    "lat": -34.772643,
+    "lng": -58.1889706
+  },
+  "14 e/116 y 117": {
+    "lat": -34.7788367,
+    "lng": -58.2414726
+  },
+  "Av.Agote (ex Oeste) 1924 e/ 361 y 362": {
+    "lat": -34.7900671,
+    "lng": -58.2044082
+  },
+  "134 y 51B Bo.Marítimo": {
+    "lat": -34.8046759,
+    "lng": -58.1852764
+  },
+  "Av. Perón 897, V. de Mayo": {
+    "lat": -34.5131006,
+    "lng": -58.6776077
+  },
+  "Ruta 197 2078, Polvorines": {
+    "lat": -34.4791983,
+    "lng": -58.6745211
+  },
+  "J.M. Gutiérrez 981, Polvorines": {
+    "lat": -34.5225932,
+    "lng": -58.7024448
+  },
+  "Ruta 8 y 197, Polvorines": {
+    "lat": -34.509446,
+    "lng": -58.728141
+  },
+  "Sucre 2359, V. de Mayo": {
+    "lat": -34.5025269,
+    "lng": -58.6811005
+  },
+  "Rivadavia 2687, Polvorines": {
+    "lat": -34.5009858,
+    "lng": -58.6932525
+  },
+  "Arquímedes y Luján, V. de Mayo": {
+    "lat": -34.5120653,
+    "lng": -58.667136
+  },
+  "Av. Pdte. Perón 43, V. de Mayo": {
+    "lat": -34.5181009,
+    "lng": -58.6718376
+  },
+  "Pdte. Perón 3387, Polvorines": {
+    "lat": -34.4997881,
+    "lng": -58.6938857
+  },
+  "Arturo Illia 5254, Polvorines": {
+    "lat": -34.5207235,
+    "lng": -58.7173806
+  },
+  "Juan Palliere 3204, Polvorines": {
+    "lat": -34.509994,
+    "lng": -58.7042954
+  },
+  "Baroni 1859, Polvorines": {
+    "lat": -34.5048126,
+    "lng": -58.7050607
+  },
+  "Sucre 1635, V. de Mayo": {
+    "lat": -34.5059176,
+    "lng": -58.6773363
+  },
+  "Pdte. Perón y Wilson, Polvorines": {
+    "lat": -34.5085981,
+    "lng": -58.6973388
+  },
+  "San Martín 2580, Polvorines": {
+    "lat": -34.5003664,
+    "lng": -58.6960774
+  },
+  "Pdte. Perón 3030, Polvorines": {
+    "lat": -34.4520096,
+    "lng": -58.5398537
+  },
+  "S. Martín y Amenábar, V. de Mayo": {
+    "lat": -33.8384721,
+    "lng": -59.5294465
+  },
+  "Rivadavia 2017, Polvorines": {
+    "lat": -34.5068557,
+    "lng": -58.7002914
+  },
+  "Rosario 4605, A. Sourdeaux": {
+    "lat": -34.5022335,
+    "lng": -58.667105
+  },
+  "Av. Eva Perón 5068, V. de Mayo": {
+    "lat": -34.654435,
+    "lng": -58.592105
+  },
+  "L. Suárez 2939, Polvorines": {
+    "lat": -34.5142289,
+    "lng": -58.7074235
+  },
+  "Ing. Huergo 3595, Polvorines": {
+    "lat": -34.4973638,
+    "lng": -58.6937587
+  },
+  "Derqui y Peña, A. Sourdeaux": {
+    "lat": -34.5005986,
+    "lng": -58.6613088
+  },
+  "San Martín 2887, Polvorines": {
+    "lat": -34.5116091,
+    "lng": -58.7107808
+  },
+  "Miraflores 4799, Ing. Pablo Nogués": {
+    "lat": -34.4905678,
+    "lng": -58.7134759
+  },
+  "Coronel Bogado 1626, Grand Bourg": {
+    "lat": -34.4843393,
+    "lng": -58.7261149
+  },
+  "Cura Brochero 1669, Grand Bourg": {
+    "lat": -34.4900986,
+    "lng": -58.7377993
+  },
+  "El Callao 24, Grand Bourg": {
+    "lat": -34.5018857,
+    "lng": -58.7142459
+  },
+  "R.197 663, Grand Bourg": {
+    "lat": -34.5066322,
+    "lng": -58.7234117
+  },
+  "Av. Grand Bourg 1098, Grand Bourg": {
+    "lat": -34.4903301,
+    "lng": -58.7268928
+  },
+  "Av. Grand Bourg 1301, Grand Bourg": {
+    "lat": -34.4956885,
+    "lng": -58.7211597
+  },
+  "El Callao 636, Grand Bourg": {
+    "lat": -34.4949118,
+    "lng": -58.7196035
+  },
+  "Pasco 612, Grand Bourg": {
+    "lat": -34.4986916,
+    "lng": -58.7303427
+  },
+  "Ejército de los Andes 2224, Ing. Pablo Nogués": {
+    "lat": -34.4934484,
+    "lng": -58.7052082
+  },
+  "Francisco Seguí 4073, Tortuguitas": {
+    "lat": -34.4706089,
+    "lng": -58.7577378
+  },
+  "Directorio 507, Tortuguitas": {
+    "lat": -34.4595447,
+    "lng": -58.73669
+  },
+  "Rodó 3.95 esq. Sallarés, Centro": {
+    "lat": -34.80722167580226,
+    "lng": -58.270638484219965
+  },
+  "Av. Eva Perón 5789 esq. Roma, Santa Rosa": {
+    "lat": -34.83514457728799,
+    "lng": -58.280086684219164
+  },
+  "Calle 1148 Nº 2440, Ing. Allan": {
+    "lat": -34.872091579255496,
+    "lng": -58.19510668421828
+  },
+  "Ameghino 3504, Villa Del Plata": {
+    "lat": -34.79974327540451,
+    "lng": -58.25894558422007
+  },
+  "El Zonda 1609, Estación Km. 26,700": {
+    "lat": -34.80753257581878,
+    "lng": -58.304595984219965
   }
 }
