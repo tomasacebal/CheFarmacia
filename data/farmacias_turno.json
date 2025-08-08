@@ -2475,10 +2475,10 @@
             "nombre": "Chavez",
             "direccion": "Colombia 531 esq. Panamá, Merlo",
             "telefono": "",
-            "mapa": "https://www.google.com/maps/place/Colombia+531,+B1716KIK+Libertad,+Provincia+de+Buenos+Aires/@-34.6984021,-58.6884214,18.25z/data=!4m6!3m5!1s0x95bcc0f91248ef15:0x1f2cfd6e56550421!8m2!3d-34.698262!4d-58.6875467!16s%2Fg%2F11hy_8ddqq?entry=ttu&g_ep=EgoyMDI1MDgwNS4wIKXMDSoASAFQAw%3D%3D",
+            "mapa": "https://www.google.com/maps/search/Colombia%20531%20esq.%20Panam%C3%A1%2C%20Merlo",
             "coordenadas": {
-              "lat": -34.5061803,
-              "lng": -58.5203712
+              "lat": -34.6984021,
+              "lng": -58.6875467
             }
           },
           {
