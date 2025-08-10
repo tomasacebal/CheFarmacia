@@ -10745,6 +10745,1610 @@
           }
         ]
       }
+    },
+    "Los Polvorines - V. de Mayo - A. Sourdeaux": {
+      "fuente": "https://www.malvinasargentinas.gob.ar/farmaciasturno",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "DIETRICH",
+            "direccion": "Ruta 8 y 197, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320423258",
+            "mapa": "https://www.google.com/maps/search/Ruta+8+y+197,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.509446,
+              "lng": -58.728141
+            }
+          },
+          {
+            "nombre": "ALVAREZ U. DE MAYO",
+            "direccion": "Sucre 2359, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600418",
+            "mapa": "https://www.google.com/maps/search/Sucre+2359,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5025269,
+              "lng": -58.6811005
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "RIVADAVIA",
+            "direccion": "Rivadavia 2687/09, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46630292",
+            "mapa": "https://www.google.com/maps/search/Rivadavia+2687%2F09,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5093884,
+              "lng": -58.7032515
+            }
+          },
+          {
+            "nombre": "INJARRA",
+            "direccion": "Arquimedes y Lujan, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46607405",
+            "mapa": "https://www.google.com/maps/search/Arquimedes+y+Lujan,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5120653,
+              "lng": -58.667136
+            }
+          },
+          {
+            "nombre": "L.A.L. V. DE MAYO",
+            "direccion": "Av. Pdte. Perón 43, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "1162980279",
+            "mapa": "https://www.google.com/maps/search/Av.+Pdte.+Perón+43,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5181009,
+              "lng": -58.6718376
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "OCAMPO",
+            "direccion": "Pdte. Perón 3387, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46604575",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+3387,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5145254,
+              "lng": -58.7120745
+            }
+          },
+          {
+            "nombre": "J.R.",
+            "direccion": "Arturo Illia 5254, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44518500",
+            "mapa": "https://www.google.com/maps/search/Arturo+Illia+5254,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5207235,
+              "lng": -58.7173806
+            }
+          },
+          {
+            "nombre": "L.A.L. RIVADAVIA",
+            "direccion": "Juan Pallere 3204/06, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Juan+Pallere+3204%2F06,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4972598,
+              "lng": -58.7009538
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "EMERIC SCS",
+            "direccion": "Baroni 1659, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46636212",
+            "mapa": "https://www.google.com/maps/search/Baroni+1659,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5063678,
+              "lng": -58.7073416
+            }
+          },
+          {
+            "nombre": "CONTI",
+            "direccion": "Sucre 1635, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44637479",
+            "mapa": "https://www.google.com/maps/search/Sucre+1635,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5059176,
+              "lng": -58.6773363
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "DEL CÍRCULO",
+            "direccion": "Pdte. Perón y Wilson, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46605111",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+y+Wilson,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5085981,
+              "lng": -58.6973388
+            }
+          },
+          {
+            "nombre": "DEL ÁGUILA",
+            "direccion": "San Martín 2580, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600303",
+            "mapa": "https://www.google.com/maps/search/San+Martín+2580,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5003664,
+              "lng": -58.6960774
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "BUFFARINI",
+            "direccion": "Pdte. Perón 3030, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46607743",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+3030,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5163253,
+              "lng": -58.7088654
+            }
+          },
+          {
+            "nombre": "SAN MARTÍN",
+            "direccion": "S. Martín y Amenabar, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600002",
+            "mapa": "https://www.google.com/maps/search/S.+Martín+y+Amenabar,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4936336,
+              "lng": -58.6788666
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "BOTICA",
+            "direccion": "Rivadavia 2017, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600798",
+            "mapa": "https://www.google.com/maps/search/Rivadavia+2017,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5068557,
+              "lng": -58.7002914
+            }
+          },
+          {
+            "nombre": "ALVAREZ",
+            "direccion": "Rosario 4605, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "47481666",
+            "mapa": "https://www.google.com/maps/search/Rosario+4605,+Adolfo+Sourdeaux,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5022335,
+              "lng": -58.667105
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "MEDINA",
+            "direccion": "Av. Eva Perón 5068, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46636754",
+            "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+5068,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4938797,
+              "lng": -58.6710376
+            }
+          },
+          {
+            "nombre": "SAOS",
+            "direccion": "L. Suárez 2939, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46632742",
+            "mapa": "https://www.google.com/maps/search/L.+Suárez+2939,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5142289,
+              "lng": -58.7074235
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "BORRINO",
+            "direccion": "Ing. Huergo 3595, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46604301",
+            "mapa": "https://www.google.com/maps/search/Ing.+Huergo+3595,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4973638,
+              "lng": -58.6937587
+            }
+          },
+          {
+            "nombre": "DEL SOL",
+            "direccion": "Derqui y Peña, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "1122982748",
+            "mapa": "https://www.google.com/maps/search/Derqui+y+Peña,+Adolfo+Sourdeaux,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5049135,
+              "lng": -58.6671679
+            }
+          },
+          {
+            "nombre": "BAIER",
+            "direccion": "San Martín 2887, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martín+2887,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4984694,
+              "lng": -58.6940876
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "EBERBACH",
+            "direccion": "Av. Perón 697, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44636175",
+            "mapa": "https://www.google.com/maps/search/Av.+Perón+697,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5145623,
+              "lng": -58.6757498
+            }
+          },
+          {
+            "nombre": "PANAMERICANPHARMA",
+            "direccion": "R. 197 N° 2078, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320437172",
+            "mapa": "https://www.google.com/maps/search/R.+197+N°+2078,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5054848,
+              "lng": -58.7206365
+            }
+          },
+          {
+            "nombre": "LSM PHARMA SCS",
+            "direccion": "J.M.Gutiérrez 981, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/J.M.Gutiérrez+981,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5225932,
+              "lng": -58.7024448
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "DIETRICH",
+            "direccion": "Ruta 8 y 197, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320423258",
+            "mapa": "https://www.google.com/maps/search/Ruta+8+y+197,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.509446,
+              "lng": -58.728141
+            }
+          },
+          {
+            "nombre": "ALVAREZ U. DE MAYO",
+            "direccion": "Sucre 2359, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600418",
+            "mapa": "https://www.google.com/maps/search/Sucre+2359,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5025269,
+              "lng": -58.6811005
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "RIVADAVIA",
+            "direccion": "Rivadavia 2687/09, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46630292",
+            "mapa": "https://www.google.com/maps/search/Rivadavia+2687%2F09,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5093884,
+              "lng": -58.7032515
+            }
+          },
+          {
+            "nombre": "INJARRA",
+            "direccion": "Arquimedes y Lujan, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46607405",
+            "mapa": "https://www.google.com/maps/search/Arquimedes+y+Lujan,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5120653,
+              "lng": -58.667136
+            }
+          },
+          {
+            "nombre": "L.A.L. V. DE MAYO",
+            "direccion": "Av. Pdte. Perón 43, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "1162980279",
+            "mapa": "https://www.google.com/maps/search/Av.+Pdte.+Perón+43,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5181009,
+              "lng": -58.6718376
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "OCAMPO",
+            "direccion": "Pdte. Perón 3387, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46604575",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+3387,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5145254,
+              "lng": -58.7120745
+            }
+          },
+          {
+            "nombre": "J.R.",
+            "direccion": "Arturo Illia 5254, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44518500",
+            "mapa": "https://www.google.com/maps/search/Arturo+Illia+5254,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5207235,
+              "lng": -58.7173806
+            }
+          },
+          {
+            "nombre": "L.A.L. RIVADAVIA",
+            "direccion": "Juan Pallere 3204/06, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Juan+Pallere+3204%2F06,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4972598,
+              "lng": -58.7009538
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "EMERIC SCS",
+            "direccion": "Baroni 1659, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46636212",
+            "mapa": "https://www.google.com/maps/search/Baroni+1659,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5063678,
+              "lng": -58.7073416
+            }
+          },
+          {
+            "nombre": "CONTI",
+            "direccion": "Sucre 1635, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44637479",
+            "mapa": "https://www.google.com/maps/search/Sucre+1635,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5059176,
+              "lng": -58.6773363
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "DEL CÍRCULO",
+            "direccion": "Pdte. Perón y Wilson, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46605111",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+y+Wilson,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5085981,
+              "lng": -58.6973388
+            }
+          },
+          {
+            "nombre": "DEL ÁGUILA",
+            "direccion": "San Martín 2580, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600303",
+            "mapa": "https://www.google.com/maps/search/San+Martín+2580,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5003664,
+              "lng": -58.6960774
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "BUFFARINI",
+            "direccion": "Pdte. Perón 3030, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46607743",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+3030,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5163253,
+              "lng": -58.7088654
+            }
+          },
+          {
+            "nombre": "SAN MARTÍN",
+            "direccion": "S. Martín y Amenabar, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600002",
+            "mapa": "https://www.google.com/maps/search/S.+Martín+y+Amenabar,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4936336,
+              "lng": -58.6788666
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "BOTICA",
+            "direccion": "Rivadavia 2017, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600798",
+            "mapa": "https://www.google.com/maps/search/Rivadavia+2017,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5068557,
+              "lng": -58.7002914
+            }
+          },
+          {
+            "nombre": "ALVAREZ",
+            "direccion": "Rosario 4605, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "47481666",
+            "mapa": "https://www.google.com/maps/search/Rosario+4605,+Adolfo+Sourdeaux,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5022335,
+              "lng": -58.667105
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "MEDINA",
+            "direccion": "Av. Eva Perón 5068, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46636754",
+            "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+5068,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4938797,
+              "lng": -58.6710376
+            }
+          },
+          {
+            "nombre": "SAOS",
+            "direccion": "L. Suárez 2939, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46632742",
+            "mapa": "https://www.google.com/maps/search/L.+Suárez+2939,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5142289,
+              "lng": -58.7074235
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "BORRINO",
+            "direccion": "Ing. Huergo 3595, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46604301",
+            "mapa": "https://www.google.com/maps/search/Ing.+Huergo+3595,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4973638,
+              "lng": -58.6937587
+            }
+          },
+          {
+            "nombre": "DEL SOL",
+            "direccion": "Derqui y Peña, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "1122982748",
+            "mapa": "https://www.google.com/maps/search/Derqui+y+Peña,+Adolfo+Sourdeaux,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5049135,
+              "lng": -58.6671679
+            }
+          },
+          {
+            "nombre": "BAIER",
+            "direccion": "San Martín 2887, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martín+2887,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4984694,
+              "lng": -58.6940876
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "EBERBACH",
+            "direccion": "Av. Perón 697, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44636175",
+            "mapa": "https://www.google.com/maps/search/Av.+Perón+697,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5145623,
+              "lng": -58.6757498
+            }
+          },
+          {
+            "nombre": "PANAMERICANPHARMA",
+            "direccion": "R. 197 N° 2078, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320437172",
+            "mapa": "https://www.google.com/maps/search/R.+197+N°+2078,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5054848,
+              "lng": -58.7206365
+            }
+          },
+          {
+            "nombre": "LSM PHARMA SCS",
+            "direccion": "J.M.Gutiérrez 981, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/J.M.Gutiérrez+981,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5225932,
+              "lng": -58.7024448
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "DIETRICH",
+            "direccion": "Ruta 8 y 197, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320423258",
+            "mapa": "https://www.google.com/maps/search/Ruta+8+y+197,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.509446,
+              "lng": -58.728141
+            }
+          },
+          {
+            "nombre": "ALVAREZ U. DE MAYO",
+            "direccion": "Sucre 2359, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600418",
+            "mapa": "https://www.google.com/maps/search/Sucre+2359,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5025269,
+              "lng": -58.6811005
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "RIVADAVIA",
+            "direccion": "Rivadavia 2687/09, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46630292",
+            "mapa": "https://www.google.com/maps/search/Rivadavia+2687%2F09,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5093884,
+              "lng": -58.7032515
+            }
+          },
+          {
+            "nombre": "INJARRA",
+            "direccion": "Arquimedes y Lujan, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46607405",
+            "mapa": "https://www.google.com/maps/search/Arquimedes+y+Lujan,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5120653,
+              "lng": -58.667136
+            }
+          },
+          {
+            "nombre": "L.A.L. V. DE MAYO",
+            "direccion": "Av. Pdte. Perón 43, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "1162980279",
+            "mapa": "https://www.google.com/maps/search/Av.+Pdte.+Perón+43,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5181009,
+              "lng": -58.6718376
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "OCAMPO",
+            "direccion": "Pdte. Perón 3387, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46604575",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+3387,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5145254,
+              "lng": -58.7120745
+            }
+          },
+          {
+            "nombre": "J.R.",
+            "direccion": "Arturo Illia 5254, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44518500",
+            "mapa": "https://www.google.com/maps/search/Arturo+Illia+5254,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5207235,
+              "lng": -58.7173806
+            }
+          },
+          {
+            "nombre": "L.A.L. RIVADAVIA",
+            "direccion": "Juan Pallere 3204/06, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Juan+Pallere+3204%2F06,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4972598,
+              "lng": -58.7009538
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "EMERIC SCS",
+            "direccion": "Baroni 1659, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46636212",
+            "mapa": "https://www.google.com/maps/search/Baroni+1659,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5063678,
+              "lng": -58.7073416
+            }
+          },
+          {
+            "nombre": "CONTI",
+            "direccion": "Sucre 1635, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44637479",
+            "mapa": "https://www.google.com/maps/search/Sucre+1635,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5059176,
+              "lng": -58.6773363
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "DEL CÍRCULO",
+            "direccion": "Pdte. Perón y Wilson, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46605111",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+y+Wilson,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5085981,
+              "lng": -58.6973388
+            }
+          },
+          {
+            "nombre": "DEL ÁGUILA",
+            "direccion": "San Martín 2580, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600303",
+            "mapa": "https://www.google.com/maps/search/San+Martín+2580,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5003664,
+              "lng": -58.6960774
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "BUFFARINI",
+            "direccion": "Pdte. Perón 3030, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46607743",
+            "mapa": "https://www.google.com/maps/search/Pdte.+Perón+3030,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5163253,
+              "lng": -58.7088654
+            }
+          },
+          {
+            "nombre": "SAN MARTÍN",
+            "direccion": "S. Martín y Amenabar, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600002",
+            "mapa": "https://www.google.com/maps/search/S.+Martín+y+Amenabar,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4936336,
+              "lng": -58.6788666
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "BOTICA",
+            "direccion": "Rivadavia 2017, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600798",
+            "mapa": "https://www.google.com/maps/search/Rivadavia+2017,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5068557,
+              "lng": -58.7002914
+            }
+          },
+          {
+            "nombre": "ALVAREZ",
+            "direccion": "Rosario 4605, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "47481666",
+            "mapa": "https://www.google.com/maps/search/Rosario+4605,+Adolfo+Sourdeaux,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5022335,
+              "lng": -58.667105
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "MEDINA",
+            "direccion": "Av. Eva Perón 5068, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46636754",
+            "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+5068,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4938797,
+              "lng": -58.6710376
+            }
+          },
+          {
+            "nombre": "SAOS",
+            "direccion": "L. Suárez 2939, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46632742",
+            "mapa": "https://www.google.com/maps/search/L.+Suárez+2939,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5142289,
+              "lng": -58.7074235
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "BORRINO",
+            "direccion": "Ing. Huergo 3595, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46604301",
+            "mapa": "https://www.google.com/maps/search/Ing.+Huergo+3595,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4973638,
+              "lng": -58.6937587
+            }
+          },
+          {
+            "nombre": "DEL SOL",
+            "direccion": "Derqui y Peña, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "1122982748",
+            "mapa": "https://www.google.com/maps/search/Derqui+y+Peña,+Adolfo+Sourdeaux,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5049135,
+              "lng": -58.6671679
+            }
+          },
+          {
+            "nombre": "BAIER",
+            "direccion": "San Martín 2887, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martín+2887,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4984694,
+              "lng": -58.6940876
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "EBERBACH",
+            "direccion": "Av. Perón 697, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "44636175",
+            "mapa": "https://www.google.com/maps/search/Av.+Perón+697,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5145623,
+              "lng": -58.6757498
+            }
+          },
+          {
+            "nombre": "PANAMERICANPHARMA",
+            "direccion": "R. 197 N° 2078, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320437172",
+            "mapa": "https://www.google.com/maps/search/R.+197+N°+2078,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5054848,
+              "lng": -58.7206365
+            }
+          },
+          {
+            "nombre": "LSM PHARMA SCS",
+            "direccion": "J.M.Gutiérrez 981, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/J.M.Gutiérrez+981,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5225932,
+              "lng": -58.7024448
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "DIETRICH",
+            "direccion": "Ruta 8 y 197, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320423258",
+            "mapa": "https://www.google.com/maps/search/Ruta+8+y+197,+Los+Polvorines,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.509446,
+              "lng": -58.728141
+            }
+          },
+          {
+            "nombre": "ALVAREZ U. DE MAYO",
+            "direccion": "Sucre 2359, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "46600418",
+            "mapa": "https://www.google.com/maps/search/Sucre+2359,+Villa+de+Mayo,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5025269,
+              "lng": -58.6811005
+            }
+          }
+        ]
+      }
+    },
+    "Grand Bourg - Ing. Pablo Nogués": {
+      "fuente": "https://www.malvinasargentinas.gob.ar/farmaciasturno",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "INVENA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/Coronel+Bogado+1626,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/Cura+Brochero+1669,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
+            }
+          },
+          {
+            "nombre": "AMORIELLO",
+            "direccion": "El Callao 636, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "01128753966",
+            "mapa": "https://www.google.com/maps/search/El+Callao+636,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4949118,
+              "lng": -58.7196035
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "GERINETTI",
+            "direccion": "Pasco 612, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320481327",
+            "mapa": "https://www.google.com/maps/search/Pasco+612,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4986916,
+              "lng": -58.7303427
+            }
+          },
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/El+Callao+24,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 N° 663, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "023204460211154641835",
+            "mapa": "https://www.google.com/maps/search/R.197+N°+663,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.505272,
+              "lng": -58.7202641
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "BASPYN",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1098,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4902219,
+              "lng": -58.7270162
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1301,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4853058,
+              "lng": -58.7310984
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "INVENA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/Coronel+Bogado+1626,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "AMORIELLO",
+            "direccion": "El Callao 636, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "01128753966",
+            "mapa": "https://www.google.com/maps/search/El+Callao+636,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4949118,
+              "lng": -58.7196035
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "GERINETTI",
+            "direccion": "Pasco 612, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320481327",
+            "mapa": "https://www.google.com/maps/search/Pasco+612,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4986916,
+              "lng": -58.7303427
+            }
+          },
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/El+Callao+24,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 N° 663, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "023204460211154641835",
+            "mapa": "https://www.google.com/maps/search/R.197+N°+663,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.505272,
+              "lng": -58.7202641
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "BASPYN",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1098,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4902219,
+              "lng": -58.7270162
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1301,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4853058,
+              "lng": -58.7310984
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "INVENA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/Coronel+Bogado+1626,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/Cura+Brochero+1669,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/El+Callao+24,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "LAGUZZI",
+            "direccion": "Francisco Seguí 1455, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480292",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+1455,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4858465,
+              "lng": -58.7251492
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "BASPYN",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1098,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4902219,
+              "lng": -58.7270162
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1301,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4853058,
+              "lng": -58.7310984
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "INVENA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/Coronel+Bogado+1626,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "AMORIELLO",
+            "direccion": "El Callao 636, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "01128753966",
+            "mapa": "https://www.google.com/maps/search/El+Callao+636,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4949118,
+              "lng": -58.7196035
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "GERINETTI",
+            "direccion": "Pasco 612, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320481327",
+            "mapa": "https://www.google.com/maps/search/Pasco+612,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4986916,
+              "lng": -58.7303427
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 N° 663, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "023204460211154641835",
+            "mapa": "https://www.google.com/maps/search/R.197+N°+663,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.505272,
+              "lng": -58.7202641
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "BASPYN",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1098,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4902219,
+              "lng": -58.7270162
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1301,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4853058,
+              "lng": -58.7310984
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "INVENA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/Coronel+Bogado+1626,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "SIAS",
+            "direccion": "Cura Brochero 1669, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320484070",
+            "mapa": "https://www.google.com/maps/search/Cura+Brochero+1669,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4900986,
+              "lng": -58.7377993
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "EL CALLAO 24",
+            "direccion": "El Callao 24, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320685470",
+            "mapa": "https://www.google.com/maps/search/El+Callao+24,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5018857,
+              "lng": -58.7142459
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "CIENTÍFICA MALVINAS",
+            "direccion": "R.197 N° 663, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "023204460211154641835",
+            "mapa": "https://www.google.com/maps/search/R.197+N°+663,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.505272,
+              "lng": -58.7202641
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "BASPYN",
+            "direccion": "Av. Grand Bourg 1098, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1098,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4902219,
+              "lng": -58.7270162
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "OTA",
+            "direccion": "Av. Grand Bourg 1301, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480631",
+            "mapa": "https://www.google.com/maps/search/Av.+Grand+Bourg+1301,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4853058,
+              "lng": -58.7310984
+            }
+          },
+          {
+            "nombre": "NOGUÉS S.C.S.",
+            "direccion": "Miraflores 4799, Ing. Pablo Nogués, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320683981",
+            "mapa": "https://www.google.com/maps/search/Miraflores+4799,+Ing.+Pablo+Nogués,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4949376,
+              "lng": -58.7097719
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "INVENA",
+            "direccion": "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320480261",
+            "mapa": "https://www.google.com/maps/search/Coronel+Bogado+1626,+Grand+Bourg,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4843393,
+              "lng": -58.7261149
+            }
+          }
+        ]
+      }
+    },
+    "Tortuguitas": {
+      "fuente": "https://www.malvinasargentinas.gob.ar/farmaciasturno",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "WASSERMANN",
+            "direccion": "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320491321",
+            "mapa": "https://www.google.com/maps/search/Directorio+507,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4595447,
+              "lng": -58.73669
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "RICCARDI",
+            "direccion": "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina",
+            "telefono": "02320492158",
+            "mapa": "https://www.google.com/maps/search/Francisco+Seguí+4073,+Tortuguitas,+Malvinas+Argentinas,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.4706089,
+              "lng": -58.7577378
+            }
+          }
+        ]
+      }
     }
   }
 }
