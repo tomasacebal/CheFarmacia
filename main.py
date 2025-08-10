@@ -21,9 +21,7 @@ from scrapers.miramar import MiramarScraper
 from scrapers.san_bernardo import SanBernardoScraper
 from scrapers.san_clemente_del_tuyu import SanClementeScraper
 from scrapers.santa_teresita import SantaTeresitaScraper
-from scrapers.polvorines import PolvorinesScraper
-from scrapers.grand_bourg import GranBourgScraper
-from scrapers.tortuguitas import TortuguitasScraper
+from scrapers.sources import SourcesScraper
 
 from utils import save_to_json, commit_and_push, format_data_for_json, merge_data
 
@@ -32,6 +30,8 @@ def main():
 
     # Lista de scrapers a ejecutar
     scrapers = [
+        SourcesScraper(),
+
         SanIsidroScraper(),
         TigreScraper(),
         LaPlataScraper(),
@@ -50,10 +50,6 @@ def main():
         SanBernardoScraper(),
         SanClementeScraper(),
         SantaTeresitaScraper(),
-        PolvorinesScraper(),
-        GranBourgScraper(),
-        TortuguitasScraper(),
-
 
         VarelaScraper(),
     ]
@@ -61,7 +57,9 @@ def main():
     datos_combinados = {}
 
     for scraper in tqdm(scrapers, desc="Ejecutando scrapers"):
-        print(f"\n[INFO] Ejecutando scraper para: {scraper.LOCALIDAD}")
+        # El mensaje de info ahora es más genérico para el SourcesScraper
+        localidad_info = getattr(scraper, 'LOCALIDAD', scraper.__class__.__name__)
+        print(f"\n[INFO] Ejecutando scraper para: {localidad_info}")
         datos = scraper.fetch()
         datos_formateados = format_data_for_json(datos)
         datos_combinados = merge_data(datos_combinados, datos_formateados)

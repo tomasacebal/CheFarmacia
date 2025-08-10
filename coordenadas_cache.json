@@ -2394,5 +2394,469 @@
   "El Zonda 1609, Estación Km. 26,700": {
     "lat": -34.80753257581878,
     "lng": -58.304595984219965
+  },
+  "Patria 33, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8871888,
+    "lng": -58.3843701
+  },
+  "Méndez y 33 Orientales, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.886775,
+    "lng": -58.3795923
+  },
+  "Sarmiento y ruta 210, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8935221,
+    "lng": -58.3903047
+  },
+  "Av. Almafuerte 130, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8887283,
+    "lng": -58.3816086
+  },
+  "Sarmiento 74, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8895947,
+    "lng": -58.3854042
+  },
+  "Ruta 210 y Pcia. de Sta. Fe, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8801925,
+    "lng": -58.3899463
+  },
+  "Miguel Cane 1267, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8873209,
+    "lng": -58.3661904
+  },
+  "Miguel Cane 240, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8813577,
+    "lng": -58.3535342
+  },
+  "Av. H. Yrigoyen 20906, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8886797,
+    "lng": -58.3904196
+  },
+  "Aguirre 2655, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8786097,
+    "lng": -58.3940932
+  },
+  "Reina Elena 2326, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8844307,
+    "lng": -58.3828615
+  },
+  "H. Yrigoyen 19599, Glew, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8752632,
+    "lng": -58.3897239
+  },
+  "Av. Cazón 1200, B1648EWZ Tigre": {
+    "lat": -34.426119,
+    "lng": -58.576355
+  },
+  "Gral. Pacheco 2728, Don Torcuato": {
+    "lat": -34.485579,
+    "lng": -58.655109
+  },
+  "Av. Hipólito Yrigoyen 485, Gral. Pacheco": {
+    "lat": -34.457401,
+    "lng": -58.629176
+  },
+  "Marcos Sastre 2511, Ricardo Rojas": {
+    "lat": -34.460897,
+    "lng": -58.679116
+  },
+  "9 de Julio 142, Dique Luján": {
+    "lat": -34.358565,
+    "lng": -58.687381
+  },
+  "Colombia 1152, El Talar": {
+    "lat": -34.47446,
+    "lng": -58.664477
+  },
+  "Av. Juan Domingo Perón 4946, Benavidez": {
+    "lat": -34.4297839,
+    "lng": -58.689245
+  },
+  "28 nro 1697 e/ 66 y 67": {
+    "lat": -34.9464156,
+    "lng": -57.9553479
+  },
+  "4 esq 57": {
+    "lat": -34.91539,
+    "lng": -57.94161
+  },
+  "120 esq 80": {
+    "lat": -34.92576,
+    "lng": -57.90727
+  },
+  "7 e/609 y 610": {
+    "lat": -34.95742,
+    "lng": -57.89379
+  },
+  "66 esq. 6 nro 548": {
+    "lat": -34.92488,
+    "lng": -57.93334
+  },
+  "49 nro 1892 e/ 132 y 133": {
+    "lat": -34.93872,
+    "lng": -57.97763
+  },
+  "520 esq 141": {
+    "lat": -34.92286,
+    "lng": -58.01787
+  },
+  "56 esq 10": {
+    "lat": -34.9220684,
+    "lng": -57.9499613
+  },
+  "21 NRO 151 ESQ. 35": {
+    "lat": -34.916399,
+    "lng": -57.97991
+  },
+  "116 esq 37 nro 251": {
+    "lat": -34.8964862,
+    "lng": -57.9561066
+  },
+  "64 esq 19 nro 1199": {
+    "lat": -34.93544,
+    "lng": -57.94932
+  },
+  "1 esq 70 nro 1849": {
+    "lat": -34.92402,
+    "lng": -57.9246
+  },
+  "531 esq 7 nro 1194": {
+    "lat": -34.9183124,
+    "lng": -57.944806099999994
+  },
+  "80 nro 731 e/ 9 y 10": {
+    "lat": -34.9396174,
+    "lng": -57.9224377
+  },
+  "49 nro 636 e/7 y 8": {
+    "lat": -34.9150888,
+    "lng": -57.9510165
+  },
+  "44 ESQ 160": {
+    "lat": -34.96076,
+    "lng": -58.00991
+  },
+  "Cno Gral Belgrano e/ 484 y 485 nro 4746 local 4": {
+    "lat": -34.8858542,
+    "lng": -58.03548860000001
+  },
+  "462 nro 1046 e/16 y 17": {
+    "lat": -34.8714066,
+    "lng": -58.0574035
+  },
+  "66 e/ 160 y 161 nro 3280": {
+    "lat": -34.9765818,
+    "lng": -57.9925698
+  },
+  "Calle 809 N° 1895, esq. 889": {
+    "lat": -34.7510779,
+    "lng": -58.32242489
+  },
+  "Cno. Gral. Belgrano N° 3599, esq. Lafinur": {
+    "lat": -34.76056958,
+    "lng": -58.29480886
+  },
+  "La Guarda N° 301, esq. Lavalle": {
+    "lat": -34.74806571,
+    "lng": -58.23646009
+  },
+  "Av. Otamendi N° 825, entre Monroe y Emilio Zola": {
+    "lat": -34.71611649,
+    "lng": -58.24581563
+  },
+  "Jose Evaristo Uriburu Nº 501, esq. Jose Manuel Estrada": {
+    "lat": -34.70815262,
+    "lng": -58.28297764
+  },
+  "Av. Rodolfo Lopez Nº 2199, esq. Ricardo Rojas": {
+    "lat": -34.73111613,
+    "lng": -58.28568131
+  },
+  "Av.Pte.Kirchner (ex-Mitre) y 18 n°1804": {
+    "lat": -34.7622765,
+    "lng": -58.2015074
+  },
+  "21 y 144": {
+    "lat": -34.7705977,
+    "lng": -58.2081878
+  },
+  "7 n 2358 e/123 y 124": {
+    "lat": -34.76868664,
+    "lng": -58.24031711
+  },
+  "138 e/7 y 8": {
+    "lat": -34.7609733,
+    "lng": -58.2247884
+  },
+  "159 y 55 Hudson": {
+    "lat": -34.78898833,
+    "lng": -58.1611612
+  },
+  "316 n° 1983 Ranelagh wp: 1121859075": {
+    "lat": -34.7869505,
+    "lng": -58.1858977
+  },
+  "Cno.Gral.Belgrano 5432": {
+    "lat": -34.809804,
+    "lng": -58.2093398
+  },
+  "Av. Eva Perón 4802 esq. San Nicolás, Mayol": {
+    "lat": -34.826740476840726,
+    "lng": -58.27916068421951
+  },
+  "Av. H. Yrigoyen 1895 ex 1200, Cruce": {
+    "lat": -34.78279437450339,
+    "lng": -58.26803208422042
+  },
+  "Av. Luján 1210, Bosques": {
+    "lat": -34.82907317696485,
+    "lng": -58.2310943842194
+  },
+  "Monteagudo 2659, Centro": {
+    "lat": -34.80327736806605,
+    "lng": -58.27765582349562
+  },
+  "Sirito 102, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7629002,
+    "lng": -58.4185092
+  },
+  "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7649101,
+    "lng": -58.4037235
+  },
+  "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7498638,
+    "lng": -58.4004967
+  },
+  "Bustos 897, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7601693,
+    "lng": -58.4475464
+  },
+  "Molina Arrotea 1998, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7655969,
+    "lng": -58.4260608
+  },
+  "Recondo 2124, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.719348,
+    "lng": -58.459339
+  },
+  "Int Tavano 1381 ex Virgilio, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7582842,
+    "lng": -58.4023552
+  },
+  "Armesti y Coronel Diaz, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7422454,
+    "lng": -58.3517948
+  },
+  "Av. Gral Peron 5458, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6945191,
+    "lng": -58.4425948
+  },
+  "Int Tavano 1381, ex Virgilio, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7454192,
+    "lng": -58.4323525
+  },
+  "Las Tropas 900, Lomas de Zamora, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.749171,
+    "lng": -58.4287572
+  },
+  "Isaac Newton 4583, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7276915,
+    "lng": -58.4759983
+  },
+  "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7449382,
+    "lng": -58.3990922
+  },
+  "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7417134,
+    "lng": -58.3927653
+  },
+  "Int.B. Tavano 5086, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7193913,
+    "lng": -58.4738082
+  },
+  "Caa-guazu 71, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7401832,
+    "lng": -58.3475317
+  },
+  "Plumerillo 799, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7205455,
+    "lng": -58.4291548
+  },
+  "Facundo Quiroga 1213, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7454627,
+    "lng": -58.4681913
+  },
+  "Virgen de Itati 1702, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7275364,
+    "lng": -58.4449778
+  },
+  "Maipu 401, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7437756,
+    "lng": -58.3900537
+  },
+  "Martin Rodriguez 1850, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7384343,
+    "lng": -58.4389949
+  },
+  "Recondo 1630, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7157811,
+    "lng": -58.4529003
+  },
+  "Ejercito de los Andes 605, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7171587,
+    "lng": -58.4354234
+  },
+  "Claudio de Alas 2186, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7200448,
+    "lng": -58.4633008
+  },
+  "Diagonal 302, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7410694,
+    "lng": -58.3911803
+  },
+  "Giachino 3623, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7397335,
+    "lng": -58.477747
+  },
+  "Claudio de Alas 2597, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7147434,
+    "lng": -58.4671809
+  },
+  "Av. Gral Martin Rodriguez 999, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7324288,
+    "lng": -58.4283406
+  },
+  "J.M. de Rosas 2480, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6755407,
+    "lng": -58.5442748
+  },
+  "Gabriela Mistral 1382, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7361314,
+    "lng": -58.4328268
+  },
+  "Av. Alsina 3, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7364566,
+    "lng": -58.3919707
+  },
+  "Virgen de Itati 2106, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7302121,
+    "lng": -58.4502877
+  },
+  "J. Manuel de Rosas 2212. Ing Budge, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7366035,
+    "lng": -58.4824612
+  },
+  "Espronceda 396, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7358563,
+    "lng": -58.4458794
+  },
+  "Martin Rodriguez 2375, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7417318,
+    "lng": -58.4457621
+  },
+  "Lisandro de la Torre 2297 ex 19811, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.676554,
+    "lng": -58.473493
+  },
+  "Av. Olimpo 1717, Banfield, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7357036,
+    "lng": -58.4809343
+  },
+  "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.775724,
+    "lng": -58.4053788
+  },
+  "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7703143,
+    "lng": -58.3960636
+  },
+  "Salta 2072 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7790806,
+    "lng": -58.3472275
+  },
+  "Salta 57 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7620827,
+    "lng": -58.3610513
+  },
+  "Salta 1300 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7723071,
+    "lng": -58.3532957
+  },
+  "San Martin 5241 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7305299,
+    "lng": -58.4233072
+  },
+  "30 de Septiembre 4905 esq. Rio Negro, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.778178,
+    "lng": -58.3719859
+  },
+  "Catamarca y San Martin (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7847495,
+    "lng": -58.3446494
+  },
+  "Salta 1667 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7748927,
+    "lng": -58.350919
+  },
+  "Los Eucaliptus 259 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7643809,
+    "lng": -58.3608186
+  },
+  "Indalecio Gomez 695, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7786924,
+    "lng": -58.3792677
+  },
+  "Salta 1000 (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7694873,
+    "lng": -58.3552945
+  },
+  "30 de Septiembre 2678(San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7714735,
+    "lng": -58.3591562
+  },
+  "Pio Collivadino 420, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7517411,
+    "lng": -58.3797672
+  },
+  "Av Meeks 1277, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7760487,
+    "lng": -58.3974701
+  },
+  "Jujuy esq Vertiz (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7675685,
+    "lng": -58.3556069
+  },
+  "Sta Ana esq San Martin, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7777144,
+    "lng": -58.3320559
+  },
+  "30 de Septiembre 4905 esq. Entre Rios, Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7700648,
+    "lng": -58.3799895
+  },
+  "Santa Ana 572, esq garay (San Jose), Temperley, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7605747,
+    "lng": -58.3489859
+  },
+  "Virgilio 1381, Villa Albertina, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7522973,
+    "lng": -58.4467899
+  },
+  "Av. Antartida Argentina 400, Turdera, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7912978,
+    "lng": -58.4117746
+  },
+  "Lloveras 4113, Budge, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7330102,
+    "lng": -58.4794085
+  },
+  "Av. Monteverde 2453, Llavallol, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8254655,
+    "lng": -58.4217754
+  },
+  "Segui 1885 (ex 385), Llavallol, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8005724,
+    "lng": -58.4191286
   }
 }

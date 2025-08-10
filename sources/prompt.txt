@@ -1,0 +1,49 @@
+Cada vez que recibas una foto tendra la informacion de las farmacias de turno de una determinada ciudad. Deberas transformar esa informacion a un JSON con el siguiente formato:
+{
+    {mes}: {
+        {ciudad}: {
+            "fuente": {link de la fuente },
+            "confianza": {escala de confiabilidad del 1 al 3},
+            "dias": {
+                "1": [
+                    {
+                        "nombre": {nombre farmacia},
+                        "direccion": {direccion farmacia},
+                        "telefono": {telefono farmacia},
+                        "mapa": {url en google maps de la farmacia}
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": {nombre farmacia},
+                        "direccion": {direccion farmacia},
+                        "telefono": {telefono farmacia},
+                        "mapa": {url en google maps de la farmacia}
+                    }
+                ],
+
+Ejemplo:
+{
+    "agosto": {
+        "Glew": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Glew Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "GONZÁLEZ",
+                        "direccion": "Patria 33, Glew, Provincia de Buenos Aires, Argentina",
+                        "telefono": "433-232",
+                        "mapa": "https://www.google.com/maps/search/Patria+33,+Glew,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "REID",
+                        "direccion": "Méndez y 33 Orientales, Glew, Provincia de Buenos Aires, Argentina",
+                        "telefono": "646-041",
+                        "mapa": "https://www.google.com/maps/search/Méndez+y+33+Orientales,+Glew,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+
+La respuesta debe ser unicamente el JSON.

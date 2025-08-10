@@ -203,6 +203,6 @@ if __name__ == "__main__":
     # print(coords)
 
     # También podés ejecutar directamente la función de actualización del archivo 24h
-    # añadir_coordenadas_a_farmacias_24h()
+    añadir_coordenadas_a_farmacias_24h()
 
-    print(extraer_coordenadas_desde_url("https://www.google.com/maps/place/-34.417152,-58.597868"))
+    # print(extraer_coordenadas_desde_url("https://www.google.com/maps/place/-34.417152,-58.597868"))
