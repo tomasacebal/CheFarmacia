@@ -8358,1452 +8358,6 @@
         ]
       }
     },
-    "Malvinas Argentinas": {
-      "fuente": "https://www.malvinasargentinas.gob.ar/farmaciasturno",
-      "confianza": 3,
-      "dias": {
-        "1": [
-          {
-            "nombre": "EBERBACH",
-            "direccion": "Av. Perón 897, V. de Mayo",
-            "telefono": "44638179",
-            "mapa": "https://www.google.com/maps/search/EBERBACH+Av.+Per%C3%B3n+897%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5131006,
-              "lng": -58.6776077
-            }
-          },
-          {
-            "nombre": "PANAMERICANPHARMA",
-            "direccion": "Ruta 197 2078, Polvorines",
-            "telefono": "02320437172",
-            "mapa": "https://www.google.com/maps/search/PANAMERICANPHARMA+Ruta+197+2078%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4791983,
-              "lng": -58.6745211
-            }
-          },
-          {
-            "nombre": "LSM PHARMA SCS",
-            "direccion": "J.M. Gutiérrez 981, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/LSM+PHARMA+SCS+J.M.+Guti%C3%A9rrez+981%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5225932,
-              "lng": -58.7024448
-            }
-          },
-          {
-            "nombre": "NOGUÉS S.C.S.",
-            "direccion": "Miraflores 4799, Ing. Pablo Nogués",
-            "telefono": "02320683981",
-            "mapa": "https://www.google.com/maps/search/NOGU%C3%89S+S.C.S.+Miraflores+4799%2C+Ing.+Pablo+Nogu%C3%A9s%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4905678,
-              "lng": -58.7134759
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "2": [
-          {
-            "nombre": "DIETRICH",
-            "direccion": "Ruta 8 y 197, Polvorines",
-            "telefono": "02320423259",
-            "mapa": "https://www.google.com/maps/search/DIETRICH+Ruta+8+y+197%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.509446,
-              "lng": -58.728141
-            }
-          },
-          {
-            "nombre": "ÁLVAREZ V. DE MAYO",
-            "direccion": "Sucre 2359, V. de Mayo",
-            "telefono": "46600418",
-            "mapa": "https://www.google.com/maps/search/%C3%81LVAREZ+V.+DE+MAYO+Sucre+2359%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5025269,
-              "lng": -58.6811005
-            }
-          },
-          {
-            "nombre": "RIVERA",
-            "direccion": "Coronel Bogado 1626, Grand Bourg",
-            "telefono": "02320480261",
-            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4843393,
-              "lng": -58.7261149
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "3": [
-          {
-            "nombre": "RIVADAVIA",
-            "direccion": "Rivadavia 2687, Polvorines",
-            "telefono": "46638292",
-            "mapa": "https://www.google.com/maps/search/RIVADAVIA+Rivadavia+2687%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5009858,
-              "lng": -58.6932525
-            }
-          },
-          {
-            "nombre": "RUJANA",
-            "direccion": "Arquímedes y Luján, V. de Mayo",
-            "telefono": "46637405",
-            "mapa": "https://www.google.com/maps/search/RUJANA+Arqu%C3%ADmedes+y+Luj%C3%A1n%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5120653,
-              "lng": -58.667136
-            }
-          },
-          {
-            "nombre": "L.A.I. V. DE MAYO",
-            "direccion": "Av. Pdte. Perón 43, V. de Mayo",
-            "telefono": "1162980279",
-            "mapa": "https://www.google.com/maps/search/L.A.I.+V.+DE+MAYO+Av.+Pdte.+Per%C3%B3n+43%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5181009,
-              "lng": -58.6718376
-            }
-          },
-          {
-            "nombre": "SIAS",
-            "direccion": "Cura Brochero 1669, Grand Bourg",
-            "telefono": "02320484070",
-            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4900986,
-              "lng": -58.7377993
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "4": [
-          {
-            "nombre": "OCAMPO",
-            "direccion": "Pdte. Perón 3387, Polvorines",
-            "telefono": "46604575",
-            "mapa": "https://www.google.com/maps/search/OCAMPO+Pdte.+Per%C3%B3n+3387%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4997881,
-              "lng": -58.6938857
-            }
-          },
-          {
-            "nombre": "J.R.",
-            "direccion": "Arturo Illia 5254, Polvorines",
-            "telefono": "44516500",
-            "mapa": "https://www.google.com/maps/search/J.R.+Arturo+Illia+5254%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5207235,
-              "lng": -58.7173806
-            }
-          },
-          {
-            "nombre": "L.A.I. RIVADAVIA",
-            "direccion": "Juan Palliere 3204, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/L.A.I.+RIVADAVIA+Juan+Palliere+3204%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.509994,
-              "lng": -58.7042954
-            }
-          },
-          {
-            "nombre": "EL CALLAO 24",
-            "direccion": "El Callao 24, Grand Bourg",
-            "telefono": "02320685470",
-            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5018857,
-              "lng": -58.7142459
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "5": [
-          {
-            "nombre": "EMERIC SCS",
-            "direccion": "Baroni 1859, Polvorines",
-            "telefono": "46636212",
-            "mapa": "https://www.google.com/maps/search/EMERIC+SCS+Baroni+1859%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5048126,
-              "lng": -58.7050607
-            }
-          },
-          {
-            "nombre": "CONTI",
-            "direccion": "Sucre 1635, V. de Mayo",
-            "telefono": "44637479",
-            "mapa": "https://www.google.com/maps/search/CONTI+Sucre+1635%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5059176,
-              "lng": -58.6773363
-            }
-          },
-          {
-            "nombre": "CIENTÍFICA MALVINAS",
-            "direccion": "R.197 663, Grand Bourg",
-            "telefono": "02320446021",
-            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5066322,
-              "lng": -58.7234117
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "6": [
-          {
-            "nombre": "DEL CÍRCULO",
-            "direccion": "Pdte. Perón y Wilson, Polvorines",
-            "telefono": "46605111",
-            "mapa": "https://www.google.com/maps/search/DEL+C%C3%8DRCULO+Pdte.+Per%C3%B3n+y+Wilson%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5085981,
-              "lng": -58.6973388
-            }
-          },
-          {
-            "nombre": "DEL ÁGUILA",
-            "direccion": "San Martín 2580, Polvorines",
-            "telefono": "46600303",
-            "mapa": "https://www.google.com/maps/search/DEL+%C3%81GUILA+San+Mart%C3%ADn+2580%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5003664,
-              "lng": -58.6960774
-            }
-          },
-          {
-            "nombre": "RASPO",
-            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4903301,
-              "lng": -58.7268928
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "7": [
-          {
-            "nombre": "BUFFARINI",
-            "direccion": "Pdte. Perón 3030, Polvorines",
-            "telefono": "46637749",
-            "mapa": "https://www.google.com/maps/search/BUFFARINI+Pdte.+Per%C3%B3n+3030%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4520096,
-              "lng": -58.5398537
-            }
-          },
-          {
-            "nombre": "SAN MARTÍN",
-            "direccion": "S. Martín y Amenábar, V. de Mayo",
-            "telefono": "46600002",
-            "mapa": "https://www.google.com/maps/search/SAN+MART%C3%8DN+S.+Mart%C3%ADn+y+Amen%C3%A1bar%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -33.8384721,
-              "lng": -59.5294465
-            }
-          },
-          {
-            "nombre": "OTA",
-            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4956885,
-              "lng": -58.7211597
-            }
-          },
-          {
-            "nombre": "NOGUÉS S.C.S.",
-            "direccion": "Miraflores 4799, Ing. Pablo Nogués",
-            "telefono": "02320683981",
-            "mapa": "https://www.google.com/maps/search/NOGU%C3%89S+S.C.S.+Miraflores+4799%2C+Ing.+Pablo+Nogu%C3%A9s%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4905678,
-              "lng": -58.7134759
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "8": [
-          {
-            "nombre": "BOTICA",
-            "direccion": "Rivadavia 2017, Polvorines",
-            "telefono": "46630789",
-            "mapa": "https://www.google.com/maps/search/BOTICA+Rivadavia+2017%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5068557,
-              "lng": -58.7002914
-            }
-          },
-          {
-            "nombre": "ALVAREZ",
-            "direccion": "Rosario 4605, A. Sourdeaux",
-            "telefono": "47481868",
-            "mapa": "https://www.google.com/maps/search/ALVAREZ+Rosario+4605%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5022335,
-              "lng": -58.667105
-            }
-          },
-          {
-            "nombre": "RIVERA",
-            "direccion": "Coronel Bogado 1626, Grand Bourg",
-            "telefono": "02320480261",
-            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4843393,
-              "lng": -58.7261149
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "9": [
-          {
-            "nombre": "MEDINA",
-            "direccion": "Av. Eva Perón 5068, V. de Mayo",
-            "telefono": "46636764",
-            "mapa": "https://www.google.com/maps/search/MEDINA+Av.+Eva+Per%C3%B3n+5068%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.654435,
-              "lng": -58.592105
-            }
-          },
-          {
-            "nombre": "SAOS",
-            "direccion": "L. Suárez 2939, Polvorines",
-            "telefono": "46632742",
-            "mapa": "https://www.google.com/maps/search/SAOS+L.+Su%C3%A1rez+2939%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5142289,
-              "lng": -58.7074235
-            }
-          },
-          {
-            "nombre": "AMORIELLO",
-            "direccion": "El Callao 636, Grand Bourg",
-            "telefono": "01128750966",
-            "mapa": "https://www.google.com/maps/search/AMORIELLO+El+Callao+636%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4949118,
-              "lng": -58.7196035
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "10": [
-          {
-            "nombre": "BORRINO",
-            "direccion": "Ing. Huergo 3595, Polvorines",
-            "telefono": "46604301",
-            "mapa": "https://www.google.com/maps/search/BORRINO+Ing.+Huergo+3595%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4973638,
-              "lng": -58.6937587
-            }
-          },
-          {
-            "nombre": "DEL SOL",
-            "direccion": "Derqui y Peña, A. Sourdeaux",
-            "telefono": "1122382746",
-            "mapa": "https://www.google.com/maps/search/DEL+SOL+Derqui+y+Pe%C3%B1a%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5005986,
-              "lng": -58.6613088
-            }
-          },
-          {
-            "nombre": "BAIED",
-            "direccion": "San Martín 2887, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/BAIED+San+Mart%C3%ADn+2887%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5116091,
-              "lng": -58.7107808
-            }
-          },
-          {
-            "nombre": "CERNETTI",
-            "direccion": "Pasco 612, Grand Bourg",
-            "telefono": "02320481327",
-            "mapa": "https://www.google.com/maps/search/CERNETTI+Pasco+612%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4986916,
-              "lng": -58.7303427
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "11": [
-          {
-            "nombre": "EBERBACH",
-            "direccion": "Av. Perón 897, V. de Mayo",
-            "telefono": "44638179",
-            "mapa": "https://www.google.com/maps/search/EBERBACH+Av.+Per%C3%B3n+897%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5131006,
-              "lng": -58.6776077
-            }
-          },
-          {
-            "nombre": "PANAMERICANPHARMA",
-            "direccion": "Ruta 197 2078, Polvorines",
-            "telefono": "02320437172",
-            "mapa": "https://www.google.com/maps/search/PANAMERICANPHARMA+Ruta+197+2078%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4791983,
-              "lng": -58.6745211
-            }
-          },
-          {
-            "nombre": "LSM PHARMA SCS",
-            "direccion": "J.M. Gutiérrez 981, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/LSM+PHARMA+SCS+J.M.+Guti%C3%A9rrez+981%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5225932,
-              "lng": -58.7024448
-            }
-          },
-          {
-            "nombre": "CIENTÍFICA MALVINAS",
-            "direccion": "R.197 663, Grand Bourg",
-            "telefono": "02320446021",
-            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5066322,
-              "lng": -58.7234117
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "12": [
-          {
-            "nombre": "DIETRICH",
-            "direccion": "Ruta 8 y 197, Polvorines",
-            "telefono": "02320423259",
-            "mapa": "https://www.google.com/maps/search/DIETRICH+Ruta+8+y+197%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.509446,
-              "lng": -58.728141
-            }
-          },
-          {
-            "nombre": "ÁLVAREZ V. DE MAYO",
-            "direccion": "Sucre 2359, V. de Mayo",
-            "telefono": "46600418",
-            "mapa": "https://www.google.com/maps/search/%C3%81LVAREZ+V.+DE+MAYO+Sucre+2359%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5025269,
-              "lng": -58.6811005
-            }
-          },
-          {
-            "nombre": "RASPO",
-            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4903301,
-              "lng": -58.7268928
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "13": [
-          {
-            "nombre": "RIVADAVIA",
-            "direccion": "Rivadavia 2687, Polvorines",
-            "telefono": "46638292",
-            "mapa": "https://www.google.com/maps/search/RIVADAVIA+Rivadavia+2687%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5009858,
-              "lng": -58.6932525
-            }
-          },
-          {
-            "nombre": "RUJANA",
-            "direccion": "Arquímedes y Luján, V. de Mayo",
-            "telefono": "46637405",
-            "mapa": "https://www.google.com/maps/search/RUJANA+Arqu%C3%ADmedes+y+Luj%C3%A1n%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5120653,
-              "lng": -58.667136
-            }
-          },
-          {
-            "nombre": "L.A.I. V. DE MAYO",
-            "direccion": "Av. Pdte. Perón 43, V. de Mayo",
-            "telefono": "1162980279",
-            "mapa": "https://www.google.com/maps/search/L.A.I.+V.+DE+MAYO+Av.+Pdte.+Per%C3%B3n+43%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5181009,
-              "lng": -58.6718376
-            }
-          },
-          {
-            "nombre": "OTA",
-            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4956885,
-              "lng": -58.7211597
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "14": [
-          {
-            "nombre": "OCAMPO",
-            "direccion": "Pdte. Perón 3387, Polvorines",
-            "telefono": "46604575",
-            "mapa": "https://www.google.com/maps/search/OCAMPO+Pdte.+Per%C3%B3n+3387%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4997881,
-              "lng": -58.6938857
-            }
-          },
-          {
-            "nombre": "J.R.",
-            "direccion": "Arturo Illia 5254, Polvorines",
-            "telefono": "44516500",
-            "mapa": "https://www.google.com/maps/search/J.R.+Arturo+Illia+5254%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5207235,
-              "lng": -58.7173806
-            }
-          },
-          {
-            "nombre": "L.A.I. RIVADAVIA",
-            "direccion": "Juan Palliere 3204, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/L.A.I.+RIVADAVIA+Juan+Palliere+3204%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.509994,
-              "lng": -58.7042954
-            }
-          },
-          {
-            "nombre": "RIVERA",
-            "direccion": "Coronel Bogado 1626, Grand Bourg",
-            "telefono": "02320480261",
-            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4843393,
-              "lng": -58.7261149
-            }
-          },
-          {
-            "nombre": "NOGUÉS NORTE",
-            "direccion": "Ejército de los Andes 2224, Ing. Pablo Nogués",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/NOGU%C3%89S+NORTE+Ej%C3%A9rcito+de+los+Andes+2224%2C+Ing.+Pablo+Nogu%C3%A9s%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4934484,
-              "lng": -58.7052082
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "15": [
-          {
-            "nombre": "EMERIC SCS",
-            "direccion": "Baroni 1859, Polvorines",
-            "telefono": "46636212",
-            "mapa": "https://www.google.com/maps/search/EMERIC+SCS+Baroni+1859%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5048126,
-              "lng": -58.7050607
-            }
-          },
-          {
-            "nombre": "CONTI",
-            "direccion": "Sucre 1635, V. de Mayo",
-            "telefono": "44637479",
-            "mapa": "https://www.google.com/maps/search/CONTI+Sucre+1635%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5059176,
-              "lng": -58.6773363
-            }
-          },
-          {
-            "nombre": "SIAS",
-            "direccion": "Cura Brochero 1669, Grand Bourg",
-            "telefono": "02320484070",
-            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4900986,
-              "lng": -58.7377993
-            }
-          },
-          {
-            "nombre": "AMORIELLO",
-            "direccion": "El Callao 636, Grand Bourg",
-            "telefono": "01128750966",
-            "mapa": "https://www.google.com/maps/search/AMORIELLO+El+Callao+636%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4949118,
-              "lng": -58.7196035
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "16": [
-          {
-            "nombre": "DEL CÍRCULO",
-            "direccion": "Pdte. Perón y Wilson, Polvorines",
-            "telefono": "46605111",
-            "mapa": "https://www.google.com/maps/search/DEL+C%C3%8DRCULO+Pdte.+Per%C3%B3n+y+Wilson%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5085981,
-              "lng": -58.6973388
-            }
-          },
-          {
-            "nombre": "DEL ÁGUILA",
-            "direccion": "San Martín 2580, Polvorines",
-            "telefono": "46600303",
-            "mapa": "https://www.google.com/maps/search/DEL+%C3%81GUILA+San+Mart%C3%ADn+2580%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5003664,
-              "lng": -58.6960774
-            }
-          },
-          {
-            "nombre": "EL CALLAO 24",
-            "direccion": "El Callao 24, Grand Bourg",
-            "telefono": "02320685470",
-            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5018857,
-              "lng": -58.7142459
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "17": [
-          {
-            "nombre": "BUFFARINI",
-            "direccion": "Pdte. Perón 3030, Polvorines",
-            "telefono": "46637749",
-            "mapa": "https://www.google.com/maps/search/BUFFARINI+Pdte.+Per%C3%B3n+3030%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4520096,
-              "lng": -58.5398537
-            }
-          },
-          {
-            "nombre": "SAN MARTÍN",
-            "direccion": "S. Martín y Amenábar, V. de Mayo",
-            "telefono": "46600002",
-            "mapa": "https://www.google.com/maps/search/SAN+MART%C3%8DN+S.+Mart%C3%ADn+y+Amen%C3%A1bar%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -33.8384721,
-              "lng": -59.5294465
-            }
-          },
-          {
-            "nombre": "CIENTÍFICA MALVINAS",
-            "direccion": "R.197 663, Grand Bourg",
-            "telefono": "02320446021",
-            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5066322,
-              "lng": -58.7234117
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "18": [
-          {
-            "nombre": "BOTICA",
-            "direccion": "Rivadavia 2017, Polvorines",
-            "telefono": "46630789",
-            "mapa": "https://www.google.com/maps/search/BOTICA+Rivadavia+2017%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5068557,
-              "lng": -58.7002914
-            }
-          },
-          {
-            "nombre": "ALVAREZ",
-            "direccion": "Rosario 4605, A. Sourdeaux",
-            "telefono": "47481868",
-            "mapa": "https://www.google.com/maps/search/ALVAREZ+Rosario+4605%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5022335,
-              "lng": -58.667105
-            }
-          },
-          {
-            "nombre": "RASPO",
-            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4903301,
-              "lng": -58.7268928
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "19": [
-          {
-            "nombre": "MEDINA",
-            "direccion": "Av. Eva Perón 5068, V. de Mayo",
-            "telefono": "46636764",
-            "mapa": "https://www.google.com/maps/search/MEDINA+Av.+Eva+Per%C3%B3n+5068%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.654435,
-              "lng": -58.592105
-            }
-          },
-          {
-            "nombre": "SAOS",
-            "direccion": "L. Suárez 2939, Polvorines",
-            "telefono": "46632742",
-            "mapa": "https://www.google.com/maps/search/SAOS+L.+Su%C3%A1rez+2939%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5142289,
-              "lng": -58.7074235
-            }
-          },
-          {
-            "nombre": "OTA",
-            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4956885,
-              "lng": -58.7211597
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "20": [
-          {
-            "nombre": "BORRINO",
-            "direccion": "Ing. Huergo 3595, Polvorines",
-            "telefono": "46604301",
-            "mapa": "https://www.google.com/maps/search/BORRINO+Ing.+Huergo+3595%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4973638,
-              "lng": -58.6937587
-            }
-          },
-          {
-            "nombre": "DEL SOL",
-            "direccion": "Derqui y Peña, A. Sourdeaux",
-            "telefono": "1122382746",
-            "mapa": "https://www.google.com/maps/search/DEL+SOL+Derqui+y+Pe%C3%B1a%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5005986,
-              "lng": -58.6613088
-            }
-          },
-          {
-            "nombre": "BAIED",
-            "direccion": "San Martín 2887, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/BAIED+San+Mart%C3%ADn+2887%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5116091,
-              "lng": -58.7107808
-            }
-          },
-          {
-            "nombre": "RIVERA",
-            "direccion": "Coronel Bogado 1626, Grand Bourg",
-            "telefono": "02320480261",
-            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4843393,
-              "lng": -58.7261149
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "21": [
-          {
-            "nombre": "EBERBACH",
-            "direccion": "Av. Perón 897, V. de Mayo",
-            "telefono": "44638179",
-            "mapa": "https://www.google.com/maps/search/EBERBACH+Av.+Per%C3%B3n+897%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5131006,
-              "lng": -58.6776077
-            }
-          },
-          {
-            "nombre": "PANAMERICANPHARMA",
-            "direccion": "Ruta 197 2078, Polvorines",
-            "telefono": "02320437172",
-            "mapa": "https://www.google.com/maps/search/PANAMERICANPHARMA+Ruta+197+2078%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4791983,
-              "lng": -58.6745211
-            }
-          },
-          {
-            "nombre": "LSM PHARMA SCS",
-            "direccion": "J.M. Gutiérrez 981, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/LSM+PHARMA+SCS+J.M.+Guti%C3%A9rrez+981%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5225932,
-              "lng": -58.7024448
-            }
-          },
-          {
-            "nombre": "SIAS",
-            "direccion": "Cura Brochero 1669, Grand Bourg",
-            "telefono": "02320484070",
-            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4900986,
-              "lng": -58.7377993
-            }
-          },
-          {
-            "nombre": "AMORIELLO",
-            "direccion": "El Callao 636, Grand Bourg",
-            "telefono": "01128750966",
-            "mapa": "https://www.google.com/maps/search/AMORIELLO+El+Callao+636%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4949118,
-              "lng": -58.7196035
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "22": [
-          {
-            "nombre": "DIETRICH",
-            "direccion": "Ruta 8 y 197, Polvorines",
-            "telefono": "02320423259",
-            "mapa": "https://www.google.com/maps/search/DIETRICH+Ruta+8+y+197%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.509446,
-              "lng": -58.728141
-            }
-          },
-          {
-            "nombre": "ÁLVAREZ V. DE MAYO",
-            "direccion": "Sucre 2359, V. de Mayo",
-            "telefono": "46600418",
-            "mapa": "https://www.google.com/maps/search/%C3%81LVAREZ+V.+DE+MAYO+Sucre+2359%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5025269,
-              "lng": -58.6811005
-            }
-          },
-          {
-            "nombre": "CERNETTI",
-            "direccion": "Pasco 612, Grand Bourg",
-            "telefono": "02320481327",
-            "mapa": "https://www.google.com/maps/search/CERNETTI+Pasco+612%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4986916,
-              "lng": -58.7303427
-            }
-          },
-          {
-            "nombre": "EL CALLAO 24",
-            "direccion": "El Callao 24, Grand Bourg",
-            "telefono": "02320685470",
-            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5018857,
-              "lng": -58.7142459
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "23": [
-          {
-            "nombre": "RIVADAVIA",
-            "direccion": "Rivadavia 2687, Polvorines",
-            "telefono": "46638292",
-            "mapa": "https://www.google.com/maps/search/RIVADAVIA+Rivadavia+2687%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5009858,
-              "lng": -58.6932525
-            }
-          },
-          {
-            "nombre": "RUJANA",
-            "direccion": "Arquímedes y Luján, V. de Mayo",
-            "telefono": "46637405",
-            "mapa": "https://www.google.com/maps/search/RUJANA+Arqu%C3%ADmedes+y+Luj%C3%A1n%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5120653,
-              "lng": -58.667136
-            }
-          },
-          {
-            "nombre": "L.A.I. V. DE MAYO",
-            "direccion": "Av. Pdte. Perón 43, V. de Mayo",
-            "telefono": "1162980279",
-            "mapa": "https://www.google.com/maps/search/L.A.I.+V.+DE+MAYO+Av.+Pdte.+Per%C3%B3n+43%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5181009,
-              "lng": -58.6718376
-            }
-          },
-          {
-            "nombre": "CIENTÍFICA MALVINAS",
-            "direccion": "R.197 663, Grand Bourg",
-            "telefono": "02320446021",
-            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5066322,
-              "lng": -58.7234117
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "24": [
-          {
-            "nombre": "OCAMPO",
-            "direccion": "Pdte. Perón 3387, Polvorines",
-            "telefono": "46604575",
-            "mapa": "https://www.google.com/maps/search/OCAMPO+Pdte.+Per%C3%B3n+3387%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4997881,
-              "lng": -58.6938857
-            }
-          },
-          {
-            "nombre": "J.R.",
-            "direccion": "Arturo Illia 5254, Polvorines",
-            "telefono": "44516500",
-            "mapa": "https://www.google.com/maps/search/J.R.+Arturo+Illia+5254%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5207235,
-              "lng": -58.7173806
-            }
-          },
-          {
-            "nombre": "L.A.I. RIVADAVIA",
-            "direccion": "Juan Palliere 3204, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/L.A.I.+RIVADAVIA+Juan+Palliere+3204%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.509994,
-              "lng": -58.7042954
-            }
-          },
-          {
-            "nombre": "RASPO",
-            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4903301,
-              "lng": -58.7268928
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "25": [
-          {
-            "nombre": "EMERIC SCS",
-            "direccion": "Baroni 1859, Polvorines",
-            "telefono": "46636212",
-            "mapa": "https://www.google.com/maps/search/EMERIC+SCS+Baroni+1859%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5048126,
-              "lng": -58.7050607
-            }
-          },
-          {
-            "nombre": "CONTI",
-            "direccion": "Sucre 1635, V. de Mayo",
-            "telefono": "44637479",
-            "mapa": "https://www.google.com/maps/search/CONTI+Sucre+1635%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5059176,
-              "lng": -58.6773363
-            }
-          },
-          {
-            "nombre": "OTA",
-            "direccion": "Av. Grand Bourg 1301, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/OTA+Av.+Grand+Bourg+1301%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4956885,
-              "lng": -58.7211597
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "26": [
-          {
-            "nombre": "DEL CÍRCULO",
-            "direccion": "Pdte. Perón y Wilson, Polvorines",
-            "telefono": "46605111",
-            "mapa": "https://www.google.com/maps/search/DEL+C%C3%8DRCULO+Pdte.+Per%C3%B3n+y+Wilson%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5085981,
-              "lng": -58.6973388
-            }
-          },
-          {
-            "nombre": "DEL ÁGUILA",
-            "direccion": "San Martín 2580, Polvorines",
-            "telefono": "46600303",
-            "mapa": "https://www.google.com/maps/search/DEL+%C3%81GUILA+San+Mart%C3%ADn+2580%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5003664,
-              "lng": -58.6960774
-            }
-          },
-          {
-            "nombre": "RIVERA",
-            "direccion": "Coronel Bogado 1626, Grand Bourg",
-            "telefono": "02320480261",
-            "mapa": "https://www.google.com/maps/search/RIVERA+Coronel+Bogado+1626%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4843393,
-              "lng": -58.7261149
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "27": [
-          {
-            "nombre": "BUFFARINI",
-            "direccion": "Pdte. Perón 3030, Polvorines",
-            "telefono": "46637749",
-            "mapa": "https://www.google.com/maps/search/BUFFARINI+Pdte.+Per%C3%B3n+3030%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4520096,
-              "lng": -58.5398537
-            }
-          },
-          {
-            "nombre": "SAN MARTÍN",
-            "direccion": "S. Martín y Amenábar, V. de Mayo",
-            "telefono": "46600002",
-            "mapa": "https://www.google.com/maps/search/SAN+MART%C3%8DN+S.+Mart%C3%ADn+y+Amen%C3%A1bar%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -33.8384721,
-              "lng": -59.5294465
-            }
-          },
-          {
-            "nombre": "SIAS",
-            "direccion": "Cura Brochero 1669, Grand Bourg",
-            "telefono": "02320484070",
-            "mapa": "https://www.google.com/maps/search/SIAS+Cura+Brochero+1669%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4900986,
-              "lng": -58.7377993
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ],
-        "28": [
-          {
-            "nombre": "BOTICA",
-            "direccion": "Rivadavia 2017, Polvorines",
-            "telefono": "46630789",
-            "mapa": "https://www.google.com/maps/search/BOTICA+Rivadavia+2017%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5068557,
-              "lng": -58.7002914
-            }
-          },
-          {
-            "nombre": "ALVAREZ",
-            "direccion": "Rosario 4605, A. Sourdeaux",
-            "telefono": "47481868",
-            "mapa": "https://www.google.com/maps/search/ALVAREZ+Rosario+4605%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5022335,
-              "lng": -58.667105
-            }
-          },
-          {
-            "nombre": "CERNETTI",
-            "direccion": "Pasco 612, Grand Bourg",
-            "telefono": "02320481327",
-            "mapa": "https://www.google.com/maps/search/CERNETTI+Pasco+612%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4986916,
-              "lng": -58.7303427
-            }
-          },
-          {
-            "nombre": "EL CALLAO 24",
-            "direccion": "El Callao 24, Grand Bourg",
-            "telefono": "02320685470",
-            "mapa": "https://www.google.com/maps/search/EL+CALLAO+24+El+Callao+24%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5018857,
-              "lng": -58.7142459
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "29": [
-          {
-            "nombre": "MEDINA",
-            "direccion": "Av. Eva Perón 5068, V. de Mayo",
-            "telefono": "46636764",
-            "mapa": "https://www.google.com/maps/search/MEDINA+Av.+Eva+Per%C3%B3n+5068%2C+V.+de+Mayo%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.654435,
-              "lng": -58.592105
-            }
-          },
-          {
-            "nombre": "SAOS",
-            "direccion": "L. Suárez 2939, Polvorines",
-            "telefono": "46632742",
-            "mapa": "https://www.google.com/maps/search/SAOS+L.+Su%C3%A1rez+2939%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5142289,
-              "lng": -58.7074235
-            }
-          },
-          {
-            "nombre": "CIENTÍFICA MALVINAS",
-            "direccion": "R.197 663, Grand Bourg",
-            "telefono": "02320446021",
-            "mapa": "https://www.google.com/maps/search/CIENT%C3%8DFICA+MALVINAS+R.197+663%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.5066322,
-              "lng": -58.7234117
-            }
-          },
-          {
-            "nombre": "RICCARDI",
-            "direccion": "Francisco Seguí 4073, Tortuguitas",
-            "telefono": "02320492158",
-            "mapa": "https://www.google.com/maps/search/RICCARDI+Francisco+Segu%C3%AD+4073%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4706089,
-              "lng": -58.7577378
-            }
-          }
-        ],
-        "30": [
-          {
-            "nombre": "BORRINO",
-            "direccion": "Ing. Huergo 3595, Polvorines",
-            "telefono": "46604301",
-            "mapa": "https://www.google.com/maps/search/BORRINO+Ing.+Huergo+3595%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.4973638,
-              "lng": -58.6937587
-            }
-          },
-          {
-            "nombre": "DEL SOL",
-            "direccion": "Derqui y Peña, A. Sourdeaux",
-            "telefono": "1122382746",
-            "mapa": "https://www.google.com/maps/search/DEL+SOL+Derqui+y+Pe%C3%B1a%2C+A.+Sourdeaux%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5005986,
-              "lng": -58.6613088
-            }
-          },
-          {
-            "nombre": "BAIED",
-            "direccion": "San Martín 2887, Polvorines",
-            "telefono": "",
-            "mapa": "https://www.google.com/maps/search/BAIED+San+Mart%C3%ADn+2887%2C+Polvorines%2C+Los+Polvorines+-+V.+de+Mayo+-+A.+Sourdeaux",
-            "coordenadas": {
-              "lat": -34.5116091,
-              "lng": -58.7107808
-            }
-          },
-          {
-            "nombre": "RASPO",
-            "direccion": "Av. Grand Bourg 1098, Grand Bourg",
-            "telefono": "02320480531",
-            "mapa": "https://www.google.com/maps/search/RASPO+Av.+Grand+Bourg+1098%2C+Grand+Bourg%2C+Grand+Bourg+-+Ing.+Pablo+Nogu%C3%A9s",
-            "coordenadas": {
-              "lat": -34.4903301,
-              "lng": -58.7268928
-            }
-          },
-          {
-            "nombre": "WASSERMANN",
-            "direccion": "Directorio 507, Tortuguitas",
-            "telefono": "02320491321",
-            "mapa": "https://www.google.com/maps/search/WASSERMANN+Directorio+507%2C+Tortuguitas%2C+Tortuguitas",
-            "coordenadas": {
-              "lat": -34.4595447,
-              "lng": -58.73669
-            }
-          }
-        ]
-      }
-    },
     "Florencio Varela": {
       "fuente": "https://www.varela.gov.ar/farmaciasdeturno/",
       "confianza": 3,
@@ -10297,6 +8851,1896 @@
             "coordenadas": {
               "lat": -34.8873209,
               "lng": -58.3661904
+            }
+          }
+        ]
+      }
+    },
+    "Lomas de Zamora": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "9": [
+          {
+            "nombre": "Gonzalez",
+            "direccion": "Sirito 102, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sirito+102,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7629002,
+              "lng": -58.4185092
+            }
+          },
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "De Ortuzar",
+            "direccion": "Bustos 897, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Bustos+897,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7601693,
+              "lng": -58.4475464
+            }
+          },
+          {
+            "nombre": "Macia Prados",
+            "direccion": "Molina Arrotea 1998, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Molina+Arrotea+1998,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7655969,
+              "lng": -58.4260608
+            }
+          },
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          },
+          {
+            "nombre": "Recondo",
+            "direccion": "Recondo 2124, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Recondo+2124,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.719348,
+              "lng": -58.459339
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          },
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          },
+          {
+            "nombre": "Montes",
+            "direccion": "Int Tavano 1381 ex Virgilio, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int+Tavano+1381+ex+Virgilio,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7582842,
+              "lng": -58.4023552
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "Gonzalez",
+            "direccion": "Sirito 102, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sirito+102,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7629002,
+              "lng": -58.4185092
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          },
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "Vives",
+            "direccion": "Armesti y Coronel Diaz, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Armesti+y+Coronel+Diaz,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7422454,
+              "lng": -58.3517948
+            }
+          },
+          {
+            "nombre": "Macia Prados",
+            "direccion": "Molina Arrotea 1998, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Molina+Arrotea+1998,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7655969,
+              "lng": -58.4260608
+            }
+          },
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          },
+          {
+            "nombre": "Musotto",
+            "direccion": "Av. Gral Peron 5458, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Gral+Peron+5458,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6945191,
+              "lng": -58.4425948
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Montes",
+            "direccion": "Int Tavano 1381, ex Virgilio, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int+Tavano+1381,+ex+Virgilio,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7454192,
+              "lng": -58.4323525
+            }
+          },
+          {
+            "nombre": "Econofarma (R.W)",
+            "direccion": "Av. Hipólito Yrigoyen 9301, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+9301,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649101,
+              "lng": -58.4037235
+            }
+          },
+          {
+            "nombre": "De Stefano",
+            "direccion": "Av. Hipólito Yrigoyen 8101, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+8101,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7498638,
+              "lng": -58.4004967
+            }
+          },
+          {
+            "nombre": "Nueva Salud",
+            "direccion": "Las Tropas 900, Lomas de Zamora, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Las+Tropas+900,+Lomas+de+Zamora,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.749171,
+              "lng": -58.4287572
+            }
+          }
+        ]
+      }
+    },
+    "Banfield": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "9": [
+          {
+            "nombre": "Isaac Newton",
+            "direccion": "Isaac Newton 4583, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Isaac+Newton+4583,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7276915,
+              "lng": -58.4759983
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Pupular la Salada",
+            "direccion": "Int.B. Tavano 5086, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.B.+Tavano+5086,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7193913,
+              "lng": -58.4738082
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Rivera",
+            "direccion": "Caa-guazu 71, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Caa-guazu+71,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7401832,
+              "lng": -58.3475317
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "Sowell",
+            "direccion": "Plumerillo 799, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Plumerillo+799,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7205455,
+              "lng": -58.4291548
+            }
+          },
+          {
+            "nombre": "Alto Quiroga",
+            "direccion": "Facundo Quiroga 1213, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Facundo+Quiroga+1213,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7454627,
+              "lng": -58.4681913
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Lopardo",
+            "direccion": "Virgen de Itati 1702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Virgen+de+Itati+1702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7275364,
+              "lng": -58.4449778
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "Gispert",
+            "direccion": "Maipu 401, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Maipu+401,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7437756,
+              "lng": -58.3900537
+            }
+          },
+          {
+            "nombre": "Diamante",
+            "direccion": "Martin Rodriguez 1850, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Martin+Rodriguez+1850,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7384343,
+              "lng": -58.4389949
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "Farmacéutica Budge",
+            "direccion": "Recondo 1630, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Recondo+1630,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7157811,
+              "lng": -58.4529003
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Via Farma Filardi",
+            "direccion": "Ejercito de los Andes 605, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Ejercito+de+los+Andes+605,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7171587,
+              "lng": -58.4354234
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "Scorza",
+            "direccion": "Claudio de Alas 2186, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Claudio+de+Alas+2186,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7200448,
+              "lng": -58.4633008
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Tripharma",
+            "direccion": "Diagonal 302, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Diagonal+302,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7410694,
+              "lng": -58.3911803
+            }
+          },
+          {
+            "nombre": "Pupular la Salada",
+            "direccion": "Int.B. Tavano 5086, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.B.+Tavano+5086,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7193913,
+              "lng": -58.4738082
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "Catarina Farma",
+            "direccion": "Giachino 3623, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Giachino+3623,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7397335,
+              "lng": -58.477747
+            }
+          },
+          {
+            "nombre": "Mandrile",
+            "direccion": "Claudio de Alas 2597, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Claudio+de+Alas+2597,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7147434,
+              "lng": -58.4671809
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Morucci",
+            "direccion": "Av. Gral Martin Rodriguez 999, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Gral+Martin+Rodriguez+999,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7324288,
+              "lng": -58.4283406
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "Inmigrantes",
+            "direccion": "J.M. de Rosas 2480, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/J.M.+de+Rosas+2480,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6755407,
+              "lng": -58.5442748
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Pupular la Salada",
+            "direccion": "Int.B. Tavano 5086, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.B.+Tavano+5086,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7193913,
+              "lng": -58.4738082
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "Leon Villagomez",
+            "direccion": "Gabriela Mistral 1382, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Gabriela+Mistral+1382,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7361314,
+              "lng": -58.4328268
+            }
+          },
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Nadir Salud",
+            "direccion": "Av. Alsina 3, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+3,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7364566,
+              "lng": -58.3919707
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "Leon Villagomez",
+            "direccion": "Virgen de Itati 2106, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Virgen+de+Itati+2106,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7302121,
+              "lng": -58.4502877
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Nueva Farma Banial",
+            "direccion": "J. Manuel de Rosas 2212. Ing Budge, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/J.+Manuel+de+Rosas+2212.+Ing+Budge,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7366035,
+              "lng": -58.4824612
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "Farmabox",
+            "direccion": "Espronceda 396, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Espronceda+396,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7358563,
+              "lng": -58.4458794
+            }
+          },
+          {
+            "nombre": "Gispert",
+            "direccion": "Maipu 401, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Maipu+401,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7437756,
+              "lng": -58.3900537
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "Martin Rodriguez",
+            "direccion": "Martin Rodriguez 2375, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Martin+Rodriguez+2375,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417318,
+              "lng": -58.4457621
+            }
+          },
+          {
+            "nombre": "Farmacéutica Budge",
+            "direccion": "Recondo 1630, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Recondo+1630,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7157811,
+              "lng": -58.4529003
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "La Torre grupo Pasco",
+            "direccion": "Lisandro de la Torre 2297 ex 19811, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Lisandro+de+la+Torre+2297+ex+19811,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.676554,
+              "lng": -58.473493
+            }
+          },
+          {
+            "nombre": "Pupular la Salada",
+            "direccion": "Int.B. Tavano 5086, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.B.+Tavano+5086,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7193913,
+              "lng": -58.4738082
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "Scorza",
+            "direccion": "Claudio de Alas 2186, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Claudio+de+Alas+2186,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7200448,
+              "lng": -58.4633008
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "Mandrile",
+            "direccion": "Claudio de Alas 2597, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Claudio+de+Alas+2597,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7147434,
+              "lng": -58.4671809
+            }
+          },
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          },
+          {
+            "nombre": "Medic Sana",
+            "direccion": "Av. Olimpo 1717, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Olimpo+1717,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7357036,
+              "lng": -58.4809343
+            }
+          },
+          {
+            "nombre": "Pupular la Salada",
+            "direccion": "Int.B. Tavano 5086, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Int.B.+Tavano+5086,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7193913,
+              "lng": -58.4738082
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Martins Das Neves",
+            "direccion": "Av. Hipólito Yrigoyen 7702, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+7702,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7449382,
+              "lng": -58.3990922
+            }
+          },
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Alsina 470, Banfield, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Alsina+470,+Banfield,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7417134,
+              "lng": -58.3927653
+            }
+          }
+        ]
+      }
+    },
+    "Temperley": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "9": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          },
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Colombini",
+            "direccion": "Salta 1300 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1300+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7723071,
+              "lng": -58.3532957
+            }
+          },
+          {
+            "nombre": "Arasaky",
+            "direccion": "San Martin 5241 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martin+5241+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7305299,
+              "lng": -58.4233072
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Macco",
+            "direccion": "30 de Septiembre 4905 esq. Rio Negro, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+4905+esq.+Rio+Negro,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.778178,
+              "lng": -58.3719859
+            }
+          },
+          {
+            "nombre": "Muñoz",
+            "direccion": "Catamarca y San Martin (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Catamarca+y+San+Martin+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7847495,
+              "lng": -58.3446494
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "Soilce",
+            "direccion": "Indalecio Gomez 695, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Indalecio+Gomez+695,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7786924,
+              "lng": -58.3792677
+            }
+          },
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1000+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Bazyluk",
+            "direccion": "30 de Septiembre 2678(San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+2678(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7714735,
+              "lng": -58.3591562
+            }
+          },
+          {
+            "nombre": "Alvarez",
+            "direccion": "Pio Collivadino 420, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Pio+Collivadino+420,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7517411,
+              "lng": -58.3797672
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          },
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "Allegrino",
+            "direccion": "Av Meeks 1277, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av+Meeks+1277,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7760487,
+              "lng": -58.3974701
+            }
+          },
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Alvarez",
+            "direccion": "Jujuy esq Vertiz (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Jujuy+esq+Vertiz+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7675685,
+              "lng": -58.3556069
+            }
+          },
+          {
+            "nombre": "Santa Ana del Sur",
+            "direccion": "Sta Ana esq San Martin, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta+Ana+esq+San+Martin,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7777144,
+              "lng": -58.3320559
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "Pasteur",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Macco",
+            "direccion": "30 de Septiembre 4905 esq. Entre Rios, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+4905+esq.+Entre+Rios,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7700648,
+              "lng": -58.3799895
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1000+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Bazyluk",
+            "direccion": "30 de Septiembre 2678(San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+2678(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7714735,
+              "lng": -58.3591562
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          },
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "Ayala",
+            "direccion": "Santa Ana 572, esq garay (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Santa+Ana+572,+esq+garay+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7605747,
+              "lng": -58.3489859
+            }
+          },
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Colombini",
+            "direccion": "Salta 1300 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1300+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7723071,
+              "lng": -58.3532957
+            }
+          },
+          {
+            "nombre": "Arasaky",
+            "direccion": "San Martin 5241 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martin+5241+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7305299,
+              "lng": -58.4233072
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Buesas",
+            "direccion": "Av. Hipólito Yrigoyen 10228, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Hipólito+Yrigoyen+10228,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.775724,
+              "lng": -58.4053788
+            }
+          },
+          {
+            "nombre": "Clem Farm",
+            "direccion": "Av. Almte. Brown 2820, Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Almte.+Brown+2820,+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7703143,
+              "lng": -58.3960636
+            }
+          },
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259 (San Jose), Temperley, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259+(San+Jose),+Temperley,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ]
+      }
+    },
+    "Villa Albertina": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "12": [
+          {
+            "nombre": "Valdez",
+            "direccion": "Virgilio 1381, Villa Albertina, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Virgilio+1381,+Villa+Albertina,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7522973,
+              "lng": -58.4467899
+            }
+          }
+        ]
+      }
+    },
+    "Turdera": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "14": [
+          {
+            "nombre": "De Caria",
+            "direccion": "Av. Antartida Argentina 400, Turdera, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Antartida+Argentina+400,+Turdera,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7912978,
+              "lng": -58.4117746
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "De Caria",
+            "direccion": "Av. Antartida Argentina 400, Turdera, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Antartida+Argentina+400,+Turdera,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7912978,
+              "lng": -58.4117746
+            }
+          }
+        ]
+      }
+    },
+    "Budge": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "20": [
+          {
+            "nombre": "Canaza",
+            "direccion": "Lloveras 4113, Budge, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Lloveras+4113,+Budge,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7330102,
+              "lng": -58.4794085
+            }
+          }
+        ]
+      }
+    },
+    "Llavallol": {
+      "fuente": "https://www.uomax.com.ar/content/10-lomas-de-zamora",
+      "confianza": 3,
+      "dias": {
+        "22": [
+          {
+            "nombre": "Krylop",
+            "direccion": "Av. Monteverde 2453, Llavallol, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+Monteverde+2453,+Llavallol,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8254655,
+              "lng": -58.4217754
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Fiedoruk",
+            "direccion": "Segui 1885 (ex 385), Llavallol, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Segui+1885+(ex+385),+Llavallol,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8005724,
+              "lng": -58.4191286
             }
           }
         ]
