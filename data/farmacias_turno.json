@@ -12481,6 +12481,1560 @@
           }
         ]
       }
+    },
+    "Burzaco": {
+      "fuente": "Colegio de Farmacéuticos de Almirante Brown - Burzaco Turnos 2025 (Imagen)",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "MINETTI",
+            "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42935914",
+            "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8237618,
+              "lng": -58.4112294
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "BIANCO",
+            "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42996486",
+            "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8201173,
+              "lng": -58.3767812
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "VARGAS",
+            "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "39796348",
+            "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7406302,
+              "lng": -58.4225081
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "LA ROTONDA DEL VAPOR",
+            "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42996504",
+            "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.836023,
+              "lng": -58.3835152
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "WINNIK",
+            "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "1560200817",
+            "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8201386,
+              "lng": -58.3945213
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "SBATELLA",
+            "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990874",
+            "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6617755,
+              "lng": -58.3756236
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "ROCA",
+            "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990837",
+            "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8257081,
+              "lng": -58.3919844
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "FRANCISCO VIDAL 1460",
+            "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8259833,
+              "lng": -58.4097336
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "OCA",
+            "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42991564",
+            "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8239404,
+              "lng": -58.3959694
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "COIRO",
+            "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "08006666643",
+            "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8175423,
+              "lng": -58.4297336
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "PARSONS",
+            "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42945617",
+            "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8170131,
+              "lng": -58.388901
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "KAPLAN",
+            "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990802",
+            "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8290403,
+              "lng": -58.3871982
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "HERNANDEZ",
+            "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42948705",
+            "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8187793,
+              "lng": -58.3988398
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "CAPALLO",
+            "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "1553189772",
+            "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8314384,
+              "lng": -58.3864201
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "BURZACO SUR S.C.S.",
+            "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42999029",
+            "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8115461,
+              "lng": -58.3657667
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "NUEVA MONTEVERDE",
+            "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "60888491",
+            "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8266132,
+              "lng": -58.3714837
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "MINETTI",
+            "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42935914",
+            "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8237618,
+              "lng": -58.4112294
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "BIANCO",
+            "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42996486",
+            "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8201173,
+              "lng": -58.3767812
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "VARGAS",
+            "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "39796348",
+            "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7406302,
+              "lng": -58.4225081
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "LA ROTONDA DEL VAPOR",
+            "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42996504",
+            "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.836023,
+              "lng": -58.3835152
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "WINNIK",
+            "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "1560200817",
+            "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8201386,
+              "lng": -58.3945213
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "SBATELLA",
+            "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990874",
+            "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6617755,
+              "lng": -58.3756236
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "ROCA",
+            "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990837",
+            "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8257081,
+              "lng": -58.3919844
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "FRANCISCO VIDAL 1460",
+            "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8259833,
+              "lng": -58.4097336
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "OCA",
+            "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42991564",
+            "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8239404,
+              "lng": -58.3959694
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "COIRO",
+            "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "08006666643",
+            "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8175423,
+              "lng": -58.4297336
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "PARSONS",
+            "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42945617",
+            "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8170131,
+              "lng": -58.388901
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "KAPLAN",
+            "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990802",
+            "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8290403,
+              "lng": -58.3871982
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "HERNANDEZ",
+            "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42948705",
+            "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8187793,
+              "lng": -58.3988398
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "CAPALLO",
+            "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "1553189772",
+            "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8314384,
+              "lng": -58.3864201
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "BURZACO SUR S.C.S.",
+            "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42999029",
+            "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8115461,
+              "lng": -58.3657667
+            }
+          },
+          {
+            "nombre": "PASTEUR",
+            "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina",
+            "telefono": "42990104",
+            "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8281358,
+              "lng": -58.3893996
+            }
+          }
+        ]
+      }
+    },
+    "Claypole": {
+      "fuente": "Colegio de Farmacéuticos de Almirante Brown - Claypole Turnos 2025 (Imagen)",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "RAVA",
+            "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "423690751164195028",
+            "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8056476,
+              "lng": -58.3480173
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "MARESCA",
+            "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8071026,
+              "lng": -58.3488649
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "KLIMHER",
+            "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8011764,
+              "lng": -58.3345519
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "CORREDOR TIRIA",
+            "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8192523,
+              "lng": -58.3446126
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "HERRERA ACOSTA",
+            "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "1558222336",
+            "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6888474,
+              "lng": -58.4555364
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "PIÑOL",
+            "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8001078,
+              "lng": -58.3375962
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+            "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7971503,
+              "lng": -58.3342854
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "SASSONE",
+            "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42681337",
+            "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8064248,
+              "lng": -58.3365839
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "SALABERRY",
+            "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42773838",
+            "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7919787,
+              "lng": -58.3226693
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "MARESCA",
+            "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8071026,
+              "lng": -58.3488649
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "CORREDOR TIRIA",
+            "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8192523,
+              "lng": -58.3446126
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "KLIMHER",
+            "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8011764,
+              "lng": -58.3345519
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "ALVAREZ",
+            "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42681390",
+            "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8623341,
+              "lng": -58.143447
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "RAVA",
+            "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "423690751164195028",
+            "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8056476,
+              "lng": -58.3480173
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "TENCHA",
+            "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42910307",
+            "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7965285,
+              "lng": -58.3375213
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "HERRERA ACOSTA",
+            "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "1558222336",
+            "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6888474,
+              "lng": -58.4555364
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "SALABERRY",
+            "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42773838",
+            "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7919787,
+              "lng": -58.3226693
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+            "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7971503,
+              "lng": -58.3342854
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "PIÑOL",
+            "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8001078,
+              "lng": -58.3375962
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "ALVAREZ",
+            "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42681390",
+            "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8623341,
+              "lng": -58.143447
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "CORREDOR TIRIA",
+            "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8192523,
+              "lng": -58.3446126
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "KLIMHER",
+            "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8011764,
+              "lng": -58.3345519
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "SASSONE",
+            "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42681337",
+            "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8064248,
+              "lng": -58.3365839
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "MARESCA",
+            "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8071026,
+              "lng": -58.3488649
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "CORREDOR TIRIA",
+            "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8192523,
+              "lng": -58.3446126
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "TENCHA",
+            "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42910307",
+            "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7965285,
+              "lng": -58.3375213
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "PIÑOL",
+            "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8001078,
+              "lng": -58.3375962
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "SALABERRY",
+            "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42773838",
+            "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7919787,
+              "lng": -58.3226693
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+            "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7971503,
+              "lng": -58.3342854
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "SASSONE",
+            "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "42681337",
+            "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8064248,
+              "lng": -58.3365839
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "HERRERA ACOSTA",
+            "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+            "telefono": "1558222336",
+            "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6888474,
+              "lng": -58.4555364
+            }
+          }
+        ]
+      }
+    },
+    "Longchamps": {
+      "fuente": "Colegio de Farmacéuticos de Almirante Brown - Longchamps Turnos 2025 (Imagen)",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "RUTA",
+            "direccion": "Av. 25 de Mayo 895 (Mtro. Rivadavia), Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Av.+25+de+Mayo+895,+Mtro.+Rivadavia,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8399092,
+              "lng": -58.3656404
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "LUJILDE",
+            "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605581,
+              "lng": -58.3878439
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "GURTUBAY",
+            "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605038,
+              "lng": -58.3908974
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "YOKO",
+            "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8635182,
+              "lng": -58.3921135
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "NUEVA FULCHI",
+            "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8555584,
+              "lng": -58.38871
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "GURTUBAY",
+            "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605038,
+              "lng": -58.3908974
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "NUEVA FULCHI",
+            "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8555584,
+              "lng": -58.38871
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "GURTUBAY",
+            "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605038,
+              "lng": -58.3908974
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "GURTUBAY",
+            "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605038,
+              "lng": -58.3908974
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "SANTA CLARA DEL SOL",
+            "direccion": "Granaderos 1108, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Granaderos+1108,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.87291,
+              "lng": -58.40645
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "D'ERRICO",
+            "direccion": "Berlin y Sarmiento, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Berlin+y+Sarmiento,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8511295,
+              "lng": -58.3846348
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "YOKO",
+            "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8635182,
+              "lng": -58.3921135
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "GURTUBAY",
+            "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605038,
+              "lng": -58.3908974
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "ANTIGUA CASTAGNINO",
+            "direccion": "Buenos Aires 611, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Buenos+Aires+611,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8705042,
+              "lng": -58.4108078
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "LUJILDE",
+            "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605581,
+              "lng": -58.3878439
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "NUEVA LONGCHAMPS",
+            "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8622553,
+              "lng": -58.3876611
+            }
+          },
+          {
+            "nombre": "GURTUBAY",
+            "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.8605038,
+              "lng": -58.3908974
+            }
+          }
+        ]
+      }
     }
   }
 }
