@@ -422,6 +422,16 @@
               "lat": -34.5128458,
               "lng": -58.5678249
             }
+          },
+          {
+            "nombre": "Olsina",
+            "direccion": "Av. Sir Alexander Fleming 801, B1640 Martínez, Provincia de Buenos Aires, Argentina",
+            "telefono": "479303831162002727",
+            "mapa": "https://www.google.com/maps/search/Av.+Sir+Alexander+Fleming+801%2C+B1640+Mart%C3%ADnez%2C+Provincia+de+Buenos+Aires%2C+Argentina+San+Isidro",
+            "coordenadas": {
+              "lat": -34.4900443,
+              "lng": -58.5247402
+            }
           }
         ],
         "11": [
@@ -526,6 +536,16 @@
               "lat": -34.5009179,
               "lng": -58.5592938
             }
+          },
+          {
+            "nombre": "Sznirer",
+            "direccion": "Av. Avelino Rolón 1169, B1609 San Isidro, Provincia de Buenos Aires, Argentina",
+            "telefono": "47354914",
+            "mapa": "https://www.google.com/maps/search/Av.+Avelino+Rol%C3%B3n+1169%2C+B1609+San+Isidro%2C+Provincia+de+Buenos+Aires%2C+Argentina+San+Isidro",
+            "coordenadas": {
+              "lat": -34.5009179,
+              "lng": -58.5592938
+            }
           }
         ],
         "13": [
@@ -619,6 +639,16 @@
             "coordenadas": {
               "lat": -34.4805708,
               "lng": -58.5545495
+            }
+          },
+          {
+            "nombre": "Dankner",
+            "direccion": "Camino Real Morón A San Fernando, Cam. Real Morón A San Fernando, B1609 Boulogne, Provincia de Buenos Aires, Argentina",
+            "telefono": "1544453849",
+            "mapa": "https://www.google.com/maps/search/Camino+Real+Mor%C3%B3n+A+San+Fernando%2C+Cam.+Real+Mor%C3%B3n+A+San+Fernando%2C+B1609+Boulogne%2C+Provincia+de+Buenos+Aires%2C+Argentina+San+Isidro",
+            "coordenadas": {
+              "lat": -34.4865988,
+              "lng": -58.5819706
             }
           }
         ],
@@ -746,6 +776,16 @@
               "lat": -34.5091159,
               "lng": -58.5779757
             }
+          },
+          {
+            "nombre": "La merced",
+            "direccion": "José Ingenieros 3417, B1643FRQ Béccar, Provincia de Buenos Aires, Argentina",
+            "telefono": "47190784",
+            "mapa": "https://www.google.com/maps/search/Jos%C3%A9+Ingenieros+3417%2C+B1643FRQ+B%C3%A9ccar%2C+Provincia+de+Buenos+Aires%2C+Argentina+San+Isidro",
+            "coordenadas": {
+              "lat": -34.4767426,
+              "lng": -58.559942
+            }
           }
         ],
         "18": [
@@ -787,6 +827,16 @@
             "coordenadas": {
               "lat": -34.4845085,
               "lng": -58.5560537
+            }
+          },
+          {
+            "nombre": "Nueva Santa Rita",
+            "direccion": "Av. Sucre 431, B1609 Boulogne, Provincia de Buenos Aires, Argentina",
+            "telefono": "47352227",
+            "mapa": "https://www.google.com/maps/search/Av.+Sucre+431%2C+B1609+Boulogne%2C+Provincia+de+Buenos+Aires%2C+Argentina+San+Isidro",
+            "coordenadas": {
+              "lat": -34.4972702,
+              "lng": -58.5590857
             }
           }
         ],
@@ -1082,6 +1132,16 @@
               "lat": -34.5062618,
               "lng": -58.5640059
             }
+          },
+          {
+            "nombre": "Sznirer",
+            "direccion": "Av. Avelino Rolón 1169, B1609 San Isidro, Provincia de Buenos Aires",
+            "telefono": "47354914",
+            "mapa": "https://www.google.com/maps/search/Av.+Avelino+Rol%C3%B3n+1169%2C+B1609+San+Isidro%2C+Provincia+de+Buenos+Aires+San+Isidro",
+            "coordenadas": {
+              "lat": -34.5009179,
+              "lng": -58.5592938
+            }
           }
         ],
         "26": [
@@ -1311,6 +1371,16 @@
             "coordenadas": {
               "lat": -34.4703484,
               "lng": -58.5638398
+            }
+          },
+          {
+            "nombre": "Dankner",
+            "direccion": "Camino Real Morón A San Fernando, Cam. Real Morón A San Fernando, B1609 Boulogne, Provincia de Buenos Aires, Argentina",
+            "telefono": "1544453849",
+            "mapa": "https://www.google.com/maps/search/Camino+Real+Mor%C3%B3n+A+San+Fernando%2C+Cam.+Real+Mor%C3%B3n+A+San+Fernando%2C+B1609+Boulogne%2C+Provincia+de+Buenos+Aires%2C+Argentina+San+Isidro",
+            "coordenadas": {
+              "lat": -34.4865988,
+              "lng": -58.5819706
             }
           }
         ],
@@ -8473,6 +8543,68 @@
             "coordenadas": {
               "lat": -34.80327736806605,
               "lng": -58.27765582349562
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "AMARELLE",
+            "direccion": "Av. San Martin 2944, Centro",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.9856541970944!2d-58.27994188421988!3d-34.806302775753316!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzIyLjciUyA1OMKwMTYnMzkuOSJX!5e0!3m2!1ses!2sar!4v1466686751430",
+            "coordenadas": {
+              "lat": -34.806302775753316,
+              "lng": -58.27994188421988
+            }
+          },
+          {
+            "nombre": "MAGA SHOP",
+            "direccion": "Monteagudo 3101 - Centro",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.921348257408!2d-58.27705668421988!3d-34.807920575839354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzI4LjUiUyA1OMKwMTYnMjkuNSJX!5e0!3m2!1ses!2sar!4v1466608963378",
+            "coordenadas": {
+              "lat": -34.807920575839354,
+              "lng": -58.27705668421988
+            }
+          },
+          {
+            "nombre": "MARCH",
+            "direccion": "Av. San Martin 2022, Centro",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3276.371800579053!2d-58.28048848422025!3d-34.79658677523654!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ3JzQ3LjciUyA1OMKwMTYnNDEuOSJX!5e0!3m2!1ses!2sar!4v1466685994869",
+            "coordenadas": {
+              "lat": -34.79658677523654,
+              "lng": -58.28048848422025
+            }
+          },
+          {
+            "nombre": "PODESTÁ",
+            "direccion": "P. Podestá 1628, Bosques",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.365715385962!2d-58.23397338421953!3d-34.821896376582856!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ5JzE4LjgiUyA1OMKwMTMnNTQuNCJX!5e0!3m2!1ses!2sar!4v1466686536527",
+            "coordenadas": {
+              "lat": -34.821896376582856,
+              "lng": -58.23397338421953
+            }
+          },
+          {
+            "nombre": "SAKAIDA",
+            "direccion": "Av. Hudson 531, V. Vatteone",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.6274628548263!2d-58.257388723495104!3d-34.81531326870514!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95a3290b9d7a7841%3A0x5fa2154a72d74af0!2sAv.%20Guillermo%20Hudson%20531%2C%20B1853%20Villa%20Vatteone%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses!2sar!4v1722025184571!5m2!1ses!2sar",
+            "coordenadas": {
+              "lat": -34.81531326870514,
+              "lng": -58.257388723495104
+            }
+          },
+          {
+            "nombre": "SERGIO BRUNO",
+            "direccion": "Monteagudo 14, Centro",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3275.8246896648316!2d-58.276407384219766!3d-34.81035217596877!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzTCsDQ4JzM3LjMiUyA1OMKwMTYnMjcuMiJX!5e0!3m2!1ses!2sar!4v1466686901897",
+            "coordenadas": {
+              "lat": -34.81035217596877,
+              "lng": -58.276407384219766
             }
           }
         ]
