@@ -18123,6 +18123,124 @@
           }
         ]
       }
+    },
+    "Mar del Plata": {
+      "fuente": "http://www.colfarmamdp.com.ar/",
+      "confianza": 2,
+      "dias": {
+        "10": [
+          {
+            "nombre": "ANDRES FRONTINI",
+            "direccion": "AV JARA JUAN H. 42, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4733373",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV%20JARA%20JUAN%20H.%2042%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -37.9740046,
+              "lng": -57.560195
+            }
+          },
+          {
+            "nombre": "FAILONI",
+            "direccion": "AV. FELIZ U. CAMET 123, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4736352",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV.%20FELIZ%20U.%20CAMET%20123%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -37.9799302,
+              "lng": -57.5443638
+            }
+          },
+          {
+            "nombre": "FLORES PRADO",
+            "direccion": "AV  BELTRAN 5688, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "2235313404",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV%20%20BELTRAN%205688%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -37.9400471,
+              "lng": -57.5458744
+            }
+          },
+          {
+            "nombre": "MITRE",
+            "direccion": "AV. COLON 2690, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4941232",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV.%20COLON%202690%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0032423,
+              "lng": -57.5509657
+            }
+          },
+          {
+            "nombre": "NUEVA EDISON FARMACEUTICA",
+            "direccion": "T.A. EDISON 1180, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4894463",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=T.A.%20EDISON%201180%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0469342,
+              "lng": -57.5544802
+            }
+          },
+          {
+            "nombre": "OMBRONI",
+            "direccion": "AV INDEPENDENCIA 3002, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "2233521496",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV%20INDEPENDENCIA%203002%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0067936,
+              "lng": -57.5613725
+            }
+          },
+          {
+            "nombre": "PENNISI FORELL",
+            "direccion": "AV FORTUNATO DE LA PLAZA 3237, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "6266333",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV%20FORTUNATO%20DE%20LA%20PLAZA%203237%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0540368,
+              "lng": -57.558867
+            }
+          },
+          {
+            "nombre": "PREMEDICA SCS",
+            "direccion": "126 ESQ. 135 BATAN, Provincia de Buenos Aires",
+            "telefono": "4640992",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=126%20ESQ.%20135%20BATAN%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0017892,
+              "lng": -57.7081829
+            }
+          },
+          {
+            "nombre": "RIADIGOS",
+            "direccion": "AV JUAN B. JUSTO 2600, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4953022",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV%20JUAN%20B.%20JUSTO%202600%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0229838,
+              "lng": -57.5660331
+            }
+          },
+          {
+            "nombre": "RODRIGUEZ",
+            "direccion": "JARA Y ALBERTI, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "2235160637",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=JARA%20Y%20ALBERTI%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -37.9944888,
+              "lng": -57.5769418
+            }
+          },
+          {
+            "nombre": "ROIG",
+            "direccion": "AV. PEDRO LURO 3219, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4916427",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=AV.%20PEDRO%20LURO%203219%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -37.995086,
+              "lng": -57.5525114
+            }
+          }
+        ]
+      }
     }
   }
 }
