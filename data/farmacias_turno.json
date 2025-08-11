@@ -17455,6 +17455,674 @@
           }
         ]
       }
+    },
+    "San Fernando": {
+      "fuente": "https://colfarmasanfdo.org.ar/turnero.html",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "Otharan",
+            "direccion": "Belgrano 1964 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Belgrano%201964%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4484392,
+              "lng": -58.5516916
+            }
+          },
+          {
+            "nombre": "Lässig",
+            "direccion": "Perón 406 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%20406%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4361883,
+              "lng": -58.5611028
+            }
+          },
+          {
+            "nombre": "Pacheco San Fernando",
+            "direccion": "Constitución 201 S.F., San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%20201%20S.F.%2C%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4358493,
+              "lng": -58.5636732
+            }
+          },
+          {
+            "nombre": "Grupo Fabole",
+            "direccion": "René Favaloro 3395 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Ren%C3%A9%20Favaloro%203395%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4829741,
+              "lng": -58.5883202
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "Andreu",
+            "direccion": "Constitución 1286 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%201286%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4422208,
+              "lng": -58.5550763
+            }
+          },
+          {
+            "nombre": "Del Virrey",
+            "direccion": "Avellaneda y Calle 4 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%20y%20Calle%204%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4611828,
+              "lng": -58.5737562
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "Cimino",
+            "direccion": "C. Casares 3164 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=C.%20Casares%203164%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4622058,
+              "lng": -58.5625649
+            }
+          },
+          {
+            "nombre": "Mitre",
+            "direccion": "Constitución 652 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%20652%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.438204,
+              "lng": -58.5600736
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "Panamá",
+            "direccion": "Avellaneda 4810 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%204810%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4665852,
+              "lng": -58.5845837
+            }
+          },
+          {
+            "nombre": "Traynor",
+            "direccion": "Constitución 1000 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%201000%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4403939,
+              "lng": -58.5573524
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "Pacheco Virreyes",
+            "direccion": "Avellaneda 2899 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%202899%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4558321,
+              "lng": -58.5629298
+            }
+          },
+          {
+            "nombre": "Libertador 2200",
+            "direccion": "Perón 2302 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%202302%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4472566,
+              "lng": -58.5468017
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "Negri",
+            "direccion": "Perón 2916 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%202916%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4482488,
+              "lng": -58.5452498
+            }
+          },
+          {
+            "nombre": "Freire",
+            "direccion": "Avellaneda 4198 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%204198%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4634523,
+              "lng": -58.5778936
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "Santamarina",
+            "direccion": "Santamarina 1394 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Santamarina%201394%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4556759,
+              "lng": -58.5405338
+            }
+          },
+          {
+            "nombre": "Blejer",
+            "direccion": "C. Casares 3914 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=C.%20Casares%203914%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4668949,
+              "lng": -58.5723131
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "Andreu",
+            "direccion": "Constitución 1286 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%201286%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4422208,
+              "lng": -58.5550763
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "Bustelo",
+            "direccion": "Perón 1801 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%201801%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4448957,
+              "lng": -58.5502951
+            }
+          },
+          {
+            "nombre": "Savini",
+            "direccion": "Sobremonte 299 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Sobremonte%20299%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4415051,
+              "lng": -58.5688792
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "Del Rosario",
+            "direccion": "Avellaneda 3401 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%203401%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.459054,
+              "lng": -58.5696291
+            }
+          },
+          {
+            "nombre": "Pacheco del Pueblo",
+            "direccion": "Necochea 1202 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Necochea%201202%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4443414,
+              "lng": -58.552633
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "De María",
+            "direccion": "H. Yrigoyen 2098 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=H.%20Yrigoyen%202098%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4476015,
+              "lng": -58.5626306
+            }
+          },
+          {
+            "nombre": "Martinez",
+            "direccion": "Avellaneda 5438 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%205438%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4698734,
+              "lng": -58.5914777
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "Canal San Fdo.",
+            "direccion": "3 de Febrero y Colón San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=3%20de%20Febrero%20y%20Col%C3%B3n%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.434999,
+              "lng": -58.565954
+            }
+          },
+          {
+            "nombre": "Iriondo 609",
+            "direccion": "Av. Libertador 3061 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Libertador%203061%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4498973,
+              "lng": -58.5337935
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "Martín",
+            "direccion": "Perón 2498 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%202498%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4488538,
+              "lng": -58.5447491
+            }
+          },
+          {
+            "nombre": "Contreras",
+            "direccion": "Avellaneda 3757 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%203757%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4608412,
+              "lng": -58.5734374
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "Melesi",
+            "direccion": "9 de Julio 1493 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=9%20de%20Julio%201493%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4429885,
+              "lng": -58.5587618
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "Pacheco San Fernando",
+            "direccion": "Constitución 201 S.F., San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%20201%20S.F.%2C%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4358493,
+              "lng": -58.5636732
+            }
+          },
+          {
+            "nombre": "Grupo Fabole",
+            "direccion": "René Favaloro 3395 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Ren%C3%A9%20Favaloro%203395%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4829741,
+              "lng": -58.5883202
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "Pelman",
+            "direccion": "Perón 3302 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%203302%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4535984,
+              "lng": -58.5378958
+            }
+          },
+          {
+            "nombre": "Virrey Sobremonte",
+            "direccion": "Avellaneda 1899 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%201899%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4516164,
+              "lng": -58.5546764
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "Mastronardi",
+            "direccion": "Brandsen 2111 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Brandsen%202111%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4504708,
+              "lng": -58.5510844
+            }
+          },
+          {
+            "nombre": "Bruno",
+            "direccion": "Bolloqui 190 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Bolloqui%20190%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4580415,
+              "lng": -58.5391918
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "Otharan",
+            "direccion": "Belgrano 1964 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Belgrano%201964%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4484392,
+              "lng": -58.5516916
+            }
+          },
+          {
+            "nombre": "Lässig",
+            "direccion": "Perón 406 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%20406%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4361883,
+              "lng": -58.5611028
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "Andreu",
+            "direccion": "Constitución 1286 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%201286%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4422208,
+              "lng": -58.5550763
+            }
+          },
+          {
+            "nombre": "Del Virrey",
+            "direccion": "Avellaneda y Calle 4 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%20y%20Calle%204%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4611828,
+              "lng": -58.5737562
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "Cimino",
+            "direccion": "C. Casares 3164 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=C.%20Casares%203164%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4622058,
+              "lng": -58.5625649
+            }
+          },
+          {
+            "nombre": "Mitre",
+            "direccion": "Constitución 652 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%20652%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.438204,
+              "lng": -58.5600736
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "Panamá",
+            "direccion": "Avellaneda 4810 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%204810%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4665852,
+              "lng": -58.5845837
+            }
+          },
+          {
+            "nombre": "Traynor",
+            "direccion": "Constitución 1000 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%201000%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4403939,
+              "lng": -58.5573524
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "Pacheco Virreyes",
+            "direccion": "Avellaneda 2899 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%202899%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4558321,
+              "lng": -58.5629298
+            }
+          },
+          {
+            "nombre": "Libertador 2200",
+            "direccion": "Perón 2302 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%202302%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4472566,
+              "lng": -58.5468017
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "Lässig",
+            "direccion": "Perón 406 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%20406%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4361883,
+              "lng": -58.5611028
+            }
+          },
+          {
+            "nombre": "Freire",
+            "direccion": "Avellaneda 4198 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%204198%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4634523,
+              "lng": -58.5778936
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Santamarina",
+            "direccion": "Santamarina 1394 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Santamarina%201394%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4556759,
+              "lng": -58.5405338
+            }
+          },
+          {
+            "nombre": "Blejer",
+            "direccion": "C. Casares 3914 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=C.%20Casares%203914%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4668949,
+              "lng": -58.5723131
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "Andreu",
+            "direccion": "Constitución 1286 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Constituci%C3%B3n%201286%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4422208,
+              "lng": -58.5550763
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "Bustelo",
+            "direccion": "Perón 1801 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%201801%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4448957,
+              "lng": -58.5502951
+            }
+          },
+          {
+            "nombre": "Savini",
+            "direccion": "Sobremonte 299 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Sobremonte%20299%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4415051,
+              "lng": -58.5688792
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "Del Rosario",
+            "direccion": "Avellaneda 3401 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%203401%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.459054,
+              "lng": -58.5696291
+            }
+          },
+          {
+            "nombre": "Pacheco del Pueblo",
+            "direccion": "Necochea 1202 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Necochea%201202%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4443414,
+              "lng": -58.552633
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "De María",
+            "direccion": "H. Yrigoyen 2098 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=H.%20Yrigoyen%202098%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4476015,
+              "lng": -58.5626306
+            }
+          },
+          {
+            "nombre": "Martinez",
+            "direccion": "Avellaneda 5438 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%205438%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4698734,
+              "lng": -58.5914777
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "Canal San Fdo.",
+            "direccion": "3 de Febrero y Colón San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=3%20de%20Febrero%20y%20Col%C3%B3n%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.434999,
+              "lng": -58.565954
+            }
+          },
+          {
+            "nombre": "Iriondo 609",
+            "direccion": "Av. Libertador 3061 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Av.%20Libertador%203061%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4498973,
+              "lng": -58.5337935
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "Martín",
+            "direccion": "Perón 2498 Victoria, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Per%C3%B3n%202498%20Victoria%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4488538,
+              "lng": -58.5447491
+            }
+          },
+          {
+            "nombre": "Contreras",
+            "direccion": "Avellaneda 3757 Virreyes, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=Avellaneda%203757%20Virreyes%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4608412,
+              "lng": -58.5734374
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "Melesi",
+            "direccion": "9 de Julio 1493 San Fernando, Provincia de Buenos Aires",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=9%20de%20Julio%201493%20San%20Fernando%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -34.4429885,
+              "lng": -58.5587618
+            }
+          }
+        ]
+      }
     }
   }
 }
