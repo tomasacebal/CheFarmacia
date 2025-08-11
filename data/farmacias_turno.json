@@ -14035,6 +14035,2222 @@
           }
         ]
       }
+    },
+    "Avellaneda": {
+      "fuente": "https://www.uomax.com.ar/content/11-avellaneda",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "SORCINELLI",
+            "direccion": "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42058900",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6800326,
+              "lng": -58.3516874
+            }
+          },
+          {
+            "nombre": "ROSSETTI",
+            "direccion": "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42275365",
+            "mapa": "https://www.google.com/maps/search/C.LARRALDE+6802,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7157055,
+              "lng": -58.3227222
+            }
+          },
+          {
+            "nombre": "BADAGNANI",
+            "direccion": "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42071161",
+            "mapa": "https://www.google.com/maps/search/B.+BLANCA+838,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6944399,
+              "lng": -58.3114851
+            }
+          },
+          {
+            "nombre": "PASTEUR Y VILLEGAS",
+            "direccion": "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42073904",
+            "mapa": "https://www.google.com/maps/search/PASTEUR+Y+VILLEGAS,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6921357,
+              "lng": -58.3454921
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "TORRES",
+            "direccion": "AV. MITRE 1100, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42224394",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1100,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6641221,
+              "lng": -58.3612038
+            }
+          },
+          {
+            "nombre": "HOUSE FARMA",
+            "direccion": "SAN ISIDRO 4679, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/SAN+ISIDRO+4679,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6862876,
+              "lng": -58.3251593
+            }
+          },
+          {
+            "nombre": "FINOCHIETTO S.C.S.",
+            "direccion": "A. FRANCE 778, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42052506",
+            "mapa": "https://www.google.com/maps/search/A.+FRANCE+778,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.681683,
+              "lng": -58.3576294
+            }
+          },
+          {
+            "nombre": "CUNEO",
+            "direccion": "AV. MITRE 5836, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42070596",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+5836,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6998278,
+              "lng": -58.3220531
+            }
+          },
+          {
+            "nombre": "RUSNAK",
+            "direccion": "LAS FLORES 1600, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42064749",
+            "mapa": "https://www.google.com/maps/search/LAS+FLORES+1600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6911394,
+              "lng": -58.3021825
+            }
+          },
+          {
+            "nombre": "SANAR TRES",
+            "direccion": "C. URUGUAYO 1209, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42069992",
+            "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1209,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6613785,
+              "lng": -58.3674269
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "LAPRIDA",
+            "direccion": "AV. MITRE 1002, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42224730",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1002,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.663825,
+              "lng": -58.362152
+            }
+          },
+          {
+            "nombre": "LACARRA",
+            "direccion": "LACARRA 1702, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42046833",
+            "mapa": "https://www.google.com/maps/search/LACARRA+1702,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6854978,
+              "lng": -58.374495
+            }
+          },
+          {
+            "nombre": "RAWSON",
+            "direccion": "AV. GALICIA 800, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42085190",
+            "mapa": "https://www.google.com/maps/search/AV.+GALICIA+800,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6708168,
+              "lng": -58.3906645
+            }
+          },
+          {
+            "nombre": "BARBERA",
+            "direccion": "LAS FLORES 1313, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42078574",
+            "mapa": "https://www.google.com/maps/search/LAS+FLORES+1313,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6932297,
+              "lng": -58.3045381
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "TOMBESI",
+            "direccion": "BELGRANO 2900, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "21978918",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6481957,
+              "lng": -58.3775414
+            }
+          },
+          {
+            "nombre": "LA CONDAL",
+            "direccion": "LEBENSHON 799, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017657",
+            "mapa": "https://www.google.com/maps/search/LEBENSHON+799,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6651386,
+              "lng": -58.3801682
+            }
+          },
+          {
+            "nombre": "MENDEZ",
+            "direccion": "ING. HUERGO 1383, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42051792",
+            "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1383,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6554407,
+              "lng": -58.3454082
+            }
+          },
+          {
+            "nombre": "YAMAL",
+            "direccion": "BELGRANO 5801, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42077189",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+5801,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.701932,
+              "lng": -58.325123
+            }
+          },
+          {
+            "nombre": "BEFFA",
+            "direccion": "C. LARRALDE 4602, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42064840",
+            "mapa": "https://www.google.com/maps/search/C.+LARRALDE+4602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7004032,
+              "lng": -58.3421838
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "ROSALES",
+            "direccion": "AV. MITRE 1725, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "48054980",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1725,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6677124,
+              "lng": -58.3564192
+            }
+          },
+          {
+            "nombre": "MODERNA",
+            "direccion": "AV. GALICIA 410, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42082297",
+            "mapa": "https://www.google.com/maps/search/AV.+GALICIA+410,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.673811,
+              "lng": -58.3868838
+            }
+          },
+          {
+            "nombre": "MALDONADO",
+            "direccion": "C.GRAL. BELGRANO 6496, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42201688",
+            "mapa": "https://www.google.com/maps/search/C.GRAL.+BELGRANO+6496,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7241571,
+              "lng": -58.3366195
+            }
+          },
+          {
+            "nombre": "DOCK SUD",
+            "direccion": "M. ESTEVEZ 1279, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017724",
+            "mapa": "https://www.google.com/maps/search/M.+ESTEVEZ+1279,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6502233,
+              "lng": -58.3553082
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "LOS PICASOS",
+            "direccion": "MANSILLA 2699, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42048920",
+            "mapa": "https://www.google.com/maps/search/MANSILLA+2699,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.68509,
+              "lng": -58.3563875
+            }
+          },
+          {
+            "nombre": "DE LA PLAZA",
+            "direccion": "AV. MITRE 844, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42014817",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+844,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6629108,
+              "lng": -58.3638651
+            }
+          },
+          {
+            "nombre": "RUBIO",
+            "direccion": "ING. HUERGO 1201, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42220574",
+            "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1201,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6554388,
+              "lng": -58.3477971
+            }
+          },
+          {
+            "nombre": "ESCADA",
+            "direccion": "SUIPACHA 1662, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42208515",
+            "mapa": "https://www.google.com/maps/search/SUIPACHA+1662,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7019912,
+              "lng": -58.3551035
+            }
+          },
+          {
+            "nombre": "SOL WILDE",
+            "direccion": "R. FRANCO 5919, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "43530644",
+            "mapa": "https://www.google.com/maps/search/R.+FRANCO+5919,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6967906,
+              "lng": -58.3151369
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "CASSISSA",
+            "direccion": "AV. MITRE 1471, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42037923",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1471,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6666426,
+              "lng": -58.357853
+            }
+          },
+          {
+            "nombre": "AMERICANA",
+            "direccion": "GARCIA 202, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017185",
+            "mapa": "https://www.google.com/maps/search/GARCIA+202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6635439,
+              "lng": -58.3802493
+            }
+          },
+          {
+            "nombre": "MAGA SHOP AVELL",
+            "direccion": "MITRE 637, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42011450",
+            "mapa": "https://www.google.com/maps/search/MITRE+637,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6614162,
+              "lng": -58.3666
+            }
+          },
+          {
+            "nombre": "VILLEGAS",
+            "direccion": "C. URUGUAYO 1602, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42306336",
+            "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5793106,
+              "lng": -58.510615
+            }
+          },
+          {
+            "nombre": "UOM AVELL",
+            "direccion": "AV. H. YRIGOYEN 386, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42220810",
+            "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+386,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6619735,
+              "lng": -58.3752846
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "BUEDIKMAN",
+            "direccion": "SAN MARTIN 1905, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42043507",
+            "mapa": "https://www.google.com/maps/search/SAN+MARTIN+1905,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6716333,
+              "lng": -58.3579111
+            }
+          },
+          {
+            "nombre": "SEVEN PHARM",
+            "direccion": "AV. H. YRIGOYEN 269, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42226461",
+            "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+269,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.659079,
+              "lng": -58.3733593
+            }
+          },
+          {
+            "nombre": "GUERSCHANIK",
+            "direccion": "GRAL. ACHA 648, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42042544",
+            "mapa": "https://www.google.com/maps/search/GRAL.+ACHA+648,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6871464,
+              "lng": -58.3505986
+            }
+          },
+          {
+            "nombre": "NUEVA WILDE",
+            "direccion": "F. ONSARI 1202, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/F.+ONSARI+1202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7150331,
+              "lng": -58.3300589
+            }
+          },
+          {
+            "nombre": "GROSSO",
+            "direccion": "SUIPACHA 1099, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/SUIPACHA+1099,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6969328,
+              "lng": -58.3497249
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "12 DE OCTUBRE",
+            "direccion": "12 DE OCTUBRE 601, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017519",
+            "mapa": "https://www.google.com/maps/search/12+DE+OCTUBRE+601,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6592499,
+              "lng": -58.3540319
+            }
+          },
+          {
+            "nombre": "TKACZUK",
+            "direccion": "AV. GALICIA 40, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "2185252",
+            "mapa": "https://www.google.com/maps/search/AV.+GALICIA+40,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6761224,
+              "lng": -58.3841883
+            }
+          },
+          {
+            "nombre": "DUCA",
+            "direccion": "AV. MITRE 2412, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42048311",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+2412,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6737171,
+              "lng": -58.3503669
+            }
+          },
+          {
+            "nombre": "MAGA SHOP SAR",
+            "direccion": "AV. MITRE 3385, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42042536",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+3385,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6842703,
+              "lng": -58.3427923
+            }
+          },
+          {
+            "nombre": "HEREDIA",
+            "direccion": "LACARRA 1302, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "20538983",
+            "mapa": "https://www.google.com/maps/search/LACARRA+1302,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.682167,
+              "lng": -58.370539
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "SERRATS",
+            "direccion": "MEAÑOS 1356 L. 5, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42057575",
+            "mapa": "https://www.google.com/maps/search/MEAÑOS+1356+L.+5,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6729668,
+              "lng": -58.3640532
+            }
+          },
+          {
+            "nombre": "SARMIENTO",
+            "direccion": "SARMIENTO 1700, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42044859",
+            "mapa": "https://www.google.com/maps/search/SARMIENTO+1700,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.689362,
+              "lng": -58.3673656
+            }
+          },
+          {
+            "nombre": "DOS SANTOS",
+            "direccion": "DEBENEDETTI 3526, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42044118",
+            "mapa": "https://www.google.com/maps/search/DEBENEDETTI+3526,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.675648,
+              "lng": -58.3441293
+            }
+          },
+          {
+            "nombre": "BELGRANO",
+            "direccion": "BELGRANO 4600, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42077104",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+4600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6937336,
+              "lng": -58.33516
+            }
+          },
+          {
+            "nombre": "Q.DOCTOR",
+            "direccion": "ONSARI 2230, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/ONSARI+2230,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7220223,
+              "lng": -58.3380275
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "DIAMANDY",
+            "direccion": "AV. MITRE 2798, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "52186007",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+2798,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6781142,
+              "lng": -58.3465283
+            }
+          },
+          {
+            "nombre": "WYBERT",
+            "direccion": "PARAGUAY 902, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42093488",
+            "mapa": "https://www.google.com/maps/search/PARAGUAY+902,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6754858,
+              "lng": -58.3948528
+            }
+          },
+          {
+            "nombre": "TRONCOSO",
+            "direccion": "P. ANGULO Y ALEM, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017959",
+            "mapa": "https://www.google.com/maps/search/P.+ANGULO+Y+ALEM,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6518202,
+              "lng": -58.3463563
+            }
+          },
+          {
+            "nombre": "UOM GERLI",
+            "direccion": "LACARRA 1536, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42653030",
+            "mapa": "https://www.google.com/maps/search/LACARRA+1536,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6839811,
+              "lng": -58.3726372
+            }
+          },
+          {
+            "nombre": "BOULEVAR S.C.S.",
+            "direccion": "B.DE LOS ITALIANOS 901, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42277624",
+            "mapa": "https://www.google.com/maps/search/B.DE+LOS+ITALIANOS+901,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6889263,
+              "lng": -58.3490499
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "PERREGRINI",
+            "direccion": "BELGRANO 2316, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42650021",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2316,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6777595,
+              "lng": -58.3543739
+            }
+          },
+          {
+            "nombre": "RINCON SALUD",
+            "direccion": "DE LA SERNA 1301, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "39811399",
+            "mapa": "https://www.google.com/maps/search/DE+LA+SERNA+1301,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6874111,
+              "lng": -58.3701374
+            }
+          },
+          {
+            "nombre": "SANAR II",
+            "direccion": "LAS FLORES 900, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42278617",
+            "mapa": "https://www.google.com/maps/search/LAS+FLORES+900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6959935,
+              "lng": -58.308267
+            }
+          },
+          {
+            "nombre": "BARRIENTOS",
+            "direccion": "SAN LORENZO 890, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "43531025",
+            "mapa": "https://www.google.com/maps/search/SAN+LORENZO+890,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6963267,
+              "lng": -58.3467132
+            }
+          },
+          {
+            "nombre": "DOMINICO",
+            "direccion": "AV. MITRE 4701, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42077612",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+4701,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6931708,
+              "lng": -58.3322998
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "SOCIAL SARANDI",
+            "direccion": "LLORENTE 320, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42042588",
+            "mapa": "https://www.google.com/maps/search/LLORENTE+320,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6666196,
+              "lng": -58.3514736
+            }
+          },
+          {
+            "nombre": "FARM. NOVA",
+            "direccion": "AV. H. YRIGOYEN 999, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "1151120001",
+            "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+999,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6684659,
+              "lng": -58.3803571
+            }
+          },
+          {
+            "nombre": "EL ALTO A",
+            "direccion": "AV. GUEMES 880, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42034895",
+            "mapa": "https://www.google.com/maps/search/AV.+GUEMES+880,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6765313,
+              "lng": -58.3654683
+            }
+          },
+          {
+            "nombre": "UNIVERSAL",
+            "direccion": "R. ESPAÑOL 1371, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42171687",
+            "mapa": "https://www.google.com/maps/search/R.+ESPAÑOL+1371,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.590015,
+              "lng": -58.5009927
+            }
+          },
+          {
+            "nombre": "VIARD",
+            "direccion": "B. DE LOS ITALIANOS 1608, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42463040",
+            "mapa": "https://www.google.com/maps/search/B.+DE+LOS+ITALIANOS+1608,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7079802,
+              "lng": -58.5488008
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "25 DE MAYO",
+            "direccion": "25 DE MAYO 599, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "47106671",
+            "mapa": "https://www.google.com/maps/search/25+DE+MAYO+599,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.657789,
+              "lng": -58.3592018
+            }
+          },
+          {
+            "nombre": "BARBOSA",
+            "direccion": "SANTA FE 2081, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42086720",
+            "mapa": "https://www.google.com/maps/search/SANTA+FE+2081,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6786854,
+              "lng": -58.3886809
+            }
+          },
+          {
+            "nombre": "SOY SANAR 63",
+            "direccion": "AV. MITRE 3093, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42047789",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+3093,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6819493,
+              "lng": -58.3447481
+            }
+          },
+          {
+            "nombre": "ALAMO",
+            "direccion": "AV. MITRE 4207, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42074064",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+4207,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6899866,
+              "lng": -58.3367329
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "MUTOV",
+            "direccion": "SALTA 1899, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42040168",
+            "mapa": "https://www.google.com/maps/search/SALTA+1899,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6935142,
+              "lng": -58.3659879
+            }
+          },
+          {
+            "nombre": "ULIBARRI",
+            "direccion": "SAN VICENTE 501, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42047787",
+            "mapa": "https://www.google.com/maps/search/SAN+VICENTE+501,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6917311,
+              "lng": -58.3222063
+            }
+          },
+          {
+            "nombre": "FERRERI",
+            "direccion": "ONSARI 1598, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42465046",
+            "mapa": "https://www.google.com/maps/search/ONSARI+1598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7182641,
+              "lng": -58.3342379
+            }
+          },
+          {
+            "nombre": "UOM MITRE SCS",
+            "direccion": "MITRE 1973, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42043636",
+            "mapa": "https://www.google.com/maps/search/MITRE+1973,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6699101,
+              "lng": -58.3546104
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "SORCINELLI",
+            "direccion": "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42058900",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6800326,
+              "lng": -58.3516874
+            }
+          },
+          {
+            "nombre": "ROSSETTI",
+            "direccion": "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42275365",
+            "mapa": "https://www.google.com/maps/search/C.LARRALDE+6802,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7157055,
+              "lng": -58.3227222
+            }
+          },
+          {
+            "nombre": "BADAGNANI",
+            "direccion": "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42071161",
+            "mapa": "https://www.google.com/maps/search/B.+BLANCA+838,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6944399,
+              "lng": -58.3114851
+            }
+          },
+          {
+            "nombre": "PASTEUR Y VILLEGAS",
+            "direccion": "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42073904",
+            "mapa": "https://www.google.com/maps/search/PASTEUR+Y+VILLEGAS,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6921357,
+              "lng": -58.3454921
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "TORRES",
+            "direccion": "AV. MITRE 1100, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42224394",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1100,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6641221,
+              "lng": -58.3612038
+            }
+          },
+          {
+            "nombre": "HOUSE FARMA",
+            "direccion": "SAN ISIDRO 4679, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/SAN+ISIDRO+4679,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6862876,
+              "lng": -58.3251593
+            }
+          },
+          {
+            "nombre": "FINOCHIETTO S.C.S.",
+            "direccion": "A. FRANCE 778, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42052506",
+            "mapa": "https://www.google.com/maps/search/A.+FRANCE+778,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.681683,
+              "lng": -58.3576294
+            }
+          },
+          {
+            "nombre": "CUNEO",
+            "direccion": "AV. MITRE 5836, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42070596",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+5836,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6998278,
+              "lng": -58.3220531
+            }
+          },
+          {
+            "nombre": "RUSNAK",
+            "direccion": "LAS FLORES 1600, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42064749",
+            "mapa": "https://www.google.com/maps/search/LAS+FLORES+1600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6911394,
+              "lng": -58.3021825
+            }
+          },
+          {
+            "nombre": "SANAR TRES",
+            "direccion": "C. URUGUAYO 1209, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42069992",
+            "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1209,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6613785,
+              "lng": -58.3674269
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "LAPRIDA",
+            "direccion": "AV. MITRE 1002, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42224730",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1002,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.663825,
+              "lng": -58.362152
+            }
+          },
+          {
+            "nombre": "LACARRA",
+            "direccion": "LACARRA 1702, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42046833",
+            "mapa": "https://www.google.com/maps/search/LACARRA+1702,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6854978,
+              "lng": -58.374495
+            }
+          },
+          {
+            "nombre": "RAWSON",
+            "direccion": "AV. GALICIA 800, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42085190",
+            "mapa": "https://www.google.com/maps/search/AV.+GALICIA+800,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6708168,
+              "lng": -58.3906645
+            }
+          },
+          {
+            "nombre": "BARBERA",
+            "direccion": "LAS FLORES 1313, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42078574",
+            "mapa": "https://www.google.com/maps/search/LAS+FLORES+1313,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6932297,
+              "lng": -58.3045381
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "TOMBESI",
+            "direccion": "BELGRANO 2900, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "21978918",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6481957,
+              "lng": -58.3775414
+            }
+          },
+          {
+            "nombre": "LA CONDAL",
+            "direccion": "LEBENSHON 799, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017657",
+            "mapa": "https://www.google.com/maps/search/LEBENSHON+799,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6651386,
+              "lng": -58.3801682
+            }
+          },
+          {
+            "nombre": "MENDEZ",
+            "direccion": "ING. HUERGO 1383, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42051792",
+            "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1383,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6554407,
+              "lng": -58.3454082
+            }
+          },
+          {
+            "nombre": "YAMAL",
+            "direccion": "BELGRANO 5801, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42077189",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+5801,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.701932,
+              "lng": -58.325123
+            }
+          },
+          {
+            "nombre": "BEFFA",
+            "direccion": "C. LARRALDE 4602, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42064840",
+            "mapa": "https://www.google.com/maps/search/C.+LARRALDE+4602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7004032,
+              "lng": -58.3421838
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "ROSALES",
+            "direccion": "AV. MITRE 1725, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "48054980",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1725,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6677124,
+              "lng": -58.3564192
+            }
+          },
+          {
+            "nombre": "MODERNA",
+            "direccion": "AV. GALICIA 410, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42082297",
+            "mapa": "https://www.google.com/maps/search/AV.+GALICIA+410,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.673811,
+              "lng": -58.3868838
+            }
+          },
+          {
+            "nombre": "MALDONADO",
+            "direccion": "C.GRAL. BELGRANO 6496, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42201688",
+            "mapa": "https://www.google.com/maps/search/C.GRAL.+BELGRANO+6496,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7241571,
+              "lng": -58.3366195
+            }
+          },
+          {
+            "nombre": "DOCK SUD",
+            "direccion": "M. ESTEVEZ 1279, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017724",
+            "mapa": "https://www.google.com/maps/search/M.+ESTEVEZ+1279,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6502233,
+              "lng": -58.3553082
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "LOS PICASOS",
+            "direccion": "MANSILLA 2699, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42048920",
+            "mapa": "https://www.google.com/maps/search/MANSILLA+2699,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.68509,
+              "lng": -58.3563875
+            }
+          },
+          {
+            "nombre": "DE LA PLAZA",
+            "direccion": "AV. MITRE 844, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42014817",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+844,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6629108,
+              "lng": -58.3638651
+            }
+          },
+          {
+            "nombre": "RUBIO",
+            "direccion": "ING. HUERGO 1201, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42220574",
+            "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1201,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6554388,
+              "lng": -58.3477971
+            }
+          },
+          {
+            "nombre": "ESCADA",
+            "direccion": "SUIPACHA 1662, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42208515",
+            "mapa": "https://www.google.com/maps/search/SUIPACHA+1662,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7019912,
+              "lng": -58.3551035
+            }
+          },
+          {
+            "nombre": "SOL WILDE",
+            "direccion": "R. FRANCO 5919, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "43530644",
+            "mapa": "https://www.google.com/maps/search/R.+FRANCO+5919,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6967906,
+              "lng": -58.3151369
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "CASSISSA",
+            "direccion": "AV. MITRE 1471, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42037923",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+1471,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6666426,
+              "lng": -58.357853
+            }
+          },
+          {
+            "nombre": "AMERICANA",
+            "direccion": "GARCIA 202, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017185",
+            "mapa": "https://www.google.com/maps/search/GARCIA+202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6635439,
+              "lng": -58.3802493
+            }
+          },
+          {
+            "nombre": "MAGA SHOP AVELL",
+            "direccion": "MITRE 637, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42011450",
+            "mapa": "https://www.google.com/maps/search/MITRE+637,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6614162,
+              "lng": -58.3666
+            }
+          },
+          {
+            "nombre": "VILLEGAS",
+            "direccion": "C. URUGUAYO 1602, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42306336",
+            "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5793106,
+              "lng": -58.510615
+            }
+          },
+          {
+            "nombre": "UOM AVELL",
+            "direccion": "AV. H. YRIGOYEN 386, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42220810",
+            "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+386,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6619735,
+              "lng": -58.3752846
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "BUEDIKMAN",
+            "direccion": "SAN MARTIN 1905, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42043507",
+            "mapa": "https://www.google.com/maps/search/SAN+MARTIN+1905,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6716333,
+              "lng": -58.3579111
+            }
+          },
+          {
+            "nombre": "SEVEN PHARM",
+            "direccion": "AV. H. YRIGOYEN 269, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42226461",
+            "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+269,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.659079,
+              "lng": -58.3733593
+            }
+          },
+          {
+            "nombre": "GUERSCHANIK",
+            "direccion": "GRAL. ACHA 648, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42042544",
+            "mapa": "https://www.google.com/maps/search/GRAL.+ACHA+648,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6871464,
+              "lng": -58.3505986
+            }
+          },
+          {
+            "nombre": "NUEVA WILDE",
+            "direccion": "F. ONSARI 1202, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/F.+ONSARI+1202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7150331,
+              "lng": -58.3300589
+            }
+          },
+          {
+            "nombre": "GROSSO",
+            "direccion": "SUIPACHA 1099, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/SUIPACHA+1099,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6969328,
+              "lng": -58.3497249
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "12 DE OCTUBRE",
+            "direccion": "12 DE OCTUBRE 601, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017519",
+            "mapa": "https://www.google.com/maps/search/12+DE+OCTUBRE+601,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6592499,
+              "lng": -58.3540319
+            }
+          },
+          {
+            "nombre": "TKACZUK",
+            "direccion": "AV. GALICIA 40, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "2185252",
+            "mapa": "https://www.google.com/maps/search/AV.+GALICIA+40,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6761224,
+              "lng": -58.3841883
+            }
+          },
+          {
+            "nombre": "DUCA",
+            "direccion": "AV. MITRE 2412, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42048311",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+2412,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6737171,
+              "lng": -58.3503669
+            }
+          },
+          {
+            "nombre": "MAGA SHOP SAR",
+            "direccion": "AV. MITRE 3385, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42042536",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+3385,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6842703,
+              "lng": -58.3427923
+            }
+          },
+          {
+            "nombre": "HEREDIA",
+            "direccion": "LACARRA 1302, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "20538983",
+            "mapa": "https://www.google.com/maps/search/LACARRA+1302,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.682167,
+              "lng": -58.370539
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "SERRATS",
+            "direccion": "MEAÑOS 1356 L. 5, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42057575",
+            "mapa": "https://www.google.com/maps/search/MEAÑOS+1356+L.+5,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6729668,
+              "lng": -58.3640532
+            }
+          },
+          {
+            "nombre": "SARMIENTO",
+            "direccion": "SARMIENTO 1700, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42044859",
+            "mapa": "https://www.google.com/maps/search/SARMIENTO+1700,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.689362,
+              "lng": -58.3673656
+            }
+          },
+          {
+            "nombre": "DOS SANTOS",
+            "direccion": "DEBENEDETTI 3526, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42044118",
+            "mapa": "https://www.google.com/maps/search/DEBENEDETTI+3526,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.675648,
+              "lng": -58.3441293
+            }
+          },
+          {
+            "nombre": "BELGRANO",
+            "direccion": "BELGRANO 4600, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42077104",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+4600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6937336,
+              "lng": -58.33516
+            }
+          },
+          {
+            "nombre": "Q.DOCTOR",
+            "direccion": "ONSARI 2230, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/ONSARI+2230,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7220223,
+              "lng": -58.3380275
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "DIAMANDY",
+            "direccion": "AV. MITRE 2798, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "52186007",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+2798,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6781142,
+              "lng": -58.3465283
+            }
+          },
+          {
+            "nombre": "WYBERT",
+            "direccion": "PARAGUAY 902, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42093488",
+            "mapa": "https://www.google.com/maps/search/PARAGUAY+902,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6754858,
+              "lng": -58.3948528
+            }
+          },
+          {
+            "nombre": "TRONCOSO",
+            "direccion": "P. ANGULO Y ALEM, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42017959",
+            "mapa": "https://www.google.com/maps/search/P.+ANGULO+Y+ALEM,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6518202,
+              "lng": -58.3463563
+            }
+          },
+          {
+            "nombre": "UOM GERLI",
+            "direccion": "LACARRA 1536, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42653030",
+            "mapa": "https://www.google.com/maps/search/LACARRA+1536,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6839811,
+              "lng": -58.3726372
+            }
+          },
+          {
+            "nombre": "BOULEVAR S.C.S.",
+            "direccion": "B.DE LOS ITALIANOS 901, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42277624",
+            "mapa": "https://www.google.com/maps/search/B.DE+LOS+ITALIANOS+901,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6889263,
+              "lng": -58.3490499
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "PERREGRINI",
+            "direccion": "BELGRANO 2316, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42650021",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2316,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6777595,
+              "lng": -58.3543739
+            }
+          },
+          {
+            "nombre": "RINCON SALUD",
+            "direccion": "DE LA SERNA 1301, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "39811399",
+            "mapa": "https://www.google.com/maps/search/DE+LA+SERNA+1301,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6874111,
+              "lng": -58.3701374
+            }
+          },
+          {
+            "nombre": "SANAR II",
+            "direccion": "LAS FLORES 900, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42278617",
+            "mapa": "https://www.google.com/maps/search/LAS+FLORES+900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6959935,
+              "lng": -58.308267
+            }
+          },
+          {
+            "nombre": "BARRIENTOS",
+            "direccion": "SAN LORENZO 890, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "43531025",
+            "mapa": "https://www.google.com/maps/search/SAN+LORENZO+890,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6963267,
+              "lng": -58.3467132
+            }
+          },
+          {
+            "nombre": "DOMINICO",
+            "direccion": "AV. MITRE 4701, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42077612",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+4701,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6931708,
+              "lng": -58.3322998
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "SOCIAL SARANDI",
+            "direccion": "LLORENTE 320, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42042588",
+            "mapa": "https://www.google.com/maps/search/LLORENTE+320,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6666196,
+              "lng": -58.3514736
+            }
+          },
+          {
+            "nombre": "FARM. NOVA",
+            "direccion": "AV. H. YRIGOYEN 999, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "1151120001",
+            "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+999,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6684659,
+              "lng": -58.3803571
+            }
+          },
+          {
+            "nombre": "EL ALTO A",
+            "direccion": "AV. GUEMES 880, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42034895",
+            "mapa": "https://www.google.com/maps/search/AV.+GUEMES+880,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6765313,
+              "lng": -58.3654683
+            }
+          },
+          {
+            "nombre": "UNIVERSAL",
+            "direccion": "R. ESPAÑOL 1371, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42171687",
+            "mapa": "https://www.google.com/maps/search/R.+ESPAÑOL+1371,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.590015,
+              "lng": -58.5009927
+            }
+          },
+          {
+            "nombre": "VIARD",
+            "direccion": "B. DE LOS ITALIANOS 1608, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42463040",
+            "mapa": "https://www.google.com/maps/search/B.+DE+LOS+ITALIANOS+1608,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7079802,
+              "lng": -58.5488008
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "25 DE MAYO",
+            "direccion": "25 DE MAYO 599, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "47106671",
+            "mapa": "https://www.google.com/maps/search/25+DE+MAYO+599,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.657789,
+              "lng": -58.3592018
+            }
+          },
+          {
+            "nombre": "BARBOSA",
+            "direccion": "SANTA FE 2081, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42086720",
+            "mapa": "https://www.google.com/maps/search/SANTA+FE+2081,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6786854,
+              "lng": -58.3886809
+            }
+          },
+          {
+            "nombre": "SOY SANAR 63",
+            "direccion": "AV. MITRE 3093, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42047789",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+3093,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6819493,
+              "lng": -58.3447481
+            }
+          },
+          {
+            "nombre": "ALAMO",
+            "direccion": "AV. MITRE 4207, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42074064",
+            "mapa": "https://www.google.com/maps/search/AV.+MITRE+4207,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6899866,
+              "lng": -58.3367329
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "MUTOV",
+            "direccion": "SALTA 1899, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42040168",
+            "mapa": "https://www.google.com/maps/search/SALTA+1899,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6935142,
+              "lng": -58.3659879
+            }
+          },
+          {
+            "nombre": "ULIBARRI",
+            "direccion": "SAN VICENTE 501, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42047787",
+            "mapa": "https://www.google.com/maps/search/SAN+VICENTE+501,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6917311,
+              "lng": -58.3222063
+            }
+          },
+          {
+            "nombre": "FERRERI",
+            "direccion": "ONSARI 1598, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42465046",
+            "mapa": "https://www.google.com/maps/search/ONSARI+1598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7182641,
+              "lng": -58.3342379
+            }
+          },
+          {
+            "nombre": "UOM MITRE SCS",
+            "direccion": "MITRE 1973, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42043636",
+            "mapa": "https://www.google.com/maps/search/MITRE+1973,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6699101,
+              "lng": -58.3546104
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "SORCINELLI",
+            "direccion": "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42058900",
+            "mapa": "https://www.google.com/maps/search/BELGRANO+2598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6800326,
+              "lng": -58.3516874
+            }
+          },
+          {
+            "nombre": "ROSSETTI",
+            "direccion": "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42275365",
+            "mapa": "https://www.google.com/maps/search/C.LARRALDE+6802,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7157055,
+              "lng": -58.3227222
+            }
+          },
+          {
+            "nombre": "BADAGNANI",
+            "direccion": "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42071161",
+            "mapa": "https://www.google.com/maps/search/B.+BLANCA+838,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6944399,
+              "lng": -58.3114851
+            }
+          },
+          {
+            "nombre": "PASTEUR Y VILLEGAS",
+            "direccion": "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina",
+            "telefono": "42073904",
+            "mapa": "https://www.google.com/maps/search/PASTEUR+Y+VILLEGAS,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6921357,
+              "lng": -58.3454921
+            }
+          }
+        ]
+      }
+    },
+    "San José": {
+      "fuente": "Colegio de Farmacéuticos de Almirante Brown - San José Turnos 2025 (Imagen)",
+      "confianza": 3,
+      "dias": {
+        "1": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Flores",
+            "direccion": "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Álvarez+1288,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7610752,
+              "lng": -58.3319318
+            }
+          }
+        ],
+        "2": [
+          {
+            "nombre": "Bazyluk",
+            "direccion": "30 de Septiembre 2678, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "21132927",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+2678,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7714735,
+              "lng": -58.3591562
+            }
+          },
+          {
+            "nombre": "Parisi",
+            "direccion": "Sta. Ana 1171, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+1171,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649769,
+              "lng": -58.342328
+            }
+          }
+        ],
+        "3": [
+          {
+            "nombre": "Materson",
+            "direccion": "Bynnon 4089, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "75160444",
+            "mapa": "https://www.google.com/maps/search/Bynnon+4089,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790603,
+              "lng": -58.3561859
+            }
+          }
+        ],
+        "4": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Farma 24",
+            "direccion": "Salta 501, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+501,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.765756,
+              "lng": -58.3584477
+            }
+          }
+        ],
+        "5": [
+          {
+            "nombre": "Macco",
+            "direccion": "30 de Septiembre 4905 esq. Rio Negro, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42699843",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+4905+esq.+Rio+Negro,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5701747,
+              "lng": -57.4873142
+            }
+          },
+          {
+            "nombre": "Muñoz",
+            "direccion": "Catamarca 2596 casi esq. San Martín, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42910160",
+            "mapa": "https://www.google.com/maps/search/Catamarca+2596+casi+esq.+San+Martín,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7845244,
+              "lng": -58.3449418
+            }
+          }
+        ],
+        "6": [
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ],
+        "7": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Flores",
+            "direccion": "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Álvarez+1288,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7610752,
+              "lng": -58.3319318
+            }
+          }
+        ],
+        "8": [
+          {
+            "nombre": "Álvarez T",
+            "direccion": "Pio Collivadino 420, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Pio+Collivadino+420,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6944085,
+              "lng": -58.4383971
+            }
+          },
+          {
+            "nombre": "Bazyluk",
+            "direccion": "30 de septiembre 2678, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "21132927",
+            "mapa": "https://www.google.com/maps/search/30+de+septiembre+2678,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7714735,
+              "lng": -58.3591562
+            }
+          },
+          {
+            "nombre": "Parisi",
+            "direccion": "Sta. Ana 1171, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+1171,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649769,
+              "lng": -58.342328
+            }
+          }
+        ],
+        "9": [
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          }
+        ],
+        "10": [
+          {
+            "nombre": "Colombini",
+            "direccion": "Salta 1300, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42914586",
+            "mapa": "https://www.google.com/maps/search/Salta+1300,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7723071,
+              "lng": -58.3532957
+            }
+          },
+          {
+            "nombre": "Arasaky",
+            "direccion": "San Martín 5241, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martín+5241,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7801374,
+              "lng": -58.3366995
+            }
+          }
+        ],
+        "11": [
+          {
+            "nombre": "Macco",
+            "direccion": "30 de Septiembre 4905 esq. Rio Negro, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42699843",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+4905+esq.+Rio+Negro,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5701747,
+              "lng": -57.4873142
+            }
+          },
+          {
+            "nombre": "Muñoz",
+            "direccion": "Catamarca 2596 casi esq. San Martín, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42910160",
+            "mapa": "https://www.google.com/maps/search/Catamarca+2596+casi+esq.+San+Martín,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7845244,
+              "lng": -58.3449418
+            }
+          }
+        ],
+        "12": [
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ],
+        "13": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Flores",
+            "direccion": "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Álvarez+1288,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7610752,
+              "lng": -58.3319318
+            }
+          }
+        ],
+        "14": [
+          {
+            "nombre": "Álvarez T",
+            "direccion": "Pio Collivadino 420, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Pio+Collivadino+420,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6944085,
+              "lng": -58.4383971
+            }
+          },
+          {
+            "nombre": "Bazyluk",
+            "direccion": "30 de septiembre 2678, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "21132927",
+            "mapa": "https://www.google.com/maps/search/30+de+septiembre+2678,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7714735,
+              "lng": -58.3591562
+            }
+          },
+          {
+            "nombre": "Parisi",
+            "direccion": "Sta. Ana 1171, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+1171,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649769,
+              "lng": -58.342328
+            }
+          }
+        ],
+        "15": [
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          }
+        ],
+        "16": [
+          {
+            "nombre": "Álvarez SJ",
+            "direccion": "Jujuy esq. Vertiz, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Jujuy+esq.+Vertiz,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -28.5196335,
+              "lng": -61.8716199
+            }
+          },
+          {
+            "nombre": "Sta. Ana del Sur",
+            "direccion": "Sta. Ana esq. San Martín, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+esq.+San+Martín,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.77799,
+              "lng": -58.33216
+            }
+          }
+        ],
+        "17": [
+          {
+            "nombre": "Macco",
+            "direccion": "30 de Septiembre 4905 esq. Rio Negro, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42699843",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+4905+esq.+Rio+Negro,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.5701747,
+              "lng": -57.4873142
+            }
+          }
+        ],
+        "18": [
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ],
+        "19": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Flores",
+            "direccion": "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Álvarez+1288,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7610752,
+              "lng": -58.3319318
+            }
+          }
+        ],
+        "20": [
+          {
+            "nombre": "Bazyluk",
+            "direccion": "30 de Septiembre 2678, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "21132927",
+            "mapa": "https://www.google.com/maps/search/30+de+Septiembre+2678,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7714735,
+              "lng": -58.3591562
+            }
+          },
+          {
+            "nombre": "Parisi",
+            "direccion": "Sta. Ana 1171, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+1171,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649769,
+              "lng": -58.342328
+            }
+          }
+        ],
+        "21": [
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          }
+        ],
+        "22": [
+          {
+            "nombre": "Demeter",
+            "direccion": "Santa Ana 1913 e/Rosales y Piedrabuena, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Santa+Ana+1913+e/Rosales+y+Piedrabuena,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7701933,
+              "lng": -58.3380769
+            }
+          },
+          {
+            "nombre": "Materson",
+            "direccion": "Bynnon 4089, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "75160444",
+            "mapa": "https://www.google.com/maps/search/Bynnon+4089,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790603,
+              "lng": -58.3561859
+            }
+          }
+        ],
+        "23": [
+          {
+            "nombre": "Colombini",
+            "direccion": "Salta 1300, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42914586",
+            "mapa": "https://www.google.com/maps/search/Salta+1300,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7723071,
+              "lng": -58.3532957
+            }
+          },
+          {
+            "nombre": "Arasaky",
+            "direccion": "San Martín 5241, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/San+Martín+5241,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7801374,
+              "lng": -58.3366995
+            }
+          }
+        ],
+        "24": [
+          {
+            "nombre": "Dranovsek",
+            "direccion": "Salta 1667, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+1667,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7748927,
+              "lng": -58.350919
+            }
+          },
+          {
+            "nombre": "Llano",
+            "direccion": "Los Eucaliptus 259, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Los+Eucaliptus+259,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7643809,
+              "lng": -58.3608186
+            }
+          }
+        ],
+        "25": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Flores",
+            "direccion": "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Álvarez+1288,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7610752,
+              "lng": -58.3319318
+            }
+          }
+        ],
+        "26": [
+          {
+            "nombre": "Alvarez T",
+            "direccion": "pio Collivadino 420, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/pio+Collivadino+420,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.6944085,
+              "lng": -58.4383971
+            }
+          },
+          {
+            "nombre": "Parisi",
+            "direccion": "Sta. Ana 1171, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+1171,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7649769,
+              "lng": -58.342328
+            }
+          }
+        ],
+        "27": [
+          {
+            "nombre": "Piñol",
+            "direccion": "Salta 57, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+57,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7620827,
+              "lng": -58.3610513
+            }
+          },
+          {
+            "nombre": "Brunetti",
+            "direccion": "Salta 2072, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+2072,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7790806,
+              "lng": -58.3472275
+            }
+          }
+        ],
+        "28": [
+          {
+            "nombre": "Alvarez S.J.",
+            "direccion": "Jujuy esq. Vértiz, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Jujuy+esq.+Vértiz,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -28.4453593,
+              "lng": -61.9208263
+            }
+          },
+          {
+            "nombre": "Demeter",
+            "direccion": "Sta. Ana 1913 e/ Rosales y Piedrabuena, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+1913+e/+Rosales+y+Piedrabuena,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7665242,
+              "lng": -58.3394056
+            }
+          },
+          {
+            "nombre": "Sta. Ana del Sur",
+            "direccion": "Sta. Ana esq. San Martín, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Sta.+Ana+esq.+San+Martín,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.77799,
+              "lng": -58.33216
+            }
+          }
+        ],
+        "29": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Farma 24",
+            "direccion": "Salta 501, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Salta+501,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.765756,
+              "lng": -58.3584477
+            }
+          }
+        ],
+        "30": [
+          {
+            "nombre": "Pasos",
+            "direccion": "Donato Alvarez 1608 esq- Mitre, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Alvarez+1608+esq-+Mitre,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.764099,
+              "lng": -58.3297027
+            }
+          }
+        ],
+        "31": [
+          {
+            "nombre": "Manteiga",
+            "direccion": "Salta 1000, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "42642234",
+            "mapa": "https://www.google.com/maps/search/Salta+1000,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7694873,
+              "lng": -58.3552945
+            }
+          },
+          {
+            "nombre": "Flores",
+            "direccion": "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina",
+            "telefono": "",
+            "mapa": "https://www.google.com/maps/search/Donato+Álvarez+1288,+San+José,+Provincia+de+Buenos+Aires,+Argentina",
+            "coordenadas": {
+              "lat": -34.7610752,
+              "lng": -58.3319318
+            }
+          }
+        ]
+      }
     }
   }
 }
