@@ -1,0 +1,2650 @@
+{
+    "agosto": {
+        "La Matanza": {
+            "fuente": "https://www.instagram.com/farmaciaszonaoeste/",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "septiembre": {
+        "La Matanza": {
+            "fuente": "https://www.instagram.com/farmaciaszonaoeste/",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "octubre": {
+        "La Matanza": {
+            "fuente": "https://www.instagram.com/farmaciaszonaoeste/",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ]
+            }
+        }
+    },
+    "noviembre": {
+        "La Matanza": {
+            "fuente": "https://www.instagram.com/farmaciaszonaoeste/",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ]
+            }
+        }
+    },
+    "diciembre": {
+        "La Matanza": {
+            "fuente": "https://www.instagram.com/farmaciaszonaoeste/",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "LOS ANGELES",
+                        "direccion": "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6220 / 11-3210-5999",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+801,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERO",
+                        "direccion": "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-3215-5225",
+                        "mapa": "https://www.google.com/maps/search/Alberti+1769,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GIORGETTI",
+                        "direccion": "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-6398",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+725,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "BER",
+                        "direccion": "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-8988",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3508,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERNANDEZ",
+                        "direccion": "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6331",
+                        "mapa": "https://www.google.com/maps/search/Olleros+335,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BRIKMAN",
+                        "direccion": "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4653-0355 / 3905 / 11-5340-0393",
+                        "mapa": "https://www.google.com/maps/search/Balcarce+1197,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "CHICLANA",
+                        "direccion": "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7602",
+                        "mapa": "https://www.google.com/maps/search/Chiclana+1044,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "J. M. de Rosas",
+                        "direccion": "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/J.+M.+de+Rosas+2238,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SUAREZ",
+                        "direccion": "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4669-2743",
+                        "mapa": "https://www.google.com/maps/search/Sto.+Cabral+730,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "MILANESI",
+                        "direccion": "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-7795",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+3147,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "S.J. KRUK",
+                        "direccion": "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4452-3909",
+                        "mapa": "https://www.google.com/maps/place/Farmacia/@-34.6699142,-58.5088876,20.5z/data=!4m11!1m3!2m2!1sGral.+Paz+13501+farmacia+kruk!6e2!3m6!1s0x95bcc92233cf67eb:0xf268eb5d1a8574c3!8m2!3d-34.6699701!4d-58.5087622!15sCh1HcmFsLiBQYXogMTM1MDEgZmFybWFjaWEga3J1a1oeIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrkgEIcGhhcm1hY3mqAWcQASogIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVrKA4yHxABIhuxi7S97Sz_5f8h5Tv2H9Vo0Bu5QwqxM3W7zRMyIBACIhxncmFsIHBheiAxMzUwMSBmYXJtYWNpYSBrcnVr4AEA!16s%2Fg%2F1vn__467?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DEL PUEBLO",
+                        "direccion": "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-0180 / 11-3358-8234",
+                        "mapa": "https://www.google.com/maps/place/Av.+Brig.+Gral.+Juan+Manuel+de+Rosas+523,+B1752DRF+Lomas+del+Mirador,+Cdad.+Aut%C3%B3noma+de+Buenos+Aires/@-34.6647233,-58.5262949,18z/data=!3m1!4b1!4m6!3m5!1s0x95bcc8f15c7f1b57:0xb5ce8d281b3775c6!8m2!3d-34.6647252!4d-58.5252123!16s%2Fg%2F11c10st_7b?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "CORNEO",
+                        "direccion": "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-9657 / 11-5491-8569",
+                        "mapa": "https://www.google.com/maps/search/Av.+San+Martin+5230,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FAIG",
+                        "direccion": "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4488-1231",
+                        "mapa": "https://www.google.com/maps/search/Av.+Eva+Perón+313,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "DI PISA",
+                        "direccion": "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4699-6599 / 11-5620-1783",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+4389,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CEJAS",
+                        "direccion": "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-5817 / 11-2763-9539",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Cejas/@-34.6598673,-58.5451206,16.96z/data=!4m6!3m5!1s0x95bcc87cbb8434d9:0xa6c8e7dce83e47d1!8m2!3d-34.6598671!4d-58.5441224!16s%2Fg%2F1tlbkry9?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "VALDEZ",
+                        "direccion": "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2072-6977 / 11-6658-9817",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+2371,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA CINTO",
+                        "direccion": "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4441-4975 / 11-2359-9919",
+                        "mapa": "https://www.google.com/maps/place/FARMACIA+CINTO/@-34.666528,-58.554177,17z/data=!4m6!3m5!1s0x95bcc99aae0fb5af:0x109ad66dd84f4b92!8m2!3d-34.666528!4d-58.5494134!16s%2Fg%2F11vypc3441?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "NOTARIO",
+                        "direccion": "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2062-6993 / 11-3512-1125",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+%26+Perfumeria+Notario/@-34.6809265,-58.5134414,17z/data=!4m6!3m5!1s0x95bcc97e0e015d53:0xc1cc6fbaf7b320f8!8m2!3d-34.6810722!4d-58.5124007!16s%2Fg%2F11h7g4vqnr?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DOMINGUEZ",
+                        "direccion": "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-9137",
+                        "mapa": "https://www.google.com/maps/search/Gascon+608,+Tablada,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CALDARELLI",
+                        "direccion": "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4654-3602 / 11-6232-8853",
+                        "mapa": "https://www.google.com/maps/place/Av.+Gral.+San+Mart%C3%ADn+1631,+C1416CRE+Buenos+Aires,+Provincia+de+Buenos+Aires/@-34.6557094,-58.5571872,16z/data=!4m6!3m5!1s0x95bcc87a1b889ccd:0x29cc81c985efa1db!8m2!3d-34.6560867!4d-58.5482975!16s%2Fg%2F11vz31tpj_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "FARMILY",
+                        "direccion": "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4454-5863 / 2144-3026",
+                        "mapa": "https://www.google.com/maps/search/Bolivar+4396,+V.+Madero,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CHIOVINO",
+                        "direccion": "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-0332",
+                        "mapa": "https://www.google.com/maps/search/Salcedo+792,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MARCOLIN",
+                        "direccion": "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-0477",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Marcolin/@-34.6626614,-58.5421592,15.75z/data=!4m6!3m5!1s0x95bcc889c819afd3:0x9450dc9c7a3707e5!8m2!3d-34.663771!4d-58.5398461!16s%2Fg%2F1tk_kxc_?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "GANBATTE",
+                        "direccion": "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-3185",
+                        "mapa": "https://www.google.com/maps/search/Brandsen+4257,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEGURADO",
+                        "direccion": "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4651-2620 / 11-6489-3018",
+                        "mapa": "https://www.google.com/maps/search/Av.+Mosconi+1619,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "LENTINI",
+                        "direccion": "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4484-9461",
+                        "mapa": "https://www.google.com/maps/search/Pte.+Perón+4159,+San+Justo,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMAFLOW",
+                        "direccion": "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2107-3301",
+                        "mapa": "https://www.google.com/maps/place/Farmaflow+Fabogesic+Ibuprofeno/@-34.6540993,-58.5298861,21z/data=!4m6!3m5!1s0x95bcc85dc1bb5ec5:0xe0f2fee918f39e7e!8m2!3d-34.6540668!4d-58.5299026!16s%2Fg%2F11j0q8f_5d?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "ABREU",
+                        "direccion": "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-7030-5438",
+                        "mapa": "https://www.google.com/maps/search/Av.+J.+M.+de+Rosas+1088,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "GALER",
+                        "direccion": "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0521 / 11-5492-1244",
+                        "mapa": "https://www.google.com/maps/place/CBN,+Lisandro+de+la+Torre+508,+B1751+La+Tablada,+Provincia+de+Buenos+Aires/@-34.6765363,-58.5171194,18.5z/data=!4m6!3m5!1s0x95bcc8dd8482654b:0x573bea7ec909c288!8m2!3d-34.6766784!4d-58.5168912!16s%2Fg%2F11h4kw7rdk?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "DR. SALUD",
+                        "direccion": "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4482-5454",
+                        "mapa": "https://www.google.com/maps/search/Av.+Villegas+497,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARMACIA MAD",
+                        "direccion": "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "6086-5041 / 15-6253-0568",
+                        "mapa": "https://www.google.com/maps/search/Larrea+2245,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "MARIN",
+                        "direccion": "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "7079-0303",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Mar%C3%ADn/@-34.6538099,-58.5510292,17.25z/data=!4m6!3m5!1s0x95bcc877854a0d65:0xcd93a53f28d13832!8m2!3d-34.6542648!4d-58.5499246!16s%2Fg%2F1pp2wz1v4?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    },
+                    {
+                        "nombre": "OMAR",
+                        "direccion": "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-3129 / 11-3263-2336",
+                        "mapa": "https://www.google.com/maps/search/A.+Palacios+3989,+L.+del+Mirador,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "PONPREI S.C.S.",
+                        "direccion": "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4028-2900",
+                        "mapa": "https://www.google.com/maps/search/Gral.+Acha+410,+R.+Mejia,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "POU",
+                        "direccion": "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4652-6411 / 11-3382-9577",
+                        "mapa": "https://www.google.com/maps/place/Pou/@-34.6732721,-58.5297531,17.5z/data=!4m6!3m5!1s0x95bcc8ecf6c6ab13:0x471d209392aaaa34!8m2!3d-34.6730539!4d-58.528969!16s%2Fg%2F11bc8drc0c?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "NUEVA CROVARA",
+                        "direccion": "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4453-0130 / 11-2594-5295",
+                        "mapa": "https://www.google.com/maps/search/Av.+Crovara+1391,+V.+Insuperable,+La+Matanza,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SINNI",
+                        "direccion": "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4657-5291 / 11-3351-4253",
+                        "mapa": "https://www.google.com/maps/place/Farmacia+Sinni/@-34.6529894,-58.5427537,17z/data=!4m6!3m5!1s0x95bcc86ffd56573d:0x397fd6e83dd681b4!8m2!3d-34.6530296!4d-58.5427043!16s%2Fg%2F1tdchkcy?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D"
+                    }
+                ]
+            }
+        }
+    }
+}

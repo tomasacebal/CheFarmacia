@@ -22,6 +22,8 @@ from scrapers.san_bernardo import SanBernardoScraper
 from scrapers.san_clemente_del_tuyu import SanClementeScraper
 from scrapers.santa_teresita import SantaTeresitaScraper
 from scrapers.sources import SourcesScraper
+from scrapers.san_fernando import SanFernandoScraper
+from scrapers.mar_del_plata import MarDelPlataScraper
 
 from utils import save_to_json, commit_and_push, format_data_for_json, merge_data
 
@@ -50,6 +52,8 @@ def main():
         SanBernardoScraper(),
         SanClementeScraper(),
         SantaTeresitaScraper(),
+        SanFernandoScraper(),
+        MarDelPlataScraper(),
 
         VarelaScraper(),
     ]

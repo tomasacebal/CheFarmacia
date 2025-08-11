@@ -1,0 +1,948 @@
+{
+    "agosto": {
+        "Avellaneda": {
+            "fuente": "https://www.uomax.com.ar/content/11-avellaneda",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "SORCINELLI",
+                        "direccion": "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-8900",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ROSSETTI",
+                        "direccion": "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-5365",
+                        "mapa": "https://www.google.com/maps/search/C.LARRALDE+6802,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BADAGNANI",
+                        "direccion": "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-1161",
+                        "mapa": "https://www.google.com/maps/search/B.+BLANCA+838,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "PASTEUR Y VILLEGAS",
+                        "direccion": "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-3904",
+                        "mapa": "https://www.google.com/maps/search/PASTEUR+Y+VILLEGAS,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "TORRES",
+                        "direccion": "AV. MITRE 1100, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-4394",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1100,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "HOUSE FARMA",
+                        "direccion": "SAN ISIDRO 4679, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/SAN+ISIDRO+4679,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FINOCHIETTO S.C.S.",
+                        "direccion": "A. FRANCE 778, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-2506",
+                        "mapa": "https://www.google.com/maps/search/A.+FRANCE+778,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CUNEO",
+                        "direccion": "AV. MITRE 5836, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-0596",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+5836,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RUSNAK",
+                        "direccion": "LAS FLORES 1600, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4206-4749",
+                        "mapa": "https://www.google.com/maps/search/LAS+FLORES+1600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SANAR TRES",
+                        "direccion": "C. URUGUAYO 1209, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4206-9992",
+                        "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1209,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "LAPRIDA",
+                        "direccion": "AV. MITRE 1002, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-4730",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1002,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LACARRA",
+                        "direccion": "LACARRA 1702, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-6833",
+                        "mapa": "https://www.google.com/maps/search/LACARRA+1702,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RAWSON",
+                        "direccion": "AV. GALICIA 800, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4208-5190",
+                        "mapa": "https://www.google.com/maps/search/AV.+GALICIA+800,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERA",
+                        "direccion": "LAS FLORES 1313, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-8574",
+                        "mapa": "https://www.google.com/maps/search/LAS+FLORES+1313,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "TOMBESI",
+                        "direccion": "BELGRANO 2900, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2197-8918",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LA CONDAL",
+                        "direccion": "LEBENSHON 799, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7657",
+                        "mapa": "https://www.google.com/maps/search/LEBENSHON+799,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MENDEZ",
+                        "direccion": "ING. HUERGO 1383, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-1792",
+                        "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1383,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YAMAL",
+                        "direccion": "BELGRANO 5801, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-7189",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+5801,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BEFFA",
+                        "direccion": "C. LARRALDE 4602, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4206-4840",
+                        "mapa": "https://www.google.com/maps/search/C.+LARRALDE+4602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "ROSALES",
+                        "direccion": "AV. MITRE 1725, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4805-4980",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1725,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MODERNA",
+                        "direccion": "AV. GALICIA 410, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4208-2297",
+                        "mapa": "https://www.google.com/maps/search/AV.+GALICIA+410,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MALDONADO",
+                        "direccion": "C.GRAL. BELGRANO 6496, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4220-1688",
+                        "mapa": "https://www.google.com/maps/search/C.GRAL.+BELGRANO+6496,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DOCK SUD",
+                        "direccion": "M. ESTEVEZ 1279, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7724",
+                        "mapa": "https://www.google.com/maps/search/M.+ESTEVEZ+1279,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "LOS PICASOS",
+                        "direccion": "MANSILLA 2699, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-8920",
+                        "mapa": "https://www.google.com/maps/search/MANSILLA+2699,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DE LA PLAZA",
+                        "direccion": "AV. MITRE 844, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-4817",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+844,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RUBIO",
+                        "direccion": "ING. HUERGO 1201, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-0574",
+                        "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1201,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ESCADA",
+                        "direccion": "SUIPACHA 1662, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4220-8515",
+                        "mapa": "https://www.google.com/maps/search/SUIPACHA+1662,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SOL WILDE",
+                        "direccion": "R. FRANCO 5919, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4353-0644",
+                        "mapa": "https://www.google.com/maps/search/R.+FRANCO+5919,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "CASSISSA",
+                        "direccion": "AV. MITRE 1471, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4203-7923",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1471,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "AMERICANA",
+                        "direccion": "GARCIA 202, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7185",
+                        "mapa": "https://www.google.com/maps/search/GARCIA+202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MAGA SHOP AVELL",
+                        "direccion": "MITRE 637, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-1450",
+                        "mapa": "https://www.google.com/maps/search/MITRE+637,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "VILLEGAS",
+                        "direccion": "C. URUGUAYO 1602, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4230-6336",
+                        "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UOM AVELL",
+                        "direccion": "AV. H. YRIGOYEN 386, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-0810",
+                        "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+386,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "BUEDIKMAN",
+                        "direccion": "SAN MARTIN 1905, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-3507",
+                        "mapa": "https://www.google.com/maps/search/SAN+MARTIN+1905,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEVEN PHARM",
+                        "direccion": "AV. H. YRIGOYEN 269, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-6461",
+                        "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+269,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GUERSCHANIK",
+                        "direccion": "GRAL. ACHA 648, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-2544",
+                        "mapa": "https://www.google.com/maps/search/GRAL.+ACHA+648,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA WILDE",
+                        "direccion": "F. ONSARI 1202, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/F.+ONSARI+1202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GROSSO",
+                        "direccion": "SUIPACHA 1099, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/SUIPACHA+1099,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "12 DE OCTUBRE",
+                        "direccion": "12 DE OCTUBRE 601, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7519",
+                        "mapa": "https://www.google.com/maps/search/12+DE+OCTUBRE+601,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "TKACZUK",
+                        "direccion": "AV. GALICIA 40, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "218-5252",
+                        "mapa": "https://www.google.com/maps/search/AV.+GALICIA+40,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DUCA",
+                        "direccion": "AV. MITRE 2412, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-8311",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+2412,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MAGA SHOP SAR",
+                        "direccion": "AV. MITRE 3385, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-2536",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+3385,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "HEREDIA",
+                        "direccion": "LACARRA 1302, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2053-8983",
+                        "mapa": "https://www.google.com/maps/search/LACARRA+1302,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "SERRATS",
+                        "direccion": "MEAÑOS 1356 L. 5, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-7575",
+                        "mapa": "https://www.google.com/maps/search/MEAÑOS+1356+L.+5,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SARMIENTO",
+                        "direccion": "SARMIENTO 1700, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-4859",
+                        "mapa": "https://www.google.com/maps/search/SARMIENTO+1700,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DOS SANTOS",
+                        "direccion": "DEBENEDETTI 3526, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-4118",
+                        "mapa": "https://www.google.com/maps/search/DEBENEDETTI+3526,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BELGRANO",
+                        "direccion": "BELGRANO 4600, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-7104",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+4600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "Q.DOCTOR",
+                        "direccion": "ONSARI 2230, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/ONSARI+2230,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "DIAMANDY",
+                        "direccion": "AV. MITRE 2798, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "5218-6007",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+2798,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "WYBERT",
+                        "direccion": "PARAGUAY 902, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4209-3488",
+                        "mapa": "https://www.google.com/maps/search/PARAGUAY+902,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "TRONCOSO",
+                        "direccion": "P. ANGULO Y ALEM, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7959",
+                        "mapa": "https://www.google.com/maps/search/P.+ANGULO+Y+ALEM,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UOM GERLI",
+                        "direccion": "LACARRA 1536, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4265-3030",
+                        "mapa": "https://www.google.com/maps/search/LACARRA+1536,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BOULEVAR S.C.S.",
+                        "direccion": "B.DE LOS ITALIANOS 901, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-7624",
+                        "mapa": "https://www.google.com/maps/search/B.DE+LOS+ITALIANOS+901,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "PERREGRINI",
+                        "direccion": "BELGRANO 2316, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4265-0021",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2316,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RINCON SALUD",
+                        "direccion": "DE LA SERNA 1301, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "3981-1399",
+                        "mapa": "https://www.google.com/maps/search/DE+LA+SERNA+1301,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SANAR II",
+                        "direccion": "LAS FLORES 900, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-8617",
+                        "mapa": "https://www.google.com/maps/search/LAS+FLORES+900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARRIENTOS",
+                        "direccion": "SAN LORENZO 890, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4353-1025",
+                        "mapa": "https://www.google.com/maps/search/SAN+LORENZO+890,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DOMINICO",
+                        "direccion": "AV. MITRE 4701, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-7612",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+4701,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "SOCIAL SARANDI",
+                        "direccion": "LLORENTE 320, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-2588",
+                        "mapa": "https://www.google.com/maps/search/LLORENTE+320,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARM. NOVA",
+                        "direccion": "AV. H. YRIGOYEN 999, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-5112-0001",
+                        "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+999,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "EL ALTO A",
+                        "direccion": "AV. GUEMES 880, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4203-4895",
+                        "mapa": "https://www.google.com/maps/search/AV.+GUEMES+880,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UNIVERSAL",
+                        "direccion": "R. ESPAÑOL 1371, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4217-1687",
+                        "mapa": "https://www.google.com/maps/search/R.+ESPAÑOL+1371,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "VIARD",
+                        "direccion": "B. DE LOS ITALIANOS 1608, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4246-3040",
+                        "mapa": "https://www.google.com/maps/search/B.+DE+LOS+ITALIANOS+1608,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "25 DE MAYO",
+                        "direccion": "25 DE MAYO 599, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4710-6671",
+                        "mapa": "https://www.google.com/maps/search/25+DE+MAYO+599,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBOSA",
+                        "direccion": "SANTA FE 2081, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4208-6720",
+                        "mapa": "https://www.google.com/maps/search/SANTA+FE+2081,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SOY SANAR 63",
+                        "direccion": "AV. MITRE 3093, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-7789",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+3093,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ALAMO",
+                        "direccion": "AV. MITRE 4207, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-4064",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+4207,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "MUTOV",
+                        "direccion": "SALTA 1899, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-0168",
+                        "mapa": "https://www.google.com/maps/search/SALTA+1899,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ULIBARRI",
+                        "direccion": "SAN VICENTE 501, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-7787",
+                        "mapa": "https://www.google.com/maps/search/SAN+VICENTE+501,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERRERI",
+                        "direccion": "ONSARI 1598, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4246-5046",
+                        "mapa": "https://www.google.com/maps/search/ONSARI+1598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UOM MITRE SCS",
+                        "direccion": "MITRE 1973, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-3636",
+                        "mapa": "https://www.google.com/maps/search/MITRE+1973,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "SORCINELLI",
+                        "direccion": "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-8900",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ROSSETTI",
+                        "direccion": "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-5365",
+                        "mapa": "https://www.google.com/maps/search/C.LARRALDE+6802,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BADAGNANI",
+                        "direccion": "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-1161",
+                        "mapa": "https://www.google.com/maps/search/B.+BLANCA+838,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "PASTEUR Y VILLEGAS",
+                        "direccion": "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-3904",
+                        "mapa": "https://www.google.com/maps/search/PASTEUR+Y+VILLEGAS,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "TORRES",
+                        "direccion": "AV. MITRE 1100, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-4394",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1100,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "HOUSE FARMA",
+                        "direccion": "SAN ISIDRO 4679, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/SAN+ISIDRO+4679,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FINOCHIETTO S.C.S.",
+                        "direccion": "A. FRANCE 778, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-2506",
+                        "mapa": "https://www.google.com/maps/search/A.+FRANCE+778,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "CUNEO",
+                        "direccion": "AV. MITRE 5836, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-0596",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+5836,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RUSNAK",
+                        "direccion": "LAS FLORES 1600, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4206-4749",
+                        "mapa": "https://www.google.com/maps/search/LAS+FLORES+1600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SANAR TRES",
+                        "direccion": "C. URUGUAYO 1209, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4206-9992",
+                        "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1209,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "LAPRIDA",
+                        "direccion": "AV. MITRE 1002, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-4730",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1002,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LACARRA",
+                        "direccion": "LACARRA 1702, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-6833",
+                        "mapa": "https://www.google.com/maps/search/LACARRA+1702,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RAWSON",
+                        "direccion": "AV. GALICIA 800, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4208-5190",
+                        "mapa": "https://www.google.com/maps/search/AV.+GALICIA+800,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBERA",
+                        "direccion": "LAS FLORES 1313, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-8574",
+                        "mapa": "https://www.google.com/maps/search/LAS+FLORES+1313,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "TOMBESI",
+                        "direccion": "BELGRANO 2900, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2197-8918",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LA CONDAL",
+                        "direccion": "LEBENSHON 799, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7657",
+                        "mapa": "https://www.google.com/maps/search/LEBENSHON+799,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MENDEZ",
+                        "direccion": "ING. HUERGO 1383, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-1792",
+                        "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1383,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YAMAL",
+                        "direccion": "BELGRANO 5801, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-7189",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+5801,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BEFFA",
+                        "direccion": "C. LARRALDE 4602, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4206-4840",
+                        "mapa": "https://www.google.com/maps/search/C.+LARRALDE+4602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "ROSALES",
+                        "direccion": "AV. MITRE 1725, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4805-4980",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1725,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MODERNA",
+                        "direccion": "AV. GALICIA 410, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4208-2297",
+                        "mapa": "https://www.google.com/maps/search/AV.+GALICIA+410,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MALDONADO",
+                        "direccion": "C.GRAL. BELGRANO 6496, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4220-1688",
+                        "mapa": "https://www.google.com/maps/search/C.GRAL.+BELGRANO+6496,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DOCK SUD",
+                        "direccion": "M. ESTEVEZ 1279, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7724",
+                        "mapa": "https://www.google.com/maps/search/M.+ESTEVEZ+1279,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "LOS PICASOS",
+                        "direccion": "MANSILLA 2699, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-8920",
+                        "mapa": "https://www.google.com/maps/search/MANSILLA+2699,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DE LA PLAZA",
+                        "direccion": "AV. MITRE 844, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-4817",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+844,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RUBIO",
+                        "direccion": "ING. HUERGO 1201, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-0574",
+                        "mapa": "https://www.google.com/maps/search/ING.+HUERGO+1201,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ESCADA",
+                        "direccion": "SUIPACHA 1662, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4220-8515",
+                        "mapa": "https://www.google.com/maps/search/SUIPACHA+1662,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SOL WILDE",
+                        "direccion": "R. FRANCO 5919, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4353-0644",
+                        "mapa": "https://www.google.com/maps/search/R.+FRANCO+5919,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "CASSISSA",
+                        "direccion": "AV. MITRE 1471, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4203-7923",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+1471,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "AMERICANA",
+                        "direccion": "GARCIA 202, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7185",
+                        "mapa": "https://www.google.com/maps/search/GARCIA+202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MAGA SHOP AVELL",
+                        "direccion": "MITRE 637, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-1450",
+                        "mapa": "https://www.google.com/maps/search/MITRE+637,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "VILLEGAS",
+                        "direccion": "C. URUGUAYO 1602, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4230-6336",
+                        "mapa": "https://www.google.com/maps/search/C.+URUGUAYO+1602,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UOM AVELL",
+                        "direccion": "AV. H. YRIGOYEN 386, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-0810",
+                        "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+386,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "BUEDIKMAN",
+                        "direccion": "SAN MARTIN 1905, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-3507",
+                        "mapa": "https://www.google.com/maps/search/SAN+MARTIN+1905,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SEVEN PHARM",
+                        "direccion": "AV. H. YRIGOYEN 269, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4222-6461",
+                        "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+269,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GUERSCHANIK",
+                        "direccion": "GRAL. ACHA 648, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-2544",
+                        "mapa": "https://www.google.com/maps/search/GRAL.+ACHA+648,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA WILDE",
+                        "direccion": "F. ONSARI 1202, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/F.+ONSARI+1202,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GROSSO",
+                        "direccion": "SUIPACHA 1099, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/SUIPACHA+1099,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "12 DE OCTUBRE",
+                        "direccion": "12 DE OCTUBRE 601, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7519",
+                        "mapa": "https://www.google.com/maps/search/12+DE+OCTUBRE+601,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "TKACZUK",
+                        "direccion": "AV. GALICIA 40, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "218-5252",
+                        "mapa": "https://www.google.com/maps/search/AV.+GALICIA+40,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DUCA",
+                        "direccion": "AV. MITRE 2412, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-8311",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+2412,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "MAGA SHOP SAR",
+                        "direccion": "AV. MITRE 3385, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-2536",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+3385,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "HEREDIA",
+                        "direccion": "LACARRA 1302, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "2053-8983",
+                        "mapa": "https://www.google.com/maps/search/LACARRA+1302,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "SERRATS",
+                        "direccion": "MEAÑOS 1356 L. 5, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-7575",
+                        "mapa": "https://www.google.com/maps/search/MEAÑOS+1356+L.+5,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SARMIENTO",
+                        "direccion": "SARMIENTO 1700, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-4859",
+                        "mapa": "https://www.google.com/maps/search/SARMIENTO+1700,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DOS SANTOS",
+                        "direccion": "DEBENEDETTI 3526, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-4118",
+                        "mapa": "https://www.google.com/maps/search/DEBENEDETTI+3526,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BELGRANO",
+                        "direccion": "BELGRANO 4600, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-7104",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+4600,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "Q.DOCTOR",
+                        "direccion": "ONSARI 2230, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/ONSARI+2230,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "DIAMANDY",
+                        "direccion": "AV. MITRE 2798, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "5218-6007",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+2798,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "WYBERT",
+                        "direccion": "PARAGUAY 902, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4209-3488",
+                        "mapa": "https://www.google.com/maps/search/PARAGUAY+902,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "TRONCOSO",
+                        "direccion": "P. ANGULO Y ALEM, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4201-7959",
+                        "mapa": "https://www.google.com/maps/search/P.+ANGULO+Y+ALEM,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UOM GERLI",
+                        "direccion": "LACARRA 1536, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4265-3030",
+                        "mapa": "https://www.google.com/maps/search/LACARRA+1536,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BOULEVAR S.C.S.",
+                        "direccion": "B.DE LOS ITALIANOS 901, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-7624",
+                        "mapa": "https://www.google.com/maps/search/B.DE+LOS+ITALIANOS+901,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "PERREGRINI",
+                        "direccion": "BELGRANO 2316, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4265-0021",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2316,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RINCON SALUD",
+                        "direccion": "DE LA SERNA 1301, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "3981-1399",
+                        "mapa": "https://www.google.com/maps/search/DE+LA+SERNA+1301,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SANAR II",
+                        "direccion": "LAS FLORES 900, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-8617",
+                        "mapa": "https://www.google.com/maps/search/LAS+FLORES+900,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARRIENTOS",
+                        "direccion": "SAN LORENZO 890, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4353-1025",
+                        "mapa": "https://www.google.com/maps/search/SAN+LORENZO+890,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "DOMINICO",
+                        "direccion": "AV. MITRE 4701, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-7612",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+4701,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "SOCIAL SARANDI",
+                        "direccion": "LLORENTE 320, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-2588",
+                        "mapa": "https://www.google.com/maps/search/LLORENTE+320,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FARM. NOVA",
+                        "direccion": "AV. H. YRIGOYEN 999, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "11-5112-0001",
+                        "mapa": "https://www.google.com/maps/search/AV.+H.+YRIGOYEN+999,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "EL ALTO A",
+                        "direccion": "AV. GUEMES 880, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4203-4895",
+                        "mapa": "https://www.google.com/maps/search/AV.+GUEMES+880,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UNIVERSAL",
+                        "direccion": "R. ESPAÑOL 1371, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4217-1687",
+                        "mapa": "https://www.google.com/maps/search/R.+ESPAÑOL+1371,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "VIARD",
+                        "direccion": "B. DE LOS ITALIANOS 1608, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4246-3040",
+                        "mapa": "https://www.google.com/maps/search/B.+DE+LOS+ITALIANOS+1608,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "25 DE MAYO",
+                        "direccion": "25 DE MAYO 599, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4710-6671",
+                        "mapa": "https://www.google.com/maps/search/25+DE+MAYO+599,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BARBOSA",
+                        "direccion": "SANTA FE 2081, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4208-6720",
+                        "mapa": "https://www.google.com/maps/search/SANTA+FE+2081,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "SOY SANAR 63",
+                        "direccion": "AV. MITRE 3093, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-7789",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+3093,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ALAMO",
+                        "direccion": "AV. MITRE 4207, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-4064",
+                        "mapa": "https://www.google.com/maps/search/AV.+MITRE+4207,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "MUTOV",
+                        "direccion": "SALTA 1899, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-0168",
+                        "mapa": "https://www.google.com/maps/search/SALTA+1899,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ULIBARRI",
+                        "direccion": "SAN VICENTE 501, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-7787",
+                        "mapa": "https://www.google.com/maps/search/SAN+VICENTE+501,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "FERRERI",
+                        "direccion": "ONSARI 1598, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4246-5046",
+                        "mapa": "https://www.google.com/maps/search/ONSARI+1598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "UOM MITRE SCS",
+                        "direccion": "MITRE 1973, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4204-3636",
+                        "mapa": "https://www.google.com/maps/search/MITRE+1973,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "SORCINELLI",
+                        "direccion": "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4205-8900",
+                        "mapa": "https://www.google.com/maps/search/BELGRANO+2598,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "ROSSETTI",
+                        "direccion": "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4227-5365",
+                        "mapa": "https://www.google.com/maps/search/C.LARRALDE+6802,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "BADAGNANI",
+                        "direccion": "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-1161",
+                        "mapa": "https://www.google.com/maps/search/B.+BLANCA+838,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "PASTEUR Y VILLEGAS",
+                        "direccion": "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4207-3904",
+                        "mapa": "https://www.google.com/maps/search/PASTEUR+Y+VILLEGAS,+Avellaneda,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1266 @@
+{
+    "agosto": {
+        "Claypole": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Claypole Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "septiembre": {
+        "Claypole": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Claypole Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "octubre": {
+        "Claypole": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Claypole Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "noviembre": {
+        "Claypole": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Claypole Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "diciembre": {
+        "Claypole": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Claypole Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "ALVAREZ",
+                        "direccion": "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1390",
+                        "mapa": "https://www.google.com/maps/search/Calle+7+Mza.+F+Casa+20,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "TENCHA",
+                        "direccion": "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4291-0307",
+                        "mapa": "https://www.google.com/maps/search/Calle+Alcorta+4445,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "SASSONE",
+                        "direccion": "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4268-1337",
+                        "mapa": "https://www.google.com/maps/search/Lacaze+y+Humahuaca,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "PIÑOL",
+                        "direccion": "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Rucci+1253,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "KLIMHER",
+                        "direccion": "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/17+de+Octubre+1130,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "RAVA",
+                        "direccion": "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4236-9075 / 11-6419-5028",
+                        "mapa": "https://www.google.com/maps/search/Alsina+esq.+Marconi,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "CORREDOR TIRIA",
+                        "direccion": "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Río+Santiago+693,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "HERRERA ACOSTA",
+                        "direccion": "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "15-5822-2336",
+                        "mapa": "https://www.google.com/maps/search/San+Martín+611+esq.+José+Hernández,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "SALABERRY",
+                        "direccion": "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "4277-3838",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+33+esq.+Charcas,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "FARMACEUTICA DEL SUR S.C.S.",
+                        "direccion": "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Salaberry+760,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "MARESCA",
+                        "direccion": "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+2998+esq.+L.+de+la+Torre,+Claypole,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    }
+}

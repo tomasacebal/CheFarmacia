@@ -1,0 +1,654 @@
+{
+    "agosto": {
+        "Burzaco": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Burzaco Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "2": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "3": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "4": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "5": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "6": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "7": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "8": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "9": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "10": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "11": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "12": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "13": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "14": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "15": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "16": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "17": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "18": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "19": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "20": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "21": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "22": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "23": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "24": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "25": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "26": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "27": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "28": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "29": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "30": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "31": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ]
+            }
+        }
+    },
+    "septiembre": {
+        "Burzaco": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Burzaco Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "2": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "3": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "4": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "5": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "6": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "7": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "8": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "9": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "10": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "11": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "12": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "13": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "14": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "15": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "16": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "17": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "18": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "19": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "20": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "21": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "22": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "23": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "24": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "25": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "26": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "27": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "28": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "29": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "30": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ]
+            }
+        }
+    },
+    "octubre": {
+        "Burzaco": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Burzaco Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "2": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "3": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "4": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "5": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "6": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "7": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "8": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "9": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "10": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "11": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "12": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "13": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "14": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "15": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "16": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "17": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "18": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "19": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "20": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "21": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "22": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "23": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "24": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "25": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "26": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "27": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "28": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "29": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "30": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "31": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ]
+            }
+        }
+    },
+    "noviembre": {
+        "Burzaco": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Burzaco Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "2": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "3": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "4": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "5": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "6": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "7": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "8": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "9": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "10": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "11": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "12": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "13": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "14": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "15": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "16": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "17": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "18": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "19": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "20": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "21": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "22": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "23": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "24": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "25": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "26": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "27": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "28": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "29": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "30": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ]
+            }
+        }
+    },
+    "diciembre": {
+        "Burzaco": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Burzaco Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "2": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "3": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "4": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "5": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "6": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "7": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "8": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "9": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "10": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "11": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "12": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "13": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "14": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "15": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "16": [
+                    {"nombre": "COIRO", "direccion": "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "0800-666-6643", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+1380,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "17": [
+                    {"nombre": "PARSONS", "direccion": "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-5617", "mapa": "https://www.google.com/maps/search/Av.+Espora+2183,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "18": [
+                    {"nombre": "KAPLAN", "direccion": "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0802", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+R.+Rojas,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "19": [
+                    {"nombre": "HERNANDEZ", "direccion": "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4294-8705", "mapa": "https://www.google.com/maps/search/Soler+1003+y+Molina+Campos,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "20": [
+                    {"nombre": "CAPALLO", "direccion": "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-5318-9772", "mapa": "https://www.google.com/maps/search/Av.+Espora+y+Aristóbulo+del+Valle,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "21": [
+                    {"nombre": "BURZACO SUR S.C.S.", "direccion": "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-9029", "mapa": "https://www.google.com/maps/search/Rep.+Argentina+y+Uruguay,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "22": [
+                    {"nombre": "NUEVA MONTEVERDE", "direccion": "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "6088-8491", "mapa": "https://www.google.com/maps/search/Av.+Monteverde+y+Goyena,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "23": [
+                    {"nombre": "MINETTI", "direccion": "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4293-5914", "mapa": "https://www.google.com/maps/search/Prieto+1390+Barrio+Arzeno,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "24": [
+                    {"nombre": "BIANCO", "direccion": "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6486", "mapa": "https://www.google.com/maps/search/Goyena+925,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "25": [
+                    {"nombre": "VARGAS", "direccion": "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "3979-6348", "mapa": "https://www.google.com/maps/search/J.+V.+González+2517,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "26": [
+                    {"nombre": "LA ROTONDA DEL VAPOR", "direccion": "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-6504", "mapa": "https://www.google.com/maps/search/Espora+4185,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "27": [
+                    {"nombre": "WINNIK", "direccion": "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "15-6020-0817", "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+14282,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "28": [
+                    {"nombre": "SBATELLA", "direccion": "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0874", "mapa": "https://www.google.com/maps/search/E.+de+Burzaco+369+y+Av.+H.+Yrigoyen,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "29": [
+                    {"nombre": "ROCA", "direccion": "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0837", "mapa": "https://www.google.com/maps/search/Roca+849,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "30": [
+                    {"nombre": "FRANCISCO VIDAL 1460", "direccion": "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "", "mapa": "https://www.google.com/maps/search/Francisco+Vidal+1460,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ],
+                "31": [
+                    {"nombre": "OCA", "direccion": "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-1564", "mapa": "https://www.google.com/maps/search/J.+V.+González+1578,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"},
+                    {"nombre": "PASTEUR", "direccion": "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina", "telefono": "4299-0104", "mapa": "https://www.google.com/maps/search/Alsina+998,+Burzaco,+Provincia+de+Buenos+Aires,+Argentina"}
+                ]
+            }
+        }
+    }
+}

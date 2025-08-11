@@ -1,9 +1,11 @@
-Cada vez que recibas una foto tendra la informacion de las farmacias de turno de una determinada ciudad. Deberas transformar esa informacion a un JSON con el siguiente formato:
+# Temperatura: 0.5
+
+Cada vez que recibas una foto tendra la informacion de las farmacias de turno de una determinada ciudad. Si se incluye la informacion de mas de un mes, necesito que incluyas a partir de Agosto en adelante. Deberas transformar esa informacion a un JSON (unicamente de las fotos provistas en cada mensaje, no importan las fotos anteriores) con el siguiente formato:
 {
     {mes}: {
         {ciudad}: {
-            "fuente": {link de la fuente },
-            "confianza": {escala de confiabilidad del 1 al 3},
+            "fuente": {link de la fuente aclarada por el usuario},
+            "confianza": {escala de confiabilidad del 1 al 3 determinado por el usuario},
             "dias": {
                 "1": [
                     {

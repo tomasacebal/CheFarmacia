@@ -1,0 +1,1530 @@
+{
+    "agosto": {
+        "Longchamps": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Longchamps Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "RUTA",
+                        "direccion": "Av. 25 de Mayo 895 (Mtro. Rivadavia), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+25+de+Mayo+895,+Mtro.+Rivadavia,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "YOKO",
+                        "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "SANTA CLARA DEL SOL",
+                        "direccion": "Granaderos 1108, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Granaderos+1108,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "D'ERRICO",
+                        "direccion": "Berlin y Sarmiento, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Berlin+y+Sarmiento,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YOKO",
+                        "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "ANTIGUA CASTAGNINO",
+                        "direccion": "Buenos Aires 611, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Buenos+Aires+611,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "septiembre": {
+        "Longchamps": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Longchamps Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "FULCHI",
+                        "direccion": "Av. Berlin y Av. Espora, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+Berlin+y+Av.+Espora,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "RUTA",
+                        "direccion": "Av. 25 de Mayo 895 (Mtro. Rivadavia), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+25+de+Mayo+895,+Mtro.+Rivadavia,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YOKO",
+                        "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "octubre": {
+        "Longchamps": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Longchamps Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "SANTA CLARA DEL SOL",
+                        "direccion": "Granaderos 1108, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Granaderos+1108,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "ANTIGUA CASTAGNINO",
+                        "direccion": "Buenos Aires 611, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Buenos+Aires+611,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "D'ERRICO",
+                        "direccion": "Berlin y Sarmiento, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Berlin+y+Sarmiento,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YOKO",
+                        "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "FULCHI",
+                        "direccion": "Av. Berlin y Av. Espora, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+Berlin+y+Av.+Espora,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "PAZZAGLINI",
+                        "direccion": "Av. H. Yrigoyen 17558, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+17558,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "noviembre": {
+        "Longchamps": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Longchamps Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "RUTA",
+                        "direccion": "Av. 25 de Mayo 895 (Mtro. Rivadavia), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+25+de+Mayo+895,+Mtro.+Rivadavia,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YOKO",
+                        "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "SANTA CLARA DEL SOL",
+                        "direccion": "Granaderos 1108, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Granaderos+1108,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "ANTIGUA CASTAGNINO",
+                        "direccion": "Buenos Aires 611, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Buenos+Aires+611,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    },
+    "diciembre": {
+        "Longchamps": {
+            "fuente": "Colegio de Farmacéuticos de Almirante Brown - Longchamps Turnos 2025 (Imagen)",
+            "confianza": 3,
+            "dias": {
+                "1": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "2": [
+                    {
+                        "nombre": "D'ERRICO",
+                        "direccion": "Berlin y Sarmiento, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Berlin+y+Sarmiento,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "3": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "4": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "5": [
+                    {
+                        "nombre": "FULCHI",
+                        "direccion": "Av. Berlin y Av. Espora, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+Berlin+y+Av.+Espora,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "6": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "7": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "8": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "9": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "10": [
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "11": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "12": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "13": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "YOKO",
+                        "direccion": "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Carlos+Diehl+2883,+Rayo+de+Sol,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "14": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "15": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "16": [
+                    {
+                        "nombre": "PAZZAGLINI",
+                        "direccion": "Av. H. Yrigoyen 17558, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+H.+Yrigoyen+17558,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "17": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "18": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "19": [
+                    {
+                        "nombre": "RUTA",
+                        "direccion": "Av. 25 de Mayo 895 (Mtro. Rivadavia), Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Av.+25+de+Mayo+895,+Mtro.+Rivadavia,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "20": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "LUJILDE",
+                        "direccion": "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Alsina+838,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "21": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "22": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "23": [
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "24": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "25": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "26": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "27": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "NUEVA FULCHI",
+                        "direccion": "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Boulogne+Sur+Mer+1301,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "28": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    },
+                    {
+                        "nombre": "GURTUBAY",
+                        "direccion": "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/Doctor+Kellertas+727,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "29": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "30": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ],
+                "31": [
+                    {
+                        "nombre": "NUEVA LONGCHAMPS",
+                        "direccion": "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina",
+                        "telefono": "",
+                        "mapa": "https://www.google.com/maps/search/La+Aviación+991,+Longchamps,+Provincia+de+Buenos+Aires,+Argentina"
+                    }
+                ]
+            }
+        }
+    }
+}

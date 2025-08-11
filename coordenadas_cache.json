@@ -2858,5 +2858,1213 @@
   "Segui 1885 (ex 385), Llavallol, Provincia de Buenos Aires, Argentina": {
     "lat": -34.8005724,
     "lng": -58.4191286
+  },
+  "Ruta 8 y 197, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.509446,
+    "lng": -58.728141
+  },
+  "Sucre 2359, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5025269,
+    "lng": -58.6811005
+  },
+  "Rivadavia 2687/09, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5093884,
+    "lng": -58.7032515
+  },
+  "Arquimedes y Lujan, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5120653,
+    "lng": -58.667136
+  },
+  "Av. Pdte. Perón 43, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5181009,
+    "lng": -58.6718376
+  },
+  "Pdte. Perón 3387, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5145254,
+    "lng": -58.7120745
+  },
+  "Arturo Illia 5254, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5207235,
+    "lng": -58.7173806
+  },
+  "Juan Pallere 3204/06, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4972598,
+    "lng": -58.7009538
+  },
+  "Baroni 1659, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5063678,
+    "lng": -58.7073416
+  },
+  "Sucre 1635, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5059176,
+    "lng": -58.6773363
+  },
+  "Pdte. Perón y Wilson, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5085981,
+    "lng": -58.6973388
+  },
+  "San Martín 2580, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5003664,
+    "lng": -58.6960774
+  },
+  "Pdte. Perón 3030, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5163253,
+    "lng": -58.7088654
+  },
+  "S. Martín y Amenabar, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4936336,
+    "lng": -58.6788666
+  },
+  "Rivadavia 2017, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5068557,
+    "lng": -58.7002914
+  },
+  "Rosario 4605, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5022335,
+    "lng": -58.667105
+  },
+  "Av. Eva Perón 5068, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4938797,
+    "lng": -58.6710376
+  },
+  "L. Suárez 2939, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5142289,
+    "lng": -58.7074235
+  },
+  "Ing. Huergo 3595, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4973638,
+    "lng": -58.6937587
+  },
+  "Derqui y Peña, Adolfo Sourdeaux, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5049135,
+    "lng": -58.6671679
+  },
+  "San Martín 2887, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4984694,
+    "lng": -58.6940876
+  },
+  "Av. Perón 697, Villa de Mayo, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5145623,
+    "lng": -58.6757498
+  },
+  "R. 197 N° 2078, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5054848,
+    "lng": -58.7206365
+  },
+  "J.M.Gutiérrez 981, Los Polvorines, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5225932,
+    "lng": -58.7024448
+  },
+  "Coronel Bogado 1626, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4843393,
+    "lng": -58.7261149
+  },
+  "Cura Brochero 1669, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4900986,
+    "lng": -58.7377993
+  },
+  "El Callao 636, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4949118,
+    "lng": -58.7196035
+  },
+  "Pasco 612, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4986916,
+    "lng": -58.7303427
+  },
+  "El Callao 24, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5018857,
+    "lng": -58.7142459
+  },
+  "R.197 N° 663, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.505272,
+    "lng": -58.7202641
+  },
+  "Av. Grand Bourg 1098, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4902219,
+    "lng": -58.7270162
+  },
+  "Av. Grand Bourg 1301, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4853058,
+    "lng": -58.7310984
+  },
+  "Francisco Seguí 1455, Grand Bourg, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4858465,
+    "lng": -58.7251492
+  },
+  "Miraflores 4799, Ing. Pablo Nogués, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4949376,
+    "lng": -58.7097719
+  },
+  "Francisco Seguí 4073, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4706089,
+    "lng": -58.7577378
+  },
+  "Directorio 507, Tortuguitas, Malvinas Argentinas, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4595447,
+    "lng": -58.73669
+  },
+  "Av. Avelino Rolón 1169, B1609 San Isidro, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5009179,
+    "lng": -58.5592938
+  },
+  "Camino Real Morón A San Fernando, Cam. Real Morón A San Fernando, B1609 Boulogne, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.4865988,
+    "lng": -58.5819706
+  },
+  "Av. Avelino Rolón 1169, B1609 San Isidro, Provincia de Buenos Aires": {
+    "lat": -34.5009179,
+    "lng": -58.5592938
+  },
+  "Monteagudo 3101 - Centro": {
+    "lat": -34.807920575839354,
+    "lng": -58.27705668421988
+  },
+  "Av. San Martin 2022, Centro": {
+    "lat": -34.79658677523654,
+    "lng": -58.28048848422025
+  },
+  "Monteagudo 14, Centro": {
+    "lat": -34.81035217596877,
+    "lng": -58.276407384219766
+  },
+  "Prieto 1390 Barrio Arzeno, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8237618,
+    "lng": -58.4112294
+  },
+  "Alsina 998, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8281358,
+    "lng": -58.3893996
+  },
+  "Goyena 925, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8201173,
+    "lng": -58.3767812
+  },
+  "J. V. González 2517, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7406302,
+    "lng": -58.4225081
+  },
+  "Espora 4185, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.836023,
+    "lng": -58.3835152
+  },
+  "Av. H. Yrigoyen 14282, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8201386,
+    "lng": -58.3945213
+  },
+  "E. de Burzaco 369 y Av. H. Yrigoyen, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6617755,
+    "lng": -58.3756236
+  },
+  "Roca 849, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8257081,
+    "lng": -58.3919844
+  },
+  "Francisco Vidal 1460, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8259833,
+    "lng": -58.4097336
+  },
+  "J. V. González 1578, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8239404,
+    "lng": -58.3959694
+  },
+  "Av. Monteverde 1380, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8175423,
+    "lng": -58.4297336
+  },
+  "Av. Espora 2183, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8170131,
+    "lng": -58.388901
+  },
+  "Av. Espora y R. Rojas, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8290403,
+    "lng": -58.3871982
+  },
+  "Soler 1003 y Molina Campos, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8187793,
+    "lng": -58.3988398
+  },
+  "Av. Espora y Aristóbulo del Valle, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8314384,
+    "lng": -58.3864201
+  },
+  "Rep. Argentina y Uruguay, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8115461,
+    "lng": -58.3657667
+  },
+  "Av. Monteverde y Goyena, Burzaco, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8266132,
+    "lng": -58.3714837
+  },
+  "Alsina esq. Marconi, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8056476,
+    "lng": -58.3480173
+  },
+  "Alsina 2998 esq. L. de la Torre, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8071026,
+    "lng": -58.3488649
+  },
+  "17 de Octubre 1130, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8011764,
+    "lng": -58.3345519
+  },
+  "Río Santiago 693, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8192523,
+    "lng": -58.3446126
+  },
+  "San Martín 611 esq. José Hernández, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6888474,
+    "lng": -58.4555364
+  },
+  "Rucci 1253 (ex Monjitas), Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8001078,
+    "lng": -58.3375962
+  },
+  "Salaberry 760, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7971503,
+    "lng": -58.3342854
+  },
+  "Lacaze (ex Monteverde) y Humahuaca, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8064248,
+    "lng": -58.3365839
+  },
+  "Salaberry 33 esq. Charcas, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7919787,
+    "lng": -58.3226693
+  },
+  "Calle 7 Mza. F Casa 20, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8623341,
+    "lng": -58.143447
+  },
+  "Calle Alcorta 4445 (ex 1245) e/Paso y Liniers, Claypole, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7965285,
+    "lng": -58.3375213
+  },
+  "La Aviación 991, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8622553,
+    "lng": -58.3876611
+  },
+  "Av. 25 de Mayo 895 (Mtro. Rivadavia), Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8399092,
+    "lng": -58.3656404
+  },
+  "Alsina 838, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8605581,
+    "lng": -58.3878439
+  },
+  "Doctor Kellertas 727, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8605038,
+    "lng": -58.3908974
+  },
+  "Carlos Diehl 2883 (Rayo de Sol), Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8635182,
+    "lng": -58.3921135
+  },
+  "Boulogne Sur Mer 1301, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8555584,
+    "lng": -58.38871
+  },
+  "Granaderos 1108, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.87291,
+    "lng": -58.40645
+  },
+  "Berlin y Sarmiento, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8511295,
+    "lng": -58.3846348
+  },
+  "Buenos Aires 611, Longchamps, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.8705042,
+    "lng": -58.4108078
+  },
+  "BELGRANO 2598, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6800326,
+    "lng": -58.3516874
+  },
+  "C.LARRALDE 6802, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7157055,
+    "lng": -58.3227222
+  },
+  "B. BLANCA 838, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6944399,
+    "lng": -58.3114851
+  },
+  "PASTEUR Y VILLEGAS, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6921357,
+    "lng": -58.3454921
+  },
+  "AV. MITRE 1100, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6641221,
+    "lng": -58.3612038
+  },
+  "SAN ISIDRO 4679, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6862876,
+    "lng": -58.3251593
+  },
+  "A. FRANCE 778, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.681683,
+    "lng": -58.3576294
+  },
+  "AV. MITRE 5836, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6998278,
+    "lng": -58.3220531
+  },
+  "LAS FLORES 1600, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6911394,
+    "lng": -58.3021825
+  },
+  "C. URUGUAYO 1209, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6613785,
+    "lng": -58.3674269
+  },
+  "AV. MITRE 1002, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.663825,
+    "lng": -58.362152
+  },
+  "LACARRA 1702, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6854978,
+    "lng": -58.374495
+  },
+  "AV. GALICIA 800, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6708168,
+    "lng": -58.3906645
+  },
+  "LAS FLORES 1313, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6932297,
+    "lng": -58.3045381
+  },
+  "BELGRANO 2900, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6481957,
+    "lng": -58.3775414
+  },
+  "LEBENSHON 799, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6651386,
+    "lng": -58.3801682
+  },
+  "ING. HUERGO 1383, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6554407,
+    "lng": -58.3454082
+  },
+  "BELGRANO 5801, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.701932,
+    "lng": -58.325123
+  },
+  "C. LARRALDE 4602, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7004032,
+    "lng": -58.3421838
+  },
+  "AV. MITRE 1725, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6677124,
+    "lng": -58.3564192
+  },
+  "AV. GALICIA 410, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.673811,
+    "lng": -58.3868838
+  },
+  "C.GRAL. BELGRANO 6496, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7241571,
+    "lng": -58.3366195
+  },
+  "M. ESTEVEZ 1279, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6502233,
+    "lng": -58.3553082
+  },
+  "MANSILLA 2699, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.68509,
+    "lng": -58.3563875
+  },
+  "AV. MITRE 844, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6629108,
+    "lng": -58.3638651
+  },
+  "ING. HUERGO 1201, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6554388,
+    "lng": -58.3477971
+  },
+  "SUIPACHA 1662, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7019912,
+    "lng": -58.3551035
+  },
+  "R. FRANCO 5919, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6967906,
+    "lng": -58.3151369
+  },
+  "AV. MITRE 1471, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6666426,
+    "lng": -58.357853
+  },
+  "GARCIA 202, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6635439,
+    "lng": -58.3802493
+  },
+  "MITRE 637, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6614162,
+    "lng": -58.3666
+  },
+  "C. URUGUAYO 1602, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5793106,
+    "lng": -58.510615
+  },
+  "AV. H. YRIGOYEN 386, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6619735,
+    "lng": -58.3752846
+  },
+  "SAN MARTIN 1905, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6716333,
+    "lng": -58.3579111
+  },
+  "AV. H. YRIGOYEN 269, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.659079,
+    "lng": -58.3733593
+  },
+  "GRAL. ACHA 648, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6871464,
+    "lng": -58.3505986
+  },
+  "F. ONSARI 1202, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7150331,
+    "lng": -58.3300589
+  },
+  "SUIPACHA 1099, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6969328,
+    "lng": -58.3497249
+  },
+  "12 DE OCTUBRE 601, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6592499,
+    "lng": -58.3540319
+  },
+  "AV. GALICIA 40, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6761224,
+    "lng": -58.3841883
+  },
+  "AV. MITRE 2412, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6737171,
+    "lng": -58.3503669
+  },
+  "AV. MITRE 3385, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6842703,
+    "lng": -58.3427923
+  },
+  "LACARRA 1302, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.682167,
+    "lng": -58.370539
+  },
+  "MEAÑOS 1356 L. 5, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6729668,
+    "lng": -58.3640532
+  },
+  "SARMIENTO 1700, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.689362,
+    "lng": -58.3673656
+  },
+  "DEBENEDETTI 3526, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.675648,
+    "lng": -58.3441293
+  },
+  "BELGRANO 4600, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6937336,
+    "lng": -58.33516
+  },
+  "ONSARI 2230, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7220223,
+    "lng": -58.3380275
+  },
+  "AV. MITRE 2798, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6781142,
+    "lng": -58.3465283
+  },
+  "PARAGUAY 902, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6754858,
+    "lng": -58.3948528
+  },
+  "P. ANGULO Y ALEM, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6518202,
+    "lng": -58.3463563
+  },
+  "LACARRA 1536, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6839811,
+    "lng": -58.3726372
+  },
+  "B.DE LOS ITALIANOS 901, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6889263,
+    "lng": -58.3490499
+  },
+  "BELGRANO 2316, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6777595,
+    "lng": -58.3543739
+  },
+  "DE LA SERNA 1301, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6874111,
+    "lng": -58.3701374
+  },
+  "LAS FLORES 900, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6959935,
+    "lng": -58.308267
+  },
+  "SAN LORENZO 890, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6963267,
+    "lng": -58.3467132
+  },
+  "AV. MITRE 4701, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6931708,
+    "lng": -58.3322998
+  },
+  "LLORENTE 320, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6666196,
+    "lng": -58.3514736
+  },
+  "AV. H. YRIGOYEN 999, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6684659,
+    "lng": -58.3803571
+  },
+  "AV. GUEMES 880, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6765313,
+    "lng": -58.3654683
+  },
+  "R. ESPAÑOL 1371, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.590015,
+    "lng": -58.5009927
+  },
+  "B. DE LOS ITALIANOS 1608, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7079802,
+    "lng": -58.5488008
+  },
+  "25 DE MAYO 599, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.657789,
+    "lng": -58.3592018
+  },
+  "SANTA FE 2081, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6786854,
+    "lng": -58.3886809
+  },
+  "AV. MITRE 3093, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6819493,
+    "lng": -58.3447481
+  },
+  "AV. MITRE 4207, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6899866,
+    "lng": -58.3367329
+  },
+  "SALTA 1899, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6935142,
+    "lng": -58.3659879
+  },
+  "SAN VICENTE 501, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6917311,
+    "lng": -58.3222063
+  },
+  "ONSARI 1598, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7182641,
+    "lng": -58.3342379
+  },
+  "MITRE 1973, Avellaneda, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6699101,
+    "lng": -58.3546104
+  },
+  "Salta 1000, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7694873,
+    "lng": -58.3552945
+  },
+  "Donato Álvarez 1288, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7610752,
+    "lng": -58.3319318
+  },
+  "30 de Septiembre 2678, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7714735,
+    "lng": -58.3591562
+  },
+  "Sta. Ana 1171, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7649769,
+    "lng": -58.342328
+  },
+  "Bynnon 4089, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7790603,
+    "lng": -58.3561859
+  },
+  "Salta 501, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.765756,
+    "lng": -58.3584477
+  },
+  "30 de Septiembre 4905 esq. Rio Negro, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.5701747,
+    "lng": -57.4873142
+  },
+  "Catamarca 2596 casi esq. San Martín, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7845244,
+    "lng": -58.3449418
+  },
+  "Salta 1667, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7748927,
+    "lng": -58.350919
+  },
+  "Los Eucaliptus 259, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7643809,
+    "lng": -58.3608186
+  },
+  "Pio Collivadino 420, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6944085,
+    "lng": -58.4383971
+  },
+  "30 de septiembre 2678, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7714735,
+    "lng": -58.3591562
+  },
+  "Salta 57, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7620827,
+    "lng": -58.3610513
+  },
+  "Salta 2072, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7790806,
+    "lng": -58.3472275
+  },
+  "Salta 1300, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7723071,
+    "lng": -58.3532957
+  },
+  "San Martín 5241, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7801374,
+    "lng": -58.3366995
+  },
+  "Jujuy esq. Vertiz, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -28.5196335,
+    "lng": -61.8716199
+  },
+  "Sta. Ana esq. San Martín, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.77799,
+    "lng": -58.33216
+  },
+  "Santa Ana 1913 e/Rosales y Piedrabuena, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7701933,
+    "lng": -58.3380769
+  },
+  "pio Collivadino 420, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6944085,
+    "lng": -58.4383971
+  },
+  "Jujuy esq. Vértiz, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -28.4453593,
+    "lng": -61.9208263
+  },
+  "Sta. Ana 1913 e/ Rosales y Piedrabuena, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.7665242,
+    "lng": -58.3394056
+  },
+  "Donato Alvarez 1608 esq- Mitre, San José, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.764099,
+    "lng": -58.3297027
+  },
+  "H. Hyrigoyen 30513, Alejandro Korn, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.9945004,
+    "lng": -58.3787055
+  },
+  "San Martin 199, Alejandro Korn, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.9816735,
+    "lng": -58.3748427
+  },
+  "H. Hyrigoyen 29701, Alejandro Korn, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.9880693,
+    "lng": -58.3825465
+  },
+  "P. Perón 4702, Alejandro Korn, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.9861315,
+    "lng": -58.3783531
+  },
+  "J.M. de Rosas Nº 325, Alejandro Korn, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.9843405,
+    "lng": -58.3708323
+  },
+  "Independencia 111, Alejandro Korn, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.9792653,
+    "lng": -58.3795908
+  },
+  "Av. San Martin 1436, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6542648,
+    "lng": -58.5499246
+  },
+  "A. Palacios 3989, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6716345,
+    "lng": -58.5211985
+  },
+  "Gral. Acha 410, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6489188,
+    "lng": -58.5480342
+  },
+  "Av. San Martin 3900, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6730539,
+    "lng": -58.528969
+  },
+  "Av. Crovara 1391, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6818934,
+    "lng": -58.5142406
+  },
+  "Carlos Pellegrini 431, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6530296,
+    "lng": -58.5427043
+  },
+  "Av. Crovara 801, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6785766,
+    "lng": -58.5092564
+  },
+  "Alberti 1769, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.688865,
+    "lng": -58.5356049
+  },
+  "Av. Mosconi 725, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6613606,
+    "lng": -58.5347855
+  },
+  "Av. Crovara 3508, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6951914,
+    "lng": -58.5328932
+  },
+  "Olleros 335, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6756338,
+    "lng": -58.5323701
+  },
+  "Balcarce 1197, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6485041,
+    "lng": -58.5441809
+  },
+  "Chiclana 1044, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6860934,
+    "lng": -58.5295807
+  },
+  "J. M. de Rosas 2238, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6744146,
+    "lng": -58.5425821
+  },
+  "Sto. Cabral 730, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6455639,
+    "lng": -58.555551
+  },
+  "Av. Crovara 3147, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6916979,
+    "lng": -58.5285569
+  },
+  "Gral. Paz 13501, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6699701,
+    "lng": -58.5087622
+  },
+  "Av. J. M. de Rosas 523, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6647252,
+    "lng": -58.5252123
+  },
+  "Av. San Martin 5230, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6834203,
+    "lng": -58.5173957
+  },
+  "Av. Eva Perón 313, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6572939,
+    "lng": -58.5404039
+  },
+  "Av. Crovara 4389, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6988416,
+    "lng": -58.5399631
+  },
+  "Av. San Martin 2133, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6598671,
+    "lng": -58.5441224
+  },
+  "Av. Crovara 2371, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6871598,
+    "lng": -58.5217846
+  },
+  "Av. Mosconi 1899, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.666528,
+    "lng": -58.5494134
+  },
+  "Av. Crovara 1134, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6810722,
+    "lng": -58.5124007
+  },
+  "Gascon 608, Tablada, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6782293,
+    "lng": -58.5337402
+  },
+  "Av. San Martin 1631, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6560867,
+    "lng": -58.5482975
+  },
+  "Bolivar 4396, V. Madero, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6791776,
+    "lng": -58.527895
+  },
+  "Salcedo 792, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6704626,
+    "lng": -58.5175212
+  },
+  "Av. San Martin 2799, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.663771,
+    "lng": -58.5398461
+  },
+  "Brandsen 4257, San Justo, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6792791,
+    "lng": -58.5397044
+  },
+  "Av. Mosconi 1619, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6655342,
+    "lng": -58.5458904
+  },
+  "Pte. Perón 4159, San Justo, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6850696,
+    "lng": -58.5453837
+  },
+  "Av. Diaz Velez 1999, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6540668,
+    "lng": -58.5299026
+  },
+  "Av. J. M. de Rosas 1088, R. Mejia, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6681849,
+    "lng": -58.5322661
+  },
+  "L. De La Torre 508, San Justo, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6766784,
+    "lng": -58.5168912
+  },
+  "Av. Villegas 497, V. Insuperable, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6629956,
+    "lng": -58.5469891
+  },
+  "Larrea 2245, L. del Mirador, La Matanza, Provincia de Buenos Aires, Argentina": {
+    "lat": -34.6574011,
+    "lng": -58.5330246
+  },
+  "Belgrano 1964 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4484392,
+    "lng": -58.5516916
+  },
+  "Constitución 1286 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4422208,
+    "lng": -58.5550763
+  },
+  "Perón 406 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4361883,
+    "lng": -58.5611028
+  },
+  "Avellaneda y Calle 4 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4611828,
+    "lng": -58.5737562
+  },
+  "C. Casares 3164 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4622058,
+    "lng": -58.5625649
+  },
+  "Avellaneda 4810 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4665852,
+    "lng": -58.5845837
+  },
+  "Constitución 652 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.438204,
+    "lng": -58.5600736
+  },
+  "Constitución 1000 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4403939,
+    "lng": -58.5573524
+  },
+  "Avellaneda 2899 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4558321,
+    "lng": -58.5629298
+  },
+  "Perón 2916 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4482488,
+    "lng": -58.5452498
+  },
+  "Perón 2302 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4472566,
+    "lng": -58.5468017
+  },
+  "Avellaneda 4198 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4634523,
+    "lng": -58.5778936
+  },
+  "Santamarina 1394 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4556759,
+    "lng": -58.5405338
+  },
+  "C. Casares 3914 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4668949,
+    "lng": -58.5723131
+  },
+  "Perón 1801 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4448957,
+    "lng": -58.5502951
+  },
+  "Avellaneda 3401 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.459054,
+    "lng": -58.5696291
+  },
+  "Sobremonte 299 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4415051,
+    "lng": -58.5688792
+  },
+  "Necochea 1202 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4443414,
+    "lng": -58.552633
+  },
+  "H. Yrigoyen 2098 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4476015,
+    "lng": -58.5626306
+  },
+  "3 de Febrero y Colón San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.434999,
+    "lng": -58.565954
+  },
+  "Avellaneda 5438 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4698734,
+    "lng": -58.5914777
+  },
+  "Av. Libertador 3061 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4498973,
+    "lng": -58.5337935
+  },
+  "Perón 2498 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4488538,
+    "lng": -58.5447491
+  },
+  "9 de Julio 1493 San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4429885,
+    "lng": -58.5587618
+  },
+  "Avellaneda 3757 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4608412,
+    "lng": -58.5734374
+  },
+  "Constitución 201 S.F., San Fernando, Provincia de Buenos Aires": {
+    "lat": -34.4358493,
+    "lng": -58.5636732
+  },
+  "Perón 3302 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4535984,
+    "lng": -58.5378958
+  },
+  "René Favaloro 3395 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4829741,
+    "lng": -58.5883202
+  },
+  "Avellaneda 1899 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4516164,
+    "lng": -58.5546764
+  },
+  "Brandsen 2111 Virreyes, Provincia de Buenos Aires": {
+    "lat": -34.4504708,
+    "lng": -58.5510844
+  },
+  "Bolloqui 190 Victoria, Provincia de Buenos Aires": {
+    "lat": -34.4580415,
+    "lng": -58.5391918
+  },
+  "AV JARA JUAN H. 42, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9740046,
+    "lng": -57.560195
+  },
+  "AV. FELIZ U. CAMET 123, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9799302,
+    "lng": -57.5443638
+  },
+  "AV  BELTRAN 5688, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9400471,
+    "lng": -57.5458744
+  },
+  "AV. COLON 2690, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0032423,
+    "lng": -57.5509657
+  },
+  "T.A. EDISON 1180, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0469342,
+    "lng": -57.5544802
+  },
+  "AV INDEPENDENCIA 3002, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0067936,
+    "lng": -57.5613725
+  },
+  "AV FORTUNATO DE LA PLAZA 3237, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0540368,
+    "lng": -57.558867
+  },
+  "126 ESQ. 135 BATAN, Provincia de Buenos Aires": {
+    "lat": -38.0017892,
+    "lng": -57.7081829
+  },
+  "AV JUAN B. JUSTO 2600, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0229838,
+    "lng": -57.5660331
+  },
+  "JARA Y ALBERTI, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9944888,
+    "lng": -57.5769418
+  },
+  "AV. PEDRO LURO 3219, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.995086,
+    "lng": -57.5525114
+  },
+  "Av. Sta. María de las Conchas 2418, Rincón de Milberg": {
+    "lat": -34.419466,
+    "lng": -58.594762
+  },
+  "Av. Crisólogo Larralde 783, Tigre": {
+    "lat": -34.438571,
+    "lng": -58.572224
+  },
+  "Santiago de Estero 22, Gral. Pacheco": {
+    "lat": -34.45875,
+    "lng": -58.632235
+  },
+  "Boulogne Sur Mer 1249, Gral. Pacheco": {
+    "lat": -34.468022,
+    "lng": -58.623964
+  },
+  "Av. Alvear 2571, Benavídez": {
+    "lat": -34.412535,
+    "lng": -58.690349
+  },
+  "km 54, Au Panamericana, Don Torcuato": {
+    "lat": -34.485761,
+    "lng": -58.616119
+  },
+  "Ruta 197 y Panamericana, El Talar": {
+    "lat": -34.475234,
+    "lng": -58.664253
+  },
+  "Diag 74 nro 718 esq 2": {
+    "lat": -34.9022,
+    "lng": -57.95558
+  },
+  "13 nro 1997 esq 73": {
+    "lat": -34.93779,
+    "lng": -57.93289
+  },
+  "50 esq 31 nro 1811 1/2": {
+    "lat": -34.93796,
+    "lng": -57.97476
+  },
+  "120 nro 2159 esq. 76": {
+    "lat": -34.9232876,
+    "lng": -57.911136
+  },
+  "10 esq 44 nro 600": {
+    "lat": -34.91338,
+    "lng": -57.95841
+  },
+  "av 32(532) esq 3 Tolosa": {
+    "lat": -34.89636,
+    "lng": -57.96545
+  },
+  "21 E/ 64 y 65": {
+    "lat": -34.9379194,
+    "lng": -57.9506664
+  },
+  "66 ESQ 117 NRO 145": {
+    "lat": -34.91726,
+    "lng": -57.92551
+  },
+  "64 e/ 12  y 13 nro 865": {
+    "lat": -34.92913,
+    "lng": -57.942567
+  },
+  "59 esq 8 nro 654": {
+    "lat": -34.92106,
+    "lng": -57.943768999999975
+  },
+  "520 esq. 151 bis": {
+    "lat": -34.9325187,
+    "lng": -58.028676
+  },
+  "26 nro 2105 esq 75": {
+    "lat": -34.9513488,
+    "lng": -57.9443209
+  },
+  "DIAG. 73 ESQ. 27 NRO 3194": {
+    "lat": -34.92281,
+    "lng": -57.98461
+  },
+  "13 E/ 528 Y 529 NRO 333": {
+    "lat": -34.90327,
+    "lng": -57.97868
+  },
+  "44 E/ 196 Y 197 NRO 5073": {
+    "lat": -34.99472,
+    "lng": -58.04785
+  },
+  "AV.13 Nº3376 E/ 600 Y 601": {
+    "lat": -34.95584,
+    "lng": -57.90738
+  },
+  "13C e/461d y 461e nro 1118": {
+    "lat": -34.863949,
+    "lng": -58.0548567
+  },
+  "Camino Gral Belgrano esq 504": {
+    "lat": -34.890553,
+    "lng": -58.0155157
+  },
+  "137 nro 1567 1/2 e/64 y 65": {
+    "lat": -34.9532273,
+    "lng": -57.9729239
+  },
+  "Los Andes N° 3939, e/ Aldo Emir Jofre y calle 169": {
+    "lat": -34.72198619,
+    "lng": -58.31975341
+  },
+  "Av. Mitre N° 1650, esq. Juan Cruz Varela": {
+    "lat": -34.73800659,
+    "lng": -58.23927104
+  },
+  "Av. San Martin N° 1088, e/ calle 109 bis y Chaco": {
+    "lat": -34.70374261,
+    "lng": -58.29616606
+  },
+  "Felipe Amoedo N° 1565, e/ Martin Rodriguez y Necochea": {
+    "lat": -34.73781703,
+    "lng": -58.27183038
+  },
+  "Av. H. Yrigoyen N° 162, entre Castelli y Paso": {
+    "lat": -34.71638547,
+    "lng": -58.2652992
+  },
+  "14 y 141": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "ITUZAINGO 3801 ESQ. DORREGO, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9939277,
+    "lng": -57.5845932
+  },
+  "RODRIGUEZ PEÑA 2535, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0132747,
+    "lng": -57.5571659
+  },
+  "12 DE OCTUBRE 3499, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0129978,
+    "lng": -57.5620117
+  },
+  "AV PEDRO LURO 7498, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9738359,
+    "lng": -57.5955512
+  },
+  "AV COLON 9102, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.970437,
+    "lng": -57.6154765
+  },
+  "AV. FORTUNATO DE LA PLAZA 6304, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0341944,
+    "lng": -57.5862683
+  },
+  "25 DE MAYO 2999 ESQ. RIOJA, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0392753,
+    "lng": -57.56043
+  },
+  "AV. JARA JUAN H. 936, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.98106,
+    "lng": -57.5658513
+  },
+  "AV CONSTITUCION 4375, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9685561,
+    "lng": -57.547029
+  },
+  "AV JUAN B. JUSTO 6736, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9956798,
+    "lng": -57.6024281
+  },
+  "RODRIGUEZ PEÑA 4727, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0020133,
+    "lng": -57.5792473
   }
 }
