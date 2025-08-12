@@ -1,41 +1,277 @@
-[
-  "Alejandro Korn",
-  "Avellaneda",
-  "Azul",
-  "Banfield",
-  "Berazategui",
-  "Bolivar",
-  "Budge",
-  "Burzaco",
-  "Claypole",
-  "Coronel Suarez",
-  "Florencio Varela",
-  "Glew",
-  "Grand Bourg - Ing. Pablo Nogués",
-  "La Matanza",
-  "La Plata",
-  "Las Toninas",
-  "Lincoln",
-  "Llavallol",
-  "Lomas de Zamora",
-  "Longchamps",
-  "Los Polvorines - V. de Mayo - A. Sourdeaux",
-  "Mar de Ajo",
-  "Mar del Plata",
-  "Mar del Tuyu",
-  "Merlo",
-  "Miramar",
-  "Quilmes",
-  "San Bernardo",
-  "San Clemente del Tuyu",
-  "San Fernando",
-  "San Isidro",
-  "San José",
-  "Santa Teresita",
-  "Temperley",
-  "Tigre",
-  "Tortuguitas",
-  "Turdera",
-  "Villa Albertina",
-  "Zarate"
-]
+{
+  "Buenos Aires": [
+    {
+      "nombre": "Alejandro Korn",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Avellaneda",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Azul",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Banfield",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Berazategui",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Bolivar",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Budge",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Burzaco",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Claypole",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Coronel Suarez",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Florencio Varela",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Glew",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Grand Bourg - Ing. Pablo Nogués",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "La Matanza",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "La Plata",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Las Toninas",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Lincoln",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Llavallol",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Lomas de Zamora",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Longchamps",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Los Polvorines - V. de Mayo - A. Sourdeaux",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Mar de Ajo",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Mar del Plata",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Mar del Tuyu",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Merlo",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Miramar",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Quilmes",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "San Bernardo",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "San Clemente del Tuyu",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "San Fernando",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "San Isidro",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "San José",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Santa Teresita",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Temperley",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Tigre",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Tortuguitas",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Turdera",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Villa Albertina",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
+      "nombre": "Zarate",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    }
+  ]
+}
