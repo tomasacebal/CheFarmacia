@@ -4066,5 +4066,181 @@
   "RODRIGUEZ PEÑA 4727, Mar del Plata, Provincia de Buenos Aires": {
     "lat": -38.0020133,
     "lng": -57.5792473
+  },
+  "Av. Dardo Rocha 937, Tigre": {
+    "lat": -34.430688,
+    "lng": -58.575712
+  },
+  "Av. Sta. María de las Conchas 4793, Rincón de Milberg": {
+    "lat": -34.406554,
+    "lng": -58.620995
+  },
+  "Av. Hipólito Yrigoyen 2222, El Talar": {
+    "lat": -34.471581,
+    "lng": -58.655273
+  },
+  "Av. Hipólito Yrigoyen 786, Gral. Pacheco": {
+    "lat": -34.459585,
+    "lng": -58.632964
+  },
+  "Tte. Gral. Juan José Valle 1909, El Talar": {
+    "lat": -34.460584,
+    "lng": -58.660026
+  },
+  "Av. Juan Domingo Perón & El Salvador, Benavidez": {
+    "lat": -34.425132,
+    "lng": -58.692554
+  },
+  "Av Angel Torcuato de Alvear 1472, Don Torcuato": {
+    "lat": -34.494377,
+    "lng": -58.634357
+  },
+  "524 esq 8": {
+    "lat": -34.89491,
+    "lng": -57.97901
+  },
+  "2 esq 50 nro 896": {
+    "lat": -34.91001,
+    "lng": -57.94464
+  },
+  "Diag 80 nro 960 e/ 4 y 5": {
+    "lat": -34.91172,
+    "lng": -57.94848
+  },
+  "137 e/43 y 44 nro 586": {
+    "lat": -34.93881,
+    "lng": -57.98683
+  },
+  "64 nro 648 esq 8": {
+    "lat": -34.9251999,
+    "lng": -57.9379044
+  },
+  "1 esq 65 nro 1599": {
+    "lat": -34.91951,
+    "lng": -57.93002
+  },
+  "51 nro 1736 e/ 29 y 30": {
+    "lat": -34.93673,
+    "lng": -57.97221
+  },
+  "38 ESQ. 4 NRO 455": {
+    "lat": -34.90275,
+    "lng": -57.95925
+  },
+  "42 nro 927 e/13 y 14": {
+    "lat": -34.9151378,
+    "lng": -57.9644549
+  },
+  "70 NRO 803 ESQ. 11": {
+    "lat": -34.9331104,
+    "lng": -57.9344776
+  },
+  "60 NRO 752 ESQ. 10": {
+    "lat": -34.9237205,
+    "lng": -57.9445828
+  },
+  "7 e/ 46 y 47 nro 705": {
+    "lat": -34.9122267,
+    "lng": -57.9530346
+  },
+  "13 ESQ 85 BIS": {
+    "lat": -34.94715,
+    "lng": -57.91968
+  },
+  "520 NRO 6256 E/157 Y 158": {
+    "lat": -34.938192,
+    "lng": -58.0349317
+  },
+  "637 Nro 729 ESQ 9 BIS": {
+    "lat": -34.9777816,
+    "lng": -57.8714985
+  },
+  "122 Nro 2343 1/2": {
+    "lat": -34.92358,
+    "lng": -57.90507
+  },
+  "Centenario y Diag 92": {
+    "lat": -34.8661119,
+    "lng": -58.0476438
+  },
+  "Cno. Gral. Belgrano nro 4030 e/ 491 y 492": {
+    "lat": -34.8871997,
+    "lng": -58.029803000000015
+  },
+  "60 nro 2871": {
+    "lat": -34.9634604,
+    "lng": -57.9908457
+  },
+  "Triunvirato N° 378, e/ Av. Vicente Lopez y Arist. del Valle": {
+    "lat": -34.73541888,
+    "lng": -58.25559765
+  },
+  "Av. Lamadrid N° 1780, entre Condarco y Husares": {
+    "lat": -34.72234683,
+    "lng": -58.28613997
+  },
+  "Av. Mitre N° 5199, e/ Carbonari y Sgo. Del Estero": {
+    "lat": -34.74668607,
+    "lng": -58.22668612
+  },
+  "Av. 12 de Octubre N° 3945, entre Anibal Troilo calle 389": {
+    "lat": -34.74651857,
+    "lng": -58.29806775
+  },
+  "Calle 898 N° 1506, esq. 809": {
+    "lat": -34.7568097,
+    "lng": -58.33308667
+  },
+  "calle 898 N° 6198, esq. 862": {
+    "lat": -34.79218442,
+    "lng": -58.30649793
+  },
+  "AV COLON 1399 ESQ. OLAVARRIA, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.009443,
+    "lng": -57.5378682
+  },
+  "MATHEU 3673, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0106151,
+    "lng": -57.5710715
+  },
+  "AV JUAN B. JUSTO 6404 ESQ. B. BLANCA, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0126427,
+    "lng": -57.5736977
+  },
+  "AV JOSE MANUEL ESTRADA 5610, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.952992,
+    "lng": -57.552118
+  },
+  "AV. FORTUNATO DE LA PLAZA 5120, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0420411,
+    "lng": -57.5755592
+  },
+  "AV JUAN B. JUSTO 2278  ESQ. GRAL. SAVIO, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9862728,
+    "lng": -57.6048463
+  },
+  "RAWSON 4197 ESQ. SAN JUAN, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9992558,
+    "lng": -57.5693698
+  },
+  "T.A. EDISON 1582, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0495555,
+    "lng": -57.557874
+  },
+  "INDEPENDENCIA 1399, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.993685,
+    "lng": -57.551028
+  },
+  "Luis Braile 665, Cruce Varela": {
+    "lat": -34.77773427423433,
+    "lng": -58.275897184220575
+  },
+  "Ituzaingó 322, Zeballos": {
+    "lat": -34.807415175812615,
+    "lng": -58.26366398421988
+  },
+  "Av. San Martín 3201 Esq. Rivadavia, Centro": {
+    "lat": -34.80884957588884,
+    "lng": -58.28059568421994
   }
 }

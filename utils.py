@@ -129,16 +129,30 @@ def format_data_for_json(farmacias):
 
     return data
 
-def commit_and_push(repo_path, file_path, message="Update JSON file"):
+def commit_and_push(repo_path, file_paths, message="Update JSON files"):
+    """
+    Añade, hace commit y push de una lista de archivos.
+    """
     repo = Repository(repo_path)
     index = repo.index
-    index.add(file_path)
+    
+    # Añadir todos los archivos de la lista al index
+    for file_path in file_paths:
+        index.add(file_path)
+        
     index.write()
     tree = index.write_tree()
 
     author = Signature("AutoScraper by HIGHER®", "atomasacebal@gmail.com")
     committer = author
-    parent = repo.head.peel().id
+    
+    try:
+        parent = repo.head.peel().id
+        parents = [parent]
+    except Exception:
+        # Si no hay head (repositorio vacío), no hay padres
+        parents = []
+
 
     oid = repo.create_commit(
         "refs/heads/main",
@@ -146,7 +160,7 @@ def commit_and_push(repo_path, file_path, message="Update JSON file"):
         committer,
         message,
         tree,
-        [parent]
+        parents
     )
 
     remote = repo.remotes["origin"]
@@ -162,3 +176,72 @@ def commit_and_push(repo_path, file_path, message="Update JSON file"):
 
     callbacks = RemoteCallbacks(credentials=UserPass(username, password))
     remote.push(["refs/heads/main"], callbacks=callbacks)
+    print("[INFO] Commit y Push realizados con éxito para los archivos:", file_paths)
+
+def generate_localities_list(input_json_path, output_json_path):
+    """
+    Actualiza el archivo de localidades. Lee el archivo existente, lo compara con las
+    localidades actuales del scraper y añade solo las que no existen, conservando
+    los datos existentes (como las coordenadas).
+    """
+    print(f"Actualizando lista de localidades desde: {input_json_path}")
+
+    # 1. Obtener la lista completa de localidades desde el scraping actual
+    try:
+        with open(input_json_path, 'r', encoding='utf-8') as f:
+            scraped_data = json.load(f)
+        
+        scraped_localities_set = set()
+        for month_data in scraped_data.values():
+            # .keys() devuelve los nombres de las localidades para ese mes
+            scraped_localities_set.update(month_data.keys())
+            
+    except (FileNotFoundError, json.JSONDecodeError) as e:
+        print(f"[ERROR] No se pudo leer el archivo de entrada '{input_json_path}'. No se puede actualizar la lista de localidades.")
+        return
+
+    # 2. Leer el archivo de localidades.json existente o crear una estructura por defecto
+    try:
+        with open(output_json_path, 'r', encoding='utf-8') as f:
+            existing_data = json.load(f)
+    except (FileNotFoundError, json.JSONDecodeError):
+        # Si el archivo no existe o está corrupto, empezamos de cero
+        existing_data = {"Buenos Aires": []}
+    
+    # Asegurarnos de que la clave de la provincia exista
+    if "Buenos Aires" not in existing_data:
+        existing_data["Buenos Aires"] = []
+
+    # 3. Obtener un set de los nombres de las localidades ya registradas para una búsqueda rápida
+    existing_names_set = {loc['nombre'] for loc in existing_data["Buenos Aires"]}
+
+    # 4. Encontrar las localidades que son nuevas
+    new_localities_names = scraped_localities_set - existing_names_set
+
+    # 5. Si hay localidades nuevas, añadirlas a la estructura
+    if new_localities_names:
+        print(f"[INFO] Se encontraron {len(new_localities_names)} localidades nuevas: {', '.join(sorted(list(new_localities_names)))}")
+        for name in sorted(list(new_localities_names)):
+            new_locality_obj = {
+                "nombre": name,
+                "coordenadas": {
+                    "lat": None,
+                    "lng": None
+                }
+            }
+            existing_data["Buenos Aires"].append(new_locality_obj)
+        
+        # 6. Re-ordenar la lista completa alfabéticamente por nombre
+        existing_data["Buenos Aires"].sort(key=lambda x: x['nombre'])
+        
+    else:
+        print("[INFO] No se encontraron nuevas localidades. El archivo está actualizado.")
+        # No es necesario hacer nada más si no hay cambios, pero igual guardaremos por consistencia.
+
+    # 7. Guardar la estructura de datos (actualizada o no) de vuelta en el archivo
+    os.makedirs(os.path.dirname(output_json_path), exist_ok=True)
+    with open(output_json_path, 'w', encoding='utf-8') as f:
+        json.dump(existing_data, f, indent=2, ensure_ascii=False)
+    
+    total_localities = len(existing_data["Buenos Aires"])
+    print(f"[INFO] Archivo de localidades actualizado con éxito. Total: {total_localities} localidades.")

@@ -25,7 +25,7 @@ from scrapers.sources import SourcesScraper
 from scrapers.san_fernando import SanFernandoScraper
 from scrapers.mar_del_plata import MarDelPlataScraper
 
-from utils import save_to_json, commit_and_push, format_data_for_json, merge_data
+from utils import save_to_json, commit_and_push, format_data_for_json, merge_data, generate_localities_list
 
 def run_all_scrapers():
     load_dotenv()
@@ -70,18 +70,31 @@ def run_all_scrapers():
 
 
     # Guardar toda la info unificada
-    FILENAME = "data/farmacias_turno.json"
+    MAIN_JSON_FILENAME = "data/farmacias_turno.json"
     save_to_json(datos_combinados)
+
+    # Generar el archivo de localidades a partir del archivo principal recién guardado
+    LOCALITIES_FILENAME = "data/localidades.json"
+    generate_localities_list(input_json_path=MAIN_JSON_FILENAME, output_json_path=LOCALITIES_FILENAME)
 
     # Hacer commit y push
     repo_path = os.getenv("GITHUB_REPO_PATH")
-    json_path = FILENAME if repo_path else None
-    commit_message = "Actualización automática del archivo JSON (todas las localidades)"
+    files_to_commit = []
+    if repo_path:
+        # Obtener la ruta relativa
+        rel_path_main = os.path.relpath(MAIN_JSON_FILENAME, start=repo_path)
+        rel_path_localities = os.path.relpath(LOCALITIES_FILENAME, start=repo_path)
 
-    if json_path and repo_path:
-        commit_and_push(repo_path, json_path, commit_message)
+        # Asegurarse de que las rutas usen barras diagonales (/) para pygit2
+        files_to_commit.append(rel_path_main.replace('\\', '/'))
+        files_to_commit.append(rel_path_localities.replace('\\', '/'))
+
+    commit_message = "Actualización automática de farmacias y lista de localidades"
+
+    if files_to_commit and repo_path:
+        commit_and_push(repo_path, files_to_commit, commit_message)
     else:
-        print("[ADVERTENCIA] Faltan las variables JSON_PATH o GITHUB_REPO_PATH en el .env")
+        print("[ADVERTENCIA] No se realizará commit y push. Faltan variables de entorno o la ruta del repositorio no es válida.")
 
 if __name__ == "__main__":
     run_all_scrapers()
