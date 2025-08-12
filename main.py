@@ -1,87 +1,69 @@
 import os
+import subprocess
+import sys
 from dotenv import load_dotenv
-from tqdm import tqdm
 
-from scrapers.san_isidro import SanIsidroScraper
-from scrapers.tigre import TigreScraper
-from scrapers.la_plata import LaPlataScraper
-from scrapers.merlo import MerloScraper
-from scrapers.zarate import ZarateScraper
-from scrapers.florencio_varela import VarelaScraper
-from scrapers.quilmes import QuilmesScraper
-from scrapers.berazategui import BerazateguiScraper
-from scrapers.lincoln import LincolnScraper
-from scrapers.azul import AzulScraper
-from scrapers.bolivar import BolivarScraper
-from scrapers.coronel_suarez import CoronelSuarezScraper
-from scrapers.las_toninas import LasToninasScraper
-from scrapers.mar_de_ajo import MarDeAjoScraper
-from scrapers.mar_del_tuyu import MarDelTuyuScraper
-from scrapers.miramar import MiramarScraper
-from scrapers.san_bernardo import SanBernardoScraper
-from scrapers.san_clemente_del_tuyu import SanClementeScraper
-from scrapers.santa_teresita import SantaTeresitaScraper
-from scrapers.sources import SourcesScraper
-from scrapers.san_fernando import SanFernandoScraper
-from scrapers.mar_del_plata import MarDelPlataScraper
+# Importamos la función principal del otro script
+from run_scrapers import run_all_scrapers
 
-from utils import save_to_json, commit_and_push, format_data_for_json, merge_data
+def pull_latest_changes():
+    """
+    Ejecuta 'git pull' en el directorio del repositorio para obtener los últimos cambios.
+    """
+    load_dotenv()
+    repo_path = os.getenv("GITHUB_REPO_PATH")
+
+    if not repo_path:
+        print("[ERROR] La variable de entorno GITHUB_REPO_PATH no está definida.")
+        print("Asegúrate de que tu archivo .env contenga la ruta al repositorio.")
+        sys.exit(1)
+
+    if not os.path.isdir(os.path.join(repo_path, '.git')):
+        print(f"[ERROR] La ruta '{repo_path}' no parece ser un repositorio de Git válido.")
+        sys.exit(1)
+        
+    print(f"[INFO] Actualizando el repositorio en: {repo_path}")
+
+    try:
+        # Usamos subprocess.run para ejecutar el comando git pull
+        # check=True lanzará una excepción si el comando falla (retorna un código != 0)
+        # cwd especifica el directorio de trabajo donde se ejecutará el comando
+        # capture_output=True para capturar stdout y stderr
+        result = subprocess.run(
+            ['git', 'pull'],
+            cwd=repo_path,
+            check=True,
+            capture_output=True,
+            text=True # Decodifica stdout/stderr como texto
+        )
+        print("[INFO] Git pull exitoso.")
+        print(result.stdout) # Muestra la salida del comando git pull
+
+    except FileNotFoundError:
+        print("[ERROR] El comando 'git' no se encontró. Asegúrate de que Git esté instalado y en el PATH.")
+        sys.exit(1)
+    except subprocess.CalledProcessError as e:
+        # Esta excepción se lanza si git pull falla (ej. por conflictos de merge)
+        print("[ERROR] Falló el comando 'git pull'.")
+        print("--- STDOUT ---")
+        print(e.stdout)
+        print("--- STDERR ---")
+        print(e.stderr)
+        sys.exit(1)
+
 
 def main():
-    load_dotenv()
+    """
+    Punto de entrada principal: actualiza el repo y luego ejecuta los scrapers.
+    """
+    # 1. Actualizar el código desde el repositorio de GitHub
+    pull_latest_changes()
 
-    # Lista de scrapers a ejecutar
-    scrapers = [
-        SourcesScraper(),
+    # 2. Ejecutar el proceso de scraping y actualización de datos
+    print("\n[INFO] Repositorio actualizado. Iniciando el proceso de scraping...")
+    run_all_scrapers()
+    print("\n[INFO] Proceso completado.")
 
-        SanIsidroScraper(),
-        TigreScraper(),
-        LaPlataScraper(),
-        MerloScraper(),
-        ZarateScraper(),
-        QuilmesScraper(),
-        BerazateguiScraper(),
-        LincolnScraper(),
-        AzulScraper(),
-        BolivarScraper(),
-        CoronelSuarezScraper(),
-        LasToninasScraper(),
-        MarDeAjoScraper(),
-        MarDelTuyuScraper(),
-        MiramarScraper(),
-        SanBernardoScraper(),
-        SanClementeScraper(),
-        SantaTeresitaScraper(),
-        SanFernandoScraper(),
-        MarDelPlataScraper(),
-
-        VarelaScraper(),
-    ]
-
-    datos_combinados = {}
-
-    for scraper in tqdm(scrapers, desc="Ejecutando scrapers"):
-        # El mensaje de info ahora es más genérico para el SourcesScraper
-        localidad_info = getattr(scraper, 'LOCALIDAD', scraper.__class__.__name__)
-        print(f"\n[INFO] Ejecutando scraper para: {localidad_info}")
-        datos = scraper.fetch()
-        datos_formateados = format_data_for_json(datos)
-        datos_combinados = merge_data(datos_combinados, datos_formateados)
-
-
-    # Guardar toda la info unificada
-    FILENAME = "data/farmacias_turno.json"
-    save_to_json(datos_combinados)
-
-    # Hacer commit y push
-    repo_path = os.getenv("GITHUB_REPO_PATH")
-    json_path = FILENAME if repo_path else None
-    commit_message = "Actualización automática del archivo JSON (todas las localidades)"
-
-    if json_path and repo_path:
-        commit_and_push(repo_path, json_path, commit_message)
-    else:
-        print("[ADVERTENCIA] Faltan las variables JSON_PATH o GITHUB_REPO_PATH en el .env")
 
 if __name__ == "__main__":
     main()
