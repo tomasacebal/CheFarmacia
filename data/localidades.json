@@ -260,6 +260,13 @@
       }
     },
     {
+      "nombre": "Vicente Lopez",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
+      }
+    },
+    {
       "nombre": "Vicente López",
       "coordenadas": {
         "lat": null,
