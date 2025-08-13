@@ -10,266 +10,273 @@
     {
       "nombre": "Avellaneda",
       "coordenadas": {
-        "lat": -34.68351107720469, 
+        "lat": -34.68351107720469,
         "lng": -58.34392365857963
       }
     },
     {
       "nombre": "Azul",
       "coordenadas": {
-        "lat": -36.77812343290569, 
+        "lat": -36.77812343290569,
         "lng": -59.8585913076251
       }
     },
     {
       "nombre": "Banfield",
       "coordenadas": {
-        "lat": -34.74514356145232, 
+        "lat": -34.74514356145232,
         "lng": -58.38748245909852
       }
     },
     {
       "nombre": "Berazategui",
       "coordenadas": {
-        "lat": -34.76179498701603, 
+        "lat": -34.76179498701603,
         "lng": -58.20518722217582
       }
     },
     {
       "nombre": "Bolivar",
       "coordenadas": {
-        "lat": -36.235806986210484, 
+        "lat": -36.235806986210484,
         "lng": -61.122011461395935
       }
     },
     {
       "nombre": "Budge",
       "coordenadas": {
-        "lat": -34.734249636808556, 
+        "lat": -34.734249636808556,
         "lng": -58.45866472903711
       }
     },
     {
       "nombre": "Burzaco",
       "coordenadas": {
-        "lat": -34.82837792450225, 
+        "lat": -34.82837792450225,
         "lng": -58.39371749083278
       }
     },
     {
       "nombre": "Claypole",
       "coordenadas": {
-        "lat": -34.802672208406484, 
+        "lat": -34.802672208406484,
         "lng": -58.34287615756241
       }
     },
     {
       "nombre": "Coronel Suarez",
       "coordenadas": {
-        "lat": -37.45896563184396, 
+        "lat": -37.45896563184396,
         "lng": -61.9226418600948
       }
     },
     {
       "nombre": "Florencio Varela",
       "coordenadas": {
-        "lat": -34.8109741168466, 
+        "lat": -34.8109741168466,
         "lng": -58.273709604792785
       }
     },
     {
       "nombre": "Glew",
       "coordenadas": {
-        "lat": -34.88846607920119, 
+        "lat": -34.88846607920119,
         "lng": -58.38417033629119
       }
     },
     {
       "nombre": "Grand Bourg - Ing. Pablo Nogués",
       "coordenadas": {
-        "lat": -34.48362041265187, 
+        "lat": -34.48362041265187,
         "lng": -58.71460533536892
       }
     },
     {
       "nombre": "La Matanza",
       "coordenadas": {
-        "lat": -34.68542639492955, 
+        "lat": -34.68542639492955,
         "lng": -58.560348203652545
       }
     },
     {
       "nombre": "La Plata",
       "coordenadas": {
-        "lat": -34.92138291713053, 
+        "lat": -34.92138291713053,
         "lng": -57.95454386849292
       }
     },
     {
       "nombre": "Las Toninas",
       "coordenadas": {
-        "lat": -36.487891953659535, 
+        "lat": -36.487891953659535,
         "lng": -56.69467065270056
       }
     },
     {
       "nombre": "Lincoln",
       "coordenadas": {
-        "lat": -34.86836908617809, 
+        "lat": -34.86836908617809,
         "lng": -61.52894073822351
       }
     },
     {
       "nombre": "Llavallol",
       "coordenadas": {
-        "lat": -34.7929764459221, 
+        "lat": -34.7929764459221,
         "lng": -58.42640342421104
       }
     },
     {
       "nombre": "Lomas de Zamora",
       "coordenadas": {
-        "lat": -34.76098524511801, 
+        "lat": -34.76098524511801,
         "lng": -58.42253504100506
       }
     },
     {
       "nombre": "Longchamps",
       "coordenadas": {
-        "lat": -34.862671073470146, 
+        "lat": -34.862671073470146,
         "lng": -58.38899933046991
       }
     },
     {
       "nombre": "Los Polvorines - V. de Mayo - A. Sourdeaux",
       "coordenadas": {
-        "lat": -34.50534850999167, 
+        "lat": -34.50534850999167,
         "lng": -58.68587069632142
       }
     },
     {
       "nombre": "Mar de Ajo",
       "coordenadas": {
-        "lat": -36.72322918080579, 
+        "lat": -36.72322918080579,
         "lng": -56.67515037637648
       }
     },
     {
       "nombre": "Mar del Plata",
       "coordenadas": {
-        "lat": -38.0056403161082, 
+        "lat": -38.0056403161082,
         "lng": -57.54300196557631
       }
     },
     {
       "nombre": "Mar del Tuyu",
       "coordenadas": {
-        "lat": -36.57683233565684, 
+        "lat": -36.57683233565684,
         "lng": -56.68731790604574
       }
     },
     {
       "nombre": "Merlo",
       "coordenadas": {
-        "lat": -34.676726839075286, 
+        "lat": -34.676726839075286,
         "lng": -58.730339616821574
       }
     },
     {
       "nombre": "Miramar",
       "coordenadas": {
-        "lat": -38.26560607901267, 
-        "lng": -57.83388560816605 
+        "lat": -38.26560607901267,
+        "lng": -57.83388560816605
       }
     },
     {
       "nombre": "Quilmes",
       "coordenadas": {
-        "lat": -34.725323850413595, 
+        "lat": -34.725323850413595,
         "lng": -58.25108900840911
       }
     },
     {
       "nombre": "San Bernardo",
       "coordenadas": {
-        "lat": -36.68652676308738, 
+        "lat": -36.68652676308738,
         "lng": -56.68022783228189
       }
     },
     {
       "nombre": "San Clemente del Tuyu",
       "coordenadas": {
-        "lat": -36.368719039485995, 
+        "lat": -36.368719039485995,
         "lng": -56.71774986994203
       }
     },
     {
       "nombre": "San Fernando",
       "coordenadas": {
-        "lat": -34.44328636978059, 
+        "lat": -34.44328636978059,
         "lng": -58.557865617743
       }
     },
     {
       "nombre": "San Isidro",
       "coordenadas": {
-        "lat": -34.482110709900475, 
+        "lat": -34.482110709900475,
         "lng": -58.52776038814639
       }
     },
     {
       "nombre": "San José",
       "coordenadas": {
-        "lat": -34.76485008717033, 
+        "lat": -34.76485008717033,
         "lng": -58.34388444271396
       }
     },
     {
       "nombre": "Santa Teresita",
       "coordenadas": {
-        "lat": -36.54420892435721, 
+        "lat": -36.54420892435721,
         "lng": -56.690649354176784
       }
     },
     {
       "nombre": "Temperley",
       "coordenadas": {
-        "lat": -34.76804745055288, 
+        "lat": -34.76804745055288,
         "lng": -58.37951918235161
       }
     },
     {
       "nombre": "Tigre",
       "coordenadas": {
-        "lat": -34.42719467615484, 
+        "lat": -34.42719467615484,
         "lng": -58.583817364287405
       }
     },
     {
       "nombre": "Tortuguitas",
       "coordenadas": {
-        "lat": -34.47064934032833, 
+        "lat": -34.47064934032833,
         "lng": -58.758426733234124
       }
     },
     {
       "nombre": "Turdera",
       "coordenadas": {
-        "lat": -34.78938620665853, 
+        "lat": -34.78938620665853,
         "lng": -58.40844565268862
+      }
+    },
+    {
+      "nombre": "Vicente López",
+      "coordenadas": {
+        "lat": null,
+        "lng": null
       }
     },
     {
       "nombre": "Villa Albertina",
       "coordenadas": {
-        "lat": -34.74203571179291, 
+        "lat": -34.74203571179291,
         "lng": -58.461263057565
       }
     },
     {
       "nombre": "Zarate",
       "coordenadas": {
-        "lat": -34.097817043603506, 
+        "lat": -34.097817043603506,
         "lng": -59.03775687258592
       }
     }
