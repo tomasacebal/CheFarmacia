@@ -262,15 +262,8 @@
     {
       "nombre": "Vicente Lopez",
       "coordenadas": {
-        "lat": null,
-        "lng": null
-      }
-    },
-    {
-      "nombre": "Vicente López",
-      "coordenadas": {
-        "lat": null,
-        "lng": null
+        "lat": -34.51659289848566, 
+        "lng": -58.485896040832664
       }
     },
     {
