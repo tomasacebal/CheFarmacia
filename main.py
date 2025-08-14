@@ -3,7 +3,7 @@ import subprocess
 import sys
 from dotenv import load_dotenv
 
-# Importamos la función principal del otro script
+from logger_config import setup_logging
 from run_scrapers import run_all_scrapers
 
 def pull_latest_changes():
@@ -66,4 +66,6 @@ def main():
 
 
 if __name__ == "__main__":
+    setup_logging()
+
     main()
