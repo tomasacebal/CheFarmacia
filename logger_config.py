@@ -60,3 +60,5 @@ def setup_logging():
 
     # Informar que el logging ha sido configurado
     logging.info("Logging configurado. La salida se guardará en: %s", log_filename)
+
+    return log_filename

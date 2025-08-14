@@ -2,9 +2,11 @@ import os
 import subprocess
 import sys
 from dotenv import load_dotenv
+from datetime import datetime
 
 from logger_config import setup_logging
 from run_scrapers import run_all_scrapers
+from utils import send_telegram_notification
 
 def pull_latest_changes():
     """
@@ -66,6 +68,57 @@ def main():
 
 
 if __name__ == "__main__":
-    setup_logging()
+    # 1. Configurar el logging y obtener el nombre del archivo de log
+    log_filename = setup_logging()
 
-    main()
+    # 2. Preparar variables para el resumen final
+    start_time = datetime.now()
+    status = "✅ Éxito"
+    error_details = ""
+
+    try:
+        # 3. Ejecutar la lógica principal
+        main()
+
+    except Exception as e:
+        # 4. Si algo falla, capturar el error y cambiar el estado
+        status = "❌ Falló"
+        # Obtener el traceback para un error más detallado
+        import traceback
+        error_details = traceback.format_exc()
+        # Loguear el error completo en el archivo
+        print(f"[ERROR CRÍTICO] La ejecución falló: {e}\n{error_details}")
+
+    finally:
+        # 5. Este bloque se ejecuta SIEMPRE, haya habido error o no
+        end_time = datetime.now()
+        duration = end_time - start_time
+        
+        # Formatear la duración para que sea más legible
+        total_seconds = int(duration.total_seconds())
+        minutes, seconds = divmod(total_seconds, 60)
+        duration_str = f"{minutes}m {seconds}s"
+
+        # 6. Construir el mensaje de notificación
+        # Los caracteres como '.' o '-' deben ser escapados en MarkdownV2
+        log_filename_escaped = log_filename.replace('\\', '/').replace('.', '\\.').replace('-', '\\-')
+        
+        summary_message = f"""
+*Resumen de Ejecución del Scraper*
+
+*Estado:* {status}
+*Duración:* {duration_str}
+*Archivo de Log:* `{log_filename_escaped}`
+"""
+        if error_details:
+            # Si hubo un error, añadir los detalles al mensaje
+            summary_message += f"\n*Detalle del Error:*\n```\n{error_details[:3500]}\n```" # Telegram tiene un límite de 4096 caracteres
+
+        # 7. Enviar la notificación
+        send_telegram_notification(summary_message)
+
+        print(f"\n[INFO] Proceso completado en {duration_str}.")
+        
+        # 8. Si el script falló, salir con un código de error
+        if status == "❌ Falló":
+            sys.exit(1)

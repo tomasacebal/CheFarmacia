@@ -6,6 +6,7 @@ import datetime
 import re
 import urllib.parse
 import datetime as d
+import telegram
 
 from get_coords_from_maps import consultar_coordenadas  # función que busca coordenadas con cache
 
@@ -245,3 +246,27 @@ def generate_localities_list(input_json_path, output_json_path):
     
     total_localities = len(existing_data["Buenos Aires"])
     print(f"[INFO] Archivo de localidades actualizado con éxito. Total: {total_localities} localidades.")
+
+def send_telegram_notification(message):
+    """
+    Envía un mensaje a un chat de Telegram usando las credenciales del .env.
+    """
+    bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+    chat_id = os.getenv("TELEGRAM_CHAT_ID")
+
+    if not bot_token or not chat_id:
+        print("[ADVERTENCIA] No se configuraron las credenciales de Telegram. No se enviará notificación.")
+        return
+
+    try:
+        bot = telegram.Bot(token=bot_token)
+        # Usamos MarkdownV2 para formatear el texto. Los caracteres especiales deben ser escapados.
+        # Para mensajes simples como este, no suele ser un problema.
+        bot.send_message(
+            chat_id=chat_id,
+            text=message,
+            parse_mode=telegram.ParseMode.MARKDOWN_V2
+        )
+        print("[INFO] Notificación de Telegram enviada con éxito.")
+    except Exception as e:
+        print(f"[ERROR] Falló al enviar la notificación de Telegram: {e}")
