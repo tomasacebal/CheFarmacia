@@ -1,3 +1,4 @@
 .env
 tests.py
 /__pycache__
+/logs
