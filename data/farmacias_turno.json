@@ -27178,16 +27178,6 @@
         ],
         "15": [
           {
-            "nombre": "BADANEZ SCS",
-            "direccion": "SAN MARTIN 2149, Mar del Plata, Provincia de Buenos Aires",
-            "telefono": "4930780",
-            "mapa": "https://www.google.com/maps/search/?api=1&query=SAN%20MARTIN%202149%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
-            "coordenadas": {
-              "lat": -38.0016199,
-              "lng": -57.5423876
-            }
-          },
-          {
             "nombre": "CASTORINA",
             "direccion": "AV. FORTUNATO DE LA PLAZA 2657, Mar del Plata, Provincia de Buenos Aires",
             "telefono": "2235736459",
@@ -27285,6 +27275,16 @@
             "coordenadas": {
               "lat": -37.9800592,
               "lng": -57.5697628
+            }
+          },
+          {
+            "nombre": "BADANEZ SCS",
+            "direccion": "SAN MARTIN 2149, Mar del Plata, Provincia de Buenos Aires",
+            "telefono": "4930780",
+            "mapa": "https://www.google.com/maps/search/?api=1&query=SAN%20MARTIN%202149%2C%20Mar%20del%20Plata%2C%20Provincia%20de%20Buenos%20Aires",
+            "coordenadas": {
+              "lat": -38.0016199,
+              "lng": -57.5423876
             }
           }
         ]
