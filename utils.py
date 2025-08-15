@@ -157,10 +157,7 @@ def commit_and_push(repo_path, message="Automatic project update"):
             parent_tree = parent_commit.tree # 'parent_tree' es un objeto Tree
             parents = [parent_commit.id]
         
-        # --- ESTA ES LA LÍNEA CORREGIDA ---
-        # Comparamos el Oid 'tree' directamente con el Oid de 'parent_tree.id'
         if parent_tree and tree == parent_tree.id:
-        # --- FIN DE LA CORRECCIÓN ---
             print("[INFO] No se detectaron cambios en el repositorio. No se realizará el commit.")
             return
 
@@ -168,11 +165,10 @@ def commit_and_push(repo_path, message="Automatic project update"):
         print("[INFO] Creando primer commit (KeyError).")
         parents = []
 
-    # El resto del proceso no cambia
     author = Signature("AutoScraper by HIGHER®", "atomasacebal@gmail.com")
     committer = author
 
-    oid = repo.create_commit(
+    oid = repo.create_commit( # 'oid' es un Oid
         "refs/heads/main",
         author,
         committer,
@@ -180,7 +176,11 @@ def commit_and_push(repo_path, message="Automatic project update"):
         tree,
         parents
     )
-    print(f"[INFO] Commit creado con éxito: {oid.hex}")
+    
+    # --- ESTA ES LA LÍNEA CORREGIDA ---
+    # Para imprimir el Oid, simplemente se pasa el objeto al f-string.
+    print(f"[INFO] Commit creado con éxito: {oid}")
+    # --- FIN DE LA CORRECCIÓN ---
 
     remote = repo.remotes["origin"]
     remote_url = os.getenv("GITHUB_REMOTE")
