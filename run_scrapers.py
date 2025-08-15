@@ -79,16 +79,15 @@ def run_all_scrapers():
 
     # Hacer commit y push
     repo_path = os.getenv("GITHUB_REPO_PATH")
-    files_to_commit = []
+    # Un mensaje más genérico ya que estamos subiendo todos los cambios del proyecto
+    commit_message = "Actualización automática de datos y archivos del proyecto"
+
     if repo_path:
+        # Simplemente llamamos a la función con la ruta y el mensaje.
+        # Ya no necesitamos construir una lista de archivos.
         commit_and_push(repo_path, commit_message)
-
-    commit_message = "Actualización automática de farmacias y lista de localidades"
-
-    if files_to_commit and repo_path:
-        commit_and_push(repo_path, files_to_commit, commit_message)
     else:
-        print("[ADVERTENCIA] No se realizará commit y push. Faltan variables de entorno o la ruta del repositorio no es válida.")
+        print("[ADVERTENCIA] No se realizará commit y push. Falta la variable de entorno GITHUB_REPO_PATH.")
 
 if __name__ == "__main__":
     run_all_scrapers()
