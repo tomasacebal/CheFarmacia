@@ -131,30 +131,39 @@ def format_data_for_json(farmacias):
 
     return data
 
-def commit_and_push(repo_path, file_paths, message="Update JSON files"):
+def commit_and_push(repo_path, message="Automatic project update"):
     """
-    Añade, hace commit y push de una lista de archivos.
+    Añade TODOS los cambios del proyecto (nuevos, modificados, eliminados),
+    hace commit y push. No crea un commit si no hay cambios.
     """
     repo = Repository(repo_path)
     index = repo.index
-    
-    # Añadir todos los archivos de la lista al index
-    for file_path in file_paths:
-        index.add(file_path)
-        
+
+    # --- CAMBIO PRINCIPAL: Añadir todos los archivos ---
+    # Esto es el equivalente a 'git add .' o 'git add -A'
+    index.add_all()
     index.write()
     tree = index.write_tree()
 
-    author = Signature("AutoScraper by HIGHER®", "atomasacebal@gmail.com")
-    committer = author
-    
+    # --- MEJORA: Comprobar si hay cambios antes de hacer commit ---
     try:
-        parent = repo.head.peel().id
-        parents = [parent]
+        parent_commit = repo.head.peel()
+        parent_tree = parent_commit.tree
+        parents = [parent_commit.id]
+
+        # Si el nuevo árbol es idéntico al del último commit, no hay nada que hacer
+        if tree.id == parent_tree.id:
+            print("[INFO] No se detectaron cambios en el repositorio. No se realizará el commit.")
+            return # Salir de la función
+            
     except Exception:
-        # Si no hay head (repositorio vacío), no hay padres
+        # Si no hay head (repositorio vacío), es el primer commit
+        print("[INFO] Repositorio vacío. Creando el primer commit.")
         parents = []
 
+    # --- El resto del proceso es similar ---
+    author = Signature("AutoScraper by HIGHER®", "atomasacebal@gmail.com")
+    committer = author
 
     oid = repo.create_commit(
         "refs/heads/main",
@@ -164,9 +173,9 @@ def commit_and_push(repo_path, file_paths, message="Update JSON files"):
         tree,
         parents
     )
+    print(f"[INFO] Commit creado con éxito: {oid.hex}")
 
     remote = repo.remotes["origin"]
-
     remote_url = os.getenv("GITHUB_REMOTE")
     match = re.match(r'https://([^:@]+):?([^@]*)@', remote_url)
     if match:
@@ -178,7 +187,7 @@ def commit_and_push(repo_path, file_paths, message="Update JSON files"):
 
     callbacks = RemoteCallbacks(credentials=UserPass(username, password))
     remote.push(["refs/heads/main"], callbacks=callbacks)
-    print("[INFO] Commit y Push realizados con éxito para los archivos:", file_paths)
+    print("[INFO] Push a 'origin/main' realizado con éxito.")
 
 def generate_localities_list(input_json_path, output_json_path):
     """

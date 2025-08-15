@@ -81,13 +81,7 @@ def run_all_scrapers():
     repo_path = os.getenv("GITHUB_REPO_PATH")
     files_to_commit = []
     if repo_path:
-        # Obtener la ruta relativa
-        rel_path_main = os.path.relpath(MAIN_JSON_FILENAME, start=repo_path)
-        rel_path_localities = os.path.relpath(LOCALITIES_FILENAME, start=repo_path)
-
-        # Asegurarse de que las rutas usen barras diagonales (/) para pygit2
-        files_to_commit.append(rel_path_main.replace('\\', '/'))
-        files_to_commit.append(rel_path_localities.replace('\\', '/'))
+        commit_and_push(repo_path, commit_message)
 
     commit_message = "Actualización automática de farmacias y lista de localidades"
 
