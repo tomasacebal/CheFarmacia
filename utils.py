@@ -139,39 +139,50 @@ def commit_and_push(repo_path, message="Automatic project update"):
     repo = Repository(repo_path)
     index = repo.index
 
-    # --- CAMBIO PRINCIPAL: Añadir todos los archivos ---
-    # Esto es el equivalente a 'git add .' o 'git add -A'
     index.add_all()
     index.write()
     tree = index.write_tree()
 
-    # --- MEJORA: Comprobar si hay cambios antes de hacer commit ---
     try:
-        parent_commit = repo.head.peel()
-        parent_tree = parent_commit.tree
-        parents = [parent_commit.id]
+        # --- ESTA ES LA LÓGICA CORREGIDA Y MÁS ROBUSTA ---
+        # 1. Obtener la referencia a la rama 'main' explícitamente.
+        main_ref = repo.references.get("refs/heads/main")
 
-        # Si el nuevo árbol es idéntico al del último commit, no hay nada que hacer
-        if tree.id == parent_tree.id:
+        if not main_ref:
+            # Si la rama 'main' no existe, es el primer commit.
+            print("[INFO] Rama 'main' no encontrada. Creando primer commit.")
+            parents = []
+            parent_tree = None
+        else:
+            # 2. Obtener el commit al que apunta la referencia de 'main'.
+            parent_commit = repo.get(main_ref.target)
+            if not parent_commit:
+                 raise Exception("No se pudo encontrar el commit padre de main.")
+            parent_tree = parent_commit.tree
+            parents = [parent_commit.id]
+        
+        # 3. Comprobar si hay cambios reales.
+        if parent_tree and tree.id == parent_tree.id:
             print("[INFO] No se detectaron cambios en el repositorio. No se realizará el commit.")
-            return # Salir de la función
-            
-    except Exception:
-        # Si no hay head (repositorio vacío), es el primer commit
-        print("[INFO] Repositorio vacío. Creando el primer commit.")
+            return
+
+    except KeyError:
+        # Manejo de error por si la referencia no existe (aunque .get() lo previene)
+        print("[INFO] Creando primer commit (KeyError).")
         parents = []
 
-    # --- El resto del proceso es similar ---
+
+    # El resto del proceso es el mismo
     author = Signature("AutoScraper by HIGHER®", "atomasacebal@gmail.com")
     committer = author
 
     oid = repo.create_commit(
-        "refs/heads/main",
+        "refs/heads/main",  # La referencia a actualizar
         author,
         committer,
         message,
         tree,
-        parents
+        parents  # La lista de padres correcta
     )
     print(f"[INFO] Commit creado con éxito: {oid.hex}")
 

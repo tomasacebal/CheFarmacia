@@ -4850,5 +4850,113 @@
   "Calle 1648, Esq. Eva Perón, La Capilla": {
     "lat": -34.938452382794146,
     "lng": -58.26529078420488
+  },
+  "Av. Cazón 983, Tigre": {
+    "lat": -34.427501,
+    "lng": -58.574434
+  },
+  "Libertad 50, Benavidez": {
+    "lat": -34.4066374,
+    "lng": -58.7302269
+  },
+  "14 esq 51 nro 1803": {
+    "lat": -34.8520154,
+    "lng": -58.0889148
+  },
+  "60 e/ 139 y 140 nro 2224": {
+    "lat": -34.9518206,
+    "lng": -57.9801188
+  },
+  "Av. San Martin N° 6249, entre La Calandria y El Zorzal": {
+    "lat": -34.77481208,
+    "lng": -58.32692564
+  },
+  "Triunvirato 2447": {
+    "lat": -34.74642477,
+    "lng": -58.27840447
+  },
+  "Av. Montevideo N° 1573, e/ calle 162 y Sir Fleming": {
+    "lat": -34.71992177,
+    "lng": -58.30923915
+  },
+  "9 de Julio N° 102, esq. Belgrano": {
+    "lat": -34.71153934,
+    "lng": -58.28227222
+  },
+  "Av. Urquiza N° 1802, esq. San Mauro Castelverde": {
+    "lat": -34.7340743,
+    "lng": -58.26812357
+  },
+  "14 n°5656 e/156 y 157": {
+    "lat": -34.75733751,
+    "lng": -58.20100665
+  },
+  "31 e/145 y 146 V.España -116068-4122": {
+    "lat": -34.76829315,
+    "lng": -58.21870497
+  },
+  "158 e/52 y 53 Hudson": {
+    "lat": -34.7886308,
+    "lng": -58.163838
+  },
+  "Cno.Gral.Belgrano y 14": {
+    "lat": -34.785859,
+    "lng": -58.2532228
+  },
+  "SAN MARTIN 2149, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0016199,
+    "lng": -57.5423876
+  },
+  "AV. FORTUNATO DE LA PLAZA 2657, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0579219,
+    "lng": -57.5537955
+  },
+  "MORENO 3602, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -36.3572883,
+    "lng": -58.1745396
+  },
+  "FALUCHO 1602, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0102239,
+    "lng": -57.5415767
+  },
+  "ESPAÑA 1003 ESQ. AV. LIBERTAD, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9915772,
+    "lng": -57.548471
+  },
+  "AV INDEPENDENCIA 3802, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0132767,
+    "lng": -57.5663921
+  },
+  "MARIO BRAVO 3504, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0604158,
+    "lng": -57.5716573
+  },
+  "AV. JUAN B. JUSTO 1846, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0283078,
+    "lng": -57.5592005
+  },
+  "ALBERTI 6567, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9864195,
+    "lng": -57.5925222
+  },
+  "AV LIBERTAD 5302, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9800592,
+    "lng": -57.5697628
+  },
+  "Río Samborombón 2261, V. Vatteone": {
+    "lat": -34.824151084674796,
+    "lng": -58.27035793253811
+  },
+  "Av. San Martín 206, San Emilio": {
+    "lat": -34.7765559743535,
+    "lng": -58.28220690247716
+  },
+  "Calle 1149 esq. diag. Los Guaraníes, Ing. Allan": {
+    "lat": -34.86659257896261,
+    "lng": -58.20073568421838
+  },
+  "Pte. Perón 1614, Zeballos": {
+    "lat": -34.810121275956455,
+    "lng": -58.260146284219864
   }
 }
