@@ -141,48 +141,44 @@ def commit_and_push(repo_path, message="Automatic project update"):
 
     index.add_all()
     index.write()
-    tree = index.write_tree()
+    tree = index.write_tree() # 'tree' es un Oid
 
     try:
-        # --- ESTA ES LA LÓGICA CORREGIDA Y MÁS ROBUSTA ---
-        # 1. Obtener la referencia a la rama 'main' explícitamente.
         main_ref = repo.references.get("refs/heads/main")
 
         if not main_ref:
-            # Si la rama 'main' no existe, es el primer commit.
             print("[INFO] Rama 'main' no encontrada. Creando primer commit.")
             parents = []
             parent_tree = None
         else:
-            # 2. Obtener el commit al que apunta la referencia de 'main'.
             parent_commit = repo.get(main_ref.target)
             if not parent_commit:
                  raise Exception("No se pudo encontrar el commit padre de main.")
-            parent_tree = parent_commit.tree
+            parent_tree = parent_commit.tree # 'parent_tree' es un objeto Tree
             parents = [parent_commit.id]
         
-        # 3. Comprobar si hay cambios reales.
-        if parent_tree and tree.id == parent_tree.id:
+        # --- ESTA ES LA LÍNEA CORREGIDA ---
+        # Comparamos el Oid 'tree' directamente con el Oid de 'parent_tree.id'
+        if parent_tree and tree == parent_tree.id:
+        # --- FIN DE LA CORRECCIÓN ---
             print("[INFO] No se detectaron cambios en el repositorio. No se realizará el commit.")
             return
 
     except KeyError:
-        # Manejo de error por si la referencia no existe (aunque .get() lo previene)
         print("[INFO] Creando primer commit (KeyError).")
         parents = []
 
-
-    # El resto del proceso es el mismo
+    # El resto del proceso no cambia
     author = Signature("AutoScraper by HIGHER®", "atomasacebal@gmail.com")
     committer = author
 
     oid = repo.create_commit(
-        "refs/heads/main",  # La referencia a actualizar
+        "refs/heads/main",
         author,
         committer,
         message,
         tree,
-        parents  # La lista de padres correcta
+        parents
     )
     print(f"[INFO] Commit creado con éxito: {oid.hex}")
 
