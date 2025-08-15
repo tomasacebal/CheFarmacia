@@ -3,6 +3,7 @@ import subprocess
 import sys
 from dotenv import load_dotenv
 from datetime import datetime
+import asyncio
 
 from logger_config import setup_logging
 from run_scrapers import run_all_scrapers
@@ -115,7 +116,7 @@ if __name__ == "__main__":
             summary_message += f"\n*Detalle del Error:*\n```\n{error_details[:3500]}\n```" # Telegram tiene un límite de 4096 caracteres
 
         # 7. Enviar la notificación
-        send_telegram_notification(summary_message)
+        asyncio.run(send_telegram_notification(summary_message))
 
         print(f"\n[INFO] Proceso completado en {duration_str}.")
         

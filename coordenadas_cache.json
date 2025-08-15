@@ -4738,5 +4738,117 @@
   "Belgrano 202, V. Vatteone": {
     "lat": -34.81288447610339,
     "lng": -58.27672318421985
+  },
+  "Av. Cazón 1550, Tigre": {
+    "lat": -34.423341,
+    "lng": -58.580209
+  },
+  "A.M. Garcia 8450, Tigre": {
+    "lat": -34.39772,
+    "lng": -58.653974
+  },
+  "Cantilo e/ 14 y 14A  Nro 456": {
+    "lat": -34.8662163,
+    "lng": -58.0424482
+  },
+  "12 NRO 1615": {
+    "lat": -34.8542537,
+    "lng": -58.0816061
+  },
+  "60 nro 2573 e/ 146 y 147": {
+    "lat": -34.9580924,
+    "lng": -57.985316
+  },
+  "Triunvirato N° 1654, entre Condarco y Necochea": {
+    "lat": -34.74219845,
+    "lng": -58.2701835
+  },
+  "Av. Cerrito N° 1655, entre calle 162 y Sir. Fleming": {
+    "lat": -34.72235124,
+    "lng": -58.3063665
+  },
+  "Lebensohn N° 11, entre Av. Las Heras y Pueyrredon": {
+    "lat": -34.71306509,
+    "lng": -58.26792508
+  },
+  "Craviotto N° 2160, e/ Guill. Marconi y P. Albarracin": {
+    "lat": -34.75551009,
+    "lng": -58.26734573
+  },
+  "137 e/11 y 12": {
+    "lat": -34.7656439,
+    "lng": -58.2227658
+  },
+  "21 y 115": {
+    "lat": -34.78651801,
+    "lng": -58.2377582
+  },
+  "Cno.Gral.Belgrano y 402": {
+    "lat": -34.819039,
+    "lng": -58.1944988
+  },
+  "39 n°5406 Plátanos": {
+    "lat": -34.78477002,
+    "lng": -58.23647074
+  },
+  "30 y 135 Ranelagh": {
+    "lat": -34.7837295,
+    "lng": -58.211425
+  },
+  "14 y 150": {
+    "lat": -34.7607034,
+    "lng": -58.2072332
+  },
+  "AV INDEPENDENCIA 874, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9897332,
+    "lng": -57.5471943
+  },
+  "CARLOS TEJEDOR 3627, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9444856,
+    "lng": -57.53705
+  },
+  "CALLE 0 ESQ. 817 S/N, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0058465,
+    "lng": -57.574901
+  },
+  "20 DE SEPTIEMBRE 1684, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9942142,
+    "lng": -57.5567503
+  },
+  "AV COLON 4986, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9915178,
+    "lng": -57.5742042
+  },
+  "AV PEDRO LURO 5802, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.982386,
+    "lng": -57.5787688
+  },
+  "TALCAHUANO 793, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0282678,
+    "lng": -57.5725207
+  },
+  "MARTIN MIGUEL DE GUEMES 3185, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -38.0178826,
+    "lng": -57.5436085
+  },
+  "AV. CONSTITUCION  7508, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9544252,
+    "lng": -57.5799188
+  },
+  "AV CONSTITUCION 5232, Mar del Plata, Provincia de Buenos Aires": {
+    "lat": -37.9642229,
+    "lng": -57.5561735
+  },
+  "Dardo Rocha 2338, Cruce": {
+    "lat": -34.783498274540854,
+    "lng": -58.26305708422044
+  },
+  "Pte. Arturo Illia 1354, Chacabuco": {
+    "lat": -34.803460075602366,
+    "lng": -58.29515178421991
+  },
+  "Calle 1648, Esq. Eva Perón, La Capilla": {
+    "lat": -34.938452382794146,
+    "lng": -58.26529078420488
   }
 }
